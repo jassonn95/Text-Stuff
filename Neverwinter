@@ -1,0 +1,625 @@
+Link with images (looks better TBH): https://docs.google.com/document/d/1irn0mJhpb9oMt7dNtUXq8z2G0F8hjHuj3fM2rXAybwI/edit?usp=sharing
+
+Neverwinter Notes
+General
+Spent most of my time going to an NPC, picking up quests, running around the area and killing / collecting stuff, handing in quests and being pointed to another part of the map + repeat.
+Story wasn’t interesting enough to keep me from skipping the dialogue after a while.
+Whilst combat is fun (more below), I tried to avoid combat as much as possible when questing.
+There was a quest showing me how to buy microtransaction keys (free that time but still) .___.
+Mobs dropped a lot of loot boxes that are marked as orange / legendary.
+Above the quest log there were a bunch of banners for events, some of them were pushing microtransactions.
+BiS races are locked behind microtransactions (and loot boxes).
+Small graphical gripes: missing spell effects, sometimes changing maps has the camera being out of bounds / slowly being moved from previous map to current one, character hovering on slopes, lots of reused smaller maps like indoors of houses or caves.
+Heard terrible things about endgame gearing / microtransactions.
+Gear can blow up when upgrading .______. Of course you can avoid it with MTX!
+Apparently you can buy resurrection scrolls which can be used in combat and bosses don’t reset when doing this???
+
+Wizard Combat
+Pros
+Dodging / teleport feels good.
+Action camera (moves with mouse, no need to hold down right click) works well.
+Most enemy attacks are marked with AoE markers, clear to see when to dodge.
+Daily / Ultimates are cool and impactful.
+Most spells have that oomph with sfx and vfx.
+Cons
+Played on AUS ping so guessing when non-telegraphed attacks was hit or miss.
+Only single target spammable attacks at the beginning seems odd since most encounters are packs of mobs. AoE ones are much later (level 11, max is 20).
+First 3 spells are also single targets, good for boss fights but not as effective for trash.
+First AoE spell is at level 4 (several quests in) and requires you to go into melee as a squishy caster if not spec’d.
+Only limited to 4 spells (3 normally for other classes, e.g. Paladin discussed below). The CDs are also roughly ~15s so a lot of combat is using spammable which is literally just holding down a button. Dodging adds some variety.
+Since there are only a few slots for spells, this leads to some dead / super niche spells.
+Only 2 passive slots so each would have to be impactful for it to be chosen. There are also only 2 loadout slots without currency so not incentivised to experiment with builds easily unless you want to manually change them every time for single target, the other spec, etc.
+Feats = Talent tree but needs some sort of currency to respec (for reference, I had 292k of the currency after 20 hours and it costs 60k. This currency is also used for other stuff).
+Missing spell effects on some spells???
+Combat stance = crab walk.
+
+Wizard Abilities
+At-Will (Spammable, choose 2)
+
+
+Magic Missile
+Single target, 3 attack cycle, 3rd attack = 3 strikes (backloaded).
+Cycle gives arcane mastery (0.5% arcane damage per stack, up to 5 or 10).
+Backloaded, punishes movement which is good for limit testing. Targeting is somewhat awkward in multi-target situations (re-targets every attack, kinda snaps to targets too).
+
+Ray of Frost
+Channelled single target beam.
+Applies Chill (slow) each tick, freezes at 6 stacks.
+Less punishing on movement, other than the awkward multi-target thing.
+Arcanist (Lightning & Arcane)
+
+Storm Pillar
+Charged AoE (up to 1.6s charge).
+50% charge = refreshes Arcane / Chill.
+100% charge = continuous attack at location for 1.5s.
+Charged, so heavily punished by movement (can be cancelled). Only AoE available for Arcanist so not really a choice to be made in those situations.
+
+Arcane Bolt
+4 attack cycle (4s!).
+Each hit applies arcane mastery.
+Overall it applies more arcane stacks, but they don’t ever fall off if you’re constantly fighting so no real advantage over Magic Missile.
+Thaumaturge (Fire & Ice)
+
+Scorching Burst
+Charged AoE (up to 1.7s).
+Applies Smolder (DoT every 3s for 12s).
+Charged so punished by movement as per above. Requires a target so if it dies (which they will in AoE situations), the spell will fizzle and you’ll have to re-target. Happened many times to me.
+
+Chilling Cloud
+3 attack cycle, 3rd hit AoE.
+Applies Chill.
+Backloaded somewhat for AoE, otherwise no reason to pick over Ray of Frost (but should be taken together in single target).
+
+
+Encounter (CDs, choose 4 where 1 is “mastered” (10% more damage + sometimes a special effect))
+
+
+Entangling Force
+Single target DoT + CC.
+Pretty cool force choke spell which gets stronger per arcane stack so there’s some flavour to it.
+
+Repel
+Single target nuke + knockback.
+Mastery: Becomes PBAoE.
+Decent spell but knockbacks are very annoying if they’re actually knocked back.
+
+Ray of Enfeeblement
+Single target DoT + damage dealt down debuff.
+Mastery: Also makes them take 10% more magic & projectile damage.
+Good for single target boss situations but since there’s only 4 spell slots, it wouldn’t feel as good being the one who has to take it for the team.
+
+Icy Terrain
+Leaves a PBAoE pool, pulses 10x w/ Chill. 
+Can freeze, initial cast roots.
+Mastery: Becomes ground targeted.
+Decent AoE skill but again only 4 slots so will be left solely for AoE builds.
+
+Shield
+Delayed cast, 30% shield that refills after not being hit.
+2nd activation = PBAoE damage + knockback.
+Mastery: bigger knockback.
+Super niche, rarely will be taken due to slot restriction.
+Arcanist
+
+Lightning Bolt
+Line nuke.
+Refreshes Arcane & Chill stacks.
+Xerath Q that refreshes stacks, cool ability (aim + does more than just damage).
+
+Disintegrate
+Single target nuke with execute damage.
+Simple execute ability. Taken in single target situations, not generally taken in AoE, no real choice to be made.
+
+Steal Time
+PBAoE nuke + stun + slow.
+Missing spell effects?
+Mastery: Duration increased per Arcane stack.
+AoE CC spell, again due to slots taken in AoE builds and not single target.
+
+Arcane Tempest
+AoE nuke + knockdown.
+Mastery: PBAoE
+As above.
+
+Arcane Conduit
+Single target nuke + 15% arcane damage taken from you debuff.
+Mastery: 20% instead of 15%.
+Could be an interesting spell if not for the opportunity cost of taking it (again the 4 slot thing).
+Thaumaturge
+
+Fanning the Flame
+Single target nuke.
+Applies Smolder.
+Enemies close to the target with Smolder take damage.
+Very niche use, only 4 slots so opportunity cost.
+
+Ice Rays
+Single target 2 part nuke. 1st part = mark. 2nd part = mark then hit both marks.
+Stun & Chills.
+Somewhat awkward to use due to targeting (can accidentally hit the same target twice when you wanted a 2nd target and vice versa). Otherwise, simple nuke.
+
+Chill Strike
+Single target nuke.
+Stuns & Chills
+Mastery: Weaker but AoE.
+Simple nuke or AoE if mastered, nothing else to be said really.
+
+Conduit of Ice
+Single target mark which deals AoE around the mark. Ends if they die.
+Applies Chill.
+Best used on a mob that will die last for max value, which is sometimes awkward with the snapping targeting.
+
+Fireball
+AoE nuke.
+Applies Smolder.
+Mastery: Single target, more damage.
+Classic AoE, not much to be said about it. Possibly also missing spell effects?
+
+Daily (Ultimates, choose 2 but they both use the same resource)
+
+
+Arcane Singularity
+Huge AoE nuke + sucks enemies in.
+Applies 1 arcane stack.
+Good for AoE so taken in those builds (2 slots this time around).
+
+Ice Knife
+Single target nuke.
+Knocks down + applies 3 chill.
+Strong single target. Can also be held for CC if needed at cost of DPS.
+
+Oppressive Force
+PBAoE DoT + nuke at the end. 5 ticks for proc purposes.
+Dazes + knockback + 1 arcane stack.
+Weaker raw AoE damage but provides more utility, so a semi-choice can be made.
+Arcanist
+
+Maelstrom of Chaos
+AoE nuke w/ cast time.
+Knock down + refreshes arcane & chill.
+Radius is tiny compared to the other AoE choices and utility doesn’t outweigh the other choices.
+
+Arcane Empowerment
+Self buff w/ cast time.
+Arcane encounters (CDs) deal 20% more damage, recharge 3x faster + 5 arcane stacks.
+Buff which gives haste / more spell spamming makes burst phases hectic and fun.
+Thaumaturge
+
+Furious Immolation
+AoE nuke + suck + Smolder.
+Basically the fire version of the 1st Daily so generally taken if speccing into fire stuff below.
+
+Ice Storm
+PBAoE nuke.
+Knockdown + slow + Chill.
+Some utility, but this is auto taken in single-target since it has the 2nd most raw damage (suck generally better in AoE for better cleave positioning).
+
+
+Class Feature (Passives, pick 2)
+
+
+Arcane Presence
+Cold, Fire and Lightning damage also increased by Arcane stacks.
+For both specs, boosts the damage type they don’t excel at. Better to boost the ones that they are good at (only have 2 slots).
+
+Evocation
++10% AoE damage.
+Simple, effective, kinda boring.
+Opportunity cost.
+
+Chilling Presence
+Chill also increases damage taken ,doubled for frozen.
+Plays into the theme, adds something to look out for (stacks).
+UI doesn’t really support it though for trash (fine for boss, big health bar at top).
+
+Orb of Imposition
++20% CC duration, +5% damage of CC spells to CC immune targets.
+Simple, effective, kinda boring.
+Opportunity cost.
+Arcanist
+
+Eye of the Storm
++10% crit for 5s after using an Encounter or Daily, 10s CD (50% uptime).
+More interesting than the flat stat increases like the ones above, requires timing to maximise effect.
+
+Storm Spell
+20% chance on crit to deal an extra hit.
+Haven’t gotten far into the game so not sure if crit goes to 100% or not. BUT having RNG on top of RNG isn’t the greatest feeling, leads to wildly varying performance.
+
+Storm Fury
+When hit, deal damage to the attacker, 3s CD.
+Opportunity cost, much better things to take than this.
+
+Arcane Power Field
+Double damage bonus from Arcane stacks + PBAoE pulse after using Daily.
+Plays into Arcane theme, adds a CD to play around (paired with the self buff Daily = damage buffs galore, feel powerful).
+Thaumaturge
+
+Critical Conflagration
++10% crit damage.
+Crits apply Smolder.
+Boring 1st part. 2nd part has RNG but only 1 layer so not as bad.
+
+Swath of Destruction
++10% Smolder damage & Smolder affected take +3% damage from all.
+Boring but effective (who doesn’t like more damage?)
+
+Combustive Action
+Regain 5% AP (for Daily) when something w/ Smolder dies to something that’s NOT Smolder, 1s CD.
+More interesting than stat boosts but very clearly not for single target situations. Possibly also too constrained with CD + death condition.
+
+Frost Wave
++3 Chill & refresh Frozen on Daily use.
+Not as effective as the Arcane one (damage boost + PBAoE damage).
+Very rarely use Daily more than once a minute, effect to lacklustre to justify.
+
+
+Feat (Talents, 5 pairs of choices, respeccing costs currency)
+
+Arcanist
+
+Alacrity: Daily = -5s for Encounter.
+Spell Twisting: Encounters give stacks. At-Will consumes stacks, returning 1% AP.
+Both have the same effect of being able to use spells more often (AP needed for Daily). Would’ve preferred if they affected the same spell type so they were more comparable as a choice.
+
+Assailing Force: Encounters have 10% chance of giving buff which doubles next encounter damage.
+Snap Freeze: Chill application deals damage (can crit).
+Whilst both give more damage, they both do it so via different spell types so it’s not as comparable (Chill can only be applied by Arcanist via 2 abilities, 3 if you count the daily so you’re kinda shoe-horned into taking those for this feat and vice versa).
+
+Chaos Magic: Encounters have 7% chance for: double At-Will damage, double recharge speed or 20% AP over 5s.
+Iced Lightning: +30% lightning damage on Chilled targets.
+Double RNG -_- Effects themselves are just stats, boring.
+2nd pick is good design in that it gives you another thing to look out for (Chill) but there’s not enough ways to proc Chill for this spec again so you’re stuck with using those spells with limited spell slots.
+
+Nightmare Wizardry:  Crits have 10% chance of giving combat advantage (backstab kind of) for 10s.
+Striking Advantage: Combat advantage has 20% chance of another strike of damage.
+Again with the layered RNG smh. No point in the 1st one really since you get combat advantage from attacking from behind for DPS. 2nd is the usual damage proc, nothing too exciting.
+
+A Step Above Mastery: Arcane stacks go up to 10 and give double the damage.
+Elemental Reinforcement: +7% damage after using Arcane, Cold or Lightning spells. Double if different type to last cast.
+1st is kinda boring since nothing consumes stacks, so it’s essentially just more damage. 2nd gives player more when doing something explicit with the spell type so it’s more interesting.
+Thaumaturge
+
+Relative Haste: Up to +20% cooldown speed when near chilled enemies.
+Smoldering Recovery: Smolder returns 0.5% AP.
+Again both are dealing with CDR and more spells being available but they’re for Encounters and Daily respectively (Daily don’t have CD but resource requirements). It would’ve been more comparable if they impacted the same thing.
+
+Glowing Flames: Smolder radiates 30% of damage in AoE.
+Icy Veins: Encounters apply Chill in an AoE.
+A comparable choice since they both deal with AoE! Unfortunately only 1 of them has a tangible effect as Chill doesn’t do damage for Thaumaturge strangely enough (requires Arcanist feat).
+
+Chilling Advantage: Chill applies Rimefire Smolder (Chill + Smolder basically).
+Shatter Strike: 20% chance of shattering frozen targets, stunning + damage. Damage on CC spells deal more on CC immune targets.
+Both deal more damage (Chill applies the damage DoT too) but not in a +X% damage way. 
+
+Critical Burn: +10% crit damage. +25% crit damage for Smolder (+35%? Not sure).
+Frigid Winds: +1.5% damage per Chill (9% max).
+Damage talents. 2nd isn’t as good AoE as it requires 6 stacks which is difficult to apply, so this is just Single Target vs. AoE choice. Choice between flat damage boost or damage boost per stack (need to maintain, has some player involvement).
+
+Directed Flames: Smolder deals damage on application, no longer a DoT.
+Rimfire Weaving: Chill & Smolder lower Damage Resistance.
+Both increase damage via different ways (frontloading a DoT or debuffing target) so they’re comparable in what they do. Simple changes to damage without being +X% damage.
+
+Skills (Auto-picked Passives)
+
+Controlled Momentum
+Only adding this one since it’s interesting. After using an encounter, everyone near you gets +2% damage for 6s. Doesn’t stack with multiple wizards.
+Trials are 10 players per group so this somewhat encourages 1 per class. Its effect is small (not sure if additive or multiplicative) but max uptime would require decent timing / spacing out so it may change your rotation.
+
+
+Paladin Combat
+Pros
+Blocking attacks feels good, the feedback with the sound and screenshake is intense.
+Blocking makes you immune to most CC, making you feel unstoppable.
+Blocking is directional so some skill is involved as opposed to pressing a button.
+Cons
+Paladins are slow. Movement is slow. Attacking is slow. There’s no dodge only block.
+Melee spammable attacks either have no cleave or are a very weak dash.
+Melee attacks root the character so if I want to move for any reason I have to stop attacking.
+As mentioned under wizard, paladins only have 3 skill slots.
+Paladin’s tab ability (pre spec) is a channel which VERY SLOWLY recovers Divinity which is used for damage or healing.
+Recovery of said resource is extremely slow, leading to combat being blowing all of your resource on attacks and then waiting while spamming a wet noodle attack that only hits 1 target.
+Moving while blocking looks so, so dumb.
+Paladin Abilities
+At-Will (Spammable, choose 2)
+
+
+Radiant Slam
+Dash to target and cleave enemies.
+Can’t be used while rooted.
+Nice dash to have to help with mobility but it was very janky due to ping. I kept rubberbanding back so it felt awful to use.
+
+Valorous Strike
+3 attack combo but each attack’s damage is the same.
+No cleave.
+As mentioned above, no cleave and roots you in place.
+Oathkeeper (Healer)
+
+Cure Wounds
+Single target heal w/ Divinity cost.
+Simple spell, not much to say other than it’s the most efficient but weak heal that’s spammable.
+
+Divine Fulmination
+Long range single target attack.
+Overall same damage as Valorous strike, lower DPS due to cast time.
+Provides a choice of safety / utility and damage.
+Justicar (Tank)
+
+Oath Strike
+3 attack cleave combo but each attack’s damage is the same (same as dash).
+Difference is that it has increased threat.
+Cleave is nice but if the threat isn’t needed, there’s no reason to use it over the dash.
+
+Shielding Strike
+3 attack combo but each attack’s damage is the same.
+No cleave, same as Valorous but has the added effect of stamina restoration.
+It’s a straight up improvement over Valorous Strike.
+
+
+Mechanic (Tab Ability)
+Including a section for Paladin as it differs between specs, whereas Wizard was the 4th encounter which was empowered.
+
+Oathkeeper
+
+Aura of Divinity (tap tab)
+Give target ally Aura of Divinity and increase your aura effectiveness on them.
+Grants another base-kit heal which is the strongest single-target heal. Also grants 100% uptime on the buffed aura.
+
+Hand of Divinity (hold tab)
+Heal + shield (equal to heal) ally affected by Aura of Divinity (tap tab).
+Heal and cost reduced if not fully charged. Heal reduced if out of Divinity.
+Strongest single-target heal that can be used in resource emergencies.
+Justicar
+
+Divine Champion
+Drain Divinity.
+Double aura effectiveness.
+Auto-block half damage of all attacks while you have stamina. Stamina regen reduced.
+CC immune.
+
+Justicar’s Charge
+Restore divinity when you block. Can restore up to a limited amount which regenerates.
+
+Divine Palisade
+Replaces block when Divine Champion (tab) is up. Differences from block are:
+Can block a hit up to 50% max HP, up from 40%.
+Damage taken for self and allies in a cone behind is reduced by 10%.
+Heals self and those allies.
+Stamina doesn’t regenerate at all.
+Cannot move or attack.
+
+
+
+Encounter (CDs, choose 3)
+
+
+Burning Light
+PBAoE channel with stun.
+Strong AoE w/ utility. Good for opening fights but can be interrupted since it’s a channel (risk reward).
+
+Sacred Weapon
+Self buff, deal more damage after most attacks.
+Adds a bit of damage to most attacks (that’s literally the tooltip). Not sure how effective it is but the spammable attacks feel pretty bad, this doesn’t help change that.
+
+Divine Touch
+Targeted AoE heal that’s weaker when there’s more than 1 target.
+Oathkeeper also adds a shield equal to the amount healed.
+Spammable but requires Divinity.
+Single target heal with option of being a weaker (not sure how much) AoE gives more options for other slots.
+
+Smite
+Single target nuke which costs Divinity.
+Gets weaker the less Divinity you have.
+Huge nuke at the beginning of a fight, but gets progressively worse as there’s no good way to regen Divinity.
+
+Bane
+Targeted AoE nuke which costs Divinity.
+Best AoE but as above, difficult to regenerate Divinity. If trash isn't dead after this, the rest of the fight is very boring.
+Oathkeeper
+
+Divine Shelter
+PBAoE heal + shield.
+Spammable but requires Divinity.
+Not sure how it compares to Divine Touch in terms of numbers since the tooltip for that is unclear, but assuming this is better healing in exchange for being PBAoE instead so there’s some choice there.
+
+Banishment
+Non-damaging targeted AoE that stuns + reduces damage dealt by 5%.
+Some utility but is somewhat niche and would be more suitable for a game with more than 3 slots for abilities.
+
+Cleansing Touch
+Single target heal + cleanse.
+As above. Not sure how prevalent cleansing is to judge the value of it.
+
+Circle of Divinity
+Leylines / Rune that restores Divinity and increases outgoing healing by 15%.
+Very cool spell, rewards placing it in a good spot with a noticeable effect and gives resource regen!!!
+
+Bond of Virtue
+Actual beacon (bond w/ target, they receive 50% of any heals you cast) but with downtime.
+A cooldown beacon which would be good but again 3 slots.
+Justicar
+
+Templar’s Wrath
+PBAoE damage w/ increased threat.
+Spammable w/ Divinity cost.
+Worse AoE for threat, only really a choice if tanking for AoE situations.
+
+Vow of Enmity
+Targeted AoE the damages and taunts. 20s CD.
+No real choice to make. If tanking and the fight is AoE, it’s taken.
+
+Absolution
+-20% damage taken for 8s. 24s CD.
+3 slots strikes again. This would be a staple for tanks in other MMOs w/ more slots.
+
+Binding Oath
+Vengeance / thorns + stamina regeneration for 12s. 24s CD.
+Again, 3 slots but this provides more utility than above so slightly better.
+
+Relentless Avenger
+Dash + damage single target. 12s CD.
+A dash on a cooldown with no other effect, not really worth it.
+
+
+
+Daily (Ultimates, choose 2)
+
+Divine Judgement
+Single target nuke.
+It’s Garen ult.
+Looks cool and is satisfying. Only single target so if damage is needed, take it.
+
+Shield of Faith
+Nearby allies take 5% reduced damage and 10% increased healing for 10s.
+By itself seems really weak and boring but feats make it somewhat more interesting (shield heals = regular or heal others when healed).
+
+Radiant Charge
+AoE line nuke w/ knockdown.
+Take it for AoE since it’s the only one.
+Oathkeeper
+
+Lay on Hands
+Single target full heal + cleanse.
+Classic but simple. Again, I don't know how prevalent cleansing is so I can't really value it.
+
+Sanctuary
+Allies take 10% less damage + receive a HoT.
+CC immune during initial cast.
+Somewhat similar to the other one (mitigation and healing in some form).
+Justicar
+
+Divine Protector
+Take all damage nearest ally would for 12s.
+Also gives 30% awareness (reduces damage taken from combat advantage, bosses always deal this bonus damage).
+Essentially cover. Would only be used in 10 man groups with another tank. Pretty niche.
+
+Heroism
++20% max HP, heal that amount and +10% damage dealt for 12s.
+Selfish buff, kinda boring since it’s just 2 stats. Might be useful in burst phases.
+
+
+Class Feature (Passives, pick 2)
+
+
+Aura of Protection (you can only have 1 aura on at a time)
++2% deflect rate (chance of taking reduced damage) of allies.
+All the auras suffer from being just weak stat boosts whilst also taking up 1 of 2 slots (could’ve been inbuilt or had its own slot so 3 total).
+
+Blessed Wanderer
+Deal 20% more damage when playing solo.
+Needed in solo play, even with it some fights felt like it took forever. Somewhat boring though.
+
+Composure
+Regenerate Divinity 10% faster.
+Took this for solo play as almost all the others are for group but it didn’t feel like it was doing anything at all. Even if it did, it’s a boring passive way of regenerating resources.
+
+Aura of Wrath
++2% critical rate of allies.
+Same critique as other auras.
+Oathkeeper
+
+Aura of Restoration
++5% incoming healing for allies (+7% if target beaconed).
+Same critique as other auras.
+
+Guarded Prayers
+While using either tab power, automatically block all attacks from the front if you have stamina.
+Interesting passive as it actually changes something other than stats. Makes using that built in heal safer.
+
+Timely Intervention
+Healing allies below 25% converts shields into HP instead
+Slightly more interesting than the stat boost auras but its only effect is getting past health thresholds (not sure if enemies have executes).
+
+Aura of Life
+Healing encounters cause another heal nearby allies, 3x for beaconed ally.
+Same critique as other auras.
+Justicar
+
+Aura of Valor
+-5% threat from the party.
+Same critique as other auras.
+
+Divine Retribution
+Up to +5% damage as stamina decreases.
+Adds risk reward as no stamina = no blocking BUT the reward is pretty mediocre.
+
+Divine Challenger
+Smite taunts. It can be charged and fully charging = not a taunt.
+Good design as it changes how you would use a spell (nuke to taunt).
+
+Aura of Vengeance
+Thorns for allies.
+Same critiques as other auras.
+
+
+Feat (Talents, 5 pairs of choices, respeccing costs currency)
+Oathkeeper
+
+
+Critical Touch: Heals have a 10% proc which guarantees the next Divine Touch or Divine Shelter will crit.
+Sheltered Healing: Cure Wounds heals for more if the target is affected by a shield.
+
+Both talents affect healing so they’re comparable. Crit heal procs are pretty stock standard. 2nd option encourages using the bigger heals for the shield first and then using the small heal for optimal play, effectiveness up for debate though.
+
+
+Prayer of Opportunity: Encounters w/ Divinity cost have 20% proc of free Hand of Divinity (hold tab).
+Battle Focus: Dealing damage increases Divinity regen for 6s.
+
+Both are somewhat resource related so they’re kinda comparable. 1st is another standard proc. 2nd encourages weaving damage in between heals for resource but retargeting is kinda annoying with the snapping, especially bad in multitarget situations.
+
+
+Spirit of Austerity: Reduce Divinity cost and damage of Smite and Bane (works out to be 7% and 16% more efficient for damage per resource).
+Enduring Spirit: Sacred Weapon reduces damage taken by 10% + restores Divinity over time.
+
+Both are also somewhat resource related. 1st makes specific spells slightly more efficient but requires those being taken. 2nd loads lots of utility onto a specific spell making it very versatile (damage, mitigation and resource) even if it’s just stats really.
+
+
+Divine Intervention: Lay on Hands also shields for the same (100% HP).
+Convalescence: Under Shield of Faith, all shields become health healing.
+
+Both are healing related but 1 is single target and the other is AoE. 1st doubles the effectiveness of the spell. 2nd technically doubles raw effectiveness at the cost of the shield. Again not sure if there’s any executes from enemies to warrant taking this.
+
+Emissary of Warding: When heals that also shield crit, shield increased by 50%
+Divine Vessel: Going below 10% Divinity, can cast healing spells for free + healing increased by 20% for 12s. 180s CD.
+
+Both are healing related so they’re comparable. 1st is just an increase in healing. 2nd is an interesting effect but the huge CD makes it less appealing.
+Justicar
+
+
+Sacred Shield: Sacred Weapon generates more threat & restores stamina every hit.
+Divine Reciprocation: Increase threat from Divine Touch. Receive 100% heal from Divine Touch if not on self.
+
+Both are related in the threat department so their other effect is what would determine which gets chosen. 1st gives more stamina = block the satisfying ability. 2nd gives the option of being an extra healer but requires using even more Divinity which is already limited as is.
+
+
+Burning Vengeance: Burning Light deals more damage the less stamina you have, no longer based on channel duration. Channel is infinite and blocks attacks from the front.
+Baneful Strikes: 5% proc from at-will that gives a free Bane.
+
+Both are damage spell related. 1st changes the functionality of the spell a lot making it interesting. Also no longer interruptible so it feels better to use. 2nd is the usual proc but 5% feels low, especially if it’s off the weak feeling at-wills.
+
+
+Justicar’s Bulwark: Increases the amount of Divinity that can be restored via Justicar’s Charge.
+Divine Pursuit: Encounters w/ Divinity cost gives a buff, causing at-wills to restore Divinity.
+
+Both are Divinity related. 1st affects the block under tab but it’s very vague so not sure how effective. 2nd encourages weaving abilities for max buff uptime which is great.
+
+
+Shield of the Gods: Divine Protector no longer redirects damage, but is a -25% damage taken. No awareness bonus.
+Sheltering Light: When healed, allies under Shield of Faith are healed for 50% of the amount.
+
+1st is mitigation and 2nd is healing so not very comparable. 1st makes it better in single tank situations, changing functionality makes it an interesting choice. 2nd spreads healing out, doesn’t change anything for the tank but helps healers.
+
+
+Intimidating Presence: Divine Champion (tab) greatly increases threat generated but no longer auto blocks.
+Unyielding Champion: Divinity cost of Divine Champion (tab) is reduced & both it & Divine Palisade now block hits up to 60% max HP.
+
+Both affect tab ability. Can’t really comment on the threat as I didn’t play it in groups but the drawback is really big. 2nd improves tab but just numerically.
+
+Skills (Auto-picked Passives)
+
+Divine Protection
+Gain up to 10% critical avoidance (reduces critical damage) when Divinity is full. Effect decreases as Divinity decreases.
+Only including this interesting one. Just a stat increase but the odds of having high Divinity are low (at least for Tank when I played).
+
+
+
