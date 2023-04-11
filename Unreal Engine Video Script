@@ -1,9 +1,5 @@
 Unreal Engine Video Script
 
-Side Notes
-Showcase desert world or just use testing level?
-Maybe testing level for features and then desert world for an all together at the end.
-
 Player Character
 Movement + camera.
 Equipping + sheathing weapon.
@@ -32,4 +28,4 @@ Environment
 Quick showcase of forest-y area, desert then dungeon.
 Need to fill the dungeon with breakable stuff.
 Maybe some more lighting.
-Fill areas with enemies.
+Fill areas with enemies (insect, raptor & paladin in order of point 1).
