@@ -1,0 +1,35 @@
+Unreal Engine Video Script
+
+Side Notes
+Showcase desert world or just use testing level?
+Maybe testing level for features and then desert world for an all together at the end.
+
+Player Character
+Movement + camera.
+Equipping + sheathing weapon.
+Attack + combat (health bar on enemy and self).
+Have a section with capsules / show collision for hitboxes on actors + weapons.
+Dodging (stamina).
+Gold + Souls.
+UI.
+Getting hit + death.
+
+Enemy
+Movement (based on speed).
+Patrolling.
+Chasing.
+Attacking sequences (range).
+Attack warping (difficulty).
+Getting hit + death.
+Different types of enemies (weapon + no weapon).
+
+Items
+Weapons.
+Pickups (gold + souls).
+Breakables.
+
+Environment
+Quick showcase of forest-y area, desert then dungeon.
+Need to fill the dungeon with breakable stuff.
+Maybe some more lighting.
+Fill areas with enemies.
