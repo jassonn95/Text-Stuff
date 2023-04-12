@@ -4,7 +4,6 @@ Player Character
 Movement + camera.
 Equipping + sheathing weapon.
 Attack + combat (health bar on enemy and self).
-Have a section with capsules / show collision for hitboxes on actors + weapons.
 Dodging (stamina).
 Gold + Souls.
 UI.
