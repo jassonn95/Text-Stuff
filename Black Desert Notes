@@ -1,7 +1,6 @@
 Black Desert Notes
-
 General
-Great combat.
+Good combat; feels satisfying to combo AoE mob packs down.
 Looks pretty.
 Story was… there?
 Leveling is auto-walking to the next quest, killing a bunch of stuff or interacting with a couple things and then repeating.
@@ -15,11 +14,234 @@ Dislike genderlocking classes (and eventually racelocking). Worst offender was W
 Economy seems over the top (common stuff costing millions, billions for end game stuff). Makes starting out feel kinda bad since stuff is like 1k compared to the m/billions.
 Enhancing gear has a chance of both failing and blowing up your gear, absolutely hate.
 Spoilt by FFXIV with having all classes on 1 character, really miss that since I end up creating either 1 character but cloning it for other classes (GW2), using almost default presets for the non main classes (BDO) or just not having more than 1 class (WoW).
+Tooltips are detailed yet also vague (what’s the difference between “increase casting speed” and “increase activation speed”? Not mentioned anywhere).
+Backpedal = Forward Guard.
 
 Sage Combat
 
+Feels satisfying to combo AoE mob packs down.
+Never really ran out of mana for anything, resource management doesn’t seem like it’s a thing unless I’m spamming blinks (regarding stamina).
+Blinking to a pack, using a small combo and then blinking to another felt smooth.
+Being able to relocate AoEs with the blink during casting animations gives more freedom and makes the combat feel like it flows.
 
-Sage Abilities
+Sage Succession Abilities
+
+
+Kyve Mastery
+
+Melee filler auto-attack chain.
+Recovers mana per hit.
+
+Just filler, not much else to be said about this. Damage is back loaded so somewhat punished if interrupted. Never really used the sprint / jump versions (jumping is kind of janky in this game).
+
+Ator’s Fist
+
+Cone nuke.
+-DP on hit for enemy.
+Knockdown.
+
+Similar to Sett W. 
+
+Spatial Fissure
+
+Frontal AoE.
+Recovers mana per hit.
+Increased accuracy for 10s.
+Knockdown.
+
+Gravity Rift
+
+Frontal AoE.
+Heal per hit.
+Sucks in then knocks down.
+Forward Guard (block damage and CC from front up to a certain amount).
+
+Void Gateways
+
+Wide, slow frontal AoE.
+Guaranteed crit.
+Knocks up.
+Forward Guard.
+
+
+
+Ator’s Mark
+
+Frontal circular AoE.
+Somewhat slow.
+Guaranteed crit.
+-Evasion on hit for enemy.
+Bound on hit (knockdown seems to last longer but you can manually get up after 2s).
+Forward Guard.
+
+Can be empowered by Black Spirit, making it stronger at the cost of rage.
+
+Animation can be skipped by using any skill then following up with this one.
+
+Illusion Compression
+
+Large frontal circle AoE (hits around you too).
+Sucks in, staggers then knocks up.
+
+Has to be placed in a Quick Slot after learning Dimensional Compression (see below).
+
+Form Shift & Form Recall
+
+Forward damaging dash.
+Super Armor (immune to all CC except for grab / grapple).
+Knocks down.
+Ghosting.
+
+Can be chained w/ Form Recall below which is the same thing except returns to original location.
+
+Illusion Expansion & Illusion Detonation
+
+Wide & short frontal AoE.
++AP on skill use.
+Stagger on hit.
+
+Can be comboed into Illusion Detonation for a finisher for more damage and a knockdown.
+
+Spatial Collapse & Finishing Touch
+
+Large frontal AoE.
+Somewhat slow.
+Guaranteed crit.
+-DP on hit for enemy.
+Bound on hit.
+Forward Guard.
+
+Can be comboed w/ Finishing Touch for more damage and also knocks up.
+
+Ator’s Energy & Atomagia
+
+PBAoE.
+Somewhat long animation.
+Guaranteed crit.
+Forward Guard.
+Knockdown on hit.
+
+Can be comboed into Atomagia for:
+Even longer animation.
+Guaranteed crit damage.
+Applies a DoT.
+Super Armor.
+Bound on hit.
+
+Dimensional Compression
+
+Wide frontal AoE.
+Guaranteed crit.
+Long animation.
+Super Armor.
+Stagger then Stun.
+
+
+
+Optimization
+
+Cooldown buff for:
+AP.
+Crit Rate.
+Crit Damage.
+Super Armor.
+
+Spear Bolt
+
+Ranged attack into optional gap closer.
+Guaranteed crit.
++AP after using skill.
+Forward Guard.
+Invincible (immune to everything) while dashing (more of a blink).
+
+Rift Storm
+
+PBAoE
+Guaranteed crit.
+Super Armor.
+
+Illusion Barrier
+
+Channeled frontal block, using Forward Guard (so will be broken after X damage).
+
++DP at start of channel (no refresh).
+
+Big mana recovery on block.
+
+Reset
+
+Cooldown that resets all Sage specific cooldowns.
+Super Armor.
+
+Rift Chain
+
+Dash
+Cooldown is for the effect:
+Invincible when not on cooldown.
+Super Armor when on cooldown (so immune to most CC but still take damage).
++DP on use.
+Ghosting throughout the whole dash, up until the end.
+
+Ator’s Thorn
+
+Ranged attack.
+Slow.
+Uses stamina for some reason.
+
+Weaker than most attacks and a bunch of them have CC attached to them already, don’t really see any point in this skill.
+
+Realm of Anguish
+
+Places circular AoE in front.
+Damaging field.
+-Magic DP on hit for enemy.
+Forward Guard when casting.
+Bound on hit.
+
+Ator’s Illusion vs. Ator’s Palm
+
+Forward AoE nuke.
+Fast animation.
+Stuns.
+The “sidestep” is very small, don’t think it actually dodges anything. Doesn’t block so not really a counter either.
+
+Vs.
+
+Larger AoE.
+Health recovery on hit.
+-DP debuff.
+CC only in PvE
+Longer animation.
+
+Palm has a much larger AoE but has a long casting time so it’s riskier, especially in PvP where it doesn’t even have CC attached. Fast abilities in general feel better.
+
+Energized Thorn vs. Piercing Thorn
+
+Large circular AoE at a ranged location.
+Forward Guard.
+
+Vs.
+
+Long but narrow AoE.
+CC.
+
+Energized has a larger AoE and has protection but no CC. Generally I only did PvE so I went with the first, but even so Piercing is unprotected and getting caught w/ 200 ping is very likely.
+
+Void Eruption vs. Void Blast
+
+Forward AoE nuke.
+Guaranteed crit.
+Super Armor.
+Recover mana per hit.
+
+Vs.
+
+Forward AoE nuke.
+Pulls in (PVE only).
+Forward Guard.
+HP recovery per hit.
+
+Pretty similar nukes but Eruption has animation canceling which makes it feel smoother.
 
 
 Wizard Combat
@@ -32,4 +254,5 @@ Warrior Combat
 
 
 Warrior Abilities
+
 
