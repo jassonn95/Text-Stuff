@@ -186,7 +186,7 @@ Guaranteed crit.
 Forward Guard.
 Invincible (immune to everything) while dashing (more of a blink).
 
-Feels thematically kind of random, and that’s because it’s from the Awakening’s aesthetic (armoured lighting spear guy). Jumping around always feels good and this is no different. Also has a damage buff so put this at the beginning of combos.
+Feels thematically kind of random, and that’s because it’s from the Awakening’s aesthetic (lightning Pantheon, with the same amount of clothing). Jumping around always feels good and this is no different. Also has a damage buff so put this at the beginning of combos.
 
 Rift Storm
 
@@ -210,8 +210,9 @@ Reset
 
 Cooldown that resets all Sage specific cooldowns.
 Super Armor.
+CD gets reduced after reaching 10 stacks of a haste buff (gained on any skill) per time you would’ve gained a stack.
 
-Definitely feels more like a PvP skill as the majority of skills don’t have that long of a cooldown, the only exception is the other cooldown with 3m. That being said, it does exactly what it says. Even a niche case of using it for CC immune frames.
+Definitely feels more like a PvP skill as the majority of skills don’t have that long of a cooldown, the only exception is the other cooldown with 3m. That being said, it does exactly what it says. Even a niche case of using it for CC immune frames. 
 
 Rift Chain
 
@@ -295,9 +296,64 @@ Pretty similar nukes but Eruption has animation cancelling which makes it feel s
 
 It’s a pretty quick attack which gives back mana, don’t really see it being used for anything else, other abilities have low cooldowns and do more. Maybe for Super Armor.
 
-
 Sage Awakening Abilities
 Won’t be including the Absolute versions of attacks, since they’re pretty much the same thing as the Prime version but with different values.
+
+Sage Awakening does NOT have access to: Prime: Optimization, Prime: Spear Bolt, Prime: Rift Storm (table will be red) & 2 passives (+AP and haste buff which reduces Reset CD).
+
+Personally, I didn't play as much Awakening since it came around pretty late and I was already used to Succession (+ getting a little bored of grinding). Also I don’t think it was out originally until later.
+
+Electrify
+Awakening’s cooldown. Loses crit rate, crit damage and Super Armor during duration in exchange for Accuracy & Ignore All Resistance = CC resistance (some mobs in PvE are immune).
+
+Kibelius Training
+Slow ranged auto-attack, AoE is VERY small. Allegedly gives casting speed but buff doesn’t appear in buff bar.
+
+Lightning Surge
+Dash chained after most (?) skills.
+
+“After certain skills” ._.
+
+Seize
+A grab.
+
+Bolt
+A dash which can be chained with the Succession one.
+
+Spear Bolt
+Functionally the same as the Prime version. Can hold down F to repeat up to 3 times total. Holding down F will also cause an Aftershock to combo
+
+
+
+
+Rift Storm
+
+Enlightening Bolt
+
+
+
+Divine Executioner
+
+Flow: Judgement
+
+Upsurge
+
+
+
+Lightning Prison
+
+Flow: Interrogate
+
+Impaling Flash
+
+Ator’s Spear
+
+Radiant Annihilation
+
+Chain Lightning
+
+Shock Relay
+
 
 
 Wizard Combat
