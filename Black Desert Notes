@@ -298,11 +298,13 @@ Pretty similar nukes but Eruption has animation cancelling which makes it feel s
 It’s a pretty quick attack which gives back mana, don’t really see it being used for anything else, other abilities have low cooldowns and do more. Maybe for Super Armor.
 
 Sage Awakening Abilities
-Won’t be including the Absolute versions of attacks, since they’re pretty much the same thing as the Prime version but with different values.
+Won’t be including the Absolute versions of attacks, since they’re pretty much the same thing as the Prime version but with lower values. They’re used for utility (buffs, debuffs, CC).
 
 Sage Awakening does NOT have access to: Prime: Optimization, Prime: Spear Bolt, Prime: Rift Storm (table will be red) & 2 passives (+AP and haste buff which reduces Reset CD).
 
 Personally, I didn't play as much Awakening since it came around pretty late and I was already used to Succession (+ getting a little bored of grinding). Also I don’t think it was out originally until later.
+
+Overall Awakening seems better in PvP due to the amount of animation cancels and mobility. There’s also a lot of weapon swapping to use the Succession skills for the utility aspects as mentioned above, but again didn’t really get into it since by the time I got to unlocking Awakening I was getting a little bored due to the combat loop being the only thing this game has for content really.
 
 Electrify
 Awakening’s cooldown. Loses crit rate, crit damage and Super Armor during duration in exchange for Accuracy & Ignore All Resistance = CC resistance (some mobs in PvE are immune).
@@ -312,70 +314,88 @@ Definitely more PvP oriented compared to the Succession variant, as evident by t
 Kibelius Training
 Slow ranged auto-attack, AoE is VERY small. Allegedly gives casting speed but buff doesn’t appear in buff bar.
 
-Auto-attack. Feels worse than the other one as there’s not that much AoE and that’s kind of weird in this type of game.
+Auto-attack. Feels worse than the other one as the animation is slow and there’s not that much AoE which feels like it’s going against the combat flow of types of games like this one (mowing things down in grindfests). Damage tradeoff for movement so there’s some decision making there, but mostly only used as filler or for mana in emergencies.
 
 Lightning Surge
-Small damaging dash chained after most (?) skills.
+Small damaging dash chained after most (?) skills. Can be used as a weapon swap.
 
 “After certain skills” ._.
 
-
+Seems to work on most skills, adding a lot more mobility. Can be used anytime if you have the stamina, cooldown is only for the stagger and the extra combo effects but I mostly just used it for extra mobility which feels nice since it’s quick. Can also be used as a weapon swap from Succession to Awakening.
 
 Seize
-A grab.
+A melee grab or ranged knockback.
+
+Definitely a PvP ability as the grab is either redundant since everything else has CC or it’s useless since the enemy mobs are CC immune.
+
+
 
 Bolt
-A dash which can be chained with the Succession one. This will count as a weapon swap.
+A dash which can be chained with the Succession one. Both dashes count as a weapon swap.
+
+Awakening’s dash. Super low cooldown but is shorter than the Succession version. Also used to weapon swap between the 2 (since it can combo into the other dash) but it eats up your stamina since it has such a low cooldown.
 
 Spear Bolt
-Functionally the same as the Prime version (throw spear then dash to target). Still has the damage buff. 
+Functionally the same as the Prime version (throw spear then dash to target). Still has the damage buff. Also used as a weapon swap.
 
 Can hold down F to repeat up to 3 times total. Holding down F will also cause an Aftershock to combo, zapping the area.
 
-
-
+Pretty much the same as the Succession version but with extra uses for stamina cost by holding  F. A little disorienting with the repeated uses though since you’re going back and forth a lot. Can be comboed with Aftershock for extra damage by holding down F too, so it’s unintuitive if you want to dash once but also have the aftershock.
 
 Rift Storm
-Same as the Prime version (PBAoE) with a few number tweaks; it’s just damage. Option to cancel out of it early with RMB.
+Same as the Prime version (PBAoE) with a few number tweaks. Option to cancel out of it early with RMB.
+
+Like the Succession / Prime version, it’s just damage after a long-ish cast. Can cancel the animation if needed which is new; some added flexibility.
 
 Enlightening Bolt
 PBAoE then AoE in front. 
 Damage taken debuff for enemies.
 
+Big AoE, used for the damage taken debuff. It’s pretty quick and the 2nd hit is shot from an orbital satellite laser thing which is pretty cool. 
+
 Divine Executioner
 Pantheon ult.
-Big damage.
+Big damage, guaranteed crit.
+
 Can be comboed to redirect attack so it’s behind the enemy w/ LMB before 1st hit, deal more damage w/ LMB after 1st hit or deal more damage while also redirecting with LMB + Q.
 
-Flow: Judgement
+Feels great to use since you’re slamming down into enemies. Big damage with the guaranteed crit. Can also be used for iframes with the immunities. Animation is somewhat long but that works in your favour since you’re in the air.
+
+Its Flow combo Judgement can be used to reposition, deal more damage or reposition and do more damage making it flexible.
 
 Upsurge
-PBAoE which can be changed to forward w/ LMB input.
+PBAoE which can be changed to forward AoE w/ LMB input.
 Down Attack buff.
 Knockdown Resistance debuff.
 
-
+PBAoE w/ PvP related buffs / debuffs. Some flexibility with the 2nd hit repositioning. Pretty quick but no CC until the end so best used while they’re CC’d from another attack.
 
 Lightning Prison
 Large AoE, rain of spears.
 Can be comboed into Interrogate by holding down F or spamming LMB for more damage.
 
-Flow: Interrogate
+Looks really cool with spears raining down. Does lots of damage. Very long animation though so best used as a finisher.
 
-
+Can be comboed into Interrogate for more damage and bound CC but have to be wary that it’s extending an already long animation.
 
 Impaling Flash
 Yi’s Alpha Strike.
 Default appear in between where you were and the enemy, or hold up / shift to go behind. Can also be cancelled out of any time with down.
+
+Even more mobility, but with the flexibility of choosing where to end near the enemy or just cancel it altogether depending on secondary input. Move speed debuff clearly for PvP. Can be a little disorienting since the camera snaps to each hit.
 
 Ator’s Spear
 Spear from above.
 Evasion debuff on enemies.
 Knockdown.
 
+Quick attack from above which lowers enemy evasion and knocks down. Not much else to say really.
+
 Radiant Annihilation
 Backhand slap then Viktor E laser.
 Accuracy buff.
+
+Backhand slap which is kind of funny. Gives accuracy buff. Also fires a lightning laser which is kind of cool, for more damage. Move speed debuff clearly for PvP. Animation is quick since it’s just the backhand that you’re locked in for.
 
 Chain Lightning
 Ranged taser that zaps like the usual Chain Lightning. Spell effects don’t really have any oomph.
@@ -383,15 +403,17 @@ Mana recovery.
 -DP debuff on enemies.
 DoT (not sure how impactful).
 
+MP recovery w/ -DP debuff. Animation and effects are really dinky though, holding up the spear and tasing mobs with a trickle of lightning. Not sure about DoT effectiveness.
+
 Shock Relay
 Quick ranged nuke.
 Can be spammed but won’t provide some bonuses while on cooldown.
 Crit rate buff.
 Stagger.
 
+Quick animation ranged nuke so it can be weaved pretty easily in combos more than once. Provides crit rate buff.
 
-Awakening can also choose to augment 1 of 6 abilities to give them CC or Super Armor (almost CC immunity).
-
+Awakening can also choose to augment 1 of 6 abilities to give them CC or Super Armor (almost CC immunity). Again, makes it seem like a PvP spec.
 Wizard Combat
 
 
