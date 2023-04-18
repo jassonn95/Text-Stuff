@@ -318,41 +318,69 @@ Seize
 A grab.
 
 Bolt
-A dash which can be chained with the Succession one.
+A dash which can be chained with the Succession one. This will count as a weapon swap.
 
 Spear Bolt
-Functionally the same as the Prime version. Can hold down F to repeat up to 3 times total. Holding down F will also cause an Aftershock to combo
+Functionally the same as the Prime version (throw spear then dash to target). Still has the damage buff. 
+
+Can hold down F to repeat up to 3 times total. Holding down F will also cause an Aftershock to combo, zapping the area.
 
 
 
 
 Rift Storm
+Same as the Prime version (PBAoE) with a few number tweaks; it’s just damage. Option to cancel out of it early with RMB.
 
 Enlightening Bolt
-
-
+PBAoE then AoE in front. 
+Damage taken debuff for enemies.
 
 Divine Executioner
+Pantheon ult.
+Big damage.
+Can be comboed to redirect attack so it’s behind the enemy w/ LMB before 1st hit, deal more damage w/ LMB after 1st hit or deal more damage while also redirecting with LMB + Q.
 
 Flow: Judgement
 
 Upsurge
+PBAoE which can be changed to forward w/ LMB input.
+Down Attack buff.
+Knockdown Resistance debuff.
 
 
 
 Lightning Prison
+Large AoE, rain of spears.
+Can be comboed into Interrogate by holding down F or spamming LMB for more damage.
 
 Flow: Interrogate
 
+
+
 Impaling Flash
+Yi’s Alpha Strike.
+Default appear in between where you were and the enemy, or hold up / shift to go behind. Can also be cancelled out of any time with down.
 
 Ator’s Spear
+Spear from above.
+Evasion debuff on enemies.
+Knockdown.
 
 Radiant Annihilation
+Backhand slap then Viktor E laser.
+Accuracy buff.
 
 Chain Lightning
+Ranged taser that zaps like the usual Chain Lightning. Spell effects don’t really have any oomph.
+Mana recovery.
+-DP debuff on enemies.
+DoT (not sure how impactful).
 
 Shock Relay
+Quick ranged nuke.
+Can be spammed but won’t provide some bonuses while on cooldown.
+Crit rate buff.
+Stagger.
 
 
 
