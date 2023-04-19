@@ -447,10 +447,16 @@ Mana recovery.
 No mobility input allowed (directions will change it to a different attack).
 Backloaded damage.
 
+Like other auto-attacks, it’s only ever used in emergencies or mistakes. There’s some MP recovery so it’s not all bad. Damage is backloaded as always, so some risk vs. reward.
+
 Multiple Magic Arrows
 Targeted ranged attack.
 Option to hit again by holding RMB.
 Hits in a small AoE around the target.
+
+Other spells are better; they do more damage or provide more utility. 
+
+There’s also a spammable version that I didn’t include where it’s spammable but weaker.
 
 Earth Arrow (Concentrated Magic Arrow)
 Changed element to earth (relevant for some passives).
@@ -459,18 +465,22 @@ Ranged targeted nuke with AoE at target.
 Some CC, not in PvP.
 No longer spammable.
 
+Used at the start of a combo because of -DP debuff and PvE CC. Requires some aiming as it’s targeted but it’s not too hard since there’s no snapping like some other games.
+
 Fireball
 Classic ranged AoE.
 Cast time but can be cancelled early for less damage.
 DoT (seems weak).
 CC in PvE.
 
+The classic spell. There’s a channel time so not used as part of a combo most of the time, more of a not-that-bad filler if needed.
+
 Flame Explosion vs. Fireball Explosion
 PBAoE ring of fire.
 Higher damage.
 Super Armor.
 No knockdown.
-Long cast time. No cast time if comboed after Fireball.
+Long cast time. No cast time if comboed.
 
 Vs. 
 
@@ -480,7 +490,7 @@ No Super Armor.
 Knockdown.
 Has to be used after Fireball within Xs.
 
-
+Some Succession spells have a choice of how to morph the spell. In this case, going for the quick (and hence weaveable) higher damaging spell is the obvious choice since the other option sacrifices too much for range and a bit of CC.
 
 Meteor Shower: Focus vs. Areal
 AoE, more of a flame pillar.
@@ -495,11 +505,13 @@ Much larger AoE, more of a meteor.
 Less overall damage.
 Longer cast time.
 
-
+Satisfying to use as it does big damage after a meaty cast time. Damage vs. AoE. The 2nd option is more PvP oriented as it has PvP CC.
 
 Lightning Chain
 Weak channelled chain lightning which gets weaker beyond 2nd target.
 Small CC.
+
+Another filler spell, possibly a remnant of when other spells required to be chained from the baby ones. Requires a channel and the damage is pretty low with no real utility.
 
 Lightning Storm: Strike vs. Voltage
 (Visual) AoE lightning storm.
@@ -514,14 +526,16 @@ Can hold channel and release when needed.
 Slightly less damage.
 Stun > Stiffness (Stagger).
 
-
-
+Another case of PvE vs. PvP.
+For the PvE choice, it’s just big damage to continue along the combo, with a little bit of utility. Nothing else to be said.
 
 Lightning
 Lightning bolt!
 Option for an extra hit by holding F (which coincides with Residual Lightning so it looks like it’s 1 attack which is confusing).
 Spammable.
 Stun has a cooldown.
+
+Quick lightning bolt. While it doesn’t do much itself other than the damage, it continues the combo w/ the spell below (which naturally combos off of this one).
 
 Residual Lightning: Combo vs. High Voltage
 (Visual) Cone of Lightning.
@@ -538,13 +552,15 @@ Less MP recovered per hit.
 Super Armor
 Much longer animation.
 
-
-
+Choice is between damage and safety.
+PvE choice itself does big damage and recovers mana without having to resort to the dedicated mana drain which isn’t as optimal in terms of damage and safety.
 
 Freeze
 Targeted small AoE ice blast.
 Optional extra damage.
 CC only in PvP.
+
+Small targeted ice blast which doesn’t have much use in PvE (small AoE, no outstanding features).
 
 Frigid Fog: Disrupt vs. Control
 Quick, big AoE frontal frost blast.
@@ -558,7 +574,8 @@ Less damage.
 CC in PvP
 No Forward Guard.
 
-
+PvE vs. PvP again.
+PvE choice just does big damage, other effects aren’t that helpful in PvE.
 
 Blizzard: Storm vs. Domain
 Targeted AoE blizzard.
@@ -574,6 +591,9 @@ Much lower cooldown.
 Less damage.
 Forward Guard.
 -AP on enemy hit.
+
+Choice between damage or flexibility & utility.
+So for PvE, it’s the damage. Long channelled storm spell so best used at the end of a combo since it will eat up your mana and would be wise to use after buffs / debuffs have been applied.
 
 Earthquake: Destruction vs. Evade
 PBAoE ground strike.
@@ -592,6 +612,9 @@ Mana recovery per hit.
 Spammable; backstep is shorter when on CD.
 Super Armor when not on cooldown.
 Bound in PvE, Stagger in PvP.
+
+Choice between damage or utility. Backstep is more prevalent in PvP.
+PvE choice is a satisfying PBAoE attack which recovers mana to continue any combos.
 
 Earth’s Response: Destruction vs. Flow
 Sidestep & cone attack.
@@ -612,7 +635,8 @@ Less damage.
 Knock while not on CD.
 Super Armor while not on CD.
 
-
+Both are sidesteps so the difference is between damage & resource management.
+Again going with the damage one for PvE. Attack itself is nothing too crazy, mostly used for the dodge.
 
 Rain of Fire
 Frontal AoE blasts of fire.
