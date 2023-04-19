@@ -428,10 +428,355 @@ Has cast times and a cast bar whereas Sage didn’t (they’re not really portra
 
 Wizard Succession Abilities
 
+Elemental Flow
+Passive.
+Instant cast Prime skills after Teleport.
+Instant cast Prime skills after Magical Evasion.
+2 x Magical Evasion uses.
+-0.5s for skills listed at the bottom in white when casting the element of the same type (i.e. Fireball cast = -0.5s for Meteor Shower).
+Can combo into skills of the same element with RMB.
+Can no longer use Sage’s Memory (instant cast spells for 15s).
+
+Placing this here because tooltips mention the RMB effect.
+
+The autocast next elemental spell function makes playing easier, albeit not optimal. I.e. can cast fire, hold down RMB until it stops then cast ice, hold down RMB and repeat.
+
+Staff Attack
+Filler auto-attack.
+Mana recovery.
+No mobility input allowed (directions will change it to a different attack).
+Backloaded damage.
+
+Multiple Magic Arrows
+Targeted ranged attack.
+Option to hit again by holding RMB.
+Hits in a small AoE around the target.
+
+Earth Arrow (Concentrated Magic Arrow)
+Changed element to earth (relevant for some passives).
+Ranged targeted nuke with AoE at target.
+-DP debuff.
+Some CC, not in PvP.
+No longer spammable.
+
+Fireball
+Classic ranged AoE.
+Cast time but can be cancelled early for less damage.
+DoT (seems weak).
+CC in PvE.
+
+Flame Explosion vs. Fireball Explosion
+PBAoE ring of fire.
+Higher damage.
+Super Armor.
+No knockdown.
+Long cast time. No cast time if comboed after Fireball.
+
+Vs. 
+
+Secondary Fireball (so, ranged)
+Less damage.
+No Super Armor.
+Knockdown.
+Has to be used after Fireball within Xs.
+
+
+
+Meteor Shower: Focus vs. Areal
+AoE, more of a flame pillar.
+More damage.
+Guaranteed crit.
+Shorter cast time.
+CC only in PvE
+
+Vs.
+
+Much larger AoE, more of a meteor.
+Less overall damage.
+Longer cast time.
+
+
+
+Lightning Chain
+Weak channelled chain lightning which gets weaker beyond 2nd target.
+Small CC.
+
+Lightning Storm: Strike vs. Voltage
+(Visual) AoE lightning storm.
+Pulls in.
+Slightly more damage.
+Some CC.
+
+Vs.
+
+(Visual) Wider AoE lightning blast.
+Can hold channel and release when needed.
+Slightly less damage.
+Stun > Stiffness (Stagger).
 
 
 
 
+Lightning
+Lightning bolt!
+Option for an extra hit by holding F (which coincides with Residual Lightning so it looks like it’s 1 attack which is confusing).
+Spammable.
+Stun has a cooldown.
+
+Residual Lightning: Combo vs. High Voltage
+(Visual) Cone of Lightning.
+More damage.
+More MP recovered per hit.
+No Super Armor.
+Much shorter animation.
+
+Vs.
+
+(Visual) 3 hit varying lightning blasts.
+Less damage.
+Less MP recovered per hit.
+Super Armor
+Much longer animation.
+
+
+
+
+Freeze
+Targeted small AoE ice blast.
+Optional extra damage.
+CC only in PvP.
+
+Frigid Fog: Disrupt vs. Control
+Quick, big AoE frontal frost blast.
+More damage.
+Forward Guard
+
+Vs.
+
+PBAoE Lissandra W (quick cast time).
+Less damage.
+CC in PvP
+No Forward Guard.
+
+
+
+Blizzard: Storm vs. Domain
+Targeted AoE blizzard.
+Can be channelled for more damage at cost of mana.
+Much higher cooldown.
+Higher damage.
+Forward Guard.
+
+Vs.
+
+PBAoE.
+Much lower cooldown.
+Less damage.
+Forward Guard.
+-AP on enemy hit.
+
+Earthquake: Destruction vs. Evade
+PBAoE ground strike.
+Much higher damage.
+Mana recovery per hit.
+Not spammable.
+Super Armor.
+Pulls in enemies in PvE.
+Bound in PvE, Stagger in PvP.
+
+Vs.
+
+Backstep + frontal cone attack.
+Much lower damage.
+Mana recovery per hit.
+Spammable; backstep is shorter when on CD.
+Super Armor when not on cooldown.
+Bound in PvE, Stagger in PvP.
+
+Earth’s Response: Destruction vs. Flow
+Sidestep & cone attack.
+Mana cost.
+Not spammable.
+More damage.
+-DP on hit.
+Knockup in PvE.
+Super Armor.
+
+Vs.
+
+Sidestep & cone attack.
+Stamina cost.
+Spammable.
+Less damage.
+-DP on hit.
+Knock while not on CD.
+Super Armor while not on CD.
+
+
+
+Rain of Fire
+Frontal AoE blasts of fire.
+Replaces a stab (below).
+Big damage, guaranteed crit.
+Big mana recovery.
+Forward Guard.
+Some CC in PvE.
+
+Elemental Palace
+Super buff CD.
+Damage
+Accuracy.
+Defence.
+Casting Speed.
+Super Armor.
+
+Bolide of Destruction vs. Voltaic Pulse
+Targeted AoE fire blast.
+Effectively the same damage (slightly higher).
+Guaranteed crit.
+Super Armor.
+Bound.
+Down smash.
+
+Vs.
+
+PBAoE lightning blast.
+Effectively the same damage (slightly lower, even lower in PvP).
+Guaranteed crit in PvE only.
+Bound.
+Mana recovery on hit.
+Casting speed buff.
+-Evasion rate debuff on hit.
+
+Equilibrium Break vs. Aqua Jail Break
+Frontal AoE.
+Shorter animation.
+Higher damage.
+Guaranteed crit in PvE only.
+-AP debuff on hit.
+Forward Guard.
+CC in PvE.
+
+Vs.
+
+PBAoE.
+Longer animation.
+Lower damage.
+Guaranteed crit.
+-Evasion debuff on hit.
+-Movespeed debuff on hit.
+Super Armor.
+Stagger in PvE.
+
+Teleport & Ultimate Teleport
+Blink forward.
+Movespeed & DP buff.
+Invincible.
+
+Can be comboed into Ultimate Teleport by holding Space, which is the same thing minus the buffs and is slightly shorter.
+
+(CD is 10s, can say something about that).
+
+Magical Evasion
+Short dash.
+Continuously spammable, not sure what the tooltip is on about.
+
+Dagger Stab
+Keybinding replaced by another skill.
+Short ranged stab.
+Spammable.
+Not sure what the point of it is.
+Not sure what “increase attack area” means or for what ability (no buff is given, don’t think it’s for other spells).
+
+Magical Shield
+CD.
+CC resistance buff.
+Use mana to reduce damage.
+
+Mana Absorption.
+Can be used after any skill using Space.
+Does a little bit of damage
+Big mana recovery.
+Big mana drain.
+Movespeed debuff (for PvP).
+Forward Guard.
+Somewhat lengthy cast time, risk.
+
+Resurrection
+Rez.
+Very long cast time.
+
+Speed Spell
+AoE buff.
+Movespeed.
+Attack / Casting speed.
+Good uptime.
+Short cast time.
+
+Healing Aura
+Not an aura.
+Targeted AoE heal (self also healed without being in AoE).
+Mana recovery.
+Short animation.
+
+Healing Lighthouse
+PBAoE.
+Long channel heal.
+Mana recovery.
+
+Protected Area
+Defensive PBAoE buff.
+DR.
+CC resistance except Grapple / grabs.
+Super Armor while casting.
+
+Spellbound Heart
+Long duration buff.
+MP recovery.
+Movespeed.
+Short cast time.
+
+Magic Lighthouse
+Placed AoE.
+-DP debuff pulses.
+Grabs aggro.
+Short cast time.
+
+Sage’s Rage vs. Sage’s Light
+Instant cast fireball.
+Short cooldown.
+Personal magic DP buff.
+Knockdown.
+
+Vs. 
+
+Quick PBAoE heal, MP recovery & magic DP buff.
+Extremely long cooldown.
+
+Swift Earthquake vs. Trembling Thunder
+PBAoE earthquake.
+Super Armor.
+Pulls PvE mobs.
+Bound in PvE.
+
+Vs.
+
+PBAoE earthquake & lightning blast.
+Higher damage.
+Slightly faster animation.
+
+
+
+Lightning Spear vs. Mana Arrows
+Frontal cone lightning blast.
+Higher damage.
+Guaranteed crit.
+
+Vs.
+
+Short range frontal blast.
+Mana absorption.
+Forward Guard.
 
 
 
