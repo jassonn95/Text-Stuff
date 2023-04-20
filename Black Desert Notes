@@ -439,7 +439,7 @@ Can no longer use Sage’s Memory (instant cast spells for 15s).
 
 Placing this here because tooltips mention the RMB effect.
 
-The autocast next elemental spell function makes playing easier, albeit not optimal. I.e. can cast fire, hold down RMB until it stops then cast ice, hold down RMB and repeat.
+The autocast next elemental spell function makes playing easier, albeit not optimal. I.e. can cast fire, hold down RMB until it stops then cast ice, hold down RMB and repeat. Pretty cool thematically with weaving spells of the same type to be able to cast the big one more frequently.
 
 Staff Attack
 Filler auto-attack.
@@ -560,7 +560,7 @@ Targeted small AoE ice blast.
 Optional extra damage.
 CC only in PvP.
 
-Small targeted ice blast which doesn’t have much use in PvE (small AoE, no outstanding features).
+Small targeted ice blast which doesn’t have much use in PvE (small AoE, no outstanding features). Again probably a remnant of old requirements of spell combos, can be used as a filler if needed or only in PvP.
 
 Frigid Fog: Disrupt vs. Control
 Quick, big AoE frontal frost blast.
@@ -593,7 +593,7 @@ Forward Guard.
 -AP on enemy hit.
 
 Choice between damage or flexibility & utility.
-So for PvE, it’s the damage. Long channelled storm spell so best used at the end of a combo since it will eat up your mana and would be wise to use after buffs / debuffs have been applied.
+So for PvE, it’s the damage. Long channelled storm spell so it’s best used at the end of a combo since it will eat up your mana and you want buffs / debuffs to have been applied.
 
 Earthquake: Destruction vs. Evade
 PBAoE ground strike.
@@ -636,15 +636,17 @@ Knock while not on CD.
 Super Armor while not on CD.
 
 Both are sidesteps so the difference is between damage & resource management.
-Again going with the damage one for PvE. Attack itself is nothing too crazy, mostly used for the dodge.
+Again going with the damage one for PvE. Mana also isn’t really an issue unless you let it drain so keeping stamina for the dodge is better.
 
 Rain of Fire
 Frontal AoE blasts of fire.
-Replaces a stab (below).
+Replaces a stab attack (below).
 Big damage, guaranteed crit.
 Big mana recovery.
 Forward Guard.
 Some CC in PvE.
+
+Big damage w/ big mana recovery in a big AoE in front. Can be placed in a combo or saved for mana recovery. Animation is a little long so some risk is involved but not too much due to the guard and CC.
 
 Elemental Palace
 Super buff CD.
@@ -653,6 +655,8 @@ Accuracy.
 Defence.
 Casting Speed.
 Super Armor.
+
+Super buff cooldown, not much else to say. Use before burst.
 
 Bolide of Destruction vs. Voltaic Pulse
 Targeted AoE fire blast.
@@ -672,6 +676,8 @@ Mana recovery on hit.
 Casting speed buff.
 -Evasion rate debuff on hit.
 
+Pretty similar but 2nd is more PvP oriented with the evasion debuff. Animation is fast and the AoE is big for both so it’s mostly preference with small differences making it slightly better for different modes.
+
 Equilibrium Break vs. Aqua Jail Break
 Frontal AoE.
 Shorter animation.
@@ -679,7 +685,7 @@ Higher damage.
 Guaranteed crit in PvE only.
 -AP debuff on hit.
 Forward Guard.
-CC in PvE.
+Stagger + bound in PvE.
 
 Vs.
 
@@ -692,18 +698,22 @@ Guaranteed crit.
 Super Armor.
 Stagger in PvE.
 
+There are more differences in this one for PvE vs PvP. Damage, debuff and guard type are all different with 1 favouring PvE and the other PvP. 
+
 Teleport & Ultimate Teleport
 Blink forward.
 Movespeed & DP buff.
 Invincible.
 
-Can be comboed into Ultimate Teleport by holding Space, which is the same thing minus the buffs and is slightly shorter.
+Can be comboed into Ultimate Teleport by holding Space, which is the same thing minus the buffs and is slightly shorter. Can also be comboed in the following way: Teleport > Prime Spell > Ultimate Teleport > Prime Spell.
 
-(CD is 10s, can say something about that).
+Standard blink which can be comboed into an extra one. The keybinding on it is awkward though as you can accidentally jump which is detrimental since jumping is awful. 2nd blink’s cooldown is 10s so I have to keep an eye on it which is slightly difficult since Wizard has a lot more spells so the cooldown UI will be filled with icons. Can teleport, cast spell, teleport then cast again giving a lot of freedom of movement if needed too.
 
 Magical Evasion
 Short dash.
 Continuously spammable, not sure what the tooltip is on about.
+
+Short dash. Between this and teleport, it will eat up all the stamina. Tooltip is misleading as I could continuously dodge.
 
 Dagger Stab
 Keybinding replaced by another skill.
@@ -712,10 +722,14 @@ Spammable.
 Not sure what the point of it is.
 Not sure what “increase attack area” means or for what ability (no buff is given, don’t think it’s for other spells).
 
+Not sure what the point of this ability is as going melee on a squishy class to use a very short range stab for not much gain seems odd. Also I still do not know what increase attack area means, the tooltips are weird.
+
 Magical Shield
 CD.
 CC resistance buff.
 Use mana to reduce damage.
+
+Defensive cooldown. Eats up mana for mitigation, kind of like old Seraph. Extra resource management to make sure max value is obtained.
 
 Mana Absorption.
 Can be used after any skill using Space.
@@ -726,9 +740,13 @@ Movespeed debuff (for PvP).
 Forward Guard.
 Somewhat lengthy cast time, risk.
 
+Big mana recovery & drain. There is an animation so there’s some risk for the reward of mana. This is what I meant above when I said the keybinding for teleport was weird, space being used for that (mobility) and mana drain.
+
 Resurrection
 Rez.
 Very long cast time.
+
+It’s a long cast rez with a long cooldown. Saves a bit of time in PvE or could help win group PvP.
 
 Speed Spell
 AoE buff.
@@ -737,16 +755,22 @@ Attack / Casting speed.
 Good uptime.
 Short cast time.
 
+Party utility buff for movespeed and attack/cast speed. Apply before combat since there’s a bit of a cast time. Movespeed and combat speed buff always feel good to have, not much else to say about the ability itself.
+
 Healing Aura
 Not an aura.
 Targeted AoE heal (self also healed without being in AoE).
 Mana recovery.
 Short animation.
 
+Small targeted AoE heal and a bit of mana recovery. None of the combat loops last long enough to have a dedicated healer especially since most healing is via pots anyway. Okay for topping up or for PvP I guess
+
 Healing Lighthouse
 PBAoE.
 Long channel heal.
 Mana recovery.
+
+Long channelled heal but notes from above apply too. A lot riskier in PvP due to the channel though but healing is a lot higher.
 
 Protected Area
 Defensive PBAoE buff.
@@ -754,17 +778,23 @@ DR.
 CC resistance except Grapple / grabs.
 Super Armor while casting.
 
+Defensive party utility, again more of a PvP thing since enemies in PvE are either CC’d or nuked down in a combo.
+
 Spellbound Heart
 Long duration buff.
 MP recovery.
 Movespeed.
 Short cast time.
 
+Long duration buff which I don’t believe can be cleansed so it can be argued for this just to be a passive. Effects themselves are nice utilities to have (movespeed making it feel good to move and fight and more mana = more abilities = more combat which the game does well at).
+
 Magic Lighthouse
 Placed AoE.
 -DP debuff pulses.
 Grabs aggro.
 Short cast time.
+
+Can be used to gather enemies together so you can use your combo. Also has the -DP debuff in case you accidentally missed them. Cast time is pretty small so it’s a non-issue but it only ticks 3 times so some mobs can just run past it.
 
 Sage’s Rage vs. Sage’s Light
 Instant cast fireball.
@@ -777,6 +807,8 @@ Vs.
 Quick PBAoE heal, MP recovery & magic DP buff.
 Extremely long cooldown.
 
+PvE vs. PvP. The heal is pretty much an instant cast version of the long channelled heal but with a huge cooldown. Since the basic version is only really used in PvP, the same goes for this version. The PvE option is a quick AoE blast so it can be used to weave in a combo. Still has an awkward keybinding.
+
 Swift Earthquake vs. Trembling Thunder
 PBAoE earthquake.
 Super Armor.
@@ -788,8 +820,9 @@ Vs.
 PBAoE earthquake & lightning blast.
 Higher damage.
 Slightly faster animation.
+Down smash (stun on knocked down).
 
-
+An even worse keybinding. PvE vs PvP option again as the 1st option has the utility of pulling mobs together which can be helpful at the cost of damage. The 2nd option has a little bit more CC which can be useful for PvP. The 1st option is a little slow so there’s some risk (excluding CC since you’re immune). 
 
 Lightning Spear vs. Mana Arrows
 Frontal cone lightning blast.
@@ -802,9 +835,7 @@ Short range frontal blast.
 Mana absorption.
 Forward Guard.
 
-
-
-
+Choice between damage or mana recovery. Damage option is risky as it has no guard but it’s not too long so not as risky. Never really ran into mana problems with all the recovery options.
 
 
 Wizard Awakening Abilities
