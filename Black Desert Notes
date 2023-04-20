@@ -435,7 +435,7 @@ Instant cast Prime skills after Magical Evasion.
 2 x Magical Evasion uses.
 -0.5s for skills listed at the bottom in white when casting the element of the same type (i.e. Fireball cast = -0.5s for Meteor Shower).
 Can combo into skills of the same element with RMB.
-Can no longer use Sage’s Memory (instant cast spells for 15s).
+Can no longer use Sage’s Memory CD (instant cast spells for 15s).
 
 Placing this here because tooltips mention the RMB effect.
 
@@ -839,17 +839,143 @@ Choice between damage or mana recovery. Damage option is risky as it has no guar
 
 
 Wizard Awakening Abilities
+Like Sage, Wizard Awakening has access to the basic (Absolute) versions of the regular abilities. This just means less damage, less CC or less utility. Most combos for Awakening are entirely within the Awakening abilities, even if weapon swapping is available. Also has access to some of the cooldowns listed towards the end of the list.
+
+Wizard Awakening does NOT have access to: Prime: Elemental Flow, Prime: Elemental Palace (CD), Prime: Bolide / Pulse or Prime: Aqua Jail / Equilibrium (table will be red).
+
+Generally I didn't play as much Awakening since I liked access to all elemental spells in Succession. Also didn’t really like summoning pets. And again by the time I got to Awakening I wasn’t that interested in the game anymore.
+
+Awakening mostly feels like the melee version of Wizard whereas Succession is ranged w/ access to the bigger (Ultimate) Teleport blinking around and killing stuff.
 
 
+Controlled Madness
+Awakening’s CD buff w/ party buffs too.
+
+Awakening’s equivalent for buff CD. This one just outright provides more buffs in general and also applies some of them to allies. More PvP oriented as it includes an Evasion buff.
+
+Godr Sphera Training
+Ranged auto-attack.
+
+Filler auto-attack as per usual. No combo chain, just an auto. Visual wise it alternates between each hand but they do the exact same thing, just a different “element” (just visuals). Like other autos, only used in emergencies or messing up.
+
+Flame Knot
+Grab, same as Sage.
+
+Pretty much the same as the Sage’s grab; only useful in PvP.
+
+Magical Evasion
+Short dash, same as the Succession version.
+
+Same as the Succession dash except has Super Armor. Can also be spammed but the protection isn’t available during the cooldown. Tooltip actually makes sense this time.
 
 
+Summon: Keeper Arne
+Summon a ranged water pet for 1 hour.
+Has to be commanded to attack.
+Included here due to it affecting some other abilities (see bottom of tooltip).
+
+As mentioned above, I don’t love pets in games as they’re sometimes janky. Water one is ranged so it’s a little less janky. Bonus effects are more utility based.
+Summon: Keeper Marg
+Summon a melee fire pet for 1 hour.
+Also has to be commanded to attack.
+Also provides bonuses to spells (see bottom of tooltip).
+
+Same opinions as water pet. This one is melee so it is more dependent on its AI to be useful. All effects are damage based.
+
+Aqua Jail Explosion
+Targeted channelled AoE.
+w/ pet becomes PBAoE.
+Locked for the animation (somewhat lengthy).
+Guaranteed crit.
+Super Armor.
+
+Strong frontal nuke w/ no other huge effect for PvE. It does have a low cooldown so can be used multiple times in a combo. Changes to PBAoE w/ the pet in addition to other effects but none of them warrant using the water pet in PvE.
+
+Barrage of Water
+Blink forward then frontal AoE.
+Guaranteed crit.
+Super Armor.
+
+While it does decent damage, the repositioning makes it difficult to aim in the middle of a combo. So it’s best used at the beginning when pulling or after the end of a combo to move to another pack (which I guess is the same as use at the beginning). Blink and animation are both fast and there’s a lot of visual feedback so it feels good to use.
+
+Water Sphere & Aqua Bomb
+Melee frontal AoE.
+Mana recovery on hit.
+Knockdown.
+Spammable but doesn’t MP recover or knockdown when on cooldown.
+
+Can be comboed into Aqua Bomb by holding down RMB for more damage & down smash (links with this one’s knockdown).
+
+Spell is just a quick hit in the front. It doesn’t do too much damage and doesn’t provide any buffs so it’s just solely used for the mana recovery. It’s flow attack doesn’t do a whole lot either other than more damage and it naturally flows in both the keybinding (both use RMB) and its effects (1st knocks down, 2nd CCs more on knocked down targets). Filler, not too useful in a combo unless running out of mana.
+
+Hellfire & Magma Bomb
+Dash forward (can hold) then cone AoE.
+Mana recovery on hit.
++AP buff.
+-DP debuff on hit.
+Forward Guard.
+CC.
+
+Can be comboed into Magma Bomb w/ RMB for big damage (guaranteed crit + DoT) in the form of a frontal cone.
+
+Flexible dash as you can choose when to go. Does decent damage but also has the utility of mana recovery & AP + DP buffs & debuffs. Spell feels impactful as you explode when you crash into enemy mobs. Magma Bomb is technically a separate attack but included here because it skips the first half of the animation if comboed from here. 
+
+Flame’s Calling
+Delayed frontal AoE.
+Very short animation.
+
+After a short cast and then a delay, a bunch of damage appears. Perfect for putting into a combo as there’s barely any animation lock. Spell effects are like a barrage of fire bolts, matching what it’s doing (which is a bunch of hits).
+
+Cataclysm
+PBAoE.
+Casting speed buff.
+Mana recovery.
+-Evasion debuff on hit.
+Super Armor.
+Some CC.
+More damage w/ pet out.
+
+Somewhat quick PBAoE. It has a short cooldown so can be weaved in twice in a combo. Used at the beginning because of the casting speed buff speeding up the rest of the combo. Visually it’s just a simple fire PBAoE, lacking any real oomph.
+
+Chilling Wave & Arne’s Guidance
+Long frontal AoE.
+Crit rate buff.
+Forward Guard.
+
+Automatically combos into Arne’s Guidance for more damage.
+
+Animation is very long so you’re locked into place for a while making it risky. It does have some protection from the front but even then it’s still best used after another ability with CC. Crit rate buff means you want to use it at the beginning of a combo, but not first pre the above issue. Spell effects are a bunch of water splashes, nothing too crazy. With the water pet out it definitely looks more threatening with more waves than splashes.
+
+Bolide of Destruction
+Frontal slam AoE.
+Somewhat lengthy cast time.
+Guaranteed crit.
+Super Armor.
+Knockdown in PvE.
+
+Lengthy animation makes it risky to be used, even with CC protection. So again it’s best used after buffs and debuffs have been applied and enemies have been CC’d. Spell effects are very impactful as it’s pretty much a fire fist slamming down.
+
+Elementalization
+Backstep.
+Bit of a cast time.
+
+Risky due to the cast time at the beginning meaning you can be grabbed during that time (or straight up killed). Other than that, it’s additional mobility.
+
+Ritardando
+Targeted ranged AoE debuff.
+-Movespeed
+-Attack / Casting speed.
+
+100% PvP ability as mobs are either not important enough to debuff their speed or are straight up immune.
+
+Lava Field.
+Instant cast targeted AoE persistent field.
+-DP debuff on hit.
+
+Instant cast AoE that constantly damages and debuffs. Best used before pulling as it can be very easy to mess up combos due to keybinding shenanigans. Looks and sounds exactly what you think a Lava Field would look and sound like.
 
 
-
-
-
-
-
+Wizard Awakening also has a bunch of Core spell selections which either adds CC or adds Forward Guard depending on which is chosen, adding a bit more customisation. 
 Warrior Combat
 
 
