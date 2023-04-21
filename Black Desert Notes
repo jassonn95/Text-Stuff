@@ -423,7 +423,25 @@ Quick animation ranged nuke so it can be weaved pretty easily in combos more tha
 Awakening can also choose to augment 1 of 6 abilities to give them CC or Super Armor (almost CC immunity). Again, makes it seem like a PvP spec.
 Wizard Combat
 Similar to Sage in that there are a lot of AoE spells.
+Like Sage, cycle is gathering enemies, buffing self + debuffing enemies then nuking them.
 Has cast times and a cast bar whereas Sage didn’t (they’re not really portrayed as spells that need casting).
+No active block button, only dodges so playstyle is a little different; feels squishier.
+
+Succession
+Bigger & more ranged AoEs; more reach when AoEing mob packs.
+Cycles through each element and their big cooldowns.
+Some abilities have morphs that let you choose usually between damage or utility, providing some build customisation.
+Has a bunch of miscellaneous utility spells & buffs too, overall there are way more abilities than Sage.
+Mana management is prevalent than Sage in that it goes up and down a lot more but recovery is trivial.
+Blink compared to Sage is front only so aiming it is more annoying than Sage where you easily control where you go.
+Combat loop still gets repetitive, just the nature of the game.
+
+Awakening
+More melee ranged compared to Succession.
+Only cycles through fire & water.
+Also has access to the above utility spells but needs to swap to the other weapon set which is a little annoying and not as well supported as GW2 or ESO.
+Hate pets in games due to janky AI / commands, has 2.
+
 
 Wizard Succession Abilities
 
@@ -436,9 +454,9 @@ Instant cast Prime skills after Magical Evasion.
 Can combo into skills of the same element with RMB.
 Can no longer use Sage’s Memory CD (instant cast spells for 15s).
 
-Placing this here because tooltips mention the RMB effect.
+Placing this here because some other tooltips mention the RMB effect.
 
-The autocast next elemental spell function makes playing easier, albeit not optimal. I.e. can cast fire, hold down RMB until it stops then cast ice, hold down RMB and repeat. Pretty cool thematically with weaving spells of the same type to be able to cast the big one more frequently.
+The autocast next elemental spell function makes playing easier, albeit not optimal. I.e. can cast fire, hold down RMB until it stops then cast ice, hold down RMB and repeat. Pretty cool thematically with weaving spells of the same type to be able to cast the big one more frequently. If (when) I didn’t know what to do next, could use a spell I knew and then hold down RMB and let it do its thing.
 
 Staff Attack
 Filler auto-attack.
@@ -446,25 +464,23 @@ Mana recovery.
 No mobility input allowed (directions will change it to a different attack).
 Backloaded damage.
 
-Like other auto-attacks, it’s only ever used in emergencies or mistakes. There’s some MP recovery so it’s not all bad. Damage is backloaded as always, so some risk vs. reward.
+Like other auto-attacks, it’s only ever used in emergencies or mistakes. There’s some MP recovery so it’s not all bad. Damage is backloaded as always, so some risk vs. reward. It is melee so more risk than reward really.
 
 Multiple Magic Arrows
 Targeted ranged attack.
 Option to hit again by holding RMB.
 Hits in a small AoE around the target.
 
-Other spells are better; they do more damage or provide more utility. 
-
-There’s also a spammable version that I didn’t include where it’s spammable but weaker.
+Other spells are better; they do more damage or provide more utility. Feels like a ranged filler attack, nothing exciting about it at all (damage, utility or visually). There’s also a spammable version that I didn’t include where it’s spammable but weaker.
 
 Earth Arrow (Concentrated Magic Arrow)
-Changed element to earth (relevant for some passives).
+Changed element to earth from generic magic (relevant for some passives).
 Ranged targeted nuke with AoE at target.
 -DP debuff.
 Some CC, not in PvP.
 No longer spammable.
 
-Used at the start of a combo because of -DP debuff and PvE CC. Requires some aiming as it’s targeted but it’s not too hard since there’s no snapping like some other games.
+Used at the start of a combo because of -DP debuff and PvE CC. Requires some aiming as it’s targeted but it’s not too hard since there’s no snapping like some other games. Visually it’s just an earth blast at the target which is fine since it’s not meant to feel like it’s doing huge damage.
 
 Fireball
 Classic ranged AoE.
@@ -504,19 +520,19 @@ Much larger AoE, more of a meteor.
 Less overall damage.
 Longer cast time.
 
-Satisfying to use as it does big damage after a meaty cast time. Damage vs. AoE. The 2nd option is more PvP oriented as it has PvP CC.
+Satisfying to use as it does big damage after a meaty cast time and visually it’s just fire everywhere. Damage vs. AoE. The 2nd option is more PvP oriented as it has PvP CC.
 
 Lightning Chain
 Weak channelled chain lightning which gets weaker beyond 2nd target.
 Small CC.
 
-Another filler spell, possibly a remnant of when other spells required to be chained from the baby ones. Requires a channel and the damage is pretty low with no real utility.
+Another filler spell, possibly a remnant of when other spells required to be chained from the baby ones. Requires a channel and the damage is pretty low with no real utility. Also looks really weak, same as the Sage one.
 
 Lightning Storm: Strike vs. Voltage
 (Visual) AoE lightning storm.
 Pulls in.
 Slightly more damage.
-Some CC.
+Stagger only.
 
 Vs.
 
@@ -526,7 +542,7 @@ Slightly less damage.
 Stun > Stiffness (Stagger).
 
 Another case of PvE vs. PvP.
-For the PvE choice, it’s just big damage to continue along the combo, with a little bit of utility. Nothing else to be said.
+For the PvE choice, it’s just big damage to continue along the combo, with a little bit of utility. Visually it’s a bunch of lightning effects, matching the damage.
 
 Lightning
 Lightning bolt!
@@ -534,7 +550,7 @@ Option for an extra hit by holding F (which coincides with Residual Lightning so
 Spammable.
 Stun has a cooldown.
 
-Quick lightning bolt. While it doesn’t do much itself other than the damage, it continues the combo w/ the spell below (which naturally combos off of this one).
+A quick lightning bolt. While it doesn’t do much itself other than the damage, it continues the combo w/ the spell below (which naturally combos off of this one).
 
 Residual Lightning: Combo vs. High Voltage
 (Visual) Cone of Lightning.
@@ -545,14 +561,14 @@ Much shorter animation.
 
 Vs.
 
-(Visual) 3 hit varying lightning blasts.
+(Visual) 3 hits of varying lightning blasts.
 Less damage.
 Less MP recovered per hit.
 Super Armor
 Much longer animation.
 
 Choice is between damage and safety.
-PvE choice itself does big damage and recovers mana without having to resort to the dedicated mana drain which isn’t as optimal in terms of damage and safety.
+PvE choice itself does big damage and recovers mana without having to resort to the dedicated mana drain which isn’t as optimal in terms of damage and safety due to animation locking. Sort of an aftershock spell effect, suits the mana recovery utility side of the spell, not so much the damage side.
 
 Freeze
 Targeted small AoE ice blast.
@@ -574,7 +590,7 @@ CC in PvP
 No Forward Guard.
 
 PvE vs. PvP again.
-PvE choice just does big damage, other effects aren’t that helpful in PvE.
+PvE choice just does big damage, the other choice’s effects aren’t that helpful in PvE. Possibly could’ve stuck to ice as opposed to fog as visually it’s not that impressive.
 
 Blizzard: Storm vs. Domain
 Targeted AoE blizzard.
@@ -592,7 +608,7 @@ Forward Guard.
 -AP on enemy hit.
 
 Choice between damage or flexibility & utility.
-So for PvE, it’s the damage. Long channelled storm spell so it’s best used at the end of a combo since it will eat up your mana and you want buffs / debuffs to have been applied.
+So for PvE, it’s the damage. Long channelled storm spell so it’s best used at the end of a combo since it will eat up your mana and you want buffs / debuffs to have been applied. Visuals & sounds match the magnitude of the ability.
 
 Earthquake: Destruction vs. Evade
 PBAoE ground strike.
@@ -612,8 +628,7 @@ Spammable; backstep is shorter when on CD.
 Super Armor when not on cooldown.
 Bound in PvE, Stagger in PvP.
 
-Choice between damage or utility. Backstep is more prevalent in PvP.
-PvE choice is a satisfying PBAoE attack which recovers mana to continue any combos.
+Choice between damage or utility. Backstep is more prevalent in PvP. PvE choice is a satisfying PBAoE attack (ground slam) which recovers mana to continue any combos. Looks and feels meaty.
 
 Earth’s Response: Destruction vs. Flow
 Sidestep & cone attack.
@@ -631,7 +646,7 @@ Stamina cost.
 Spammable.
 Less damage.
 -DP on hit.
-Knock while not on CD.
+Knockup while not on CD.
 Super Armor while not on CD.
 
 Both are sidesteps so the difference is between damage & resource management.
@@ -697,7 +712,7 @@ Guaranteed crit.
 Super Armor.
 Stagger in PvE.
 
-There are more differences in this one for PvE vs PvP. Damage, debuff and guard type are all different with 1 favouring PvE and the other PvP. 
+There are more differences in this one for PvE vs PvP. Damage, debuff and guard type are all different with 1 favouring PvE and the other PvP. The PvE option itself is another meaty earth slam attack, matching the damage.
 
 Teleport & Ultimate Teleport
 Blink forward.
@@ -728,7 +743,7 @@ CD.
 CC resistance buff.
 Use mana to reduce damage.
 
-Defensive cooldown. Eats up mana for mitigation, kind of like old Seraph. Extra resource management to make sure max value is obtained.
+Defensive cooldown. Eats up mana for mitigation, kind of like old Seraph. Extra resource management to make sure max value is obtained. Compared to Sage’s use when blocking, it feels a lot more boring since it’s fire and forget for half the time.
 
 Mana Absorption.
 Can be used after any skill using Space.
@@ -762,7 +777,7 @@ Targeted AoE heal (self also healed without being in AoE).
 Mana recovery.
 Short animation.
 
-Small targeted AoE heal and a bit of mana recovery. None of the combat loops last long enough to have a dedicated healer especially since most healing is via pots anyway. Okay for topping up or for PvP I guess
+Small targeted AoE heal and a bit of mana recovery. None of the combat loops last long enough to have a dedicated healer especially since most healing is via pots anyway. Okay for topping up or for PvP I guess.
 
 Healing Lighthouse
 PBAoE.
@@ -821,7 +836,7 @@ Higher damage.
 Slightly faster animation.
 Down smash (stun on knocked down).
 
-An even worse keybinding. PvE vs PvP option again as the 1st option has the utility of pulling mobs together which can be helpful at the cost of damage. The 2nd option has a little bit more CC which can be useful for PvP. The 1st option is a little slow so there’s some risk (excluding CC since you’re immune). 
+An even worse keybinding. PvE vs PvP option again as the 1st option has the utility of pulling mobs together which can be helpful at the cost of damage. The 2nd option has a little bit more CC which can be useful for PvP. The 1st option is a little slow so there’s some risk (excluding CC since you’re immune). Both are slightly different flavours of earthquakes, still crunchy and meaty visually.
 
 Lightning Spear vs. Mana Arrows
 Frontal cone lightning blast.
@@ -834,7 +849,7 @@ Short range frontal blast.
 Mana absorption.
 Forward Guard.
 
-Choice between damage or mana recovery. Damage option is risky as it has no guard but it’s not too long so not as risky. Never really ran into mana problems with all the recovery options.
+Choice between damage or mana recovery. Damage option is risky as it has no guard but it’s not too long so not as risky. Never really ran into mana problems with all the recovery options so I went with the damage one. Visually it’s a bunch of blasts of lightning, fitting with the big damage.
 
 
 Wizard Awakening Abilities
@@ -855,7 +870,7 @@ Awakening’s equivalent for buff CD. This one just outright provides more buffs
 Godr Sphera Training
 Ranged auto-attack.
 
-Filler auto-attack as per usual. No combo chain, just an auto. Visual wise it alternates between each hand but they do the exact same thing, just a different “element” (just visuals). Like other autos, only used in emergencies or messing up.
+Filler ranged auto-attack as per usual. No combo chain, just an auto. Visual wise it alternates between each hand but they do the exact same thing, just a different “element” (just visuals). Like other autos, only used in emergencies or messing up.
 
 Flame Knot
 Grab, same as Sage.
@@ -917,7 +932,7 @@ CC.
 
 Can be comboed into Magma Bomb w/ RMB for big damage (guaranteed crit + DoT) in the form of a frontal cone.
 
-Flexible dash as you can choose when to go. Does decent damage but also has the utility of mana recovery & AP + DP buffs & debuffs. Spell feels impactful as you explode when you crash into enemy mobs. Magma Bomb is technically a separate attack but included here because it skips the first half of the animation if comboed from here. 
+Flexible dash as you can choose when to go. Does decent damage but also has the utility of mana recovery & AP + DP buffs & debuffs. Spell feels impactful as you explode when you crash into enemy mobs. Magma Bomb is technically a separate attack but included here because it skips the first half of the animation if comboed from here. The 2nd part’s keybinding is fine as again it’s using the other hand rather than W + F > X or something like that.
 
 Flame’s Calling
 Delayed frontal AoE.
@@ -934,7 +949,7 @@ Super Armor.
 Some CC.
 More damage w/ pet out.
 
-Somewhat quick PBAoE. It has a short cooldown so can be weaved in twice in a combo. Used at the beginning because of the casting speed buff speeding up the rest of the combo. Visually it’s just a simple fire PBAoE, lacking any real oomph.
+Somewhat quick PBAoE. It has a short cooldown so can be weaved in twice in a combo. Used at the beginning because of the casting speed buff speeding up the rest of the combo. Visually it’s just a simple fire PBAoE, lacking any real oomph to match the name.
 
 Chilling Wave & Arne’s Guidance
 Long frontal AoE.
@@ -943,7 +958,7 @@ Forward Guard.
 
 Automatically combos into Arne’s Guidance for more damage.
 
-Animation is very long so you’re locked into place for a while making it risky. It does have some protection from the front but even then it’s still best used after another ability with CC. Crit rate buff means you want to use it at the beginning of a combo, but not first pre the above issue. Spell effects are a bunch of water splashes, nothing too crazy. With the water pet out it definitely looks more threatening with more waves than splashes.
+Animation is very long so you’re locked into place for a while making it risky. It does have some protection from the front but even then it’s still best used after another ability with CC. Crit rate buff means you want to use it at the beginning of a combo, but not first pre the above issue. Spell effects are a bunch of water splashes, nothing too crazy. With the water pet out it definitely looks more threatening with it being more waves than splashes.
 
 Bolide of Destruction
 Frontal slam AoE.
