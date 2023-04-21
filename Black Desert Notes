@@ -36,12 +36,12 @@ Being able to relocate AoEs with the blink during casting animations gives more 
 It did get a bit repetitive since I was just cycling through cooldowns and enemies don’t usually have enough time or health to react.
 Enemies that did survive I either smacked them down with autos while avoiding generic attacks or just dashed around until a cooldown came up.
 They’re also CC’d the majority of the time, lots of attacks have CC on them.
-Didn’t do any PvP since it’s not enabled until later level (never ran into anyone in the desert) so can’t really comment on it other than knowing it would feel bad on 200 ping.
-Backpedal = Forward Guard. Would rather it be similar to FFXIV’s legacy camera mode where backpedal = running backwards and then have the ability to use the block and move at the same time. Backpedal feels bad in most games.
+Didn’t do any PvP since it’s not enabled until later level (never ran into anyone in the desert) so can’t really comment on it other than knowing it would feel bad on 200+ ping.
+Backpedal = Forward Guard. Would rather it be similar to FFXIV’s legacy camera mode where backpedal = running backwards and then have the ability to use the block and move at the same time. Backpedal feels bad almost always in games.
 
 Awakening
 Personally, I didn't play as much Awakening since it came around pretty late and I was already used to Succession (+ getting a little bored of grinding). Also I don’t think it was out originally until later.
-Feels like it’s generally more PvP oriented as it has way more mobility and more CC related abilities (offensive and defensive).
+Feels like it’s generally more PvP oriented as it has way more mobility and more CC related abilities.
 This is reinforced by the fact that Awakening can augment 1 of 6 of their abilities to gain extra CC or become almost CC immune.
 
 For the abilities below, Prime is for Succession of the class and Absolute is for the Awakening. Absolute is always available to put points into, but Prime can only be levelled if Succession is chosen. There are small differences between the versions as well as different numerical values but they generally play the same.
@@ -54,7 +54,7 @@ Kyve Mastery
 Melee filler auto-attack chain.
 Recovers mana per hit.
 
-Just filler, not much else to be said about this. Damage is back loaded so somewhat punished if interrupted. Never really used the sprint / jump versions (jumping is kind of janky in this game). More interesting than regular auto-attacks and not as annoying as ESO’s light attack weaving. Towards “max” level I rarely used this as the other abilities would cycle, only ever using it if I messed up.
+Just filler, not much else to be said about this. Damage is back loaded so somewhat punished if interrupted. Never really used the sprint / jump versions (jumping is kind of janky in this game). They’re more involved than regular auto-attacks in FFXIV / WoW but not as annoying as ESO’s light attack weaving. Towards “max” level I rarely used this as the other abilities would cycle, only ever using it if I messed up.
 
 Ator’s Fist
 
@@ -62,7 +62,7 @@ Cone nuke, similar to Sett W.
 -DP on hit for enemy.
 Knockdown.
 
-Quick nuke which debuffs enemies to take more damage. Even quicker when used after another ability. Also CCs (a lot of abilities do). Not much to say, feels good to use since it’s fast and feels powerful with the oomph (knockdown from a summoned fist attack).
+Quick nuke which debuffs enemies to take more damage. Even quicker when used after another ability. Also CCs (a lot of abilities do). Feels good to use since it’s fast and feels powerful with the visual oomph (knockdown from a summoned fist attack).
 
 Spatial Fissure
 
@@ -71,7 +71,7 @@ Recovers mana per hit.
 Increased accuracy for 10s.
 Knockdown.
 
-Frontal AoE attack used for the accuracy buff & mana recovery. Not sure how prevalent accuracy is, never noticed its effects while playing. Probably more important in the endgame or PvP. Not as flashy as other attacks but gets the job done. Majority of abilities (at least for Sage) are AoE nukes so comments on them are gonna be similar.
+Frontal AoE attack used for the accuracy buff & mana recovery. Not sure how prevalent accuracy is, never really noticed its effects while playing. Probably more important in the endgame or PvP. Not as flashy or visually impactful as other attacks. Majority of abilities (at least for Sage) are AoE nukes so comments on them are gonna be similar.
 
 Gravity Rift
 
@@ -80,7 +80,7 @@ Heal per hit.
 Sucks in then knocks down.
 Forward Guard (block damage and CC from front up to a certain amount).
 
-Nothing really sets this particular attack apart from the others except maybe the mini heal (3.7k HP at level 60, healing usually via pots). Pulling CC isn’t as useful as it sounds since enemies are going to be running at you anyway. Doesn’t even work for PvP, possibly dead skill.
+Nothing really sets this particular attack apart from the others except maybe the mini heal (3.7k HP at level 60, healing usually via pots). Pulling CC isn’t as useful as it sounds since enemies are going to be running at you anyway. Doesn’t even work for PvP, possibly filler skill while levelling (level in tooltip is for the max version).
 
 Void Gateways
 
@@ -89,7 +89,7 @@ Guaranteed crit.
 Knocks up.
 Forward Guard.
 
-Big nuke (guaranteed crit) but very slow, so best used while enemies are CC’d. Great for the end of a combo. Visually could use more oomph as the “arrows” kind of fizzle out.
+Big nuke (guaranteed crit) but very slow, so best used while enemies are CC’d. Great for the end of a combo. Visually could use more oomph as the “arrows” kind of fizzle out but the buildup makes it look like it’s going to hit like a truck (which it does).
 
 Ator’s Mark
 
@@ -104,7 +104,7 @@ Can be empowered by Black Spirit, making it stronger at the cost of rage.
 
 Animation can be skipped by using any skill then following up with this one.
 
-This one feels great since the animation windup can be removed by using another skill beforehand. Basically a big fist punching down so it looks and feels (guaranteed crit + bound) like a big hit. Also debuffs the enemy but again not sure how impactful it is with the content I did.
+This one feels great since the animation windup can be removed by using another skill beforehand, making it feel more combo-y and action-y. Basically a big fist punching down so it looks and feels (guaranteed crit + bound) like a big hit. Also debuffs the enemy evasion but again not sure how impactful it is with the content I did.
 
 Illusion Compression
 
@@ -124,7 +124,7 @@ Ghosting.
 
 Can be chained w/ Form Recall (hold down RMB) which is the same thing except returns to original location.
 
-Shoulder tackle that does good damage & CCs and can be doubled up on. Funny to see but the mobility & utility makes it feel good to use (also almost-CC-immune, don’t think PvE mobs have grabs).
+Shoulder tackle that does good damage & CCs and can be doubled up on. Funny to see a “caster” tackling something but the mobility & utility makes it feel good to use (also almost-CC-immune, don’t think PvE mobs have grabs).
 
 Illusion Expansion & Illusion Detonation
 
@@ -134,7 +134,7 @@ Stagger on hit.
 
 Can be comboed into Illusion Detonation (hold down F) for a finisher for more damage and a knockdown.
 
-AoE which gives a damage buff & activation speed (still not sure what the difference between that and casting speed is). Also slightly CCs enemies. Mostly just an attack with the damage buff. Naturally combo’s into more damage and a knockdown by holding down F which was used in the original ability, intuitive button choice.
+AoE which gives a damage buff & activation speed (still not sure what the difference between that and casting speed is). Also slightly CCs enemies. Can be used to apply or maintain the damage buff, so used at the beginning or middle of combos. Naturally “combos” into more damage and a knockdown by holding down F which was used in the original ability, intuitive button choice & easy to not mess up.
 
 Spatial Collapse & Finishing Touch
 
@@ -147,7 +147,7 @@ Forward Guard.
 
 Can be comboed w/ Finishing Touch (hold LMB) for more damage and also knocks up.
 
-Large & strong but slow attack so it should be used when pulling or ending a combo. Since it has the damage taken debuff, best used when pulling. Combos into more damage & a bit more utility with a knockup. Since it’s slow it’s easy to mess up and get interrupted so have to be careful when pulling, making sure it’s safe. Finishing Touch has a higher cooldown than Spatial Collapse (17 vs 11) which makes it awkward. It’d be better if the cooldown was the same or increased to 22s for muscle memory purposes (use every combo or every 2). LMB to combo is fine as it’s on the mouse rather than say pressing E.
+Large & strong but slow attack so it should be used when pulling or ending a combo. Since it has the damage taken debuff, best used when pulling. Combos into more damage & a bit more utility with a knockup. Since it’s slow it’s easy to mess up and get interrupted so have to be careful when pulling, making sure it’s safe. Finishing Touch has a higher cooldown than Spatial Collapse (17 vs 11) which makes it awkward. It’d be better if the cooldown was the same or increased to 22s for muscle memory purposes (use every combo or every 2). LMB to combo is fine as it’s on the mouse rather than say pressing X.
 
 Ator’s Energy & Atomagia
 
@@ -174,7 +174,7 @@ Long animation but can be skipped.
 Super Armor.
 Stagger then Stun.
 
-Big. Damage. Replaces another skills keybinding so it’s almost like the game wants you to use this instead? Has a slow animation but can be cancelled by using another skill beforehand. Looks very cool and flashy (opens 2 portals and a bunch of projectiles go between finishing with a final explosion) so the animation matches the number of hits, making it feel right.
+Big. Damage. Replaces another skills keybinding so it’s almost like the game wants you to use this instead. Has a slow animation but can be cancelled by using another skill beforehand. Since damage is its main draw, use it at the end of a combo after buffs and debuffs have been applied. Looks very cool and flashy (opens 2 portals and a bunch of projectiles go between finishing with a final explosion) so the animation matches the number of hits.
 
 Optimization
 
@@ -184,7 +184,7 @@ Crit Rate.
 Crit Damage.
 Super Armor.
 
-I mean it’s a damage buff. For PvP could also be doubled up as an almost-CC-immune button.
+A damage buff. For PvP could also be doubled up as an almost-CC-immune button.
 
 Spear Bolt
 
@@ -194,7 +194,7 @@ Guaranteed crit.
 Forward Guard.
 Invincible (immune to everything) while dashing (more of a blink).
 
-Feels thematically kind of random, and that’s because it’s from the Awakening’s aesthetic (lightning Pantheon, with the same amount of clothing which is almost none). Jumping around always feels good and this is no different. Also has a damage buff so put this at the beginning of combos.
+Feels thematically kind of random, and that’s because it’s from the Awakening’s aesthetic (lightning Pantheon with the same amount of clothing, which is almost none). Jumping around the field always feels good and this is no different. Also has a damage buff so put this at the beginning of combos.
 
 Rift Storm
 
@@ -202,7 +202,7 @@ PBAoE
 Guaranteed crit.
 Super Armor.
 
-Big damage attack which is easy to aim since it’s PBAoE, just reposition yourself with the blink (below). Doesn’t do anything else except damage.
+Big damage attack which is easy to aim since it’s PBAoE, just reposition yourself with the blink if needed (below). Doesn’t do anything else except damage so slap it at the end of combos.
 
 Illusion Barrier
 
@@ -212,7 +212,7 @@ Channelled frontal block, using Forward Guard (so will be broken after X damage)
 
 Big mana recovery on block.
 
-As mentioned above, it would feel better if you could move during this, even at a slower speed. Backpedalling already gives you Forward Guard. Other than that, big mana recovery on hit feels good as watching the mana bar go up gives good brain juices, even if it rarely goes down too far.
+As mentioned way above, it would feel better if you could move during this, even at a slower speed. Backpedalling already gives you Forward Guard. Other than that, big mana recovery on hit feels good as watching the mana bar go up gives good brain juices, even if it rarely goes down too far.
 
 Reset
 
@@ -241,7 +241,7 @@ Ranged attack.
 Slow.
 Uses stamina for some reason.
 
-Weaker than most attacks and a bunch of them have CC attached to them already, don’t really see any point in this skill. Have been recommended to lock this skill (disable its keybinding) so it doesn’t mess up combos.
+Weaker than most attacks and a bunch of them have CC attached to them already, don’t really see any point in this skill. Also eats up stamina which will cause issues when you need to dodge. Have been recommended to lock this skill (disable its keybinding) so it doesn’t mess up combos.
 
 Realm of Anguish
 
@@ -328,9 +328,9 @@ Small damaging dash chained after most (?) skills. Can be used as a weapon swap.
 
 “After certain skills” ._.
 
-Seems to work on most skills, adding a lot more mobility. Can be used anytime if you have the stamina, cooldown is only for the stagger and the extra combo effects but I mostly just used it for extra mobility which feels nice since it’s quick. 
+Seems to work on most skills, adding a lot more mobility. Can be used anytime if you have the stamina, cooldown is only for the stagger and the extra combo effects but I mostly just used it for extra mobility which feels nice since it’s very quick. 
 
-Can also be used as a weapon swap from Succession to Awakening which is nice but optimised play seems to be just sticking to the 1 set.
+Can also be used as a weapon swap from Succession to Awakening which is nice but optimised play seems to be just sticking to the Awakening set.
 
 Seize
 A melee grab or ranged knockback.
@@ -340,19 +340,19 @@ Definitely a PvP ability as the grab is either redundant since everything else h
 Bolt
 A dash which can be chained with the Succession one. Both dashes count as a weapon swap.
 
-Awakening’s dash. Super low cooldown but is shorter than the Succession version. Also used to weapon swap between the 2 (since it can combo into the other dash) but it eats up your stamina since it has such a low cooldown. Same note about weapon swapping though.
+Awakening’s dash. Super low cooldown but is shorter than the Succession version. Also used to weapon swap between the 2 (since it can combo into the other dash) but it eats up your stamina since it has such a low cooldown. Same note as above about weapon swapping.
 
 Spear Bolt & Aftershock
 Functionally the same as the Prime version (throw spear then dash to target). Still has the damage buff. Also used as a weapon swap.
 
 Can hold down F to repeat up to 3 times total. Holding down F will also cause an Aftershock to combo, zapping the area.
 
-Pretty much the same as the Succession version but with extra uses for stamina cost by holding  F. A little disorienting with the repeated uses though since you’re going back and forth a lot. Can be comboed with Aftershock for extra damage by holding down F too, so it’s unintuitive if you want to dash once but also have the aftershock.
+Pretty much the same as the Succession version but with extra uses for stamina cost by holding  F. A little disorienting with the repeated uses though since you’re going back and forth a lot. Still used for mobility & damage buff. Can be comboed with Aftershock for extra damage by pressing F, so it’s unintuitive if you want to dash once but also have the aftershock since the button is the same, only difference is pressed or hold.
 
 Rift Storm
 Same as the Prime version (PBAoE) with a few number tweaks. Option to cancel out of it early with RMB.
 
-Like the Succession / Prime version, it’s just damage after a long-ish cast. Can cancel the animation if needed which is new; some added flexibility.
+Like the Succession / Prime version, it’s just damage after a long-ish cast so use it later in combos. Can cancel the animation if needed which is new; some added flexibility.
 
 Enlightening Bolt
 PBAoE then AoE in front. 
@@ -383,26 +383,26 @@ Can be comboed into Interrogate by holding down F or spamming LMB for more damag
 
 Looks really cool with spears raining down. Does lots of damage. Very long animation though so best used as a finisher.
 
-Can be comboed into Interrogate for more damage and bound CC but have to be wary that it’s extending an already long animation.
+Can be comboed into Interrogate for more damage and bound CC but have to be wary that it’s extending an already long animation; risk vs. reward.
 
 Impaling Flash
 Yi’s Alpha Strike.
 Default appear in between where you were and the enemy, or hold up / shift to go behind. Can also be cancelled out of any time with down.
 
-Even more mobility, but with the flexibility of choosing where to end near the enemy or just cancel it altogether depending on secondary input. Move speed debuff clearly for PvP. Can be a little disorienting since the camera snaps to each hit.
+Even more mobility, but with the flexibility of choosing where to end near the enemy or just cancel it altogether depending on secondary input. Move speed debuff clearly for PvP. Can be disorienting since the camera snaps to each hit.
 
 Ator’s Spear
 Spear from above.
 Evasion debuff on enemies.
 Knockdown.
 
-Quick attack from above which lowers enemy evasion and knocks down. Not much else to say really. Quite a few evasion & accuracy debuffs / buffs making it feel like the PvP spec (didn’t come up against any evasion based mobs when I played, maybe later?).
+Quick attack from above which lowers enemy evasion and knocks down. Quite a few evasion & accuracy debuffs / buffs making it feel like the PvP spec (didn’t come up against any evasion based mobs when I played, maybe later?).
 
 Radiant Annihilation
 Backhand slap then Viktor E laser.
 Accuracy buff.
 
-Backhand slap which is kind of funny. Gives accuracy buff. Also fires a lightning laser which is kind of cool, for more damage. Move speed debuff clearly for PvP. Animation is quick since it’s just the backhand that you’re locked in for.
+Backhand slap which gives an accuracy buff. Also fires a lightning laser which is kind of cool, for more damage. Move speed debuff clearly for PvP. Animation is quick since it’s just the backhand that you’re locked in for.
 
 Chain Lightning
 Ranged taser that zaps like the usual Chain Lightning. Spell effects don’t really have any oomph.
@@ -418,7 +418,7 @@ Can be spammed but won’t provide some bonuses while on cooldown.
 Crit rate buff.
 Stagger.
 
-Quick animation ranged nuke so it can be weaved pretty easily in combos more than once. Provides crit rate buff. Cooldown is long enough that weaving isn’t tedious but short enough that it feels action-y.
+Quick animation ranged nuke so it can be weaved pretty easily in combos more than once. Provides crit rate buff. Cooldown is long enough that weaving isn’t tedious but short enough that it feels action-y (can be spammed but not optimal).
 
 Awakening can also choose to augment 1 of 6 abilities to give them CC or Super Armor (almost CC immunity). Again, makes it seem like a PvP spec.
 Wizard Combat
