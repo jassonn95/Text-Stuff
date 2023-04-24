@@ -5,7 +5,8 @@ General
 Enjoyed the fact that any weapon can be levelled on any character. Since there are no classes, weapons are the replacement so technically any character can “multi-class”, no need for rolling alts.
 Looks pretty.
 Didn’t follow the story at all, mostly just frontier stuff and fighting different shades of zombie (on release).
-As mentioned, mobs were very similar. Most were zombies with different colour palettes. 
+Combat has the main features of an action MMO (stamina dodging, camera aiming vs. tab targeting) but it also has long animation locks which ruin the combat flow. Nothing about it makes it stand out from the others enough to ignore the drawbacks.
+As mentioned, mobs were very similar. Most were zombies with different colour palettes. Apparently it’s been spruced up.
 Audio feedback with levelling / gaining exp was really good, particularly noticeable when gathering.
 Storage originally was only accessible at that place, so if you wanted to get something you had to go there manually. This has since been changed to be connected.
 Travelling progressively got worse the deeper I got into the game. Maps got larger but still had to walk everywhere; no mounts.
@@ -15,14 +16,182 @@ This has been alleviated a little bit with the storage being accessible from any
 Cool that housing is instanced, but never got up to that point myself.
 Originally there was only 1 “Focus” weapon (for healers) so it felt pretty bad levelling since you always had 1 suboptimal weapon. Void gauntlet has since been added.
 Questing was the usual go to hub, collect quests, go out and collect bear arses and then come back. This includes the main story and the repeatable town ones.
-Combat.
 Originally getting into dungeons, the only instanced group content at the time, required a tedious process of getting a key / attunement. This is no longer required and you can finally do MMO stuff in an MMO.
 Originally, the starting zone was completely random and my friend and I were split up and had to meet up after doing the tutorial. Considering this is an MMO, it shouldn’t be splitting people up like that and should’ve had an option to start together (it took a good 10 minutes of travelling for me to reach my friend).
+No mini-map, only has the Elder Scrolls compass at the top.
+Gearsets were not available on release, but you get 2 for free now and if you want more, it’s microtransaction time!
+There’s flag-based open world PvP which I didn’t get into since I prefer structured PvP and the animations for spells made me feel like I’d be at a disadvantage anyway.
 
 Fire Staff Combat
+Auto-attacks are the weakest, dinkiest sounding blobs ever.
+Many of the spell effects are lacklustre.
+Meteor Shower actually killed the weapon for me with how unsatisfying it was; I straight up swapped to Life Staff because of it.
+Many animation locks or movement speed locks, makes it feel bad to use abilities.
 
+Abilities and their related passives will be highlighted red together.
+Skills will be listed in roughly top to bottom order of the skill tree:
+
+
+
+1 point needs to be spent in a row to access the next one.
+10 total points need to be spent in a tree to access the bottom skill.
+Both skill trees share skill points (20 total).
 
 Fire Staff Abilities
+Fire Mage
+
+
+Pillar of Fire
+Aimed circle AoE.
+Locked into casting walk speed for a couple of seconds after casting animation finishes.
+
+Simple AoE ability. The movespeed lock it puts you into after casting makes it feel bad to use, goes against the action-y nature of the game. Mana costs are negligible unless you’re spamming heals so there’s no management there.
+
+Strike The Match
+~smolder
+
+Arson’s Advantage
+
+Since mana isn’t an issue at all in this game, this passive is almost entirely useless. It’s effect is also very feast / famine in the sense that it’s overkill in AoE situations and (if mana were an issue) not worth spending an entire point on in single target situations.
+
+Spell Focus
+
+Heavy attacks are actually less DPS than light attack spam. It’s effectively only used to break blocks so there wouldn’t be much use out of this ability. Again, opportunity cost and mana isn’t an issue anyway. Could easily be in-built like ESO.
+
+Fiery Restoration
+
+This is a much better choice (not actually a choice between the 2, but limited points) for heavy attack augmentation as it allows you to cast the “good” abilities more often.
+
+Meteor Shower
+Aimed circle AoE with cast time.
+Dinkiest sound effects known to man.
+Zero (0) impactful hits, visual or audio.
+Spell effects and sounds end abruptly.
+Also locked into casting walk speed.
+
+Immolation
+
+
+
+Judgement of Helios
++smolder
+
+Fiery Determination
+
+
+
+Clear Mind
+
+
+
+Singe
++smolder
+
+Fireball
+Targeted lob of fire.
+Does not feel like a fireball at all, more like a blob of jelly. No oomph.
+
+Scorched Earth
++smolder
+
+Catch
+
+
+
+Spellslinger
+
+
+
+Clear Casting
+
+
+
+Prophet of a Fire God
+
+
+
+Flare
+
+
+
+Runes of Helios
+
+Pyromancer
+
+
+Flamethrower
+Channelled frontal AoE.
+Movement speed slowed while casting.
+NOT locked into casting walk speed after spell ends.
++smolder
+
+Fire’s Reach
+
+
+
+Infernal Flames
+
+
+
+Pyro Dancer
+
+
+
+Pyromania
+~smolder
+
+Incinerate
+PBAoE after a short cast animation.
+Locked into casting walk speed too after cast.
++smolder
+
+Scorched
++smolder
+
+Cauterize Wounds
+
+
+
+Flame Out
+
+
+
+Heat Up
++smolder
+
+Let It Burn
+~smolder
+
+Kindle
+~smolder
+
+Burnout
+After a cast time, dash forward.
+Locked into cast ending animation.
++smolder
+
+All In
+
+
+
+Heat It Up
+
+
+
+Watch It Burn
++smolder
+
+Trial By Fire
+
+
+
+Combat Speed
+
+
+
+Backdraft
+-smolder
+
 
 
 Life Staff Combat
