@@ -42,13 +42,14 @@ Fire Mage
 
 
 Pillar of Fire
-Aimed circle AoE.
+Ground targeted circle AoE.
 Locked into casting walk speed for a couple of seconds after casting animation finishes.
 
 Simple AoE ability. The movespeed lock it puts you into after casting makes it feel bad to use, goes against the action-y nature of the game. Mana costs are negligible unless you’re spamming heals so there’s no management there.
 
 Strike The Match
-~smolder
+
+Encourages management of a debuff which adds an extra layer to the combat. Not sure if this works with other people’s debuffs. Effect itself is just more damage, nothing too exciting but everyone likes bigger numbers.
 
 Arson’s Advantage
 
@@ -60,61 +61,71 @@ Heavy attacks are actually less DPS than light attack spam. It’s effectively o
 
 Fiery Restoration
 
-This is a much better choice (not actually a choice between the 2, but limited points) for heavy attack augmentation as it allows you to cast the “good” abilities more often.
+This is a much better choice (not actually a choice between the 2, but limited points = opportunity cost) for heavy attack augmentation as it allows you to cast the “good” abilities more often.
 
 Meteor Shower
-Aimed circle AoE with cast time.
+Ground targeted AoE with cast time.
 Dinkiest sound effects known to man.
 Zero (0) impactful hits, visual or audio.
 Spell effects and sounds end abruptly.
 Also locked into casting walk speed.
 
+It was so bad it turned me off of the weapon completely. It’s called Meteor Shower and what we got were a couple of pellets. AoE is far too small and everything about it is not impactful enough to want to use it, list above.That being said I do like it does damage in pulses, not projectiles like GW2 / old GP ult, RNG would’ve made it 100x worse.
+
 Immolation
 
-
+Like other mana related skills, it’s not that impactful since mana management isn’t really a thing. That being said, the red highlighted skills are linked so you need to access the first 2 to get access to the 3rd one (need to select this if you want Judgement of Helios for example).
 
 Judgement of Helios
-+smolder
+
+Like other smolder skills, it encourages management of debuff which adds another layer to the combat. That being said, this requires the previous skill to be taken AND requires you to use Meteor Shower (did I mention I don’t like that skill?).
 
 Fiery Determination
 
-
+Only really useful for PvP, in PvE you won’t get much use out of it if you position yourself correctly / have a tank. I do like that it explains what grit is in the tooltip.
 
 Clear Mind
 
-
+Encourages staying above 50% mana for more damage, it adds something else to manage. As mentioned before, mana isn’t really an issue so while the concept is decent, there isn’t much issue in maintaining it.
 
 Singe
-+smolder
+
+Makes auto-attacks less crappy and helps apply the debuff for other related skills (don’t think it refreshes duration). Other than that, it’s not really that exciting as this impacts auto-attacks mostly and they don’t feel that great to use.
 
 Fireball
 Targeted lob of fire.
 Does not feel like a fireball at all, more like a blob of jelly. No oomph.
 
+Pretty disappointing compared to other fireballs from other games; there’s no impactful explosion. Other than that it’s pretty stock standard but most of the fun from this type of skill is the explosion.
+
 Scorched Earth
 +smolder
 
+Again, it helps with applying the debuff. That being said, it’s starting to feel like these should be basekit so skill points could be freed up for something more interesting. Right now it’s a “if you’re using fireball, take it” kind of situation.
+
 Catch
 
-
+Direct hit requirement encourages good aim and while the mana isn’t that helpful, the cooldown reduction means abilities are used more often and they’re the interesting parts of the combat.
 
 Spellslinger
 
-
+Pretty boring but this falls in line with the +damage sentiment so it at least sometimes feels good.
 
 Clear Casting
 
-
+Much more interesting than the last skill as it rewards good positioning / dodging w/ damage.
 
 Prophet of a Fire God
 
-
+Same as Spellslinger, but for crit damage rather than crit chance.
 
 Flare
 
-
+Interesting option as it changes an attack to be AoE. Drawback doesn’t really matter in PvE as enemies are less likely to dodge.
 
 Runes of Helios
+
+Leylines / Rune of Power, can’t go wrong with it. Encourages you to stay in the circle which adds a layer of risk vs. reward. Interesting way to implement it as it’s attached to any fire staff ability rather than having a dedicated skill itself, saves on button bloat but also makes it a little clunky (requires a CD, some edge cases where you want it for your 2nd weapon for example).
 
 Pyromancer
 
@@ -123,41 +134,46 @@ Flamethrower
 Channelled frontal AoE.
 Movement speed slowed while casting.
 NOT locked into casting walk speed after spell ends.
-+smolder
+
+Feels exactly like a flamethrower does w/ the slowed movement speed. Interestingly NOT locked to the speed after casting ends like other skills for some reason. Makes it a little risky to use due to being short ranged and channelled but does DPS & apply debuff so risk vs. reward.
 
 Fire’s Reach
 
-
+Does exactly what it says. Not super impactful as it’s still ranged and the increase isn’t big enough for it to become a fully fledged ranged ability; mileage will vary with danger zone range cutoffs from enemy attacks, etc. Again, required for the below skills.
 
 Infernal Flames
 
-
+Damage increase, nothing more.
 
 Pyro Dancer
 
-
+Impact of cooldown related skills exponentially increases the higher it gets, and what’s higher than 100%? Changes the priority of skills and places this on top and also increases the importance of mana management.
 
 Pyromania
-~smolder
+
+Damage increase that’s slightly more involved. Not sure if it’s affected by other player debuffs or even what a “burn” is as that’s not mentioned in any of the fire staff skills.
 
 Incinerate
 PBAoE after a short cast animation.
 Locked into casting walk speed too after cast.
-+smolder
+
+Shorter range than the flamethrower, it’s even riskier to use. The knockback and the grit makes me believe this is a PvP ability and with the way the game is set up with no split between PvE and PvP, it feels like this has no real use in PvE, other than in some whacky edge case of a fire staff tank with the taunt option. Never tested tanking myself so not sure if it places you at the top of the threat table (or if there even is a threat table) or if it’s just a 3s taunt and then they return to attacking others afterwards. Knockback would also be very annoying in instanced PvE.
 
 Scorched
-+smolder
+
+More smolder application, other abilities and passives do it better. Again, required for the below passives.
 
 Cauterize Wounds
 
-
+Some pocket healing but shouldn’t be needed if there’s a healer, more of a PvP thing again.
 
 Flame Out
 
-
+Damage increase but effectiveness increases in AoE situations. Can be used as an opener for the buff but other abilities just seem better overall.
 
 Heat Up
-+smolder
+
+Another way of applying the debuff, this time through dodging rather than damaging. Dodging is one of the key points of action combat but not going to happen that often in instanced PvE as you shouldn’t be tanking.
 
 Let It Burn
 ~smolder
