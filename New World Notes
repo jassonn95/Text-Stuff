@@ -176,37 +176,42 @@ Heat Up
 Another way of applying the debuff, this time through dodging rather than damaging. Dodging is one of the key points of action combat but not going to happen that often in instanced PvE as you shouldn’t be tanking.
 
 Let It Burn
-~smolder
+
+This effect should have a 100% uptime since almost everything either applies smolder in its basekit or it has a passive that’s taken for one reason or another that does it. Helps with survivability but didn’t do much hard content (reached level 39 on release).
 
 Kindle
-~smolder
+
+Helps with uptime for smolder related effects. How it does so is just a duration increase, nothing involved. Choice to take depends on how often it’s applied from abilities (e.g. flamethrower has almost permanent uptime).
 
 Burnout
 After a cast time, dash forward.
 Locked into cast ending animation.
-+smolder
+
+It’s the only mobility option for fire staff but it’s clunky as hell with the cast time and animation lock at the end. Mobility (especially in an action combat game) should feel smooth to use otherwise it doesn’t feel as mobile. Also requires you to go through a hitbox to deal damage.
 
 All In
 
-
+While it’s not a bad passive (in fact it’s a better version of Fireball’s passive in terms of cooldown reduction), there is an opportunity cost and you have to use a janky ability and put yourself in danger to proc it, both in terms of ability slots (there are 3) and skill points.
 
 Heat It Up
 
-
+Makes it so you no longer have to go through a hitbox to deal damage (but still should for max value). Again, opportunity cost and you’re forced to use this ability.
 
 Watch It Burn
-+smolder
+
+Additional smolder application via crit. Thankfully it’s not an X% chance on crit like other games, layered RNG feels bad.
 
 Trial By Fire
 
-
+Cool concept for risk vs. reward being in melee range, but 30s cooldown for (assuming it ticks 5 times?) 100% weapon damage is very low; it’s 1 light auto-attack.
 
 Combat Speed
 
-
+Only other source of mobility for fire staff but not as janky. It’s only 10% and has at most a 50% uptime but we take what we can get. Activated on ability means you can save it for when you need it but also means it will be wasted a lot so mileage will depend on the encounter and how often you need to move.
 
 Backdraft
--smolder
+
+Cool concept that plays around smolder stacks but more often than not this is a damage loss. 5 stacks = 60% per tick per second, if 5 stacks are applied very quickly at the beginning then it’s a damage loss. Damage would have to be tweaked, stacks not consumed or effect is different like cooldown reduction.
 
 
 
