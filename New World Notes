@@ -34,8 +34,8 @@ Skills will be listed in roughly top to bottom order of the skill tree:
 
 
 1 point needs to be spent in a row to access the next one.
-10 total points need to be spent in a tree to access the bottom skill.
-Both skill trees share skill points (20 total).
+10 total points need to be spent in a tree to access the bottom skill. Can never get both of them because:
+Both skill trees share skill points (19 total).
 
 Fire Staff Abilities
 Fire Mage
@@ -216,8 +216,199 @@ Cool concept that plays around smolder stacks but more often than not this is a 
 
 
 Life Staff Combat
+Auto-attacks are still dinky, like the fire staff.
+Targeted heals felt awful to use. They can be either aimed or selected from the party list by scrolling, which snaps the camera. If you accidentally do both at the same time it’s very finicky.
+There are only 2 damaging abilities out of the 6, meaning if you’re levelling with this you’re forced to take them or auto attack the entire time you’re in life staff.
+Also has the casting movespeed locks, still annoying.
+Skills will be listed in roughly top to bottom order of the skill tree:
+
+
+
+1 point needs to be spent in a row to access the next one.
+10 total points need to be spent in a tree to access the bottom skill. Can never get both of them because:
+Both skill trees share skill points (19 total).
 
 Life Staff Abilities
+Healing
+
+
+Divine Embrace
+Ground targeted or player targeted single-target heal.
+Cast time.
+Casting movespeed lock at end of animation.
+
+Targeting is a little janky as you can either aim it or scroll through the party list with mouse wheel which will snap the camera. It’s a single target heal with both a cast time and the same movespeed lock.
+
+Privilege
+
+Simply a mana cost reduction. Better passives to take but as mentioned before, it’s required for the below linked passives.
+
+Shared Struggle
+
+Makes ability into a multi-target one but with the requirement that the main target is <50% and near the 2nd target. Janky + 2 conditionals makes it even jankier.
+
+Rebound
+
+Same as the above, but now requires both the 1st and 2nd to be <50% health and all 3 targets to be close. Janky to the extreme. Still, it’s the strongest multitarget burst heal out of the 6.
+
+Absolved
+
+Since heavy attacks are only really used to break guard, it’s not that useful. Only time this should be taken is if you want to go further down the skill try and don’t want to use Divine Embrace.
+
+Sacred Ground
+Ground targeted AoE healing field.
+Short cast animation.
+Casting movespeed lock at end of animation.
+
+Asylum / Healing Rain. AoE is somewhat small and it doesn’t move so you’re punished if you place it incorrectly due to the long cooldown. It also has no burst heal so needs to be used proactively rather than reactively. Has decent uptime though.
+
+Holy Ground
+
+Extra resource regen is always nice for more dodging / ability uses, the 2 good bits of action combat. Encourages standing in the small AoE so there’s some risk involved still if it’s misplaced.
+
+Anointed
+
+It’s a big increase in healing with a decent uptime, other games have this as a 2 minute cooldown. Same risk regarding AoE positioning applies.
+
+Mending Touch
+
+Don’t recall many debuffs that required cleansing, so can’t really judge how useful this is. Especially if it requires heavy attacking.
+
+Blissful Touch
+
+Must take, allows you to heal outside of the 3 abilities you can take. Gives you the choice of light attacking in life staff better if healing is needed, otherwise attack using your other weapon. Without it, light attacking with life staff is never the option.
+
+Splash of Light
+PBAoE heal.
+Long cast animation.
+Casting movespeed lock at end of animation.
+
+The only other burst AoE heal. Huge range and can’t be LoS’d. Its main issue is the huge windup and the usual lock at the end, meaning there’s a very big risk when using it.
+
+Shared Recovery
+
+Another way of managing mana rather than a flat mana cost reduction. Same note about mana management as the other mana related passives.
+
+Purify
+
+Same note about cleansing.
+
+Desperate Speed
+
+Cooldown reduction always feels good, with an ICD to prevent multi-target healing shenanigans. There is an HP threshold but that can always be adjusted if it’s too low or you can adjust your skills to have a burst option.
+
+Revitalize
+
+Even more cooldown reduction, makes light attacking even more of an attractive option. Must pick option since it’s effectively more HPS which means more time DPSing.
+
+Enchanted Justice
+
+No way 48% healing on a 2 minute cooldown is worth a skill point. It’s 3 light attacks worth if you take the other passive (which you should).
+
+Sacred Protection
+
+Basic +healing passive. Not much else to be said about it, there’s always the smaller basic options in skill trees.
+
+Intensify
+
+Adds another layer to the combat. Stacks most likely don’t refresh upon gaining them, but heavy attacks can still be thrown out before burst healing. There’s also a bunch of HoT abilities so if they’re retroactive, can also be used to affect them.
+
+Divine Blessing
+
+Another simple passive, but this time it’s stronger with an attached conditional so it makes sense that it’s stronger.
+
+
+Protector
+
+
+Orb of Protection
+Aimed projectile.
+Heals & increases armour of ally or damages enemy, whatever is hit first.
+No cast windup.
+Casting movespeed lock at end of animation.
+
+1 of 2 spells that also do damage, so naturally I took it while levelling. Can be used to cancel the animation of the light auto-attack so there’s some optimisation. By itself it’s pretty lacklustre but becomes much better with its passives.
+
+Protector’s Blessing
+
+Adds a HoT to the ability. Due to the low cooldown, this HoT is practically 100% uptime. Doesn’t fundamentally change how the ability is used since it should be used on cooldown for damage anyway, it builds upon what’s already there.
+
+Shared Protection
+
+Applies the beneficial buffs onto yourself. It’s not that useful by itself due to the following passive.
+
+Aegis
+
+Applies all beneficial effects to those in melee range of impact. Encourages everyone to be grouped together for max value. Healing, applying fortify & a HoT in an AoE and damaging an enemy in 1 button on a relatively low cooldown, it does it all.
+
+Bend Light
+
+Another increase-healing buff, this time on the dodge. Risk vs. reward as it uses up a dodge so you may get caught out.
+
+Defensive Light
+
+Awful. Probably a PvP option, but even then mana wasn’t that much of an issue. Requires things to be targeting you (more likely in PvP) and also to be melee and only gives you 5%.
+
+Beacon
+Aimed projectile.
+Damages enemies, attaches to the target w/ healing field that follows.
+No cast windup.
+Casting movespeed lock at end of animation.
+
+The 2nd damaging spell. Creates a healing field around the enemy it hits (or ground if you miss) that follows them for max uptime for melee. Also has the auto attack animation cancelling. Huge cooldown though; really wants the cooldown reduction passives.
+
+Infused Light
+
+More than doubles the area; gives more leeway for melee / short ranged to back off but still be healed.
+
+Radiance’s Blessing
+
+Duration increase. Nice to have but not that interesting.
+
+Speed of Light
+
+Can help with mechanics for players within the circle (who doesn’t like moving fast?). Nice to have but there’s the limit of 19 skill points.
+
+Protector’s Touch
+
+Makes you tankier just for auto-attacking. Not sure how important this is as again I only got up to level 39.
+
+Light’s Embrace
+Ground targeted or player targeted single-target heal.
+Cast time.
+Casting movespeed lock at end of animation.
+
+The other single target heal. It’s weaker than the other but can be stronger if you take the previously mentioned haste passive. Interesting scaling with the life staff buff portion but also locks you into that tree more since the other one doesn’t have buffs that affect others.
+
+Inspire
+
+Handy to have, 25 is nothing to scoff at and it’s also a low cooldown.
+
+Connection
+
+Mana still isn’t an issue and at most you’re probably going to get back like 10%. That said it is spammable so could be an option. Concept is interesting with its revolvement around buffs and buffs in general (not just your life staff ones).
+
+Magnify
+
+A cool concept but 2s is way too little to be impactful. I get that it’s because the spell itself has a low cooldown but the buffs from the orb already have 100% uptime anyway.
+
+Protector’s Strength
+
+Another heal increase which is applied in an interesting way, if it weren’t for the fact that you can have 100% uptime with the orb.
+
+Balance
+
+More of a PvP passive, not that useful in PvE where you either shouldn’t be getting hit or it’s an AoE hit which you should just top everyone off of.
+
+Spirits United
+
+3% is tiny, even if it affects multiple people. It should be stronger but with an additional condition like for X seconds upon ability cast or something.
+
+Glowing Focus
+
+Orb is 100% uptime without this, worthless. Even if it wasn’t, it’s not an entirely interesting passive either as it’s just a duration increase (don’t believe there’s a stat for buff duration like in GW2 for example).
+
+
 
 Ice Gauntlets Combat
 
