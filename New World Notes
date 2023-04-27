@@ -3,7 +3,7 @@ Please use this link for better formatting and images: https://docs.google.com/d
 New World Notes
 General
 Enjoyed the fact that any weapon can be levelled on any character. Since there are no classes, weapons are the replacement so technically any character can “multi-class”, no need for rolling alts.
-Looks pretty.
+Looks decent, nice lighting with the raytracing.
 Didn’t follow the story at all, mostly just frontier stuff and fighting different shades of zombie (on release).
 Combat has the main features of an action MMO (stamina dodging, camera aiming vs. tab targeting) but it also has long animation locks which ruin the combat flow. Nothing about it makes it stand out from the others enough to ignore the drawbacks.
 As mentioned, mobs were very similar. Most were zombies with different colour palettes. Apparently it’s been spruced up.
@@ -128,7 +128,6 @@ Runes of Helios
 Leylines / Rune of Power, can’t go wrong with it. Encourages you to stay in the circle which adds a layer of risk vs. reward. Interesting way to implement it as it’s attached to any fire staff ability rather than having a dedicated skill itself, saves on button bloat but also makes it a little clunky (requires a CD, some edge cases where you want it for your 2nd weapon for example).
 
 Pyromancer
-
 
 Flamethrower
 Channelled frontal AoE.
@@ -367,11 +366,11 @@ Duration increase. Nice to have but not that interesting.
 
 Speed of Light
 
-Can help with mechanics for players within the circle (who doesn’t like moving fast?). Nice to have but there’s the limit of 19 skill points.
+Can help with mechanics for players within the circle (who doesn’t like moving fast?). Nice to have but there’s the limit of 19 skill points. That being said, I found myself going for all haste related passives just to help with travelling because of how tedious it was.
 
 Protector’s Touch
 
-Makes you tankier just for auto-attacking. Not sure how important this is as again I only got up to level 39.
+Makes you tankier just for auto-attacking. Not sure how important this is as again I only got up to level 39 but it could be needed for harder content.
 
 Light’s Embrace
 Ground targeted or player targeted single-target heal.
@@ -411,203 +410,195 @@ Orb is 100% uptime without this, worthless. Even if it wasn’t, it’s not an e
 
 
 Ice Gauntlets Combat
+Also has dinky projectile effects for the autos.
+Gauntlet makes it look cooler than using a stick though.
+Still has the annoying casting movespeed locks.
+Skills will be listed in roughly top to bottom order of the skill tree:
 
+
+
+1 point needs to be spent in a row to access the next one.
+10 total points need to be spent in a tree to access the bottom skill. Can never get both of them because:
+Both skill trees share skill points (19 total).
 
 Ice Gauntlets Abilities
 Ice Tempest
 
+Ice Spikes
+Frontal line AoE.
+Backloaded damage.
+Flexibility in ending earlier for the bigger hit.
+Quick-ish animation.
+Casting movespeed lock at end of animation.
 
-Ice Tempest
-
-
-
+Pretty cool animation since you’re sort of slamming the ground and ice spikes come up in front of you. Most of the damage is at the end and there is an option to make it end earlier allowing flexibility and a bit of skill when aiming. Like almost all other spells, it still has that annoying movespeed lock at the end.
 
 Refreshing Spikes
 
-
-
+More rewards for hitting the big spike, this time with cooldown reduction = more uses = more dopamine hits.
 
 Empowered Spikes
 
-
-
+Even more rewards for hitting the big spike, adding an execute component. More damage in the form of raw damage + casts per second (previous passive).
 
 Deadly Path
 
-
-
+Makes the not big spike a bit better, but this feels more like a consolation prize in case you mess up or for the utility in PvP.
 
 Spiky Reach
 
-
-
+Adds more damage to the big spike again. Make it so you want to aim slightly to the left or right of the target to maximise damage or if you’re lucky and the hitbox is big enough you get 3 big hits. Effectiveness based on hitbox size never feels good due to the inconsistency. You can’t see the projectiles being fired either which is sort of weird.
 
 Cold Reach
 
 More damage on auto-attacks while staying within range. Shouldn’t be too far away anyway for healing so it’s just a damage increase in most scenarios.
 
-
 Critical Rejuvenation
 
-Mana management isn’t an issue and this requires a crit to proc anyway so it’s either not going to proc that often when you need it or proc too much and you’re capped with mana.
-
+Mana management isn’t an issue and this requires a crit to proc anyway so it’s either not going to proc that often when you need it or proc too much and you’re capped with mana. Would be better if it was more consistent & reliable, lower the value if needed.
 
 Ice Storm
+Ground targeted persistent AoE field.
+Cast animation.
+Casting movespeed lock at end of animation.
 
-
-
+Looks better than Meteor Shower but that bar is very low. Functionally it’s the same as Meteor Shower but with less damage and a slow attached. It looks like a storm albeit in a small AoE sound from afar it looks a little weird but other than that it does what it says it does. Just have to make sure you place it properly or say it’s for “zoning” after the fact.
 
 Weakening Gust
 
-
-
+More raw damage with a health threshold component. +Damage passive, nothing else.
 
 Storm Summoner
 
-
-
+Big mana cost reduction while at max mana, changes how you use your abilities a little to maximise efficiency. Mana isn’t really an issue though as previously mentioned.
 
 Punishing Storm
 
-
-
+More raw damage in AoE situations. +Damage passive for AoE, nothing else.
 
 Energized Critical
 
-Requires full stamina which isn’t always the case if you’re making use of dodge.
-
+Requires full stamina which isn’t always the case if you’re making use of dodge. Discourages dodging in favour of preemptively walking out of danger so there’s some risk vs. reward / fight knowledge involved.
 
 Wind Chill
+Channelled frontal AoE.
+Can move while casting; ice version of flamethrower.
+Casting movespeed lock at end of animation.
 
+It’s pretty much the ice version of flamethrower but with much less damage and more utility. Damage increased at the tip of the ability so some positioning is required for max DPS. The cooldown is far higher than flamethrower though so overall it does much less damage for very little gain. 
 
-
+Also able to be morphed into a tank ability with a taunt gem if needed?
 
 Enduring Chill
 
-
-
+Increases duration by 50% but is +50% of something that’s not good worth it?
 
 Chilling Blast
 
-
-
+More damage but again +25% of not a lot is still not a lot.
 
 Gathering Storm
 
 Mana management isn’t a thing. That said it’s an interesting concept since it requires 3 consecutive light attacks; adds a counting minigame in your head.
 
-
 Critical Frost
 
-Increased crit against enemies affected by 3 of your other abilities. Changes how combats go since you want to place those abilities first and then the heavy hitting ones.
-
+Increased crit against enemies affected by 1 of 3 of your other abilities. Changes how combats go since you want to place those abilities first and then the heavy hitting ones.
 
 Heavy Freeze
 
-
-
+Some extra CC utility which could be useful in later content since you only have 6 abilities and being forced to take up 1 slot for a lacklustre ability for CC doesn’t feel great.
 
 Ultimate Chill
 
 More damage for all ice gauntlet users is pretty sweet. 
 
-
 Builder
 
-
 Ice Pylon
+Plops down a turret, bit of an animation.
+Cooldown starts on Pylon end.
+Casting movespeed lock at end of animation but shorter than normal.
 
-
-
+Chose the word plop for a reason; the animation is very dumb. Instead of conjuring up a turret you plop one down that appeared out of nowhere in your hands. That aside it’s a turret that fires projectiles. It can be destroyed so there’s some counterplay / skill needed to make sure you don’t place it down somewhere bad. Option to end it early if needed for flexibility. Personally don’t like turrets / pets but the ice field portion (see below) is cool.
 
 Greater Pylon
 
-
-
+More damage on slowed targets (from other ice abilities). Just means that once the turret starts firing the other abilities should already be debuffing the target for max value.
 
 Pylon Regen
 
-
-
+This honestly should be basekit; big waste of a point.
 
 Pylon Dodge
 
-
-
+The increase is significant so risk vs. reward again for using dodges for damage. Anti-synergy with that other dodge passive though.
 
 Pylon Refresh
 
-
-
+In PvE situations this just means the duration is now 45s as enemies don’t dodge.
 
 Ultimate Frost
 
-
-
+Makes the ability a lot more interesting than just being a turret. The field actually covers an area now and acts as a pseudo Leylines / Rune of Power if you take the listed passives (see below). Same note for the fire rune applies to this passive.
 
 Blocking Stamina
 
-
-
+Can be used in niche cases for PvE. Only reason to pick it is if you want to go further down the tree but don’t want to use the turret or the passive below.
 
 Quick Frost
 
-
-
+Nice bit of utility to have but only 3 out of 6 ice abilities have the frosted area keyword. If you don’t use either of them then this passive is useless.
 
 Ice Shower
+Wide frontal persistent AoE field.
+No damage, CC only.
+Short animation.
+Casting movespeed lock at end of animation.
 
-
-
+CC ability on a big cooldown. Would fit more in a game with more than 3 abilities per weapon. The CC is very powerful though and it offers a lot of utility, so if CC is needed then the choice is to take this one. Can be used as a zoning tool or sneakily layering it on something that’s already CCd. More of a PvP skill.
 
 Enduring Shower
 
-
-
+Longer duration.
 
 Quick Shower
 
-
-
+Big chunk of movespeed when running through it. Even though it lasts for 2s I found myself using it for travel since it took forever to get anywhere.
 
 Frigid Showers
 
-
-
+Makes it more deadly for enemies to get hit by it.
 
 Empowered Frost
 
-
-
+Mana recovery in the frosted areas. If not using anything with frosted areas then don’t take. Only taken if wanting to get to Entombed without picking any of the other abilities.
 
 Entombed
+Ice Block.
+No cast time or cast animation speed locks.
 
-
-
+Classic Ice Block. It can be destroyed so there’s some counterplay / skill involved as well. There’s mana regen but again not really needed. Can cancel out of it for flexibility / repositioning if you used it in a bad spot. Can also use it to peel yourself for even more flexibility. The fact that it has health in PvE makes it feel less good to use, less opportunity to use it as an immune to outplay mechanics even if it’s super powerful.
 
 Strengthened Tomb
 
-
-
+Extra armour after breaking out, could help in a dire situation but most likely for PvP as you shouldn’t be tanking in PvE most of the time unless it’s some tank build.
 
 Cleansing Tomb
 
-
-
+Don’t know how many debuffs there are in PvE so I’m more inclined to think this is a PvP passive.
 
 Frozen Touch
 
-
-
+2 conditionals: melee & full health. This makes it very niche since you’re rarely ever going to proc this more than once. Could have made it have an ICD instead of having the health threshold or lowering it to >90% for some leeway as full health is very restrictive for an effect that’s not that powerful, except maybe in PvP.
 
 Refreshing Frost
 
-
-
+Big cooldown reduction while in frosted areas. Take if using them, otherwise don’t. More cooldown reduction = more abilities = more damage = more fun.
 
 Defiant Freeze
 
-
+Bit of armour when using abilities (there’s 3 per weapon). Definitely a PvP passive. Short duration means there’s some skill involved to make sure you have the buff for when hits come in. Don’t know how effective 20% is though.
 
 
 
