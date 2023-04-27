@@ -40,7 +40,6 @@ Both skill trees share skill points (19 total).
 Fire Staff Abilities
 Fire Mage
 
-
 Pillar of Fire
 Ground targeted circle AoE.
 Locked into casting walk speed for a couple of seconds after casting animation finishes.
@@ -109,7 +108,7 @@ Direct hit requirement encourages good aim and while the mana isn’t that helpf
 
 Spellslinger
 
-Pretty boring but this falls in line with the +damage sentiment so it at least sometimes feels good.
+Pretty boring but this falls in line with the +damage sentiment so it at least sometimes feels good when you do crit.
 
 Clear Casting
 
@@ -121,7 +120,7 @@ Same as Spellslinger, but for crit damage rather than crit chance.
 
 Flare
 
-Interesting option as it changes an attack to be AoE. Drawback doesn’t really matter in PvE as enemies are less likely to dodge.
+Interesting option as it changes an attack to be AoE. Drawback doesn’t really matter in PvE as enemies are less likely to dodge. Also more cooldown reduction from Fiery Restoration since it explicitly says -10% on hit.
 
 Runes of Helios
 
@@ -202,7 +201,7 @@ Additional smolder application via crit. Thankfully it’s not an X% chance on c
 
 Trial By Fire
 
-Cool concept for risk vs. reward being in melee range, but 30s cooldown for (assuming it ticks 5 times?) 100% weapon damage is very low; it’s 1 light auto-attack.
+Cool concept for risk vs. reward being in melee range, but 30s cooldown for (assuming it ticks 5 times) 100% weapon damage is very low; it’s 1 light auto-attack.
 
 Combat Speed
 
@@ -219,6 +218,7 @@ Auto-attacks are still dinky, like the fire staff.
 Targeted heals felt awful to use. They can be either aimed or selected from the party list by scrolling, which snaps the camera. If you accidentally do both at the same time it’s very finicky.
 There are only 2 damaging abilities out of the 6, meaning if you’re levelling with this you’re forced to take them or auto attack the entire time you’re in life staff.
 Also has the casting movespeed locks, still annoying.
+
 Skills will be listed in roughly top to bottom order of the skill tree:
 
 
@@ -229,7 +229,6 @@ Both skill trees share skill points (19 total).
 
 Life Staff Abilities
 Healing
-
 
 Divine Embrace
 Ground targeted or player targeted single-target heal.
@@ -413,6 +412,7 @@ Ice Gauntlets Combat
 Also has dinky projectile effects for the autos.
 Gauntlet makes it look cooler than using a stick though.
 Still has the annoying casting movespeed locks.
+
 Skills will be listed in roughly top to bottom order of the skill tree:
 
 
@@ -602,15 +602,12 @@ Bit of armour when using abilities (there’s 3 per weapon). Definitely a PvP pa
 
 
 
-Void Gauntlets Combat (TBP)
-
-Void Gauntlets Abilities (TBP)
-
 Sword & Shield Combat
 Light attacks are a 3 part combo, all cleave.
 Heavy attack is a charge stab.
-No attacks or abilities cost stamina while magic almost everything costs mana. Makes it feel like mana was just slapped on when they added magic weapons because they felt like they needed to add magic weapons in an MMO.
+No attacks or abilities cost stamina while magic almost everything costs mana. Makes it feel like mana and magic weapons were just slapped on because someone told them they had to add magic to the game.
 Was really boring: immobile & short-ranged as a melee and weak. Felt pretty bad levelling and dropped it after a couple of levels.
+
 Skills will be listed in roughly top to bottom order of the skill tree:
 
 
@@ -638,7 +635,7 @@ Makes a mediocre ability more spammable in AoE situations, but still not worth t
 
 Empowered Stab
 
-Use this before using damaging abilities. 5s might be just enough to use all other damaging abilities.
+Use this before using damaging abilities. 5s might be just enough to use all other damaging abilities, though likely won’t help that much since you’re more than likely tanking (and hence not building for damage).
 
 Achilles’ Heel
 
@@ -656,7 +653,7 @@ Feels like it’s fixing a problem that it creates itself (windup animation). At
 
 Tactician
 
-Huge cooldown reduction is always nice, even if it doesn’t affect itself.
+Huge cooldown reduction is always nice, even if it doesn’t affect itself. Especially when all the other abilities are >20s.
 
 Precision
 
@@ -679,15 +676,15 @@ Bit more damage via an execute threshold. Cooldown of ability is too high and da
 
 Cowardly Punishment
 
-Bit more soft CC, not really that impactful.
+Bit more soft CC, not really that impactful in PvE.
 
 Mobility
 
-Blocking is very slow, so +33% of something slow isn’t that impactful.
+Blocking is very slow, so +33% of a low speed is still low.
 
 Counter Attack
 
-Tanking = always have this up so it’s just a constant damage up buff, in PvE anyway.
+Tanking = always have this up so it’s just an almost constant damage up buff, in PvE anyway.
 
 Opportunist
 
@@ -712,7 +709,7 @@ Shield Rush
 Short dash forward.
 No animation lock.
 
-Shield’s dash. Gives a bit of mobility and some CC.
+Shield’s dash. Gives a bit of mobility and some CC. No animation locks on a mobility ability is a good sign.
 
 Improved Rush
 
@@ -729,7 +726,7 @@ Passive damage reduction.
 
 Sturdy Grip
 
-More stamina for blocking, more mitigation. Would be interesting to also see a “perfect block” passive somewhere too since it’s more involved rather than holding down RMB.
+More stamina for blocking, more mitigation. Would be interesting to also see a “perfect block” passive somewhere too since it’s more involved rather than just holding down RMB.
 
 Shield Bash
 Forward shield back hand.
@@ -738,20 +735,22 @@ Forward cleave with CC. Primarily used for taunting. Very short ranged though so
 
 Intimidating Bash
 
-Bit more damage and a bit more threat for tanking.
+Bit more damage and a bit more threat for tanking. Threat is already increased by taunt gems passively and the increase in damage is miniscule so not a very useful passive.
 
 Concussive Bash
 
-Bit more stun, primarily PvP.
+Bit more stun, primarily for PvP as bosses are immune to CC.
 
 Elemental Resistance
 
 Passive mitigation.
 ¯\_(ツ)_/¯
 
+Could be merged with the physical armour one honestly.
+
 Defensive Training
 
-More mitigation for blocking, helps with tanking.
+More mitigation for blocking, helps with tanking. Makes blocking more of a focus which it should since it’s what’s unique about this weapon set, or should be anyway.
 
 High Grip
 
@@ -776,9 +775,11 @@ Whilst the concept is cool, rewarding blocks again, it’s 1%.
 
 1%.
 
+Make it higher and give it an ICD, make it less crappy in single target situations just because it might go crazy in AoE ones.
+
 Final Blow
 
-Can help with threat but requires using the light attack combo.
+Can help with threat but requires using the light attack combo which is not that often (heavy attack = more damage passive).
 
 Invigorating Bulwark
 
@@ -792,9 +793,4 @@ Defensive Formation
 
 Nice defensive buff but it’s overshadowed by the offensive option. Also 3m range makes it very janky compared to applying it to everyone in the party.
 
-
-
-Greatsword Combat (TBP)
-
-Greatsword Abilities (TBP)
 
