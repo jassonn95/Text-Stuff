@@ -607,165 +607,190 @@ Void Gauntlets Combat (TBP)
 Void Gauntlets Abilities (TBP)
 
 Sword & Shield Combat
+Light attacks are a 3 part combo, all cleave.
+Heavy attack is a charge stab.
+No attacks or abilities cost stamina while magic almost everything costs mana. Makes it feel like mana was just slapped on when they added magic weapons because they felt like they needed to add magic weapons in an MMO.
+Was really boring: immobile & short-ranged as a melee and weak. Felt pretty bad levelling and dropped it after a couple of levels.
+Skills will be listed in roughly top to bottom order of the skill tree:
 
+
+
+1 point needs to be spent in a row to access the next one.
+10 total points need to be spent in a tree to access the bottom skill. Can never get both of them because:
+Both skill trees share skill points (19 total).
 
 Sword & Shield Abilities
 Swordmaster
 
+Whirling Blade
+Spinning slash, slight movement forward.
+Animation lock at end with a superhero pose.
 
+All melee attacks already cleave and this barely does more than an auto-attack on a 14s cooldown.
 
+Opportunity
 
+Apply a debuff on enemies hit so they take more damage. This honestly should be basekit since the base ability is so barebones.
 
+Tactical Strike
 
+Makes a mediocre ability more spammable in AoE situations, but still not worth taking really since it’s so lacklustre.
 
+Empowered Stab
 
+Use this before using damaging abilities. 5s might be just enough to use all other damaging abilities.
 
+Achilles’ Heel
 
+Requires the final part of the light attack combo to apply a debuff that’s not that helpful in PvE.
 
+Reverse Stab
+Slight windup into a stab. Slight dash forward.
+No animation locks.
 
+Attack itself is decent, higher damage than a heavy attack. Main reason to take it is the 2nd passive.
 
+Unstoppable Stab
 
+Feels like it’s fixing a problem that it creates itself (windup animation). Attacks being interrupted by damage (not CC, that makes sense) randomly feels awful and shouldn’t be in any game.
 
+Tactician
 
+Huge cooldown reduction is always nice, even if it doesn’t affect itself.
 
+Precision
 
++crit chance.
+¯\_(ツ)_/¯
 
+Freeing Justice
 
+Awkward to use since it requires a heavy attack (if the debuff is a slow it’ll be hard to land). It also only cleanses 1 debuff so it’s very low value.
 
+Leaping Strike
+Dash forward and stab.
+No animation locks.
 
+Mobility and some CC. Since there are only 3 ability slots and you’re most likely tanking with this weapon, can’t afford to let it take a slot. Again if all abilities were available it would feel better overall.
 
+Final Strike
 
+Bit more damage via an execute threshold. Cooldown of ability is too high and damage increase isn’t that much anyway.
 
+Cowardly Punishment
 
+Bit more soft CC, not really that impactful.
 
+Mobility
 
+Blocking is very slow, so +33% of something slow isn’t that impactful.
 
+Counter Attack
 
+Tanking = always have this up so it’s just a constant damage up buff, in PvE anyway.
 
+Opportunist
 
+Free damage increase, depending on weapons other people are using. Could be changed to CC’d instead of slowed to make it more consistent, lower the value if needed.
 
+Confidence
 
+Most likely not going to get much value while tanking. There aren’t any health shields from what I saw so uptime is very low. Maybe change it to be >90% or have it linger for X seconds so it could be played around a bit more easier rather than having random and rare “spikes” in damage (weapon itself doesn’t do much damage).
 
+Critical Precision
 
+Only really useful in PvP as mobs don’t run away or mechanics shouldn’t require movespeed to resolve.
 
+Leadership
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
++Damage for your entire party, huge value if a little boring.
 
 Defender
 
 
+Shield Rush
+Short dash forward.
+No animation lock.
 
+Shield’s dash. Gives a bit of mobility and some CC.
 
+Improved Rush
 
+Some AoE mitigation with decent uptime, helps with survival / tanking.
 
+Intimidating Rush
 
+Bit more CC, mostly for PvP. Some use out of it using the +damage on slowed targets passive I guess but shouldn’t be that valuable since you’re not going to be doing much damage anyway.
 
+Sturdy Shield
 
+Passive damage reduction.
+¯\_(ツ)_/¯
 
+Sturdy Grip
 
+More stamina for blocking, more mitigation. Would be interesting to also see a “perfect block” passive somewhere too since it’s more involved rather than holding down RMB.
 
+Shield Bash
+Forward shield back hand.
 
+Forward cleave with CC. Primarily used for taunting. Very short ranged though so might be a bit janky if there are a lot of enemies or if their hitboxes are big (where they don’t overlap and are too far away).
 
+Intimidating Bash
 
+Bit more damage and a bit more threat for tanking.
 
+Concussive Bash
 
+Bit more stun, primarily PvP.
 
+Elemental Resistance
 
+Passive mitigation.
+¯\_(ツ)_/¯
 
+Defensive Training
 
+More mitigation for blocking, helps with tanking.
 
+High Grip
 
+This really should be joined with the melee version.
 
+Defender’s Resolve
+Annoying animation plays before buff is applied.
 
+Big defensive cooldown with an annoying animation that can also taunt. The cooldown is absolutely massive though so you’ll practically be forced to take the stab for the cooldown reduction, which isn’t really good design if you only have 3 slots. Also just realised it only reduces base damage? Should just be the standardised total damage.
 
+Final Countdown
 
+Not sure why there’s a health restriction. If anything it should have a section if you’re less than 50% where it increases by even more.
 
+Restoration
 
+Decent heal to help top yourself off after tanking everything with the augmented taunt. Helps take pressure off healers.
 
+One With The Shield
 
+Whilst the concept is cool, rewarding blocks again, it’s 1%.
 
+1%.
 
+Final Blow
 
+Can help with threat but requires using the light attack combo.
 
+Invigorating Bulwark
 
+15 (or 30) stamina every 20s isn’t that useful considering stamina regens very quickly and is only used for blocking or dodging (unlikely since you’ll be fat-rolling).
 
+Recuperation
 
+Helps take pressure off healers. Less healing needed = more damage for them and less stress for everyone.
 
+Defensive Formation
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Nice defensive buff but it’s overshadowed by the offensive option. Also 3m range makes it very janky compared to applying it to everyone in the party.
 
 
 
