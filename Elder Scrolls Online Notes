@@ -23,13 +23,14 @@ Some skills require you to do PvP to unlock and level. Forcing people to do cont
 There are also skills locked behind story quests which isn’t as bad but still cumbersome.
 Gear has set bonuses for extra damage / stats / playstyle changes (extra healing when solo, more damage but only 1 weapon set), won’t be listing them as there are a lot.
 Skill points can be gained outside of levelling: builds are restricted to choosing your 12 active abilities + what morphs you want; you can practically take all passives (that apply).
-
-
 Destruction Staff Combat
 
 Destruction Staff Abilities
+
+
 Elemental Storm (Ultimate)
 Large ground targeted AoE field.
+
 Morphs into:
 More damage + more damage (fire), CC (ice) or increased duration (lightning).
 Or
@@ -37,14 +38,16 @@ PBAoE that follows you.
 
 Force Shock
 Single target beam.
+
 Morphs into:
-Interrupts, sets Off Balance and stuns.
+Interrupts, sets Off Balance (heavy attack +damage & knockdown + stun) and stuns.
 Or
 Hits 2 more targets if they have a status effect.
 
 Wall of Elements
 Frontal ground AoE field.
 Additional effect depending on what type of staff you have.
+
 Morphs into:
 Explodes on expiration, dealing damage.
 Or
@@ -52,6 +55,7 @@ Increases size & duration (extra 5s).
 
 Destructive Touch
 Single target attack w/ DoT + burning, chilled or concussed.
+
 Morphs into:
 Removes DoT for knockback (fire), less damage but more range + CC (ice) or AoE (lightning).
 Or
@@ -59,6 +63,7 @@ Increased range (28m).
 
 Weakness to Elements
 Single target resistance debuff.
+
 Morphs into:
 Burning, chilled or concussed every 7.5s + range.
 Or
@@ -66,6 +71,7 @@ Apply minor magickasteal debuff for 1m, restoring 168 magicka every  second when
 
 Impulse
 PBAoE + effects depending on staff.
+
 Morphs into:
 Ground targeted AoE.
 Or
@@ -94,6 +100,204 @@ Magicka recovery.
 Templar Combat
 
 Templar Abilities
+Aedric Spear
+
+Radial Sweep
+PBAoE nuke w/ DoT.
+
+Morphs into:
+Physical damage, + 4s duration + 2s for every enemy hit.
+Or
++60% damage to enemies in front.
+
+Puncturing Strikes
+Frontal channelled AoE w/ damage fall off.
+
+Morphs into:
+Physical damage w/ stamina cost + Major Brutality + Sorcery (+20% Weapon & Spell Damage stat).
+Or
+Heal for 33% of damage done.
+
+Piercing Javelin
+Single target ranged nuke + knockdown.
+
+Morphs into:
+Up to +40% damage depending on distance.
+Or
+Physical damage + stamina cost. Stun instead of knockback.
+
+Focused Charge
+Single target dash w/ CC.
+
+Morphs into:
+AoE damage + interrupt at target, +damage.
+Or
+Always stuns + Off Balance.
+
+Spear Shards
+Ground targeted AoE nuke + DoT field. Ally can restore resources near it.
+
+Morphs into:
+Restore both resources.
+Or
+Increased damage.
+
+Sun Shield
+PBAoE damage + self shield, value increasing per enemy hit.
+
+Morphs into:
+Reduced cost + more shield per hit.
+Or
+Damage on use -> on expiration, depending on how much it absorbed + radius.
+
+Piercing Spear
+More damage if any above abilities slotted.
+
+Spear Wall
+Slight tankiness when using any above abilities.
+
+Burning Light
+More damage not in the form of a stat increase.
+
+Balanced Warrior
+More damage stat + penetration.
+
+Dawn’s Wrath
+
+Nova (Ultimate)
+Ground targeted AoE damaging field.
+Debuff, reducing their damage dealt.
+Ally can activate it to nuke + CC area.
+
+Morphs into:
+Ally does more damage + stuns longer.
+Or
+-10% cost + debuff lingers for 10s.
+
+Sun Fire
+Single target nuke + DoT.
+Self buff, increasing all crit chance.
+
+Morphs into:
+Increased duration.
+Or
+Hits 2 more targets + slows.
+
+Solar Flare
+Single target nuke.
+Self buff, increasing heavy attack damage.
+
+Morphs into:
+-cost, AoE -healing debuff.
+Or
+Pulsing PBAoE.
+
+Backlash
+Single target nuke + Zed ult debuff.
+
+Morphs into:
+Heal puddle after pop under enemy.
+Or
+Physical damage + stamina cost & -armour debuff.
+
+Eclipse
+Single target debuff.
+CCs every time they try to attack.
+
+Morphs into:
+Self buff instead, healing every time you get hit (0.5s ICD) + melee are slowed.
+Or
+Damages around attack every proc.
+
+Radiant Destruction
+Single target channelled damage.
+Execute component.
+
+Morphs into:
+Heal for 20% of damage dealt.
+Or
+Up to 500% damage instead of 480%.
+
+Enduring Rays
+Increased DoT duration from this tree.
+
+Prism
+Ultimate resource generation.
+
+Illuminate
++Spell damage party buff.
+
+Restoring Spirit
+Resource management assistance.
+
+Restoring Light
+
+
+Rite of Passage (Ultimate)
+Channelled PBAoE heal.
+Cannot move.
+
+Morphs into:
+Self buff, reducing damage taken.
+Or
+Double duration + can move at slow speed.
+
+Rushed Ceremony
+Self heal or ally in front, prioritising lowest HP.
+
+Morphs into:
+Refund 54% of cost if HP < 75% over 6s.
+Or
+Heal 2nd target for 33%.
+
+Healing Ritual
+PBAoE heal.
+
+Morphs into:
+Heal 1 ally outside of radius.
+Or
+Buff, +movespeed for all & -cost.
+
+Restoring Aura
+PBAoE buff, increase all regen.
+Personally always gain the benefits.
+
+Morphs into:
+Increased radius & duration.
+Or
+No longer grants party buff, consume corpses for HP & stamina.
+
+Cleansing Ritual
+Self cleanse 2 debuffs, PBAoE HoT.
+Ally can activate to cleanse all debuffs + heal.
+
+Morphs into:
+Area damages enemies who enter (increasing over duration), no longer heals allies. Reduced cost.
+Or
+Increased duration + # of self cleanses.
+
+Rune Focus
+Leylines / Rune of Power, sort of. Become tankier + heal instead of doing more damage.
+
+Morphs into:
+Increased duration + also regen magicka.
+Or
+Increased healing + also regen stamina.
+
+Mending
+More healing the lower allies are.
+
+Sacred Ground
++Healing buff & block amount buff from standing in persistent positive AoE from abilities from tree.
+
+Light Weaver
++Ultimate generation.
+Super resistance using healing ultimate.
+
+Master Ritualist
+Rez utility buffs.
+
+
 
 Sorcerer Combat
 
