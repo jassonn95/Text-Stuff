@@ -28,6 +28,66 @@ Skill points can be gained outside of levelling: builds are restricted to choosi
 Destruction Staff Combat
 
 Destruction Staff Abilities
+Elemental Storm (Ultimate)
+Large ground targeted AoE field.
+Morphs into:
+More damage + more damage (fire), CC (ice) or increased duration (lightning).
+Or
+PBAoE that follows you.
+
+Force Shock
+Single target beam.
+Morphs into:
+Interrupts, sets Off Balance and stuns.
+Or
+Hits 2 more targets if they have a status effect.
+
+Wall of Elements
+Frontal ground AoE field.
+Additional effect depending on what type of staff you have.
+Morphs into:
+Explodes on expiration, dealing damage.
+Or
+Increases size & duration (extra 5s).
+
+Destructive Touch
+Single target attack w/ DoT + burning, chilled or concussed.
+Morphs into:
+Removes DoT for knockback (fire), less damage but more range + CC (ice) or AoE (lightning).
+Or
+Increased range (28m).
+
+Weakness to Elements
+Single target resistance debuff.
+Morphs into:
+Burning, chilled or concussed every 7.5s + range.
+Or
+Apply minor magickasteal debuff for 1m, restoring 168 magicka every  second when damaging.
+
+Impulse
+PBAoE + effects depending on staff.
+Morphs into:
+Ground targeted AoE.
+Or
+Apply minor mangle debuff, reducing non-boss HP + triple chance of applying burning, chilled or concussed.
+
+Tri Focus
+Enhances staff heavy attacks.
+
+Penetrating Magic
+Passive resistance penetration.
+
+Elemental Force
+Double status effect application.
+
+Ancient Knowledge
+Fire: more single target damage.
+Lightning: more AoE damage.
+Ice: easier tanking.
+
+Destruction Expert
+Magicka recovery.
+
 
 
 
