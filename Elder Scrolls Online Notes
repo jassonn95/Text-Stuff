@@ -23,6 +23,8 @@ There are also skills locked behind story quests which isn’t as bad.
 Gear has set bonuses for extra damage / stats / playstyle changes (extra healing when solo, more damage but only 1 weapon set), won’t be listing them as there are a lot.
 Skill points can be gained outside of levelling: builds are restricted to choosing your 12 active abilities + what morphs you want; you can practically take all passives (that apply).
 Destruction Staff Combat
+Light attack is this forward jab of the staff and a projectile flies out, looks a little dinky.
+Heavy attack 
 
 Destruction Staff Abilities
 
@@ -498,13 +500,27 @@ QoL: shows you what the current bonus is.
 
 
 Miscellaneous
-Everything else that’s not as in depth since I didn’t play it long enough or only use very specific things from the tree.
+Everything else that’s not as in depth since I didn’t play it long enough or only used 1 or 2 skills.
 Two Handed
 Auto-attacks feel much better than staff, but that’s only because I don’t like the staff animation of jabbing forward and having a projectile come out.
 Heavy attack feels like it takes a very long time.
 Only took the Critical Charge ability, which is a gapcloser w/ guaranteed crit and the morph which cleaves target and leaves a DoT field at the cost of more stamina.
-Relevant passives are cleave on autos, sword = +damage stat / axe = +crit damage / mace = +armour pen, reduced cost for 2H abilities, heavy attack = +10% damage buff on next attack & +stamina recovery after killing a target. All relate to more damage or resource recovery = more abilities = more damage. All require 2H to be actively equipped.
+Relevant passives are: cleave on autos, sword = +damage stat (axe + mace too but I only used sword), reduced cost for 2H abilities, heavy attack = +10% damage buff on next attack & +stamina recovery after killing a target. All relate to more damage or resource recovery = more abilities = more damage. All require 2H to be actively equipped.
 Dual Wield
 Took this for Templar because the spammable is melee ranged and the passives for Dual Wield apply while it’s the active weapon.
 No abilities were taken since I was building a magicka build, so I don’t have a lot of stamina which is already reserved for Critical Charge above + dodging / blocking, etc.
-Relevant passives are
+Relevant passives are: +damage stat by % of off-hand, +damage stat for swords / +crit for daggers.
+Wanted to try having 2 different types of weapons on each bar to level 2 skill trees up in case I ever wanted to use them in the future.
+Light Armor
+Light armour is for magicka builds (+healing).
+Medium armour is for stamina builds.
+Heavy armour is for tanking.
+Light armour reduces magic damage taken, reduces stamina costs for dodging, sneaking, breaking free & bashing per light piece worn (applies to the below too).
+Light armour increases physical damage taken, cost of blocking & damage by bash.
+Slows are less effective & sprint cost is reduced.
+Magicka recovery is increased & magicka cost is decreased.
+Spell resistance, crit chance (both) and penetration (both) is increased.
+Active ability Annulment (requires 5 / 7 light armour equipped) converts magicka into a shield (old active Seraph). Can morph to increase shield amount by # light armour worn or recover magicka whenever damage is absorbed (up to 3 times).
+Went with light armour because I generally like magic based builds in games. Robes are ugly as heck so I covered them with outfits.
+Others
+Was recommended to add a couple of skills that either buff self or apply debuffs to enemies. However they didn’t really fit the general aesthetic I was going for (magic knight dude), recommended skills were bear traps or caltrops. Dawnbreaker is a better version of Radial Sweep, does the same thing but morphs to also increase weapon damage. Meteor is the same as Nova but morphs to gain ultimate for every enemy initially hit.
