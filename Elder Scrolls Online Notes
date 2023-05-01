@@ -95,7 +95,6 @@ Magicka recovery.
 
 
 
-
 Templar Combat
 
 Templar Abilities
@@ -113,7 +112,7 @@ Puncturing Strikes
 Frontal channelled AoE w/ damage fall off.
 
 Morphs into:
-Physical damage w/ stamina cost + Major Brutality + Sorcery (+20% Weapon & Spell Damage stat).
+Stamina ability (physical damage + stamina cost) + Major Brutality + Sorcery (+20% Weapon & Spell Damage stat).
 Or
 Heal for 33% of damage done.
 
@@ -123,7 +122,7 @@ Single target ranged nuke + knockdown.
 Morphs into:
 Up to +40% damage depending on distance.
 Or
-Physical damage + stamina cost. Stun instead of knockback.
+Stamina ability. Stun instead of knockback.
 
 Focused Charge
 Single target dash w/ CC.
@@ -183,13 +182,13 @@ Or
 Hits 2 more targets + slows.
 
 Solar Flare
-Single target nuke.
+Single target nuke, small cast time.
 Self buff, increasing heavy attack damage.
 
 Morphs into:
 -cost, AoE -healing debuff.
 Or
-Pulsing PBAoE.
+Instant pulsing PBAoE.
 
 Backlash
 Single target nuke + Zed ult debuff.
@@ -197,7 +196,7 @@ Single target nuke + Zed ult debuff.
 Morphs into:
 Heal puddle after pop under enemy.
 Or
-Physical damage + stamina cost & -armour debuff.
+Stamina ability & -armour debuff.
 
 Eclipse
 Single target debuff.
@@ -301,6 +300,211 @@ Rez utility buffs.
 Sorcerer Combat
 
 Sorcerer Abilities
+Daedric Summoning
 
-Miscellaneous Abilities
+Summon Storm Atronach (Ultimate)
+Ground targeted turret pet spawn.
+Ally can activate it to give damage buff.
 
+Morphs into:
++HP, +damage.
+Or
+AoE damage + applies Concussion.
+
+Summon Unstable Familiar
+Summon gremlin looking (ugly) melee pet.
+Use again while summoned for magicka and pulsing AoE around the pet.
+Swapping weapons = despawn unless also slotted in the same slot on the 2nd bar!
+
+Morphs into:
+Physical damage raptor. Activation = heal but no damage.
+Or
+AoE pulse has stun.
+
+Daedric Curse
+Single target nuke, explodes for AoE after delay.
+
+Morphs into:
+Cheaper + pets do more damage to mark.
+Or
+Additional explosion for the same damage 8.5s later.
+
+Summon Winged Twilight
+Summon ugly ranged pet.
+Use again while summoned for magicka and heals 1 ally + self.
+
+Morphs into:
+More passive damage, activation = +60% damage against >50% HP targets, no heal.
+Or
+Activation = additional target is healed.
+
+Conjured Ward
+Damage shield for self + pets.
+
+Morphs into:
+Bigger shield + bigger cap.
+Or
+Cheaper, longer duration + buffs allies w/ magicka + stamina regen.
+
+Bound Armor
+Self buff, passive + active (block) damage mitigation increase.
+Passively +5% magicka.
+
+Morphs into:
+Stamina ability. No block mitigation. Auto attacks stock weapons. Activate = single target DoT. +stamina instead of magicka.
+Or
++Duration, passively give resistance self buff.
+
+Rebate
+Helps with resource management.
+
+Power Stone
+More ultimates!
+
+Daedric Protection
+Even more resource management help.
+
+Expert Summoner
+Survivability.
+
+Dark Magic
+
+Negate Magic
+Ground targeted AoE. Clears out and prevents all enemy AoE. Enemies are CCed.
+
+Morphs into:
+Damages enemies every second.
+Or
+Heals allies every second.
+
+Crystal Shard
+Single target nuke.
+Slightly reduces cost of next ability.
+
+Morphs into:
+Instant cast stamina ability. Next 2 auto-attacks deal bonus damage + reduce enemy armour.
+Or
+Abilities have a 33% chance of proc = instant cast, +66% damage, -50% cost.
+
+Encase
+Frontal AoE root w/ cost refund if missed.
+
+Morphs into:
+Damages at the end of root.
+Or
++Healing received buff on hit. +CC duration.
+
+Rune Prison
+Single target delayed CC.
+
+Morphs into:
+Damages at the end of the stun if it lasts the full duration.
+Or
+2m self buff. Next enemy to hit you is stunned after the delay.
+
+Dark Exchange
+HP & MP at the cost of stamina, cast time.
+
+Morphs into:
+MP cost for HP & stamina.
+Or
+Increased HP & MP restored.
+
+Daedric Mines
+Spawn traps around self which damage + CC.
+
+Morphs into:
+Ground targeted instead of around self. Arms instantly.
+Or
+5 mines instead of 3.
+
+Unholy Knowledge
+Helps with resource management.
+Core = block, dodge, breaking free, bash, sprint & sneak (common to all classes).
+
+Blood Magic
+Sustain.
+
+Persistence
+Even more resource management help.
+
+Exploitation
+Spell crit chance party buff.
+
+Storm Calling
+
+Overload (Ultimate)
+Self buff, enhances auto-attacks.
+
+Morphs into:
+Light gets more range, heavy gets a bigger radius. +damage.
+Or
+Auto-attacks restore magicka & stamina.
+
+Mage’s Fury
+Single target nuke. Going below HP threshold nukes again in an AoE.
+
+Morphs into:
+AoE deals same damage as single target.
+Or
+-Cost, refund cost if target dies.
+
+Lightning Form
+Self buff, PBAoE pulsing damage & resistance.
+
+Morphs into:
+Stamina ability. Grows in size & damage the longer it is active. +minor movespeed buff for the whole duration.
+Or
++Duration. +big movespeed buff for a couple of seconds.
+
+Lightning Splash
+Ground targeted pulsing AoE.
+Ally can activate to nuke area.
+
+Morphs into:
+Increased duration.
+Or
+Increased radius & damage.
+
+Surge
+Self buff, increased damage stat. Crit damage heals self.
+
+Morphs into:
+Crit heals proc AoE heal around self, longer cooldown.
+Or
+Increased healing.
+
+Bolt Escape
+Blink forward, CC at location. Spam = higher cost.
+
+Morphs into:
+Damages & stuns between start & end.
+Or
+No stun. Slow & root immunity after cast. End point blocks a projectile every second for 3s.
+
+Capacitor
+Helps with resource management.
+
+Energized
+More damage.
+
+Amplitude
+More damage the higher HP they are.
+
+Expert Mage
+More damage w/ ability conditional.
+QoL: shows you what the current bonus is.
+
+
+
+Miscellaneous
+Everything else that’s not as in depth since I didn’t play it long enough or only use very specific things from the tree.
+Two Handed
+Auto-attacks feel much better than staff, but that’s only because I don’t like the staff animation of jabbing forward and having a projectile come out.
+Heavy attack feels like it takes a very long time.
+Only took the Critical Charge ability, which is a gapcloser w/ guaranteed crit and the morph which cleaves target and leaves a DoT field at the cost of more stamina.
+Relevant passives are cleave on autos, sword = +damage stat / axe = +crit damage / mace = +armour pen, reduced cost for 2H abilities, heavy attack = +10% damage buff on next attack & +stamina recovery after killing a target. All relate to more damage or resource recovery = more abilities = more damage. All require 2H to be actively equipped.
+Dual Wield
+Took this for Templar because the spammable is melee ranged and the passives for Dual Wield apply while it’s the active weapon.
+No abilities were taken since I was building a magicka build, so I don’t have a lot of stamina which is already reserved for Critical Charge above + dodging / blocking, etc.
+Relevant passives are
