@@ -9,7 +9,7 @@ Crafting is time gated. Need to learn how to craft certain parts of gear and eac
 Mount training (speed, stamina, storage) is also time gated daily.
 Storage for crafting materials is membership only. Paying for convenience is a bit annoying since there’s so many random crafting mats. Could at least make it like GW2 and have a small amount of each material for free and then membership increases it.
 Spoilt by FFXIV with having all classes on 1 character, really miss that since I end up creating either 1 character but cloning it for other classes (GW2), using almost default presets for the non main classes (BDO) or just not having more than 1 class (WoW).
-There’s a shared levelling system once you reach max level between each character, but personally would’ve preferred to be able to do everything on 1 character like in FFXIV and Skyrim, its technical predecessor. Especially since I’m a bit of a completionist and want to clear the map. Holy moly there’s too many things on each map.
+There’s a shared levelling system once you reach max level between each character, but would’ve preferred to be able to do everything on 1 character like in FFXIV or Skyrim. I’m a completionist and want to clear the map (there’s a LOT of stuff to clear on each map).
 Weapon / armour skills are the same for all classes anyway so having all classes on 1 character should’ve been an option (where you can only change between classes in sanctuaries / outside of instances).
 Awful loot boxes and FOMO cash shop, gross.
 No mini-map, only Skyrim compass (without add-ons). Add-ons need to be up to date.
@@ -22,28 +22,37 @@ Some skills require you to do PvP to unlock and level. Forcing people to do cont
 There are also skills locked behind story quests which isn’t as bad.
 Gear has set bonuses for extra damage / stats / playstyle changes (extra healing when solo, more damage but only 1 weapon set), won’t be listing them as there are a lot.
 Skill points can be gained outside of levelling: builds are restricted to choosing your 12 active abilities + what morphs you want; you can practically take all passives (that apply).
+Tooltips are detailed in that they provide cast times, targeting type, range / radius, duration, cost, damage / heal, etc.
+Market boards are separate per town. I’m not travelling and checking each town market board, the heck.
 Destruction Staff Combat
 Light attack is this forward jab of the staff and a projectile flies out, looks a little dinky.
-Heavy attack 
-
+Fire & ice heavy attack charges a bunch of projectiles which home in on target. Lightning heavy attack is a back loaded channelled beam. All 3 recover magicka at the end, which is the primary use of heavy attacking.
+As mentioned before, I don’t enjoy staves when it’s actively being used (a conduit or focus that sits on the back or in hand is fine).
+Most abilities are AoE or DoTs with 1 spammable attack. This is the same for most weapons / class trees.
+There are differences between fire, lice & lightning staves: Fire is single-target, ice is tanking & CC & lightning is AoE.
+If you want a specific element, you’ll be locked into those specific effects which may or may not work for your build.
+Generally didn’t use most of the abilities since they didn’t really fit with my class / aesthetic of a magic knight warrior thingy.
 Destruction Staff Abilities
-
 
 Elemental Storm (Ultimate)
 Large ground targeted AoE field.
 
 Morphs into:
-More damage + more damage (fire), CC (ice) or increased duration (lightning).
-Or
+More damage + more damage (fire), roots (ice) or +duration (lightning).
+vs.
 PBAoE that follows you.
+
+Big AoE damaging field. Morphs are PvE vs. PvP since in PvE mobs usually run towards you / tank so it’s easier to keep them in the circle, whereas the 2nd morph will help more in PvP when chasing down.
 
 Force Shock
 Single target beam.
 
 Morphs into:
-Interrupts, sets Off Balance (heavy attack +damage & knockdown + stun) and stuns.
-Or
-Hits 2 more targets if they have a status effect.
+Interrupts, sets Off Balance (heavy attack = +damage & knockdown + stun) and stuns.
+vs.
+Hits +2 targets if they have a status effect.
+
+The spammable single-target ability for damage staff. 1st morph adds a little CC utility while the 2nd is pseudo AoE but requires prepping and is overall janky compared to an actual AoE ability.
 
 Wall of Elements
 Frontal ground AoE field.
@@ -51,24 +60,32 @@ Additional effect depending on what type of staff you have.
 
 Morphs into:
 Explodes on expiration, dealing damage.
-Or
-Increases size & duration (extra 5s).
+vs.
+Increases size & duration (+5s).
+
+Damaging AoE field, different effects depending on the staff. Debuffs for the conditionals are either from a % chance from auto-attacks or guaranteed from specific, non-spammable options (ultimates or an ability with a DoT attached so spamming it is inefficient).
+
+Morphs are a choice between damage or slight utility which wouldn’t be needed if aimed correctly. The 2nd option is overall less damage than the 1st, so it’s a non-choice.
 
 Destructive Touch
 Single target attack w/ DoT + burning, chilled or concussed.
 
 Morphs into:
 Removes DoT for knockback (fire), less damage but more range + CC (ice) or AoE (lightning).
-Or
+vs.
 Increased range (28m).
+
+Guaranteed debuff but not spammable due to being backloaded. Morphs are utility or range. Didn’t really use this much as it’s a single target DoT and there are better ones + AoE ones vying for the limited ability slots.
 
 Weakness to Elements
 Single target resistance debuff.
 
 Morphs into:
 Burning, chilled or concussed every 7.5s + range.
-Or
-Apply minor magickasteal debuff for 1m, restoring 168 magicka every  second when damaging.
+vs.
+Apply manasteal debuff for 1m, restoring magicka every second when damaging.
+
+Single-target debuff. Morphs are either not useful (1st) or are better off on a support class in boss type situations (2nd). Not many situations where long lasting single-target debuffs were useful in the open world.
 
 Impulse
 PBAoE + effects depending on staff.
@@ -78,24 +95,35 @@ Ground targeted AoE.
 Or
 Apply minor mangle debuff, reducing non-boss HP + triple chance of applying burning, chilled or concussed.
 
+Spammable AoE. It’s PBAoE so there’s some risk involved. Fire & lightning have damage effects whereas frost has a tanking effect.
+
+Morphs to be ranged or extra debuffs for mobs. Interesting to see morphs that change how the ability functions (1st). The 2nd morph is just a bunch of debuffs; some synergy with other abilities but again, I never really used staff abilities enthusiastically.
+
 Tri Focus
 Enhances staff heavy attacks.
+Fire does more damage.
+Lightning does AoE.
+Ice gives self shield, scaling with HP. Also makes blocking w/ ice staff cost Magicka.
+
+Passive reiterates the predetermined roles for each type of staff mentioned above: fire for single target, lightning for AoE and ice for tanking. Heavy attacking in general isn’t that effective compared to using a spammable > light attack > spammable so this passive just makes them less bad to use.
 
 Penetrating Magic
 Passive resistance penetration.
 
 Elemental Force
-Double status effect application.
+Doubles status effect application. Note that there’s no information on what the base chance of applying via auto-attacks is.
 
 Ancient Knowledge
 Fire: more single target damage.
 Lightning: more AoE damage.
 Ice: easier tanking.
 
+Same as the first passive above, enforcing the roles they were given.
+
 Destruction Expert
 Magicka recovery.
 
-
+More magicka = more abilities = more player agency & fun.
 
 Templar Combat
 
