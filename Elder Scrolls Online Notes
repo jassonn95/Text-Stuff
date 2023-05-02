@@ -135,7 +135,7 @@ That being said, using skills from other trees like weapons or guilds feels a bi
 Templar Abilities
 Aedric Spear
 
-Radial Sweep
+Radial Sweep (Ultimate)
 PBAoE nuke w/ DoT.
 
 Morphs into:
@@ -143,7 +143,7 @@ Physical damage, + 4s duration + 2s for every enemy hit.
 Or
 +60% damage to enemies in front.
 
-A low cost AoE w/ a DoT. 
+A cheap AoE w/ a DoT. Since it’s cheap it can be used often in the open world, but most mobs aren’t strong enough to warrant an ult. Morphs are stam (better vs. more mobs) vs. mag (by default, better for single target).
 
 Puncturing Strikes
 Frontal channelled AoE w/ damage fall off.
@@ -153,29 +153,39 @@ Stamina ability (physical damage + stamina cost) + Major Brutality + Sorcery (+2
 Or
 Heal for 33% of damage done.
 
+Spammable cleave. Channelled so stuck in the short animation (weird looking spear), a little risky and can miss for good damage. Morphs are stam vs. mag (by default) again. Stam gives a class common buff for more damage too. “Mag” option helps with survivability.
+
 Piercing Javelin
 Single target ranged nuke + knockdown.
 
 Morphs into:
 Up to +40% damage depending on distance.
 Or
-Stamina ability. Stun instead of knockback.
+Stamina ability. Stuns instead of knockback.
+
+Pretty useless in PvE as there are better ranged abilities and gap closers. A possible PvE morph would be it actually pierces and hits on the way but gets rid of the CC. Both morphs make it better at catching enemies out via more damage or CC.
 
 Focused Charge
-Single target dash w/ CC.
+Single target dash w/ conditional CC.
 
 Morphs into:
 AoE damage + interrupt at target, +damage.
 Or
 Always stuns + Off Balance.
 
+Gap closer that leans towards PvP w/ the CC. There are better gap closers since it’s single-target; won’t be as useful in PvE. Morphs to make it better for PvE w/ AoE or better in PvP with guaranteed CC.
+
 Spear Shards
 Ground targeted AoE nuke + DoT field. Ally can restore resources near it.
 
 Morphs into:
-Restore both resources.
+Ally restores both resources.
 Or
 Increased damage.
+
+Strong AoE w/ a strong animation (spear crashing down). Half nuke and half DoT. Synergy is obviously not useful when solo, but can help with sustain in groups even if the keybinding is a little awkward as X (between sheath and open character sheet).
+
+Morphs are more utility or do more damage. Better to specialise as pure support / healer or damage dealer due to crit multipliers.
 
 Sun Shield
 PBAoE damage + self shield, value increasing per enemy hit.
@@ -185,17 +195,29 @@ Reduced cost + more shield per hit.
 Or
 Damage on use -> on expiration, depending on how much it absorbed + radius.
 
+Self shield which gets stronger the more enemies you damage on activation, making it stronger against mob packs: flexible in offensive and defensive situations.
+
+Morphs are tankiness vs. damage, both getting stronger from hitting / getting hit = player agency to maximise effects.
+
 Piercing Spear
-More damage if any above abilities slotted.
+More damage if any above abilities slotted. Only affects the active bar (so min 2 abilities on each bar).
+
+Effectively just more passive damage as most builds use at least 2. Extra damage in PvP due to the blocking (mobs don’t block).
 
 Spear Wall
 Slight tankiness when using any above abilities.
 
+Active minor mitigation, w/ high uptime due to the spammable.
+
 Burning Light
-More damage not in the form of a stat increase.
+More damage that’s not in the form of a stat increase.
+
+Effectively extra burst of damage every 2s in combat since you should Always Be Casting. More interesting than a regular +X% damage.
 
 Balanced Warrior
 More damage stat + penetration.
+
+Simple stat increase.
 
 Dawn’s Wrath
 
@@ -209,14 +231,22 @@ Ally does more damage + stuns longer.
 Or
 -10% cost + debuff lingers for 10s.
 
+Big damaging field; literally a sun slamming down and burning. Debuff helps to survive but synergy is not that helpful when solo.
+
+Morphs are more party synergy or more utility. Makes this option not as attractive for solo players since you generally just want more damage or self buffs / enemy debuffs to kill quicker.
+
 Sun Fire
 Single target nuke + DoT.
 Self buff, increasing all crit chance.
 
 Morphs into:
-Increased duration.
++Duration for DoT (DPS is the same) & buff.
 Or
 Hits 2 more targets + slows.
+
+Simple single target DoT w/ crit buff. By itself is not that useful for solo most of the time but the crit buff can help other abilities.
+
+Morphs are more duration (and hence damage) vs. AoE. DoT lasting 20s makes it not that great for AoE most of the time since they die pretty quickly, maybe better in PvP.
 
 Solar Flare
 Single target nuke, small cast time.
@@ -225,7 +255,9 @@ Self buff, increasing heavy attack damage.
 Morphs into:
 -cost, AoE -healing debuff.
 Or
-Instant pulsing PBAoE.
+Instant pulsing PBAoE, overall +damage.
+
+Base skill is kind of weak w/ cast time and power budget going into a heavy attack damage buff. Most things die by the time you finish placing DoTs / buffs / debuffs, barring bosses. Morphs are PvP (mobs don’t heal) vs. more damage (raw & instant cast DoT). Changing it to a DoT is interesting since it frees you up to use other abilities.
 
 Backlash
 Single target nuke + Zed ult debuff.
@@ -234,6 +266,10 @@ Morphs into:
 Heal puddle after pop under enemy.
 Or
 Stamina ability & -armour debuff.
+
+Obviously good for boss fights vs. mob packs. Encourages placing DoTs then this debuff then letting DoTs tick w/ spammable for max value.
+
+Morphs are sustain vs. stam, an easy choice for magic builds. Heal puddle makes it more useful for melee builds vs. old Shen Q marking for healing. Stam morph is more damage w/ the debuff synergising with the damage storage mechanic.
 
 Eclipse
 Single target debuff.
@@ -244,6 +280,10 @@ Self buff instead, healing every time you get hit (0.5s ICD) + melee are slowed.
 Or
 Damages around attack every proc.
 
+PvP ability since pure CC abilities aren’t that useful in PvE, especially with limited slots.
+
+Morphs are sustain & self peel vs. damage / pyretic effect. Both are still PvP oriented, where one is defensive and the other is offensive. Choice will be how aggressive you want to be in PvP (no experience w/ that).
+
 Radiant Destruction
 Single target channelled damage.
 Execute component.
@@ -253,29 +293,40 @@ Heal for 20% of damage dealt.
 Or
 Up to 500% damage instead of 480%.
 
+Big damage w/ execute component, but has a lengthy channel so there’s risk. Morphs are big sustain (% of big damage) vs. very slightly more damage. Sustain morph adds an extra layer to the ability, making it safer to channel whereas the damage morph barely adds anything, a weird choice.
+
 Enduring Rays
 Increased DoT duration from this tree.
+
+More duration = more damage / buff duration.
 
 Prism
 Ultimate resource generation.
 
+More ultimate = more uses = more player agency = more fun.
+
 Illuminate
 +Spell damage party buff.
+
+Almost permanent (DoTs last at most ~20s) damage buff for party. Doesn’t stack with other Minor Sorcery so effectiveness will vary with party builds but still very good, party damage buffs are never unwanted.
 
 Restoring Spirit
 Resource management assistance.
 
-Restoring Light
+Bit of extra resource, bit more ability usage = more player agency again.
 
+Restoring Light
 
 Rite of Passage (Ultimate)
 Channelled PBAoE heal.
-Cannot move.
+Cannot move but CC immune.
 
 Morphs into:
 Self buff, reducing damage taken.
 Or
-Double duration + can move at slow speed.
+Double duration (HPS is the same) + can move at a slow speed.
+
+Channelled heal where you can’t move, huge risk vs. reward. Morphs both make it less risky to use, but 2nd has more healing overall (HPS is the same) so will need to cancel out if needed for big movement / nuke heals / other mechanics.
 
 Rushed Ceremony
 Self heal or ally in front, prioritising lowest HP.
@@ -285,13 +336,17 @@ Refund 54% of cost if HP < 75% over 6s.
 Or
 Heal 2nd target for 33%.
 
+Smart targeting single heal. Morphs are resource management vs. spot healing. Since the cost refund is over 6s, can’t spam it and will require other heals for max value. Heal morph is only for ⅓ of the value but can be spammed w/o fear of wasting anything.
+
 Healing Ritual
 PBAoE heal.
 
 Morphs into:
 Heal 1 ally outside of radius.
 Or
-Buff, +movespeed for all & -cost.
++Movespeed buff for all & -cost.
+
+Group heal. 1st morph could be useful in certain fights w/ mechanics that split players but that’s pretty niche. 2nd morphs movespeed buff is always handy, but again it doesn’t stack with itself so if someone else can apply it then there’s no real need & taking a morph just for resource management spells bigger issues since there’s food, portions, gear, etc that can help with that too.
 
 Restoring Aura
 PBAoE buff, increase all regen.
@@ -302,6 +357,8 @@ Increased radius & duration.
 Or
 No longer grants party buff, consume corpses for HP & stamina.
 
+Minor regen buff for all (again, does not stack with self). Morphs are bigger AoE & duration vs. changing the ability to self stam sustain. The 1st morph slightly augments the base version. 2nd morph changes it to be a selfish sustain ability. Stam can use it to survive + deal damage whereas mag can use it just for sustain (stam for dodge / block / sprint).
+
 Cleansing Ritual
 Self cleanse 2 debuffs, PBAoE HoT.
 Ally can activate to cleanse all debuffs + heal.
@@ -311,6 +368,8 @@ Area damages enemies who enter (increasing over duration), no longer heals allie
 Or
 Increased duration + # of self cleanses.
 
+Self cleanse + healing rain w/ party synergy. Field lasts for 20s so it’s more sustained than burst. Morphs are DPS vs. healer. Both play the same (want to stay in the field) so the only choice is if playing as DPS or healer / maybe tank?
+
 Rune Focus
 Leylines / Rune of Power, sort of. Become tankier + heal instead of doing more damage.
 
@@ -319,18 +378,28 @@ Increased duration + also regen magicka.
 Or
 Increased healing + also regen stamina.
 
+Only requires standing in it for a little healing. Sometimes the risk is much higher than the trickle of healing, could be better. Morphs are mag vs. stam and don’t really change how the ability is used (pop and forget usually).
+
 Mending
 More healing the lower allies are.
 
+Slightly more complex +healing passive, helping in emergencies but only affects the above healing abilities.
+
 Sacred Ground
 +Healing buff & block amount buff from standing in persistent positive AoE from abilities from tree.
+
+Adds a little reward for standing in the persistent AoEs from the abilities, but geared towards healers only. Could’ve been more universal with an extra line for resource regen, health shield, buffs, etc.
 
 Light Weaver
 +Ultimate generation.
 Super resistance using healing ultimate.
 
+Also geared towards healers. More ultimate = more uses = more player agency. The 2nd part specifically makes 1 ability better so it’s good if you use it, useless if you don’t.
+
 Master Ritualist
 Rez utility buffs.
+
+Makes rezzing quicker & safer for both you and the rezz-ee. Last line is just utility, mostly flavour since Soul Gems aren’t that hard to fill / get.
 
 
 
