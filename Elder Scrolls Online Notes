@@ -125,8 +125,13 @@ Magicka recovery.
 
 More magicka = more abilities = more player agency & fun.
 
-Templar Combat
-
+Templar
+Templar is pretty much the Paladin archetype from most games.
+Aedric spear is the melee tree w/ manifestations of weapons and shields.
+Dawn’s Wrath is the more magic based tree w/ fire & sun / light magic.
+Restoring Light is the healing tree w/ light magic.
+Overall it has a pretty coherent thematic, unlike Warden which has animals (that’s fine), nature magic (that’s fine) and ice (?).
+That being said, using skills from other trees like weapons or guilds feels a bit off since they’re so thematically different. This is the same for all classes, to varying degrees.
 Templar Abilities
 Aedric Spear
 
@@ -137,6 +142,8 @@ Morphs into:
 Physical damage, + 4s duration + 2s for every enemy hit.
 Or
 +60% damage to enemies in front.
+
+A low cost AoE w/ a DoT. 
 
 Puncturing Strikes
 Frontal channelled AoE w/ damage fall off.
@@ -327,7 +334,7 @@ Rez utility buffs.
 
 
 
-Sorcerer Combat
+Sorcerer
 
 Sorcerer Abilities
 Daedric Summoning
