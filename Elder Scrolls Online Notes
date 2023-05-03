@@ -5,9 +5,9 @@ General
 Combat is fine, basic Elder Scrolls affair. Even though it’s action combat it doesn’t feel that great, might be because of the ping. Lots of putting down DoTs then spamming filler.
 Story is good if you like Elder Scrolls, otherwise not that interesting (only did base game).
 There is a min-maxing of light attack weaving (left clicking between every ability). It’s really just a manual auto-attack, not sure if it really adds any challenge.
-Crafting is time gated. Need to learn how to craft certain prefixed gear and each time you learn a new one it’s exponentially longer for the next time (I was up to 2 weeks).
+Crafting is time gated. Need to learn how to craft prefixes for each piece of gear and each time you learn a new one it’s exponentially longer for the next time (I was up to 2 weeks).
 Mount training (speed, stamina, storage) is also time gated daily.
-Storage for crafting materials is membership only. Paying for convenience is a bit annoying since there’s so many random crafting mats. Could at least make it like GW2 and have a small amount of each material for free and then membership increases it.
+Storage for crafting materials is membership only. Paying for convenience is annoying since there’s so many random crafting mats. Could at least make it like GW2 and have a small amount of each material for free and then membership increases it.
 Spoilt by FFXIV with having all classes on 1 character, really miss that since I end up creating either 1 character but cloning it for other classes (GW2), using almost default presets for the non main classes (BDO) or just not having more than 1 class (WoW).
 There’s a shared levelling system once you reach max level between each character, but would’ve preferred to be able to do everything on 1 character like in FFXIV or Skyrim. I’m a completionist and want to clear the map (there’s a LOT of stuff to clear on each map).
 Weapon / armour skills are the same for all classes anyway so having all classes on 1 character should’ve been an option (where you can only change between classes in sanctuaries / outside of instances).
@@ -16,23 +16,23 @@ No mini-map, only Skyrim compass (without add-ons). Add-ons need to be up to dat
 Nice that there’s add-on support but having to update is annoying, especially when I don’t know what I should be getting and just grabbing whatever is most downloaded. Would prefer official support / implementation.
 Hate being forced to use a staff for magic builds vs. magic via hands in Skyrim.
 Recently there’s been a hybridisation of builds where you can mix and match magic and physical skills without impacting damage too much (scaling off both weapon and spell damage) for more build variety, at least on the casual level. Clever way of having a melee “magic” weapon without creating a new weapon set.
-But, stam weapons only recover stam and mag only mag, leading to resource issues sometimes.
+But, stam weapons only recover stam and mag only mag, leading to resource issues sometimes if you do use a sword but put points only into mag for example.
 Races have passive racials and whilst the difference is small, it does add up so sometimes you feel like you’ve chosen the wrong race for your build.
 Forced to go Breton since I wanted to play something human-ish but also use a magic build, which is fine since it’s what I did in Skyrim anyway.
 Some skills require you to do PvP to unlock and level. Forcing people to do content they don’t want to / can’t do is a pretty bold move.
 There are also skills locked behind story quests which isn’t as bad.
-Gear has set bonuses for extra damage / stats / playstyle changes (extra healing when solo, more damage but only 1 weapon set), won’t be listing them as there are a lot.
+Gear has set bonuses for extra damage / stats / playstyle changes (extra healing when solo, super buffs but only 1 weapon set), won’t be listing them as there are a lot.
 Skill points can be gained outside of levelling: builds are restricted to choosing your 12 active abilities + what morphs you want; you can practically take all passives (that apply).
 Tooltips are detailed in that they provide cast times, targeting type, range / radius, duration, cost, damage / heal, etc.
 Market boards are separate per town. I’m not travelling and checking each town.
 Destruction Staff Combat
 Light attack is this forward jab of the staff and a projectile flies out, looks a little dinky.
-Fire & ice heavy attack charges a bunch of projectiles which home in on target. Lightning heavy attack is a back loaded channelled beam. All 3 recover magicka at the end, which is the primary use of heavy attacking.
+Fire & ice heavy attack charges a bunch of projectiles which home in on target. Lightning heavy attack is a back loaded channelled beam. All 3 recover magicka at the end, which is the primary use of heavy attacking for both magic and physical weapons (phys recovers stamina).
 As mentioned before, I don’t enjoy staves when it’s actively being used (a conduit or focus that sits on the back or in hand is fine).
-Most abilities are AoE or DoTs with 1 spammable attack. This is the same for most weapons / class trees.
+Most abilities are AoE or DoTs with 1 spammable attack. This is the same for most weapons / class trees w/ the occasional buff ability.
 There are differences between fire, lice & lightning staves: Fire is single-target, ice is tanking & CC & lightning is AoE.
 If you want a specific element, you’ll be locked into those specific effects which may or may not work for your build.
-Generally didn’t use most of the abilities since they didn’t really fit with my class / aesthetic of a magic knight warrior thingy.
+Generally didn’t use most of the abilities since they didn’t really fit with my class / aesthetic of a magic knight warrior thing.
 Destruction Staff Abilities
 
 Elemental Storm (Ultimate)
@@ -53,7 +53,7 @@ Interrupts, sets Off Balance (heavy attack = +damage & knockdown + stun) and stu
 vs.
 Hits +2 targets if they have a status effect.
 
-The spammable single-target ability for damage staff. 1st morph adds a little CC utility while the 2nd is pseudo AoE but requires prepping and is overall janky compared to an actual AoE ability.
+The spammable single-target ability for damage staff. 1st morph adds a little CC which is nice but a little niche while the 2nd is pseudo AoE but requires prepping and is overall janky compared to an actual AoE ability.
 
 Wall of Elements
 Frontal ground AoE field.
@@ -64,9 +64,9 @@ Explodes on expiration, dealing damage.
 vs.
 Increases size & duration (+5s).
 
-Damaging AoE field, different effects depending on the staff. Debuffs for the conditionals are either from a % chance from auto-attacks or guaranteed from specific, non-spammable options (ultimates or an ability with a DoT attached so spamming it is inefficient).
+Damaging AoE field, different effects depending on the staff. Debuffs for the conditionals are either from a % chance from auto-attacks or guaranteed from specific, non-spammable options (ultimates or an ability with a DoT attached so spamming it is inefficient), so it’s not always guaranteed to proc.
 
-Morphs are a choice between damage or slight utility which wouldn’t be needed if aimed correctly. The 2nd option is overall less damage than the 1st, so it’s a non-choice.
+Morphs are a choice between damage or slight utility which wouldn’t be needed if aimed correctly. The 2nd option is overall less damage than the 1st, so it’s a non-choice unless using it as a zoning tool in PvP.
 
 Destructive Touch
 Single target attack w/ DoT + burning, chilled or concussed.
@@ -76,7 +76,7 @@ Removes DoT for knockback (fire), less damage but more range + CC (ice) or AoE (
 vs.
 Increased range (28m).
 
-Guaranteed debuff but not spammable due to being backloaded. Morphs are utility or range. Didn’t really use this much as it’s a single target DoT and there are better ones + AoE ones vying for the limited ability slots.
+Guaranteed debuff but not spammable due to being a DoT. Morphs are utility or range. Didn’t really use this much as it’s a single target DoT and there are better ones + AoE ones vying for the limited ability slots.
 
 Weakness to Elements
 Single target resistance debuff.
@@ -111,8 +111,12 @@ Passive reiterates the predetermined roles for each type of staff mentioned abov
 Penetrating Magic
 Passive resistance penetration.
 
+It’s resistance penetration.
+
 Elemental Force
 Doubles status effect application. Note that there’s no information on what the base chance of applying via auto-attacks is.
+
+It’s a slightly misleading debuff application chance increase.
 
 Ancient Knowledge
 Fire: more single target damage.
@@ -131,7 +135,7 @@ Templar is pretty much the Paladin archetype from most games.
 Aedric spear is the melee tree w/ manifestations of weapons and shields.
 Dawn’s Wrath is the more magic based tree w/ fire & sun / light magic.
 Restoring Light is the healing tree w/ light magic.
-Overall it has a pretty coherent thematic, unlike Warden which has animals (that’s fine), nature magic (that’s fine) and ice (?).
+Overall it has a pretty coherent thematic, unlike Warden which has animals (that’s fine), nature magic (that’s fine) and ice (huh?).
 That being said, using skills from other trees like weapons or guilds feels a bit off since they’re so thematically different. This is the same for all classes, to varying degrees.
 Templar Abilities
 Aedric Spear
@@ -154,7 +158,7 @@ Stamina ability (physical damage + stamina cost) + Major Brutality + Sorcery (+2
 Or
 Heal for 33% of damage done.
 
-Spammable cleave. Channelled so stuck in the short animation (weird looking spear), a little risky and can miss for good damage. Morphs are stam vs. mag (by default) again. Stam gives a class common buff for more damage too. “Mag” option helps with survivability.
+Spammable cleave. Channelled so stuck in the short animation (weird looking spear), a little risky and can miss but for good damage. Morphs are stam vs. mag (by default) again. Stam gives a class common buff for more damage too. “Mag” option helps with survivability.
 
 Piercing Javelin
 Single target ranged nuke + knockdown.
@@ -164,7 +168,7 @@ Up to +40% damage depending on distance.
 Or
 Stamina ability. Stuns instead of knockback.
 
-Pretty useless in PvE as there are better ranged abilities and gap closers. A possible PvE morph would be it actually pierces and hits on the way but gets rid of the CC. Both morphs make it better at catching enemies out via more damage or CC.
+Pretty useless in PvE as there are better ranged abilities or gap closers. A possible PvE morph would be it actually pierces and hits on the way but gets rid of the CC. Both morphs make it better at catching enemies out via more damage or CC respectively.
 
 Focused Charge
 Single target dash w/ conditional CC.
@@ -174,7 +178,7 @@ AoE damage + interrupt at target, +damage.
 Or
 Always stuns + Off Balance.
 
-Gap closer that leans towards PvP w/ the CC. There are better gap closers since it’s single-target; won’t be as useful in PvE. Morphs to make it better for PvE w/ AoE or better in PvP with guaranteed CC.
+Gap closer that leans towards PvP w/ the CC. There are better gap closers since it’s single-target; won’t be as useful in PvE since you don’t need CC often. Morphs to make it better for PvE w/ AoE or better in PvP with guaranteed CC.
 
 Spear Shards
 Ground targeted AoE nuke + DoT field. Ally can restore resources near it.
@@ -186,7 +190,7 @@ Increased damage.
 
 Strong AoE w/ a strong animation (spear crashing down). Half nuke and half DoT. Synergy is obviously not useful when solo, but can help with sustain in groups even if the keybinding is a little awkward as X (between sheath and open character sheet).
 
-Morphs are more utility or do more damage. Better to specialise as pure support / healer or damage dealer due to crit multipliers.
+Morphs are more utility or do more damage. Better to specialise as pure support / healer or damage dealer due to crit multipliers rather than doing a hybrid thing, that is there are better options for support than this morph.
 
 Sun Shield
 PBAoE damage + self shield, value increasing per enemy hit.
@@ -247,7 +251,7 @@ Hits 2 more targets + slows.
 
 Simple single target DoT w/ crit buff. By itself is not that useful for solo most of the time but the crit buff can help other abilities.
 
-Morphs are more duration (and hence damage) vs. AoE. DoT lasting 20s makes it not that great for AoE most of the time since they die pretty quickly, maybe better in PvP.
+Morphs are more duration (and hence damage) vs. AoE. DoT lasting 20s makes it not that great for AoE most of the time since they die pretty quickly, maybe better in PvP. AoE could be useful but there are better ones.
 
 Solar Flare
 Single target nuke, small cast time.
@@ -258,7 +262,7 @@ Morphs into:
 Or
 Instant pulsing PBAoE, overall +damage.
 
-Base skill is kind of weak w/ cast time and power budget going into a heavy attack damage buff. Most things die by the time you finish placing DoTs / buffs / debuffs, barring bosses. Morphs are PvP (mobs don’t heal) vs. more damage (raw & instant cast DoT). Changing it to a DoT is interesting since it frees you up to use other abilities.
+Base skill is kind of weak w/ cast time and power budget going into a heavy attack damage buff. Most things die by the time you finish placing DoTs / buffs / debuffs, barring bosses. Morphs are PvP (mobs don’t heal) vs. more damage (+raw damage & instant cast DoT). Changing it to a DoT is interesting since it frees you up to use other abilities.
 
 Backlash
 Single target nuke + Zed ult debuff.
@@ -314,7 +318,7 @@ Almost permanent (DoTs last at most ~20s) damage buff for party. Doesn’t stack
 Restoring Spirit
 Resource management assistance.
 
-Bit of extra resource, bit more ability usage = more player agency again.
+Bit of extra resource, a bit more ability usage = more player agency, again.
 
 Restoring Light
 
