@@ -5,7 +5,7 @@ General
 Combat is fine, basic Elder Scrolls affair. Even though it’s action combat it doesn’t feel that great, might be because of the ping. Lots of putting down DoTs then spamming filler.
 Story is good if you like Elder Scrolls, otherwise not that interesting (only did base game).
 There is a min-maxing of light attack weaving (left clicking between every ability). It’s really just a manual auto-attack, not sure if it really adds any challenge.
-Crafting is time gated. Need to learn how to craft certain parts of gear and each time you learn a new piece it’s exponentially longer for the next time (I was up to a week).
+Crafting is time gated. Need to learn how to craft certain prefixed gear and each time you learn a new one it’s exponentially longer for the next time (I was up to 2 weeks).
 Mount training (speed, stamina, storage) is also time gated daily.
 Storage for crafting materials is membership only. Paying for convenience is a bit annoying since there’s so many random crafting mats. Could at least make it like GW2 and have a small amount of each material for free and then membership increases it.
 Spoilt by FFXIV with having all classes on 1 character, really miss that since I end up creating either 1 character but cloning it for other classes (GW2), using almost default presets for the non main classes (BDO) or just not having more than 1 class (WoW).
@@ -15,7 +15,8 @@ Awful loot boxes and FOMO cash shop, gross.
 No mini-map, only Skyrim compass (without add-ons). Add-ons need to be up to date.
 Nice that there’s add-on support but having to update is annoying, especially when I don’t know what I should be getting and just grabbing whatever is most downloaded. Would prefer official support / implementation.
 Hate being forced to use a staff for magic builds vs. magic via hands in Skyrim.
-Recently there’s been a hybridisation of builds where you can mix and match magic and physical skills without impacting damage too much (it goes off of the max value of magicka + spell damage, magicka + weapon damage, stamina + SD or stamina + WD) for more build variety, at least on the casual level. Clever way of having a melee “magic” weapon without creating a new weapon set.
+Recently there’s been a hybridisation of builds where you can mix and match magic and physical skills without impacting damage too much (scaling off both weapon and spell damage) for more build variety, at least on the casual level. Clever way of having a melee “magic” weapon without creating a new weapon set.
+But, stam weapons only recover stam and mag only mag, leading to resource issues sometimes.
 Races have passive racials and whilst the difference is small, it does add up so sometimes you feel like you’ve chosen the wrong race for your build.
 Forced to go Breton since I wanted to play something human-ish but also use a magic build, which is fine since it’s what I did in Skyrim anyway.
 Some skills require you to do PvP to unlock and level. Forcing people to do content they don’t want to / can’t do is a pretty bold move.
@@ -23,7 +24,7 @@ There are also skills locked behind story quests which isn’t as bad.
 Gear has set bonuses for extra damage / stats / playstyle changes (extra healing when solo, more damage but only 1 weapon set), won’t be listing them as there are a lot.
 Skill points can be gained outside of levelling: builds are restricted to choosing your 12 active abilities + what morphs you want; you can practically take all passives (that apply).
 Tooltips are detailed in that they provide cast times, targeting type, range / radius, duration, cost, damage / heal, etc.
-Market boards are separate per town. I’m not travelling and checking each town market board, the heck.
+Market boards are separate per town. I’m not travelling and checking each town.
 Destruction Staff Combat
 Light attack is this forward jab of the staff and a projectile flies out, looks a little dinky.
 Fire & ice heavy attack charges a bunch of projectiles which home in on target. Lightning heavy attack is a back loaded channelled beam. All 3 recover magicka at the end, which is the primary use of heavy attacking.
@@ -411,6 +412,7 @@ Storm Calling is the lightning caster tree.
 All trees lean towards DPS w/ 1 or 2 abilities that can help with tanking / healing per tree.
 Trees are more grouped together via only thematic rather than role too.
 Still hate pets, so I actively disliked 1 tree. They’re ugly as hell too (except the ult).
+The fact that pets require the ability to be actively slotted (meaning if you swap weapon bars and it’s not slotted, they die) is really restrictive since you’ll need to use 2 slots of your 10 just to make sure your pet doesn’t disappear. This applies to any abilities which grant bonuses passively while slotted too, though this is to a lesser degree since the passives are generally small. But on the flipside since the passives are small there shouldn’t be any issue with the passive effect always being active, since you’re already dedicating 1 of limited 10 slots for the ability.
 Locked into dark + wind / lightning spells for the class so if you wanted to be a fire or ice mage you’d have to settle with some abilities from the staves or play Dragonknight and Warden but they don’t have that mage aesthetic (more Warrior + Druid respectively).
 As mentioned in the Templar section, using abilities from other trees except for lightning staff or the Mages Guild feels weird since they’re thematically different. Doesn’t really matter in the long run but still, it feels off.
 Sorcerer Abilities
@@ -425,15 +427,20 @@ Morphs into:
 Or
 AoE damage + applies Concussion.
 
+Nukes target area and then attacks closest enemy, so it needs to be aimed properly for max value. Dislike this pet less because it has a fixed duration so it (should) feel more impactful. Synergy is a big party damage buff which always feels good (except when solo).
+
+Morphs are single target vs. AoE. The 1st morph just augments the base whereas the 2nd morph adds more functionality to it (AoE + CC).
+
 Summon Unstable Familiar
 Summon gremlin looking (ugly) melee pet.
 Use again while summoned for magicka and pulsing AoE around the pet.
-Swapping weapons = despawn unless also slotted in the same slot on the 2nd bar!
 
 Morphs into:
-Physical damage raptor. Activation = heal but no damage.
+Physical damage raptor. Activation = heal for you and pet but no damage.
 Or
 AoE pulse has stun.
+
+It’s so ugly and pets can be janky. Pulsing damage works since it’s a melee pet. Morphs are healing vs. CC, choose whatever you need more.
 
 Daedric Curse
 Single target nuke, explodes for AoE after delay.
@@ -442,6 +449,8 @@ Morphs into:
 Cheaper + pets do more damage to mark.
 Or
 Additional explosion for the same damage 8.5s later.
+
+Effectively a DoT. Single target but w/ an AoE component so sometimes it’s a little janky if the mob runs out of a group 6s later, not reliable AoE. Morphs lean into the pet tree or DoT aspect. Pet makes you want to use all 3 pets more often but the 2nd morph w/ 8.5s delay seems too high, especially since the damage is frontloaded. Should be sooner or turn it into an actual DoT.
 
 Summon Winged Twilight
 Summon ugly ranged pet.
@@ -452,6 +461,8 @@ More passive damage, activation = +60% damage against >50% HP targets, no heal.
 Or
 Activation = additional target is healed.
 
+Ugly ranged pet w/ sustain. Morphs are damage vs. healing. Sacrifice sustain for damage or double down on the healing. The 2nd morph could be changed to heal passively too instead of doing some damage if going as a healer.
+
 Conjured Ward
 Damage shield for self + pets.
 
@@ -459,6 +470,8 @@ Morphs into:
 Bigger shield + bigger cap.
 Or
 Cheaper, longer duration + buffs allies w/ magicka + stamina regen.
+
+Survivability via shield. Morphs are more survivability vs. resource sustain. The 1st morph builds on the base ability. The 2nd morph could’ve been more involved w/ effect being on expiration or blocking damage rather than a non-stacking weak buff.
 
 Bound Armor
 Self buff, passive + active (block) damage mitigation increase.
@@ -469,17 +482,27 @@ Stamina ability. No block mitigation. Auto attacks stock weapons. Activate = sin
 Or
 +Duration, passively give resistance self buff.
 
+Mitigation buff w/ minor passive magicka (hence damage) increase. Morphs are offensive vs. defensive. Damage scales w/ both, the game needs a different way to determine what resources are used and not tie it to a single morph choice w/ other changes involved.
+
 Rebate
 Helps with resource management.
+
+More resources = more abilities = more player agency.
 
 Power Stone
 More ultimates!
 
+Same as above, but for ultimates which give a bigger boost to dopamine because of how flashy they (usually) are.
+
 Daedric Protection
 Even more resource management help.
 
+More sustain (or damage via more abilities for stam builds).
+
 Expert Summoner
 Survivability.
+
+Little bit of tankiness while actively mitigating using the 2 defensive skills or when a pet is out.
 
 Dark Magic
 
