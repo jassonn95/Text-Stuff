@@ -407,7 +407,7 @@ Makes rezzing quicker & safer for both you and the rezz-ee. Last line is just ut
 Sorcerer
 Mage + warlock archetype from other games.
 Daedric Summoning is the pet tree.
-Dark Magic is the, well, dark magic tree.
+Dark Magic is the, well, dark magic tree. Mostly CC + resource management, leaning towards PvP.
 Storm Calling is the lightning caster tree.
 All trees lean towards DPS w/ 1 or 2 abilities that can help with tanking / healing per tree.
 Trees are more grouped together via only thematic rather than role too.
@@ -506,7 +506,7 @@ Little bit of tankiness while actively mitigating using the 2 defensive skills o
 
 Dark Magic
 
-Negate Magic
+Negate Magic (Ultimate)
 Ground targeted AoE. Clears out and prevents all enemy AoE. Enemies are CCed.
 
 Morphs into:
@@ -514,14 +514,17 @@ Damages enemies every second.
 Or
 Heals allies every second.
 
+It’s a PvP ability. Could be pushed towards PvE a little more by moving the healing morph to base and replacing it with a cleanse. Morphs are damage vs. healing. Both further encourage placing it on enemies / staying in the circle for safety.
+
 Crystal Shard
-Single target nuke.
-Slightly reduces cost of next ability.
+Single target nuke w/ some resource sustain.
 
 Morphs into:
-Instant cast stamina ability. Next 2 auto-attacks deal bonus damage + reduce enemy armour.
+Instant cast stamina ability. Next 2 auto attacks deal bonus damage + reduce armour.
 Or
-Abilities have a 33% chance of proc = instant cast, +66% damage, -50% cost.
+Other abilities have a 33% chance proc = instant cast, +66% damage, -50% cost.
+
+Single target nuke w/ a cast time. Morphs are stam (use -> auto) or proc based functionality. Good morphs since they change how the ability is used in different ways.
 
 Encase
 Frontal AoE root w/ cost refund if missed.
@@ -531,6 +534,8 @@ Damages at the end of root.
 Or
 +Healing received buff on hit. +CC duration.
 
+Another PvP leaning ability since pure CC abilities just eat up a slot when you could have a damaging ability w/ CC on it already. Gets to be AoE because it’s melee Morphs are damage vs. PvP. Bit of damage could make it better in PvE but it feels like it’s behind other abilities in that regard. The 2nd morph is even more PvP related since mobs don’t heal.
+
 Rune Prison
 Single target delayed CC.
 
@@ -538,6 +543,8 @@ Morphs into:
 Damages at the end of the stun if it lasts the full duration.
 Or
 2m self buff. Next enemy to hit you is stunned after the delay.
+
+Even more PvP. Single target because ranged and unblockable. Morphs are a very conditional damage vs. defensive version. The 1st morph shouldn’t have the “if lasts full duration” line since everyone has an inbuilt CC cleanse, so it’s already super niche. The 2nd morph is effectively the same ability but purely defensive this time. Could have an additional effect like a heal or shield too to differentiate it more from base.
 
 Dark Exchange
 HP & MP at the cost of stamina, cast time.
@@ -547,26 +554,38 @@ MP cost for HP & stamina.
 Or
 Increased HP & MP restored.
 
+Not sure how necessary this ability is, maybe for tanks or healers. Morphs are stam vs. stronger base (mag). No unique choice there.
+
 Daedric Mines
-Spawn traps around self which damage + CC.
+Spawn traps in front which damage + CC.
 
 Morphs into:
 Ground targeted instead of around self. Arms instantly.
 Or
 5 mines instead of 3.
 
+Better in PvP as a zoning tool because of how difficult it is to get all mines to explode on a stationary target like in PvE. Morphs are reliability vs. more zoning. The 1st morph changes the targeting completely and gets rid of the arming time, making it more reliable. The 2nd morph is base + 2.
+
 Unholy Knowledge
 Helps with resource management.
 Core = block, dodge, breaking free, bash, sprint & sneak (common to all classes).
 
+More resources = more abilities = you know the drill.
+
 Blood Magic
 Sustain.
+
+Bit of sustain. ICD to prevent AoE mega healing situations; normalises its effect.
 
 Persistence
 Even more resource management help.
 
+Conditional resource management. Not often blocking in the open world, it could be for tanks?
+
 Exploitation
 Spell crit chance party buff.
+
+Damaging party buff, everyone loves those.
 
 Storm Calling
 
@@ -578,6 +597,8 @@ Light gets more range, heavy gets a bigger radius. +damage.
 Or
 Auto-attacks restore magicka & stamina.
 
+Cool concept but this should’ve been a weapon or basekit smh. Doesn’t last long enough for it to be as impactful as the summon one (dark magic doesn’t do damage by default). The 1st morph augments the base version and the 2nd morph adds some resource sustain, but not the one you want (ultimate). Would’ve been cooler if it added some ultimate but obviously not enough for it to be permanent. Or maybe it should? Numbers could be adjusted for that.
+
 Mage’s Fury
 Single target nuke. Going below HP threshold nukes again in an AoE.
 
@@ -586,6 +607,8 @@ AoE deals same damage as single target.
 Or
 -Cost, refund cost if target dies.
 
+Targeting is a little janky, I often found myself hitting the wrong mob and not getting the AoE proc until the hit target was the last one standing. Could be changed to “if enemy or nearby enemies” instead. The 1st morph is more AoE damage. The 2nd morph is resource management. Simple choice, neither changing the way the ability works.
+
 Lightning Form
 Self buff, PBAoE pulsing damage & resistance.
 
@@ -593,6 +616,8 @@ Morphs into:
 Stamina ability. Grows in size & damage the longer it is active. +minor movespeed buff for the whole duration.
 Or
 +Duration. +big movespeed buff for a couple of seconds.
+
+PBAoE DoT & tankiness. The 1st morph is stam based & cool growing effect (damage and literally). The 2nd morph builds upon base, can spam to move across map w/o mount. Both do the same thing as base though (damage around self). Could have leaned into tankiness / survivability too.
 
 Lightning Splash
 Ground targeted pulsing AoE.
@@ -603,6 +628,8 @@ Increased duration.
 Or
 Increased radius & damage.
 
+Typical ground AoE DoT. Some synergy, not that great for solo. Morphs are longer duration (more damage) or bigger radius (easier to hit) & more damage (less overall than 1st morph, more bursty). Pretty simple ability, does the same as any other persistent AoE and that’s fine, not everything needs to be super unique.
+
 Surge
 Self buff, increased damage stat. Crit damage heals self.
 
@@ -610,6 +637,8 @@ Morphs into:
 Crit heals proc AoE heal around self, longer cooldown.
 Or
 Increased healing.
+
+Damage buff w/ sustain via crits. ICD so it doesn’t feel as bad if you don’t crit compared to crit central. Morphs are healer vs. DPS. Healer morph changes the ability to be a healer cooldown pretty simply but effectively. The 2nd morph is just a stat increase, nothing too interesting. Could’ve been an additional shield or overheal, etc.
 
 Bolt Escape
 Blink forward, CC at location. Spam = higher cost.
@@ -619,18 +648,28 @@ Damages & stuns between start & end.
 Or
 No stun. Slow & root immunity after cast. End point blocks a projectile every second for 3s.
 
+Only mobility spell for Sorcerer specifically. No damage component makes it less attractive though due to limited slots and other mobility abilities having damage / better utility (CC not that needed in PvE compared to PvP). Morphs are offensive vs. defensive, so pick whatever is needed according to playstyle in PvP.
+
 Capacitor
 Helps with resource management.
+
+It’s more recovery stat.
 
 Energized
 More damage.
 
+It’s more damage.
+
 Amplitude
 More damage the higher HP they are.
+
+It’s more damage w/ slightly more flavour.
 
 Expert Mage
 More damage w/ ability conditional.
 QoL: shows you what the current bonus is.
+
+More damage, encouraging you to put in more Sorcerer spells. It’s per bar though so it’s a little restrictive (i.e. 2 sets of the same spells but in different order. Will have to reorder for max value but you prefer them to be in a specific order in duration or something).
 
 
 
