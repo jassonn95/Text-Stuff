@@ -59,25 +59,25 @@ Staff
 
 Staff Fire 1 - Fireball
 
-Targeted projectile AoE for damage & 1s burning (only PvE, will only be doing PvE version).
+Targeted projectile AoE for damage & Burn (only PvE, will only be doing PvE version).
 
 All “1” abilities are the auto-attack so they’re going to be somewhat basic. Fits with the main theme of Fire which is direct damage and DoTs. Also fits the theme of a staff being ranged and slow. Won’t be mentioning if it fits the theme for other abilities, will only mention it if it doesn’t. Feels clunky with the cast time & it being a targeted skill in a mostly action combat game. Especially annoying since your character won’t turn to face and cast if they’re behind you.
 
 Staff Fire 2 - Lava Font
 
-Ground targeted AoE field for damage & 1s burning. Fire field for combos.
+Ground targeted AoE field for damage & Burn. Fire field for combos.
 
 Simple ground targeted AoE for damage. It’s quick and has a low cooldown so not as heavily punished if things move out of it, which it will since its size is pretty small. Combo field lasts for 4s so there’s some time to get some combos off. 
 
 Staff Fire 3 - Flame Burst
 
-Targeted AoE damage & burning. Also blinds.
+Targeted AoE damage, Burn & Blind.
 
 Simple AoE around the target enemy. Same annoyances about enemy targeted skills apply. Blind is also an annoying condition because of how detrimental or useless it is. It completely negates the next singular outgoing attack. This makes it either extremely effective against slower classes or borderline useless against persistent DPS / AoE classes. Should be made more standardised by either making all attacks miss for a far lower duration or make it so it forces the affected to break targeting and darken the screen. The latter may be annoying as CC affecting the player (as in the person playing) isn’t that great by design; it’s annoying, frustrating and could be worked around by putting gamma up to a 100 or something. Blindness has the same issue as the old dodge stats from LoL, WoW and FFXIV where it’s frustrating when it happens and is a minor inconvenience to get rid of (reaching X accuracy or smacking something once in GW2’s case).
 
 Staff Fire 4 - Burning Retreat
 
-Backflip that leaves a burning field that damages, burns and acts as a combo field.
+Backflip that leaves a burning field that damages, Burn and acts as a combo field.
 
 Active mitigation is good as it fits the squishy mage archetype Ele has going on. There is also a point to be made about risk vs. reward in using this for damage vs. using it as a dodge. But the fact that it’s kinda janky and using an escape on an enemy that’s not actively engaging you / hitting someone else feels weird. Compare this to FFXIV Red Mage, which has Displacement (backflip w/ 1 instance of damage) & Engagement (same damage as Displacement, does NOT backflip), which both share charges. There’s still risk involved in using it and running into a situation where you need to disengage, but there’s no situation where you’re running away only to walk back in range again to continue DPSing. That is a fundamental difference in combat (FFXIV having all abilities available at all times, GW2 having a CD between certain “sets”) but the point still stands.
 
@@ -177,6 +177,88 @@ Staff Earth 5 - Shock Wave
 Targeted combo projectile that damages, Bleeds and Immobilizes (roots) all hit (piercing up to 5).
 
 Good skill: damages, DoTs and CCs. No real complaints other than the 25s CD, meaning you’re encouraged to dump CDs and go to the next element but that’s not too feasible since there are some real crappy skills in some of the other attunements (cough Water & Air).
+
+Scepter
+
+Scepter Fire 1 - Flamestrike
+
+Targeted AoE 2 part attack. 1st is targeted, 2nd is wherever the 1st was after a brief delay. Both damage & Burn.
+
+The usual ranged targeted attack, w/ the 2nd part delay twist. This gives it a bit of counterplay in PvP and a lot of grief in PvE if the mobs move out of it.
+
+Scepter Fire 2 - Dragon’s Tooth
+
+Targeted delayed AoE. Damages, Burns & blasts.
+
+Originally targeted, then became ground casted, meaning it would miss. A lot. Being changed to targeted means more reliability = more damage & less frustration. It doing good damage & blasting combos fits the animation.
+
+Scepter Fire 3 - Phoenix
+
+Ground targeted piercing attack that damages & Burns before exploding for more damage & Blasting combos. It returns again doing more passthrough damage & Burn while cleansing self & providing Vigor (stamina regen).
+
+Good overall ability, with somewhat random utility attached to it that’s normally reserved for Water. Damage requires aiming both directional and ground targeted so it’s not exactly the same as Scepter Fire 2. Utility is nice but again, would be better suited to Water or Earth even.
+
+Scepter Water 1 - Ice Shards
+
+Single target attack w/ 3 instances of the same damage. No other effect, but should be a chance combo projectile like Scepter Earth 1.
+
+Bit annoying with the targeted single target attack. Otherwise somewhat boring as it has no other effects. It’s almost identical to Scepter Earth 1 but without the bleed (understandable) and without the combo projectile chance. It having 3 instances of damage makes it less likely to be screwed over by crit RNG, if it wasn’t for the fact that non-DoT builds build around having 100% crit.
+
+Scepter Water 2 - Shatterstone
+
+Ground targeted delayed AoE that damages & Chills.
+
+The usual ground targeted AoE ability. Used to apply Vulnerability (increased damage taken) but was replaced with Chill, specifically for the next ability. Slight delay means there’s some counterplay but not that important in PvE. Low cooldown so can be spammed, who doesn’t love exploding ice everywhere?
+
+Scepter Water 3 - Water Trident
+
+Multitarget (3) attack. Damages & heals you per target hit (up to double base amount w/ 3 hits). Damage increased against Chilled targets (+50%). 2 charges.
+
+Great ability imo. Homes in on nearby enemies so doesn’t require enemies to be on top of each other. Damage synergy with previous ability w/ Chill conditional, but not at an absurd level like 100%. Heals for some sustain without going too crazy in single target vs. AoE situations. Charge based so you’re not punished for holding onto a charge to heal, acts as another pseudo active mitigation / recovery tool that Eles need for their awful survivability. You can definitely tell this was recently revamped (was ground targeted damage enemy heal allies AoE, no charges, no Chill damage modifier).
+
+Scepter Air 1 - Arc Lightning
+
+Channelled multitarget beam attack. Damage is backloaded.
+
+Encourages you to keep an eye on the attack channel for max value as the last 4 tickets deal 4x the first portion and 2x the 2nd portion. Even though it’s a beam attack it still hits more than 1 target, unlike someone else.
+
+Scepter Air 2 - Lightning Strike
+
+Multitarget damage & Vulnerability. No cast time (doesn’t interrupt channels).
+
+Synergies with Scepter Air 1 since you can keep channelling and also use this ability to damage and debuff the enemy. Previously it was just damage and ONLY on the primary target, modernising it with some utility and AoE.
+
+Scepter Air 3 - Blinding Flash
+
+Multitarget Blind & Weakness. 2 charges, no cast time.
+
+Same notes about Blind & Weakness as before.
+Same notes about no cast time as above.
+2 charges allow some flexibility in the skill, either layering it on the same target or spreading it out.
+
+Scepter Earth 1 - Stone Shards
+
+Single target attack w/ 3 instances of the same damage & Bleeds. 20% chance each hit is a combo projectile.
+
+This is almost exactly the same as Scepter Water 1, except it bleeds and can act as a combo projectile. Doesn’t seem to be a good reason it isn’t. Adding more RNG to the combat isn’t the greatest, especially if it’s for a mediocre effect. But do agree that 100% chance might be a bit too strong. Otherwise, the same notes apply.
+
+Scepter Earth 2 - Rock Barrier & Hurl
+
+Self HP shield, Toughness (stat) buff & Resistance (ignore non-damaging conditions) boon. Gives access to Hurl, consuming the Toughness buff & shooting 5x projectiles for 5 instances of damage, Bleeding and combo projectile.
+
+Originally only had the Toughness buff, so you know it’s bad if you had to triple the amount of effects an ability has. All 3 effects contribute to survivability, as dictated by the Earth theme. Hurl presents some risk vs. reward in consuming the defensive buff for damage, though it’s generally not a life or death situation in PvE.
+
+Scepter Earth 3 - Dust Devil
+
+Ground targeted AoE. Damages & Cripples Bleeding enemies 3x. 1st hit blinds.
+
+Small field that does a bit of damage & some conditional CC. Not particularly the best skill around but it’s somewhat better than what it was before. Previously just did 1 instance of damage at target & AoE around them. Pulsing damage & CC is more flexible. There’s synergy with the other Earth skills w/ bleeding but the effect isn’t strong enough to warrant it being conditional CC. Could’ve been basekit Cripple but additional damage & Bleed if already Bleeding.
+
+Dagger
+Note that Dagger is main hand & off hand. Meaning you can mix and match and not necessarily have to take all 5 (or 20) Dagger skills at once.
+
+
+
 
 
 
