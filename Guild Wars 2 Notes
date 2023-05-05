@@ -3,6 +3,7 @@ Please use this link for better formatting and images: https://docs.google.com/d
 Guild Wars 2 Notes
 General
 Good combat, mixture of action and tab targeting.
+Targeting sometimes gets annoying when mobs surround / get behind you. Skills won’t fire until you manually face them which is fine for the action combat skills, very annoying for the enemy targeted ones. Something like FFXIV’s legacy camera movement would work wonders and make the targeting feel less clunky.
 Has stamina + dodging, no active blocking. Most abilities are ground targeted or enemy targeted w/ tab targeting.
 No trinity, but the most efficient way to play for endgame stuff is with pseudo trinity anyway (tank / kiter, healer, DPS, support = buff & healer / DPS hybrid).
 Quickness + Alacrity buffs shape the meta. Do not like these buffs as it feels awful not to have them, whereas no Might (+Damage) or Fury (+Crit chance) don’t feel nearly as bad when you don’t have them.
@@ -31,6 +32,7 @@ Way too much RNG in everything: loot boxes, random skin unlocks, microtransactio
 Balance split between PvE & PvP took years but eventually happened, meaning some skills that are useless are now less useless in their respective modes (separate numbers, slightly different effects, etc).
 There is underwater combat with its own set of weapons & abilities, but it’s not that great. Not awful but not really part of the game at all, so won’t include it here at all.
 There’s also a couple of skills when you’re downed / drowning (downed underwater). Won’t be including those either as they’re mostly damage / helping you survive long enough to get saved.
+Combos are an interesting mechanic but they’ve pretty much been unchanged since release. Their importance and effectiveness have gone down while new classes, specialisations, weapons + skills have made them even more irrelevant. Why bother comboing for boons when another class can press a couple of buttons for permanent buff uptime.
 Elementalist
 Elementalist Combat
 Love the concept, execution could be better.
@@ -50,9 +52,8 @@ Absolutely hate that Ele has very little HP and very little armour; they effecti
 This is meant to be balanced by the fact that Ele has more active defense (shields, immunities) but they’ve all been nerfed / changed leaving a wet piece of tissue paper.
 Understand that PvP is balanced around this, no reason for this to be the case in PvE.
 Conjures are awful. Imagine having to pick up (F) a weapon. Completely replaces your weapon bar and (for DPS purposes) you’re encouraged to use the biggest damaging abilities then drop it. Damage is totally gimped if some random person takes your other weapon or it despawns because you have to go through a dumb pick up animation.
-
-
-
+Power budget includes access to a lot of combo fields. The importance of combos has changed over the years so how much of the power budget it takes up should be adjusted (there are much easier ways to get boons these days).
+Auras are also meant to be a prominent feature for Eles but they haven’t really been changed since release either. They last for very little time and are unaffected by boon duration stats, so their effects while decently strong are rarely felt, especially since it requires you to get hit.
 Elementalist Abilities
 Staff
 
@@ -60,19 +61,43 @@ Staff Fire 1 - Fireball
 
 Targeted projectile AoE for damage & 1s burning (only PvE, will only be doing PvE version).
 
-All “1” abilities are the auto-attack so they’re going to be somewhat basic. Fits with the main theme of Fire which is direct damage and DoTs. Feels clunky with the cast time & it being a targeted skill in a mostly action combat game.
+All “1” abilities are the auto-attack so they’re going to be somewhat basic. Fits with the main theme of Fire which is direct damage and DoTs. Also fits the theme of a staff being ranged and slow. Won’t be mentioning if it fits the theme for other abilities, will only mention it if it doesn’t. Feels clunky with the cast time & it being a targeted skill in a mostly action combat game. Especially annoying since your character won’t turn to face and cast if they’re behind you.
 
 Staff Fire 2 - Lava Font
 
+Ground targeted AoE field for damage & 1s burning. Fire field for combos.
+
+Simple ground targeted AoE for damage. It’s quick and has a low cooldown so not as heavily punished if things move out of it, which it will since its size is pretty small. Combo field lasts for 4s so there’s some time to get some combos off. 
+
 Staff Fire 3 - Flame Burst
+
+Targeted AoE damage & burning. Also blinds.
+
+Simple AoE around the target enemy. Same annoyances about enemy targeted skills apply. Blind is also an annoying condition because of how detrimental or useless it is. It completely negates the next singular outgoing attack. This makes it either extremely effective against slower classes or borderline useless against persistent DPS / AoE classes. Should be made more standardised by either making all attacks miss for a far lower duration or make it so it forces the affected to break targeting and darken the screen. The latter may be annoying as CC affecting the player (as in the person playing) isn’t that great by design; it’s annoying, frustrating and could be worked around by putting gamma up to a 100 or something. Blindness has the same issue as the old dodge stats from LoL, WoW and FFXIV where it’s frustrating when it happens and is a minor inconvenience to get rid of (reaching X accuracy or smacking something once in GW2’s case).
 
 Staff Fire 4 - Burning Retreat
 
+Backflip that leaves a burning field that damages, burns and acts as a combo field.
+
+Active mitigation is good as it fits the squishy mage archetype Ele has going on. There is also a point to be made about risk vs. reward in using this for damage vs. using it as a dodge. But the fact that it’s kinda janky and using an escape on an enemy that’s not actively engaging you / hitting someone else feels weird. Compare this to FFXIV Red Mage, which has Displacement (backflip w/ 1 instance of damage) & Engagement (same damage as Displacement, does NOT backflip), which both share charges. There’s still risk involved in using it and running into a situation where you need to disengage, but there’s no situation where you’re running away only to walk back in range again to continue DPSing. That is a fundamental difference in combat (FFXIV having all abilities available at all times, GW2 having a CD between certain “sets”) but the point still stands.
+
 Staff Fire 5 - Meteor Shower
+
+Big area, long range, long cast time. Think old GP ult where each ball does damage but you could conceivably get lucky and dodge all by sheer luck. Each hit reduces the damage of the next by 10% (not multiplicative), down to a minimum of 10%.
+
+The first 3 points are good. It should cover a large area, it should be long range (staff) and it should have a long cast time for a powerful spell, both in damage and coverage. It was pulsing damaging field with an ICD / tick rate but was changed to this monstrosity for some reason. Adding randomness to the big cooldown spell makes it feel awful to use because of how unreliable it is. Even if you do land the hits, it will be miserable to see a meteor smack someone in the face and it does like 100 damage. If it was too strong they should’ve adjusted the damage, not making it both random and sucky when it does land.
 
 Staff Water 1 - Water Blast
 
+Targeted projectile AoE. Enemy is damaged, allies around it get healed.
+
+Simple as expected from a 1 skill. Fits the purpose of Water which is support. Still has the clunky targeted ranged aspect. Not useful for DPS since damage and healing are separate stats. Could have included CC or some debuff that would interact with DPS to make it less horrible to use, like Hammer (will discuss later).
+
 Staff Water 2 - Ice Spike
+
+The only damaging ability in Water. Delayed ground targeted nuke which debuffs enemies for more damage & blasts combo fields.
+
+Probably the best overall ability for staff Water. It damages so it’s usable by DPS, it debuffs so it fills the support role and it blasts combos which is versatile since blasting water fields = healing, but blasting a fire field = Might boon for allies.
 
 Staff Water 3 - Geyser
 
