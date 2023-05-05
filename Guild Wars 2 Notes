@@ -97,34 +97,86 @@ Staff Water 2 - Ice Spike
 
 The only damaging ability in Water. Delayed ground targeted nuke which debuffs enemies for more damage & blasts combo fields.
 
-Probably the best overall ability for staff Water. It damages so it’s usable by DPS, it debuffs so it fills the support role and it blasts combos which is versatile since blasting water fields = healing, but blasting a fire field = Might boon for allies.
+Probably the best overall ability for staff Water. It damages so it’s usable by DPS, it debuffs so it fills the support role and it blasts combos which is versatile since blasting water fields = healing, but blasting a fire field = Might boon for allies, etc.
 
 Staff Water 3 - Geyser
 
+Ground targeted healing AoE w/ Water combo field.
+
+Pure support ability. Not inherently a bad thing if the overall skill set is balanced between offense and defense but that’s not the case for staff Water. It’s a small field with a big cooldown due to a talent affecting it (where it also revives) so there’s some risk in using it, not being able to revive someone because you were healing.
+
 Staff Water 4 - Frozen Ground
+
+Ground targeted AoE Ice combo field. Enemies Chilled and allies given Frost Aura.
+
+Until very recently, it was just the ice field + chill, you could tell how much stock was put into combo fields. The addition of the Frost Aura is welcome but the Ice Field & Chill aren’t that useful in PvE for Ele. Auras have no base effect if you’re not hit, and Chill isn’t all that impactful other than the slow and the defiance bar (CC) depletion. Ele has no talents that affect Chill like Reaper (Necromancer) does, where they do more damage against Chilled targets.
 
 Staff Water 5 - Healing Rain
 
+Big AoE Water combo field. Regening, cleansing & healing per cleanse.
+
+Big support ability on a big cooldown. Used to not have the heal on cleanse so it was just regen & cleansing + a water field; same note above about combo field value. It’s fine for all of this ability's power budget being spent on support / utility, but the fact that there’s only 1 damaging ability in Water means there’s almost no reason to get into Water as DPS. If 3 or 4 (or both) was more DPS oriented and 1 also hit in an AoE on enemies (targeting in action combat games is a bit wonky sometimes, issues hitting the correct enemy) it would be a lot better.
+
 Staff Air 1 - Chain Lightning
+
+Bouncing lightning attack on target. Bounces 3 times and can bounce back to 1st.
+
+The usual bouncing lightning attack. Sort of dumb that the max single target DPS requires a 2nd target; there’s no extra line about the target taking extra damage if it doesn’t bounce.
 
 Staff Air 2 - Lightning Surge
 
+Targeted AoE that also blinds.
+
+Somehow only just now realising that this is the same as Fire Staff 3, but without the burn. Same notes apply.
+
 Staff Air 3 - Gust
+
+Long range knockback.
+
+Some self peel, but this feels like a PvP balanced ability that’s left there for PvE. The knockback isn’t that strong relative to other CC and that’s all it does. It’s on a big cooldown and the only thing that’s going for it is that it’s long ranged. Doesn’t necessarily need damage, but it could use another effect that goes along with the peeling or CC aspect. Honestly if this skill came out recently I could see it being straight up merged with the next one, with some minor adjustments.
 
 Staff Air 4 - Windborne Speed
 
+AoE movement cleanse & movespeed buffs.
+
+Previously only had the 1 Swiftness (+33% movement speed) boon, recently added 3s of Superspeed (+100% movement speed) onto it. So there’s a quick burst of movement and then the weaker but longer boon too. Would be merged with Staff Air 3 if this was created this decade. Otherwise, can’t add Quickness to it due to the problematic nature of it and Alacrity. Those 2 boons can’t be base kit otherwise you would be able to apply both and cover 2 support roles in 1.
+
 Staff Air 5 - Static Field
+
+Ground targeted AoE lightning combo field. Veigar cage w/ stun on edge.
+
+The only other damaging ability for Staff Air and it does less damage than the auto. Only reiterates the fact that 3 & 4 should be merged and another damaging ability should be added. Ability itself is small but long range and is a good zoning tool but overall means Air is almost exclusively meant for CC only. Meaning dipping out of Fire for damage is more often than not detrimental to DPS.
 
 Staff Earth 1 - Stoning
 
+Single target (!) combo projectile w/ Weakness (-Endurance / Stamina regen, attacks can’t crit and deal 50% damage) debuff.
+
+There’s no reason why auto-attacks deal AoE damage in an action game. It reduces the cases of janky targeting and wouldn’t be detrimental in PvP since most people aren’t stacking right on top of each other, except in WvW but if you’re in range of that many people you’re probably gone anyway since it’s mostly zergs. It’s guaranteed to act as a projectile for combos but those effects aren’t that useful. Honestly the only useful combo are the boon ones since they actually last for a while. Weakness debuff is only half useful in PvE for the damage reduction but it’s not powerful enough to camp Earth for it.
+
 Staff Earth 2 - Eruption
+
+Delayed ground targeted AoE w/ Bleed, Cripple (slow) & combo blast.
+
+A good overall skill. Delay means you can cast it & put down a field afterwards to blast it for some actual decent combo effects. There is a long cast time though which takes some getting used to since it doesn’t feel like something that would require a channel (in fact you can move during that time).
 
 
 Staff Earth 3 - Magnetic Aura & Transmute Earth
 
+Self buff w/ Magnetic Aura, reflecting all projectiles for 4s. Turns into Transmute Earth while you have a Magnetic Aura, letting you deal PBAoE damage, granting Stability (hard CC immunity stacks) to allies & blasting combos.
+
+Magnetic Aura has a 30s cooldown for some reason, and it only affects yourself. Would be understandable if it also affected allies & gave them Protection (damage reduction) or some other effect. Right now it’s just a single aura which is somewhat insulting to be 30s and take up an ability slot (which you don’t choose). Transmute Earth was added 6 years into the game, so Magnetic Aura was infinitely worse before then. It makes the overall ability a lot less crap and provides some utility (damage is minimal). It has 3x the cooldown in PvE for some reason, as if to prevent it from being used twice since no one is going to camp Earth for > 10s.
+
 Staff Earth 4 - Unsteady Ground
 
+Creates a line that enemies can’t cross (they’ll be knocked back).
+
+It’s a pretty barebones ability. There’s no damage, no DoT and it barely counts as a “defensive” ability for the Earth theme (it’s the same thing as saying damage is CC since enemies can’t hurt you if they’re dead). Previously damaged and Crippled enemies that move through it. Needs an initial effect when placed like deals X damage and puts a Bleed on them or something. 30s CD too.
+
 Staff Earth 5 - Shock Wave
+
+Targeted combo projectile that damages, Bleeds and Immobilizes (roots) all hit (piercing up to 5).
+
+Good skill: damages, DoTs and CCs. No real complaints other than the 25s CD, meaning you’re encouraged to dump CDs and go to the next element but that’s not too feasible since there are some real crappy skills in some of the other attunements (cough Water & Air).
 
 
 
