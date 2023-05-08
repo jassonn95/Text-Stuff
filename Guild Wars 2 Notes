@@ -164,7 +164,7 @@ Staff Earth 3 - Magnetic Aura & Transmute Earth
 
 Self buff w/ Magnetic Aura, reflecting all projectiles for 4s. Turns into Transmute Earth while you have a Magnetic Aura, letting you deal PBAoE damage, granting Stability (hard CC immunity stacks) to allies & blasting combos.
 
-Magnetic Aura has a 30s cooldown for some reason, and it only affects yourself. Would be understandable if it also affected allies & gave them Protection (damage reduction) or some other effect. Right now it’s just a single aura which is somewhat insulting to be 30s and take up an ability slot (which you don’t choose). Transmute Earth was added 6 years into the game, so Magnetic Aura was infinitely worse before then. It makes the overall ability a lot less crap and provides some utility (damage is minimal). It has 3x the cooldown in PvE for some reason, as if to prevent it from being used twice since no one is going to camp Earth for > 10s.
+Magnetic Aura has a 30s cooldown for some reason, and it only affects yourself. Would be understandable if it also affected allies & gave them Protection (damage reduction) or some other effect. Right now it’s just a single aura which is somewhat insulting to be 30s and take up an ability slot (which you don’t choose). Transmute Earth was added 6 years into the game, so Magnetic Aura was infinitely worse before then. It makes the overall ability a lot less crap and provides some utility (damage is minimal). It has 3x the cooldown in PvE for some reason, as if to prevent it from being used twice since no one is going to camp Earth for > 10s. Could also have a Bleed effect to contribute to the Earth theme.
 
 Staff Earth 4 - Unsteady Ground
 
@@ -259,45 +259,125 @@ Note that Dagger is main hand (1, 2, 3) & off hand (4, 5). Meaning you can mix a
 
 Dagger Fire 1 - Dragon’s Claw
 
+Short range piercing shotgun.
+
+Dagger is for short ranged (not quite melee) combat and this is a good example of it. Rewarded for getting up close when you manage to land all 3 shots on a target. Piercing to make it feel not horrible in AoE situations.
+
 Dagger Fire 2 - Drake’s Breath
+
+Channelled frontal cone; can move. Damages & Burns.
+
+Same premise as the above. Channelled makes it even riskier since it’s close ranged, but does big damage especially for DoT builds.
 
 Dagger Fire 3 - Burning Speed
 
+Slide forward & damage in an AoE at the end. Leave behind a fire combo field that damages and Burns. Has an Evade (dodge) component.
+
+Interesting skill that could be better. Evade component gives it skill expression, but there’s a 0.75s cast time so it’s pretty hard to pull off the dodge on higher ping. Recently it was changed to stop at the target. This means the fire field won’t ever hit the enemy if you have 1 targeted, which you should since it auto-targets if you don’t have 1 and you use an ability. Fire field should also happen at the end point. Other than that it’s a pretty good skill. Could possibly argue that it should also have a Combo Leap component but the skill is somewhat overloaded as is. Maybe only in PvE since Leap isn’t as impactful there as it is in PvP.
+
 Dagger Fire 4 - Ring of Fire
+
+PBAoE fire combo field. Damages, Burns on cast & Burns on passthrough.
+
+Just a fire combo field that spawns underneath you. Short ranged, matching weapon. Combo field matching Eles “strengths”. Fire because, well, Fire attunement.
 
 Dagger Fire 5 - Fire Grab
 
+Short ranged frontal cone. Damages, +60% if they’re burning.
+
+Simple ability that synergises w/ the rest of the weapon / attunement. Same notes about being short ranged apply.
+
 Dagger Water 1 - Vapor Blade
+
+Mid range piercing boomerang, damages & applies Vulnerability.
+
+Pretty cool ability. Damage & debuff aren’t enough to warrant sticking around and using it though, making it a mediocre filler. Could have a heal attached to it to make it more attractive to the support side or apply more / longer Vulnerability stacks.
 
 Dagger Water 2 - Cone of Cold
 
+Healing version of the fire breath. 0.25x the damage and 2x the cooldown but gets a heal on it instead!
+
+Pretty much just the healing fire breath. The exchange for the heal does seem pretty bad but player health pools compared to the enemy is a big difference. Only issue I have is that targeting is weird when you have a beneficial + damaging ability in 1. The game will auto-target the enemy and focus the breath on them, but you’ll probably try and move to position the breath to hit your allies which it won’t do because it’s still aiming at the enemy. Can de-target or position so allies are in between but doesn’t that make it any less janky in general.
+
 Dagger Water 3 - Frozen Burst
+
+PBAoE combo blast. Damages & Chills.
+
+Damage is pretty weak and Chill isn’t more useful for Ele than other classes like it is for Reaper (Necromancer). Only real useful part is the Blast combo component for Aoe boons / auras / conditions / healing / cleanse, etc depending on the combo field.
 
 
 Dagger Water 4 - Frost Aura & Transmute Frost
 
+Self buff w/ Frost Aura, reducing damage taken by 10% & Chilling enemies that hit for 2s (1s ICD per attacker). Turns into Transmute Frost when affected by a Frost Aura, letting you deal PBAoE damage, heal & Regen.
+
+Exact same comments as Magnetic Aura & Transmute Frost. This at least only has a 10s cooldown vs. 30s but its effect still should be AoE by default (there’s a talent which I’ll go into later). Transmute Frost also shouldn’t be on a 10s CD compared to PvP where it’s 3s. Other than that, its effects are what you expect from the Water version. It could maybe use 1 more offensive effect like Vulnerability or Chill or something. 
+
 Dagger Water 5 - Cleansing Wave
+
+PBAoE heal & cleanse.
+
+Pretty simple ability; does what it says and fits Water theme & dagger constraints.
 
 Dagger Air 1 - Lightning Whip
 
+2x frontal attack, small cleave.
+
+Simple ability since it’s a 1 skill. Borderline melee lightning attack; ticks the boxes.
+
 Dagger Air 2 - Convergence
+
+Delayed PBAoE. Damages, applies Weakness & grants Fury per enemy struck.
+
+Used to be a frontal cone w/ the same effects, the delayed PBAoE makes it more interesting as you can prepare it. It’s also just more unique rather than having another frontal cone (yes it’s a PBAoE, but it’s delayed). Same notes about Weakness apply (stam regen penalty not that useful in PvE, damage reduction not reliable either). Fury is handy but in group content the healer / support will have it covered. Solo it’s useful because of the “per enemy struck” clause, making it last long enough to be useful.
 
 
 Dagger Air 3 - Shocking Aura & Transmute Lightning
 
+Self buff w/ Shocking Aura, stunning enemies that attack you for 1s (2s ICD per attacker). Turns into Transmute Lightning when affected by a Shocking Aura, letting you deal PBAoE damage & Stun.
+
+Same comments as Magnetic Aura & Frost Aura. Also 10s but this is definitely a PvP skill as a 1s stun won’t really help if you get downed in like 5 hits as a squishy Ele. Could increase the stun duration or also apply Weakness to help survive. Transmute Lightning also should be a 3s CD. It could also have an additional effect like applying Swiftness because right now it’s just some damage and a stun.
+
 Dagger Air 4 - Ride the Lightning
+
+Gapcloser w/ PBAoE damage if it hits an enemy. Half cooldown if it does hit.
+
+Simple gapcloser. Can be used as part of your damage rotation at the cost of some mobility. Auto-targeting may cause issues, launching you in unexpected directions.
 
 Dagger Air 5 - Updraft
 
+Evading short backflip w/ Swiftness & delayed CC.
+
+Defensive dodge w/ CC attached. Use for CC or hold as an extra Evade, so there’s some risk involved. CC was changed to be delayed because of PvP, could’ve kept it separate. Even a little bit of damage would make sense on it since you’re launching a bunch of enemies into the air.
+
 Dagger Earth 1 - Impale
+
+Single target damage & Bleed.
+
+No reason for this to be single target, especially since it’s very short ranged. Damages & Bleeds like every other Earth ability.
 
 Dagger Earth 2 - Ring of Earth
 
+2x PBAoE damage, Bleed & Cripple. Blocks projectiles.
+
+Pretty cool animation, launching self into air and then crashing down into the earth. Damage & condition effects make sense w/ animation & theme. Extra skill expression w/ projectile blocking but that’s more of a PvP thing.
+
 Dagger Earth 3 - Earthen Rush
+
+Earth version of the Fire dash. Damages, Immobilizes (roots) enemies while Evading & combo Leaping.
+
+Pretty much the same notes as Burning Speed. Has the Evade too but this one has 0.5s cast time as opposed to 0.75s for some reason. Also was made to stop at the enemy if targeted, meaning it won’t be hit by the trail of spikes behind. Acts as a Leap combo but since there are no Combo fields in Earth you’ll have to use one from another weapon / Attunement.
 
 Dagger Earth 4 - Earthquake
 
+PBAoE stomp that damages, knocks down and Blasts combos.
+
+Very good damage and CC as well as Blasting combos. The only issue is that it’s VERY easy to cancel for some reason compared to other abilities with cast times. Cancelling with dodging makes sense but it’s also cancellable with a movement input, which honestly should be buffered. Should only be cancellable via dodging or sheathing w/ Z or pressing Esc.
+
 Dagger Earth 5 - Churning Earth
+
+Long cast PBAoE Cripple (slow) which explodes for Damage, Bleeding & Blasts combos.
+
+Risk vs. reward since it has a long channel time where you’re vulnerable to CC & damage but the pay off is in big damage and to a lesser degree a combo Blast. It’s also VERY easy to cancel with movement input. Can also be comboed with Lightning Flash (utility blink, discussed below) to reposition the PBAoE without cancelling it, nifty little combo.
 
 Focus
 Off-hand only.
