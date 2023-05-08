@@ -33,6 +33,7 @@ Balance split between PvE & PvP took years but eventually happened, meaning some
 There is underwater combat with its own set of weapons & abilities, but it’s not that great. Not awful but not really part of the game at all, so won’t include it here at all.
 There’s also a couple of skills when you’re downed / drowning (downed underwater). Won’t be including those either as they’re mostly damage / helping you survive long enough to get saved.
 Combos are an interesting mechanic but they’ve pretty much been unchanged since release. Their importance and effectiveness have gone down while new classes, specialisations, weapons + skills have made them even more irrelevant. Why bother comboing for boons when another class can press a couple of buttons for permanent buff uptime.
+Every interaction being bound to F is very annoying.
 Elementalist
 Elementalist Combat
 Love the concept, execution could be better.
@@ -56,6 +57,7 @@ Power budget includes access to a lot of combo fields. The importance of combos 
 Auras are also meant to be a prominent feature for Eles but they haven’t really been changed since release either. They last for very little time and are unaffected by boon duration stats, so their effects while decently strong are rarely felt, especially since it requires you to get hit.
 Elementalist Abilities
 Staff
+Long range, being pushed to be more support oriented.
 
 Staff Fire 1 - Fireball
 
@@ -179,6 +181,7 @@ Targeted combo projectile that damages, Bleeds and Immobilizes (roots) all hit (
 Good skill: damages, DoTs and CCs. No real complaints other than the 25s CD, meaning you’re encouraged to dump CDs and go to the next element but that’s not too feasible since there are some real crappy skills in some of the other attunements (cough Water & Air).
 
 Scepter
+Mid-long range.
 
 Scepter Fire 1 - Flamestrike
 
@@ -255,7 +258,7 @@ Ground targeted AoE. Damages & Cripples Bleeding enemies 3x. 1st hit blinds.
 Small field that does a bit of damage & some conditional CC. Not particularly the best skill around but it’s somewhat better than what it was before. Previously just did 1 instance of damage at target & AoE around them. Pulsing damage & CC is more flexible. There’s synergy with the other Earth skills w/ bleeding but the effect isn’t strong enough to warrant it being conditional CC. Could’ve been basekit Cripple but additional damage & Bleed if already Bleeding.
 
 Dagger
-Note that Dagger is main hand (1, 2, 3) & off hand (4, 5). Meaning you can mix and match and not necessarily have to take all 5 (or 20) Dagger skills at once.
+Short range. Note that Dagger is main hand (1, 2, 3) & off hand (4, 5). Meaning you can mix and match and not necessarily have to take all 5 (or 20) Dagger skills at once.
 
 Dagger Fire 1 - Dragon’s Claw
 
@@ -377,89 +380,331 @@ Dagger Earth 5 - Churning Earth
 
 Long cast PBAoE Cripple (slow) which explodes for Damage, Bleeding & Blasts combos.
 
-Risk vs. reward since it has a long channel time where you’re vulnerable to CC & damage but the pay off is in big damage and to a lesser degree a combo Blast. It’s also VERY easy to cancel with movement input. Can also be comboed with Lightning Flash (utility blink, discussed below) to reposition the PBAoE without cancelling it, nifty little combo.
+Risk vs. reward since it has a long channel time where you’re vulnerable to CC & damage but the pay off is in big damage and to a lesser degree a combo Blast. It’s also VERY easy to cancel with movement input. Can also be comboed with Lightning Flash (utility blink, discussed below) to reposition the PBAoE without cancelling it, a nifty little combo.
 
 Focus
-Off-hand only.
+Defense oriented. Off-hand only.
 
 Focus Fire 4 - Flamewall
 
+Ground targeted Fire combo field that damages & Burns.
+
+Fire combo field that can be placed at range, making it versatile. Other than that it’s just like every other Fire combo field.
+
 Focus Fire 5 - Fire Shield & Transmute Fire
+
+Self buff w/ Fire Aura, burning enemies that attack & granting Might each time (1s ICD per attacker). Turns into Transmute Fire when affected by a Fire Aura, damaging & Burning enemies while granting allies Might.
+
+Same note about aura application not being AoE. Same not about the Transmute not also being 3s in PvE. Skill itself is fine with its 3 effects, possible combo related effect if they want to lean into that.
 
 Focus Water 4 - Freezing Gust
 
+Single target Chill w/ a bit of damage.
+
+There’s really no reason why this can’t have a small AoE around the target, especially since the chill is 3s and it’s on a 25s CD. Other than that, it needs something else since Chill doesn’t do much and the skill is practically unchanged since the release of the game.
+
 Focus Water 5 - Comet
+
+Targeted, slightly delayed AoE damage & Daze (same as stun, except players can still move whereas mobs can’t so it’s effectively a stun). Also Blasts combos.
+
+A fine CC skill as there’s a bit of a delay so you can avoid it in PvP. Other than that it’s just CC with some damage. Blast is at the centre of the enemy hitbox which isn’t always that great depending on the hitbox.
 
 Focus Air 4 - Swirling Winds
 
+PBAoE area that blocks missiles.
+
+Powerful defensive spell, lasts 6s so there’s enough time to get full value out of it unlike that 1 Earth spell that lasts 2s. Could stand to maybe also increase ally movespeed while in the field for a bit more utility, via a unique buff or Swiftness.
+
 Focus Air 5 - Gale
+
+Single target ranged unblockable knockdown.
+
+Strong for PvP but in PvE it should just also be AoE. Other than that, it’s a dedicated CC spell on a huge cooldown which also should be reduced in PvE only.
 
 Focus Earth 4 - Magnetic Wave
 
+PBAoE damage & Cripple while also cleansing 3 Conditions & 3s projectile reflection. Also Blasts combos.
+
+Strong skill that does a whole bunch of things at once. Only thing that could improve it is if there was some way to include Bleed into it, maybe rocks flying out as shrapnel in the animation just so it works more w/ DoT builds like other Earth skills.
+
 Focus Earth 5 - Obsidian Flesh
+
+3s of invulnerability. Channelled so you can only move.
+
+Nerfed in PvE for no reason. Was formerly both 4s and wasn’t channelled. It’s already on a huge 50s cooldown so there’s already some risk in using it incorrectly, there was no need for it to be made into a channel.
 
 Healing
 Choose 1.
 
 Arcane Brilliance - Arcane
 
+PBAoE damage. Base heal, increased w/ per target hit. Blasts combos.
+
+Arcane’s gimmick is that they always do critical damage, not that it matters since builds in PvE all revolve around getting to 100% crit anyway. Since there are only 5 Arcane skills, there’s no build revolved around Arcane to warrant not building crit. 
+
+Skill itself specifically is the most offensive of the heals since it’s the only one that damages and potentially the biggest burst of healing. Tradeoff is that it’s the longest cooldown and is conditional for the amount healed, becoming weaker in single target. Bit of extra utility with the Blast component.
+
 Ether Renewal - Cantrip
+
+Channelled heal & cleanse per pulse. Pulses 8 times.
+
+Cantrips are all defensive spells that activate instantly and this is no different. Does a medium amount of healing but the main reason you choose it is because of the huge cleansing component. The tradeoff is that it’s 2.25s of channelling where you’re both vulnerable and not attacking. In PvE there are better ways of cleansing, reserving this for PvP.
 
 Glyph of Elemental Harmony - Glyph
 
+Medium heal burst + a Boon depending on current Attunement.
+
+Glyphs secondary effects change depending on the current Attunement. In this case, Fire = Might, Water = Regen, Air = Swiftness & Earth = Protection. However these Boons aren’t the main reason to take this heal as they don’t last long enough or they don’t scale that well (Regen won’t do much if you don’t have Healing Power). It’s the biggest non-conditional burst heal out of the base heal skills.
+
 Signet of Restoration - Signet
+
+Passively heal per spell cast (so any weapon skill). Active is a low heal burst.
+
+Signets have both passive & active components. Passives are on cooldown while recharging by default, so there’s some downside to using the active if you don’t absolutely need it. This heal has the most passive healing but is the worst in terms of burst healing.
 
 Utility
 Choose 3.
 
 Arcane Blast - Arcane
 
+Single target ranged crit nuke. 3 charges. Acts as a combo Projectile.
+
+Decent single target damage, which is what’s advertised. Charges allow holding at least 2 until burst phase if needed, some extra skill layered in. Not that interesting though, especially since it’s a non-Elemental spell for the Elementalist class.
+
 Arcane Power - Arcane
+
+PBAoE buff that guarantees crits on attacks per stack. Also grants Ferocity (crit damage stat) per stack. More stacks for self than allies (4 vs 2).
+
+Absolutely awful since stacks are consumed per hit, meaning a weak attack consuming the stack would completely gimp its effectiveness. Could try and time it but there’s usually a lot going on in terms of attacks going out. Could really be duration based rather than stack based, especially since this is a 45s CD probably because of PvP.
 
 Arcane Shield - Arcane
 
+Block the next 3 attacks. Explodes for crit damage if it blocks all 3. Also breaks stun.
+
+Mostly used to break out of a stun. Same note about stacks vs. duration, at least in PvE. Compared to other defensive Utilities that break stun, it’s more on the defensive side without completely stopping you from attacking.
+
 Arcane Wave - Arcane
+
+AoE version of Arcane Blast. 2 charges. Blasts combos.
+
+Literally just the AoE version of Arcane Blast, except it actually Blasts combos.
 
 Armor of Earth - Cantrip
 
+Break out of stuns, grant self Protection & Stability & Barrier per boon you have.
+
+The other defensive stun break that doesn’t gimp damage. Offers more mitigation rather than blocking the attacks, meaning you could still get downed. The mitigation is standardised at 6s though as opposed to the stacks. Conditional barrier is kind of stupid though. It should have a base amount and then increase per boon. Luckily it grants the Protection & Stability then the barrier in terms of logic so there is a bit of a base value, technically.
+
 Cleansing Fire - Cantrip
+
+Cleanse 5 conditions & Burn enemies in PBAoE. Gain Might per condition cleansed. 2 charges.
+
+An actual good & safe cleansing option without sacrificing too much damage. Charges allow some flexibility, possibly even using it offensively. Might per condition cleansed also rewards cleansing properly but not that useful in group content since you should have max Might anyway. Possibly extra Burn stacks instead.
 
 Lightning Flash - Cantrip
 
+Blink to & damage an area.
+
+No reason why this shouldn’t also act as a stun break in PvE (which was removed 10 years ago). Other than that it’s just kind of boring. Yes you can use it to reposition certain skills but other than that it needs something else other than some pitiful damage, maybe AoE Swiftness & Weakness per enemy hit.
+
 Mist Form - Cantrip
+
+Breaks stun & Invulnerability for 3s. You can move very quickly but cannot attack.
+
+The most defensive of the stun breaks. The trade off is that it’s a huge cooldown of 60s and you cannot attack at all. Can change Attunements during this so there’s some flexibility in that regard. Might also need a healing or cleansing component attached to it (in PvE) to make it stand out because right now it’s strictly a PvP ability.
 
 Conjure Earth Shield - Conjure
 
+Creates an Earth Shield in your hands (replacing weapon skills) & target location. Wielders get toughness (armour stat) and vitality (health stat).
+a) Shield Smack: Melee damage & Bleeding cleave.
+b) Shield Smash: Melee damage & more Bleeding cleave.
+c) Crippling Shield: Line boomerang damage & Cripple. Double damage & Bleeding if you have any Barrier.
+Stone Sheath: Block next attack within 2.25s & PBAoE damage & Bleed. Gain Barrier if an attack is blocked.
+Magnetic Surge: PBAoE damage & Daze and grant self Magnetic Aura.
+Magnetic Shield: PBAoE damage & pull. Grant self Barrier & Protection per enemy pulled. Unblockable.
+Fortify: Invulnerable but unable to move or attack at all. Can blink with Lightning Flash.
+
+Conjure’s gimmick is that they create a weapon in both your hand and at target location. This differs from Engineer’s Kits where only they get the weapon. It seriously should just act the same because a) having to run up and press F to pick up a weapon is the dumbest thing ever and b) someone stealing your weapon is the most frustrating thing ever. Get rid of the passive stats and the 2nd weapon and make it like Kits.
+
+Onto the actual weapon, it’s the most defensive of the 5 as expected. Works around Barriers & Bleeding which fits the Earth theme of DoTs and defence. Also has CC and pulls to help being a melee weapon. Don’t get much use out of this in PvE and even if it was better in PvE, you’d only use 1 or 2 abilities before dumping it immediately. This can be resolved by it becoming more like Kits, where you can jump into the weapon anytime and use what you need at the time.
+
 Conjure Flame Axe - Conjure
+
+Creates a Flame Axe in your hands & target location. Wielders get power (direct damage stat) & condition damage (DoT damage stat).
+a) Lava Axe: Single target ranged damage & Might for self.
+b) Double Lava Axe: same as above, but there are 2 projectiles.
+Explosive Lava Axe: ground targeted AoE damage & Blast. Grants Fired Up, allowing Double Lava Axe to be used.
+Burning Retreat: almost identical to the Staff version. Also grants Fired Up.
+Ring of Fire: almost identical to the Dagger version. Also grants Fired Up.
+Flame Leap: Combo Leap to enemy, dealing Damage, Burning & Fired Up.
+
+Not a really good look if 2 of the 5 abilities are the same as abilities from other weapons. There’s some auto attack weaving involved w/ Fired Up (doesn’t stack) so there’s some nuance involved. There’s some Burning involved but they don’t last very long. Could use a lot more Burning (possibly via Fired Up buff) to make it a contender for DoT builds because right now, no one ever uses this Utility.
 
 Conjure Frost Bow - Conjure
 
+Creates a Frost Bow in your hands & target location. Wielders get condition duration (DoT duration stat) & healing power (healing stat).
+Water Arrow: Targeted damage & AoE heal. Grants Water Arrow stacks (up to 2, 5s duration).
+Frost Volley: Multiple single target attacks. Damages, applies Vulnerability & acts as a Combo Projectile per shot. Damage increased per Water Arrow.
+Frost Fan: Ashe W that shotguns and pierces. Damages & Chills. +1 arrow per Water Arrow stack (base 7 arrows).
+Frost Storm: Ground targeted AoE. Damages w/ dumb damage reduction per hit & Bleeds. More projectiles per Water Arrow stack (base 24 impacts).
+Deep Freeze: Single target damage, Chill & Stun after cast time. +0.5s duration to Stun per Water Arrow stack (base 3s).
+
+More utility & damage based than the usual Water skills. Requires uptime of Water Arrows for max value on skills. Should remove healing from this skill and create a separate Water based Conjure under Healing Utilities, leaving this to be the support / utility option w/ some damage. Other than that the skills synergise with the auto due to the Water Arrow stacks, except for the weird Bleeding on Frost Storm. Could’ve added a “deal X more damage if chilled” clause somewhere too. Same note about the dumb damage reduction on “storm” type abilities, make it pulsing & consistent.
+
 Conjure Lightning Hammer - Conjure
+
+Creates a Lightning Hammer in your hands & target location. Wielders get ferocity (crit damage) & precision (crit chance).
+a) Lightning Swing: melee cleave.
+b) Static Swing: melee cleave.
+c) Thunderclap: melee AoE, damaging, Blinding & Blasting combos.
+Lightning Leap: Combo leap to target, damaging in an AoE & granting Quickness (skill animations are faster).
+Wind Blast: Damage & Launch back a single target. Also grant Superspeed.
+Call Lightning: PBAoE damaging strikes w/ damage reduction per hit.
+Static Field: Almost identical to the Staff version.
+
+Damage & CC, fitting the Air theme. Same notes about Conjures apply. Melee weapon so skills fit together in keeping up uptime on enemies. Same notes about damage reduction per hit apply. Standardise that. Could do with an actual unique 5th ability, but at least this time there’s only 1 copied ability. Maybe an initial stun around self and then a lightning field that follows. Possibly too strong for PvP but oh well, not like that game mode gets any updates (no I’m not bitter about PvP ruining things for PvE ☺️).
 
 Glyph of Elemental Power - Glyph
 
+Stun break. Gain 5 stacks. Each stack makes your attacks deal increased damage & apply a Condition depending on Attunement when used: 
+Fire: Burn | Water: Chill | Air: Vulnerability | Earth: Bleeding
+
+Weird to have a stun break associated with this skill when you want to use it on cooldown. Yes there’s something that could be said about risk vs. reward but it would’ve fit better on Lightning Flash (no I’m not bitter). Used to be duration based rather than stack based, probably because of PvP shenanigans. Overall this ability is just more damage on something you’re already doing (using spells) w/ some consideration on when to use it as the Conditions don’t change after it’s used.
+
 Glyph of Lesser Elementals - Glyph
+
+Summon a weak elemental depending on Attunement: 
+Fire: Burns & grants Might | Water: Chills & provides Ice Combo field | Air: is ranged, grants Swiftness & cleanses Cripple, Immobilize or Chill | Earth: applies Weakness, tankier. 
+40s CD but lasts for 120s, cap of 5 summons.
+
+Don’t like pets, won’t ever like pets. Unlike other pets though, these despawn on mount which is very annoying. There’s also a case where you need to precast a bunch before a boss fight which is more downtime and variance if you can’t spawn 5 of them in time (using mushrooms / potions or whatever that reset your cooldowns). Pets themselves are weak and apply non-comparable things, like boons vs. a combo field vs. a cleanse vs. being tankier. They should all do their unique things via the same method (boons, conditions, etc).
 
 Glyph of Renewal - Glyph
 
+Ranged res with a cast time. 
+Fire: GA effect for 15s on res-ee | Water: full heal on res | Air: res & pull them to your location | Earth: PBAoE res (3).
+
+PvP ability w/ some use in PvE (raid situations). Provides some safety since it’s a ranged res vs. having to run up to someone and press F (which is used for practically everything). Opportunity cost of taking a safe res vs. any of the other utilities.
+
 Glyph of Storms - Glyph
+
+Ground targeted AoE storm. 
+Fire: pulsing burning field | Water: projectiles that chill and have that dumb damage reduction per hit | Air: same but vulnerability instead of chill | Earth: pulsing bleeding & blindness field.
+
+First complaint about this is the projectile damage reduction per hit for Water & Air. If the damage was too high, it should’ve been reduced linearly. Second complaint is the varying cooldowns per Attunement. If Air was too strong (which it was, to be fair), reduce the damage, don’t make it ~3x the cooldown of Fire. Finally, they all have differing durations, why? Just standardise them so they’re more comparable and you choose depending on what you need more clearly. Other than that they all do what you expect each Attunement to do, though Water could use more in the support category since Chill is, again, not that good in PvE in general.
 
 Signet of Air - Signet
 
+Passive: movespeed. Active: Breaks stun, damage, blind & apply Vulnerability to target & nearby enemies.
+
+Good example of a stun break since you only want to use it in defensive situations (blinding the enemy helps survivability).
+
 Signet of Earth - Signet
+
+Passive: toughness (armour stat). Active: Damage, Bleed & Immobilize target.
+
+Other than the Immobilize, this doesn’t really help with tankiness. Possibly needs a Barrier aspect associated with it. Also needs to be AoE. Could keep Immobilize to be a single target only if that’s an issue because of ~PvP~.
 
 Signet of Fire - Signet
 
+Passive: precision (crit chance). Active: Damage & Burn target & nearby enemies.
+
+Fine, not too interesting. Used to need it to reach crit cap for Power builds (non-DoT). Now only used in Condition builds because of the huge Burn on a low cooldown.
+
 Signet of Water - Signet
+
+Passive: -20% Condition duration. Active: Damage & Chill enemies while healing & reviving (not a complete revive) allies around ground targeted area.
+
+The passive isn’t really helpful as you’re still being affected by those Conditions. Also doesn’t really fit w/ the rest of the ability. It’s one of the few Utilities that heal and is really the only reason to take it since the damage is low, Chill isn’t that helpful and the revive is 5% of their downed health bar (reaching 100% = revive). Passive could be changed to be increased healing power or boon duration to fit better.
 
 Elite
 Choose 1.
 
 Conjure Fiery Greatsword - Conjure
 
+Creates a Fiery Greatsword in your hands & target location. Target location is also damaged & Burned. Wielders get power (direct damage stat) & condition damage (DoT damage stat). Randomly casts Lesser Fiery Eruption, damaging & Burning in an AoE every 6s.
+Flame Wave: Medium ranged piercing projectile that damages.
+Fiery Eruption: Medium ranged targeted AoE that only Burns, no direct damage.
+Fiery Whirl: Tryndamere E. Damages, Cripples, Evades & Whirls combos.
+Fiery Rush: Dash to enemy, damaging & leaving damaging Fire (not field) behind. Ignores movement speed slows. No Burning.
+Firestorm: Ground targeted pulsing damage field.
+
+Decent Elite, if not for the fact it’s a 3 minute long cooldown. Target damage & Burn isn’t needed, seems to be there just to fit the animation. Randomly cast abilities are annoying & unreliable. What doesn’t make sense is that it does the same amount of Burning as the activated version, but also does direct damage making it objectively better than an activated ability but is called “Lesser”. Technically has a 1s higher CD but doesn’t require a cast. Auto is fine, could use some Burning interaction since you’re whacking someone with fireballs. Fiery Eruption needs direct damage, it doesn’t make sense otherwise. Fiery Whirl is okay; it does more damage against bigger hitbox enemies which is dumb and should be standardised. Fiery Rush needs to have Burning on it considering it leaves a Fire section behind. Also needs to be a combo field to make it consistent with its animation. Otherwise get rid of the fire wall because it forcibly doesn’t generate if you use it while in a hitbox, meaning stationary enemies are never hit by the fire field. Firestorm just needs some burning, otherwise it being a pulsing field rather than damage reduced projectiles is great.
+
 Glyph of Elementals - Glyph
 
+Summon a better pet. Can be commanded for an extra ability.
+Fire: Burns & applies Might. Command for more damage & Burning.
+Water: Chills & creates Ice Combo fields. Command for knockback, heal & cleanse.
+Air: Ranged, applies Swiftness & cleanses Crippled, Immobilized & Chilled. Command for a stun.
+Earth: Tanky, applies Weakness on enemy. Command for Protection for allies & Cripple & Immobilize for enemies around it.
+
+Bigger & better version of Glyph of Lesser Elementals, but you can only have 1 which is much more manageable in terms of balance. Pets are still going to act like pets so if you don’t like pets (like me), you won’t feel good about using it. Take Fire for damage, Water for healing, Air for CC & Earth for something to tank & CC. Also for some reason Water lasts 60s despite the tooltip saying all last 120s.
+
 Tornado - Cantrip
+
+Grant self Stability & turn into a tornado, replacing weapon skills, preventing Heal or Utility skills from being used or changing Attunements. Pulse every 3s for 4 pulses which damages & knocksback. Become a walking Lightning combo field that’s constantly Whirling for automatic Lightning Whirls.
+Electrified Tornado: shoot out bouncing lightning, damaging enemies.
+Dust Tornado: shoot out dust devils, damaging & blinding enemies.
+Debris Tornado: shout out debris, damaging & knocking back enemies.
+Elemental Requiem: shoot out random effects, damaging & applying Vulnerability, Bleeding or Cripple.
+Dust Charge: Charge forward, damaging & launching enemies.
+
+Honestly one of the worst skills Eles have. Trading everything away for a bunch of nothing. May have once been useful in PvP but the fact that it has a 150s CD (it’s lower in PvP for some reason???) and it takes away your ability to do anything else makes it absolutely garbage. Also where’s the Elemental part of it? It also doesn’t fit the Cantrip theme either since it takes 1 second to activate and only applies Stability or CCs enemies. You’re still vulnerable to damage & CC during all of this.
+
+Traits
+Non-coloured Traits are auto picked (once levelled / unlocked). Coloured Traits are a choice of 1.
+Fire
+
+Empowering Flame
+
+Grant power while in Fire.
+
+Burning Precision
+
+Increased Burning duration you inflict & crits have a chance to inflict Burn.
+
+Conjurer
+
+Gain Fire Aura when someone picks up your Conjured weapons.
+
+Burning Fire
+
+Cast Lesser Cleansing Fire when you have 3 conditions on you.
+Lesser Cleansing Fire: Cleanse 3 conditions on self & PBAoE Burn. Gain Might per condition cleansed.
+
+Sunspot
+
+Gain Fire Aura & PBAoE damage. Cannot crit.
+
+Burning Rage
+
+Sunspot inflicts Burning & radius is increased. Condition Damage is increased.
+
+Smothering Auras
+
+Fire Auras have +33% increased duration. Applying auras removes 1 condition to the recipient. Transmuting Auras removes 2 conditions.
+
+Power Overwhelming
+
+While >= 10 Might stacks, gain power. Doubled while in Fire.
+
+Pyromancer’s Training
+
+Fire weapon skills (1 - 5) have 20% reduced cooldown. Deal +10% strike (direct, not DoT) damage against Burning enemies.
+
+Persisting Flames
+
+Fire Fields from weapon skills last 2s longer. Fire Fields grant a stack every time they hit an enemy, up to 10 for +10% strike damage.
+
+Pyromancer’s Puissance
+
+Gain Might when using any skill (1 - 5) while attuned to Fire. Leaving Fire or finishing Fire Overload (Tempest) activates Flame Expulsion.
+Flame Expulsion: consume Might on self for PBAoE damage, Burning & Might for allies, increased per Might consumed.
+
+Blinding Ashes
+
+Blind enemies that you Burn. 8s ICD per enemy.
 
 
 Tempest Combat
