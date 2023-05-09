@@ -515,7 +515,7 @@ The most defensive of the stun breaks. The trade off is that it’s a huge coold
 
 Conjure Earth Shield - Conjure
 
-Creates an Earth Shield in your hands (replacing weapon skills) & target location. Wielders get toughness (armour stat) and vitality (health stat).
+Creates an Earth Shield in your hands (replacing weapon skills) & target location. Wielders get Toughness (armour stat) and Vitality (health stat).
 a) Shield Smack: Melee damage & Bleeding cleave.
 b) Shield Smash: Melee damage & more Bleeding cleave.
 c) Crippling Shield: Line boomerang damage & Cripple. Double damage & Bleeding if you have any Barrier.
@@ -530,7 +530,7 @@ Onto the actual weapon, it’s the most defensive of the 5 as expected. Works ar
 
 Conjure Flame Axe - Conjure
 
-Creates a Flame Axe in your hands & target location. Wielders get power (direct damage stat) & condition damage (DoT damage stat).
+Creates a Flame Axe in your hands & target location. Wielders get Power (direct damage stat) & Condition Damage (DoT damage stat).
 a) Lava Axe: Single target ranged damage & Might for self.
 b) Double Lava Axe: same as above, but there are 2 projectiles.
 Explosive Lava Axe: ground targeted AoE damage & Blast. Grants Fired Up, allowing Double Lava Axe to be used.
@@ -542,7 +542,7 @@ Not a really good look if 2 of the 5 abilities are the same as abilities from ot
 
 Conjure Frost Bow - Conjure
 
-Creates a Frost Bow in your hands & target location. Wielders get condition duration (DoT duration stat) & healing power (healing stat).
+Creates a Frost Bow in your hands & target location. Wielders get Condition Duration (DoT duration stat) & Healing Power (healing stat).
 Water Arrow: Targeted damage & AoE heal. Grants Water Arrow stacks (up to 2, 5s duration).
 Frost Volley: Multiple single target attacks. Damages, applies Vulnerability & acts as a Combo Projectile per shot. Damage increased per Water Arrow.
 Frost Fan: Ashe W that shotguns and pierces. Damages & Chills. +1 arrow per Water Arrow stack (base 7 arrows).
@@ -553,7 +553,7 @@ More utility & damage based than the usual Water skills. Requires uptime of Wate
 
 Conjure Lightning Hammer - Conjure
 
-Creates a Lightning Hammer in your hands & target location. Wielders get ferocity (crit damage) & precision (crit chance).
+Creates a Lightning Hammer in your hands & target location. Wielders get Ferocity (crit damage) & Precision (crit chance).
 a) Lightning Swing: melee cleave.
 b) Static Swing: melee cleave.
 c) Thunderclap: melee AoE, damaging, Blinding & Blasting combos.
@@ -622,7 +622,7 @@ Choose 1.
 
 Conjure Fiery Greatsword - Conjure
 
-Creates a Fiery Greatsword in your hands & target location. Target location is also damaged & Burned. Wielders get power (direct damage stat) & condition damage (DoT damage stat). Randomly casts Lesser Fiery Eruption, damaging & Burning in an AoE every 6s.
+Creates a Fiery Greatsword in your hands & target location. Target location is also damaged & Burned. Wielders get Power (direct damage stat) & Condition Damage (DoT damage stat). Randomly casts Lesser Fiery Eruption, damaging & Burning in an AoE every 6s.
 Flame Wave: Medium ranged piercing projectile that damages.
 Fiery Eruption: Medium ranged targeted AoE that only Burns, no direct damage.
 Fiery Whirl: Tryndamere E. Damages, Cripples, Evades & Whirls combos.
@@ -653,58 +653,311 @@ Dust Charge: Charge forward, damaging & launching enemies.
 Honestly one of the worst skills Eles have. Trading everything away for a bunch of nothing. May have once been useful in PvP but the fact that it has a 150s CD (it’s lower in PvP for some reason???) and it takes away your ability to do anything else makes it absolutely garbage. Also where’s the Elemental part of it? It also doesn’t fit the Cantrip theme either since it takes 1 second to activate and only applies Stability or CCs enemies. You’re still vulnerable to damage & CC during all of this.
 
 Traits
-Non-coloured Traits are auto picked (once levelled / unlocked). Coloured Traits are a choice of 1.
+Non-coloured Traits are auto picked if the tree is chosen. Coloured Traits are a choice of 1.
 Fire
 
 Empowering Flame
 
-Grant power while in Fire.
+Grant Power while in Fire.
+
+More damage while in Fire attunement, fitting its theme. Could also make it give power in general and doubled in Fire to make the other attunements stronger / less crappy like Power Overwhelming below. Maybe something for Condition builds too, like Condition Damage in addition to Power.
 
 Burning Precision
 
 Increased Burning duration you inflict & crits have a chance to inflict Burn.
 
+More damage for both power & condition builds (less DoT duration stat you need, the more can be put into DoT damage).
+
 Conjurer
 
 Gain Fire Aura when someone picks up your Conjured weapons.
+
+Absolutely garbage in PvE. Requires Conjures to be taken and puts a lot of value into the Fire Aura.It could be interesting to have a theme around Auras if they weren’t some crap by themselves.
 
 Burning Fire
 
 Cast Lesser Cleansing Fire when you have 3 conditions on you.
 Lesser Cleansing Fire: Cleanse 3 conditions on self & PBAoE Burn. Gain Might per condition cleansed.
 
+Survivability trait. Strictly for PvP since cleansing 3 conditions every 40s isn’t that useful.
+
 Sunspot
 
-Gain Fire Aura & PBAoE damage. Cannot crit.
+Gain Fire Aura & PBAoE damage when switching to Fire / Overload (Tempest). Cannot crit.
+
+More benefits for switching to Fire. Benefits match the theme, all round fitting trait. Crit modifier was added due to PvP, not sure why it’s in PvE.
 
 Burning Rage
 
 Sunspot inflicts Burning & radius is increased. Condition Damage is increased.
 
+Upgrades Sunspot to be better for Condition builds; take it if you’re building for DoTs.
+
 Smothering Auras
 
 Fire Auras have +33% increased duration. Applying auras removes 1 condition to the recipient. Transmuting Auras removes 2 conditions.
 
+Support choice for this portion. Not too useful in PvE since Conditions are only an issue in PvP.
+
 Power Overwhelming
 
-While >= 10 Might stacks, gain power. Doubled while in Fire.
+While >= 10 Might stacks, gain Power. Doubled while in Fire.
+
+More power damage almost all the time in grouped content. Take it if building power.
 
 Pyromancer’s Training
 
 Fire weapon skills (1 - 5) have 20% reduced cooldown. Deal +10% strike (direct, not DoT) damage against Burning enemies.
 
+More cooldown reduction = more abilities = more player agency = more fun! More damage against Burning enemies fits the theme, realistically it’s a flat +10% damage.
+
 Persisting Flames
 
 Fire Fields from weapon skills last 2s longer. Fire Fields grant a stack every time they hit an enemy, up to 10 for +10% strike damage.
 
+Damage up for both DPS builds. Fields lasting longer means more damage + Burning. Stacks obviously mean more power damage.
+
 Pyromancer’s Puissance
 
-Gain Might when using any skill (1 - 5) while attuned to Fire. Leaving Fire or finishing Fire Overload (Tempest) activates Flame Expulsion.
+Gain Might when using any skill (1 - 5) while attuned to Fire. Leaving Fire or finishing Fire Overload activates Flame Expulsion.
 Flame Expulsion: consume Might on self for PBAoE damage, Burning & Might for allies, increased per Might consumed.
+
+Bit of a weird trait / skill. Granting others Might suggests it’s a support ability, but the damage & Burning suggests it’s a DPS ability. Damage & Burning don’t outweigh what you get from Persisting Flames and it also costs you 10 Might. Might granted lasts a decent amount of time though, which makes it lean closer to a support trait. However, it does require going into Fire meaning you’ll miss out on the other trees in exchange for mediocre damage since you’re not building for it or utility that’s not useful in PvE.
 
 Blinding Ashes
 
 Blind enemies that you Burn. 8s ICD per enemy.
+
+PvP option. A blind every 8s isn’t that useful, especially compared to the others.
+Air
+
+Zephyr’s Speed
+
++5% crit chance. +25% movespeed while in Air.
+
+Crit chance added here due to the rework of a problematic set of unique class buffs (Ranger in particular). Fits because if you are speccing Air, you’ll want crit. Movespeed is handy but again, would’ve been nice to have half the effect in the other elements.
+
+Zephyr’s Boon
+
+Grant 5s of Fury & Swiftness to allies you grant Auras to (self included).
+
+Support choice based around Auras; makes them less crap. Crit + movespeed buffs fit the Air theme. Could also add an effect specific to Shocking Aura, even just a longer duration on the above Boons.
+
+One with Air
+
+Gain Superspeed when attuning to Air.
+
+Can only see this being useful in PvP where crits are less likely & you won’t get much opportunity to apply Auras to allies.
+
+Ferocious Winds
+
+Gain Ferocity based on 7% of Precision.
+
+Raw damage buff, building upon what’s already present in Power builds.
+
+Electric Discharge
+
+Single target damage & Vulnerability when switching to Air / finishing Air Overload. Crits for +100% the usual amount.
+
+More benefits for switching to Air. Could’ve done with a Shocking Aura in PvE too. This one retains the ability to crit because it’s in Air I guess.
+
+Inscription
+
+Gain a Boon when casting a Glyph. Glyphs recharge 20% quicker.
+Fire: Might | Water: Regen | Air: Swiftness | Earth: Protection
+
+Boons given are pretty bad as it’s 1 stack of Might, Regen requiring Healing Power to scale, Swiftness being easily given / not needed and Protection only lasting 3s. Glyphs recharging quicker might be useful but not enough to warrant choosing them if you’re not already using them. Big opportunity cost compared to the others.
+
+Raging Storm
+
+Crits grant 4s Fury, 8s ICD. Gain Ferocity while under Fury.
+
+Helps sustain Fury duration and makes Fury a little better for yourself. Better in open world solo play.
+
+Stormsoul
+
+Deal +10% strike damage to hard CC’d (cannot attack) or defiant (CC immune) enemies. Outgoing Stun duration increased by 33%.
+
++10% damage in boss fights is huge since they’re almost always CC immune. And when they’re not, the group will CC it to make it even more vulnerable. Damage multipliers on top of damage multipliers. Stun duration increase is nice but not that many skills apply Stun specifically. Might’ve been better to be hard CC in general. Take if doing group content with a boss.
+
+Aeromancer’s Training
+
+Gain Ferocity, doubled in Air. Air weapon skills recharge 20% faster.
+
+More damage via Ferocity and via more Air skills. Same notes about CDR apply. Little bland though, could use something relating to Swiftness or CC or critting.
+
+Bolt to the Heart
+
++20% strike damage against enemies below 50% HP.
+
+It’s extra damage under a threshold, nothing else to say.
+
+Fresh Air
+
+Recharge Air attunement cooldown on crits. Gain Ferocity buff when attuning to Air.
+
+Allows a huge amount of flexibility when critting (so always), especially with Tempest Overloads. Even though it’s more fun & interactive, it loses out to Bolt to the Heart in terms of raw damage which is the name of the game at the end of the day.
+
+Lightning Rod
+
+Cast Lightning Rod when you hard CC an enemy.
+Lightning Rod: Damage & apply Weakness.
+
+PvP option. There’s not enough CC in the kit to justify taking this over the other 2, and even then it’s only really taken for the Weakness.
+Earth
+
+Stone Flesh
+
+-7% strike damage taken while in Earth.
+
+Become tankier while in Earth, makes sense. Could use something for Condition builds though, like Condition Duration if Condition Damage is going on Fire. Same note about half effect in other elements too.
+
+Earth’s Embrace
+
+Gain Barrier when attuning to Earth from another element.
+
+On demand Barrier for more survivability & sustain. Attunements have a 10s cooldown when leaving by default, 8s total to leave and re-enter Earth for Weaver and 20s if Overload Earth was used by Tempest. While it’s a sound idea for a defensive trait, its effects aren’t strong enough for its effective cooldown, not to mention you’d be screwing yourself over just entering and leaving Earth for a shield. 
+
+Previously casted Armor of Earth when below 50% HP, granting Protection, Stability & breaking stuns. So its main function has changed too from emergency defense to sustain. Possibly re-adding Protection / Stability if the Barrier breaks w/ an ICD.
+
+Serrated Stones
+
++20% Bleeding duration you inflict. +5% damage against Bleeding enemies.
+
+Offensive option. Revolves around DoTs which fits the theme.
+
+Elemental Shielding
+
+Auras you grant also grant Protection.
+
+Support option. Makes Auras a little bit better. Could also have something specific for Magnetic Aura to make it stand out even more from the other Aura traits. Probably not Stability as that’s more of an emergency / on demand Boon rather than 100% uptime like Protection. Perhaps Resolution, the Condition version of Protection.
+
+Earthen Blast
+
+PBAoE damage & Cripple when attuning to Earth / completing Earth Overload. Cannot crit.
+
+Earth version of the Fire PBAoE, so the same notes apply. Could also use Bleeding somewhere, either in base or another trait. Can’t crit because of PvP, yippee.
+
+Strength of Stone
+
+Gain Condition Damage based on 10% of Toughness. Bleed enemies you Immobilize (3s ICD).
+
+More DoT damage the tankier you are. Pick if you chose this tree for the DoT damage. Also adds some more Bleed for rooting enemies (requires specific weapons or utilities taken though). Could be changed to CC in general to make it more universal.
+
+Rock Solid (you will lose!)
+
+PBAoE Stability when attuning to Earth from another element.
+
+Support option for on demand Stability. Same notes about the effective cooldown apply here. Whilst Stability is very powerful when used correctly, building around it and messing up your rotation isn’t worth it, especially for 2 whole seconds of it.
+
+Earthen Blessing
+
+-33% duration of Chilled, Cripple & Immobilize on self. Restore endurance when receiving any of them.
+
+PvP option, there’s no way those 3 Conditions are prevalent enough in PvE to warrant taking it.
+
+Geomancer’s Training
+
+-10% strike damage from nearby enemies. Earth weapon skills recharge 20% faster.
+
+General tankiness from enemies in close range. More Earth skills, you know the drill. It being direct damage reduction as opposed to Toughness does seem like it’s trying not to make Strength of Stone too powerful.
+
+Diamond Skin
+
+Remove 1 condition when hit while >= 75% HP. 1s ICD.
+
+
+Some utility to reward being tanky. ICD is understandable, don’t want it too strong in multitarget fights but HP conditional seems like it’s only there because of PvP, it should be reduced. Could also be changed to be Conditions removed every X seconds in combat, X reduced every time hit to make it a viable option for when you’re successfully dodging / blocking.
+
+Written in Stone
+
+Signets recharge 20% faster & retain passives while recharging.
+
+Technically the offensive option as it means more Signet of Fire, the big Burn utility (and also Signet of Healing but to a lesser degree of effectiveness). Out of all the Utility specific traits, this has got to be the most effective and useful of the lot since it changes functionality in a good way rather than slapping on a small Boon / Aura.
+
+Stone Heart
+
+Gain a buff for 4s when entering Earth and 2s when exiting where you cannot be crit.
+
+Hyperspecific active mitigation. Don’t believe most PvP builds have a high chance of critting except for very specific ones. PvE mobs also don’t have a high chance of critting either. Should just be changed to strike damage reduction instead. Keep the buff implementation though, it allows flexibility as opposed to the original “can’t be crit while in Earth” variation.
+Water
+
+Soothing Mist
+
+PBAoE HoT over 10s while in Water, refreshing duration every 3s.
+
+Extra form of healing while in Water. Base form is not effective for non-Healing builds though (DPS / Support). Unfortunately there’s nothing that directly makes it better for those builds either. Could’ve possibly had a trait that made it debuff enemies for the Ele only (to avoid having to take Ele specifically for this buff for other players). Additionally could be made into Regen so it’s affected by other traits; will require adjustments like the cleansing Regen one (like a higher refresh timer).
+
+Soothing Ice
+
+Gain Regen & Frost Aura when crit, 20s ICD.
+
+Requires both being hit and being crit and has a big CD. Almost the default option if not needing the Burning & Chilled cleansing for support / low damage builds.
+
+Piercing Shards
+
++33% Vulnerability duration inflicted by you. +10% strike damage against Vulnerable foes (any stacks), doubled in Water.
+
+Offensive option. Plays into the Vulnerability (support) theme of Water (which is support & healing). That being said, Vulnerability is so common amongst even 5 players so the increased duration isn’t even that useful. Possibly change it to applying extra stacks or Vulnerability is twice as effective for the Ele, like every other trait from other classes that improve Vulnerability.
+
+Stop, Drop, and Roll
+
+Dodging removes Burning & Chilled from self & nearby allies. 10s ICD.
+
+Some extra on-demand cleansing. Worthless if the fight has no Burning or Chilled, which means the default choice for support builds would be Soothing Ice by elimination.
+
+Healing Ripple
+
+PBAoE heal when attuning to Water from another element or Overload Water.
+
+Water version of the “do X when changing to Y” trait. Crit heals don’t exist so it’s just an extra bit of healing. No reason not to in PvE to be honest. Makes crit not a dead stat for healers and it’s less miserable to see a crit of 100 damage when you crit for 5k healing. Other than that, could use something for support like a cleanse or Chilling / applying Vulnerable to enemies.
+
+Soothing Disruption
+
+Cantrips grant Regen & Vigor.
+
+Equally as bad as the Conjure and Glyph ones. Same notes for them apply. At least the Glyph one reduced the cooldown.
+
+Cleansing Wave
+
+PBAoE Condition cleanse when attuning to Water.
+
+This could easily be merged with Healing Ripple (at least in PvE) to grant another slot here. Something Healing related as none of the 3 are currently Healing based.
+
+Flow like Water
+
++10% strike damage while >= 75% HP. Blocking / Evading an attack heals you.
+
+Offensive option. Adds another layer of keeping your HP above a certain level, though if you play like me you want to be topped off always because of how squishy Eles are. The 2nd portion helps maintain the 1st portion, synergising with itself.
+
+Aquamancer’s Training
+
++15% Healing to others. Water weapon skills recharge 20% faster.
+
+Constant healing to others increase. More Water skills = you know the drill 2.0.
+
+Cleansing Water
+
+Granting Regen also cleanses 1 Condition on the recipient.
+
+Fine option if cleansing is needed. Following along with the idea of Soothing Mist being a Regen instead of a unique buff, this entire section could be changed to revolve around Soothing Mist and have a utility, offensive and healing option.
+
+Powerful Aura
+
+Auras granted to self also granted to nearby allies.
+
+This should be basekit for the weapon skills that grant Auras and be changed to apply Regen on Auras. Could also be moved to where Cleansing Wave currently is and replaced with an offensive option for Soothing Mist so there’s a choice between utility, offense and healing.
+
+Soothing Power
+
+Soothing Mist’s healing is twice as powerful.
+
+Healing option, nothing else to be said.
+Arcane
+
+
+
+
 
 
 Tempest Combat
