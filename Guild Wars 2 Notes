@@ -653,7 +653,7 @@ Dust Charge: Charge forward, damaging & launching enemies.
 Honestly one of the worst skills Eles have. Trading everything away for a bunch of nothing. May have once been useful in PvP but the fact that it has a 150s CD (it’s lower in PvP for some reason???) and it takes away your ability to do anything else makes it absolutely garbage. Also where’s the Elemental part of it? It also doesn’t fit the Cantrip theme either since it takes 1 second to activate and only applies Stability or CCs enemies. You’re still vulnerable to damage & CC during all of this.
 
 Traits
-Non-coloured Traits are auto picked if the tree is chosen. Coloured Traits are a choice of 1.
+Non-coloured Traits are auto picked if the tree is chosen. Coloured Traits are a choice of 1. Can only pick 3 trees.
 Fire
 
 Empowering Flame
@@ -1037,10 +1037,204 @@ Deal +2% strike damage per unique Boon on you, max 24% (12 Boons).
 
 It is very rare to maintain 12 Boons as some are scarce / don’t last long. Requires relying on others for max value as there are some Boons that Ele don’t get access to at all. Other than that it’s kind of boring since it’s a damage boost you generally can’t control. Could use an extra effect relating to Boons to differentiate it from the other 3 traits that do the same thing (2 of which have another effect like increased Concentration and grant allies Boons when using a Profession mechanic). Maybe increased effect of certain Boons depending on current Attunement.
 
-
 Tempest Combat
-
+Same as core Elementalist, but has the following changes:
+Gains access to Warhorn, allowing new skills which are support oriented.
+Gains access to Overloads after staying in an Attunement for 6s, a powerful channelled skill which then puts that Attunement on a 20s cooldown. Very annoying if interrupted.
+Gains access to Shout skills, PBAoE effects for both allies and enemies.
+Gain access to Tempest traitline. This uses up 1 traitline and is unique from other Elite specialisations (they all use the 3rd tree slot).
 Tempest Abilities
+Overloads
+
+Overload Fire
+
+Breaks stun. Channelled Fire combo field around self while combo Whirling. Grant Might to allies & Burning to enemies. Leaves a tornado that continues pulsing effects.
+
+All Overloads break stun, allowing you to begin channelling anytime. This gives them an extra layer of decision making: use now for damage / utility or save for a stun break. 
+
+Effect itself matches the Fire theme: damage, Burning & Might (which is in turn more damage). Extra combo fields are always nice, especially Fire for damage reasons.
+
+Overload Water
+
+Breaks stun. Channelled pulsing heal & cleanse. Burst heal, AoE Regen & Vigor at the end of cast.
+
+Non-damaging heal & cleanse. However, it’s only used in emergencies since using an Overload puts that Attunement on a 20s cooldown. Meaning you’ll be forced to stay in Water if you want to keep up the Soothing Mist HoT, which you should be doing if you’re caring about using Overload Water. Otherwise other builds can use it as another way to cleanse but it’s better off being left for the support / healers. Effects all match the Water theme: healing & cleansing. Could use some more offensive leaning effects like Chill or any combo related effects like a Water / Ice field.
+
+Overload Air
+
+Breaks stun. Channelled PBAoE strikes of damage & Vulnerability. PBAoE buff that deals extra damage on attack & lightning combo field that continues the strikes at the end of cast.
+
+Damage & debuffs all related to Air: strike damage. Leaves the rare Lightning field for use too. Damage buff only applies to the next hit on a single target so there’s some jankiness in AoE situations but other than that, it’s a decent skill. Possibly could use Swiftness just to match the other 3 Overloads, maybe some CC since that’s meant to be the trademark of Air: strike damage & CC.
+
+Overload Earth
+
+Breaks stun. Grant self Stability & pulse Protection, damage, Cripple & Bleeding. Immobilize, Blast combos & leave an AoE (not field) dealing the same pulsing effects at the end of the cast.
+
+Provides defensive Boons and Bleeding, matching the Earth theme. Only real issue is that it doesn’t leave a combo field, but that’s most likely because there’s no such thing as an “Earth” field. Only Poison and Smoke are remotely close to Earth and even then it’s a stretch. Blasting Poison is just AoE weakness, which might work but thematically a bit weird. Blasting Smoke is AoE stealth which would absolutely overload this skill.
+
+Warhorn
+Support oriented. Off-hand only.
+
+Heat Sync
+
+Grant Might to self, then spread current stacks of Might & Fury to allies.
+
+These Warhorns skills can be divided into 2 categories: support & AoE. This is the support skill and is essential to providing Might & Fury uptime to your subgroup (group of 5, raids / strikes are 10. This only hits 5). Usage itself isn’t that interesting. Stack up Might & Fury at the beginning then use this on cooldown.
+
+Wildfire
+
+Frontal Fire combo field that damages & Burns.
+
+Just another Fire combo field. Damages & Burns which is all we can ask for. Does damage evenly without RNG unlike other skills for this weapon.
+
+Tidal Surge
+
+Frontal AoE heal & Regen for allies, damage & knockback for enemies.
+
+Due to the offensive & defensive nature, you’re presented with an option to use it as part of healing or save it for when CC is needed. Fight knowledge helps with that and its versatility makes it a useful skill to have.
+
+Water Globe
+
+Frontal moving Water combo field that heals.
+
+Healing AoE field, with the unique property of moving forward. Not always useful and just ends up requiring you standing behind the group and facing the boss but there’s something extra to play around as opposed to a standard frontal AoE.
+
+Cyclone
+
+Frontal AoE that damages, & Pulls enemies while granting allies (+self) Swiftness.
+
+Since Swiftness isn’t in high demand, this is exclusively saved for CC. Unfortunately that makes the skill slightly less interesting than Tidal Surge. Still, it is the only source of Pull for Eles excluding using the Earth C*njure.
+
+Lightning Orb
+
+Frontal moving orb that fires non-piercing projectiles, damaging & applying Vulnerability to enemies.
+
+An incredibly problematic skill because of its RNG. 42 projectiles are fired and since they’re non-piercing, they might not hit the intended target. On an average sized target, a target will be hit 14 times which is a HUGE difference from the 42 on a large sized hitbox. Make the projectiles piercing and it should resolve the RNG issue as having damage be dependent on hitbox makes for inconsistency which never feels good for anyone involved. Other than that, it’s just damage & Vulnerability 42 times which is a huge number.
+
+Sand Squall
+
+Grant Protection to self & allies. Increase duration of all Boons on self & allies by 3s. Grant self Magnetic Aura. Blast combo fields.
+
+Part of the Boon support skills. Generally used after Fire Overload -> Heat Sync -> Earth Attunement -> Sand Squall to blast the Fire field from Fire Overload. That being said, since it’s part of maintaining Boon uptime, it’s just used on cooldown using the above combo, so the Magnetic Aura won’t usually ever be timed to block something on purpose. Same applies to Protection but at least that stacks in duration with other sources.
+
+Dust Storm
+
+Summon dust storms randomly around self that damage, Bleed & Blind enemies.
+
+The other problematic skill. Randomly spawned storms, a total of 4. On average enemies will be hit by 1 or 2. This needs to be changed to be a PBAoE that follows for consistency’s sake. It being short ranged will also fit with the Earth theme since its tree has traits that only work while near enemies. Otherwise make it spawn underneath the target a single storm.
+
+Shouts
+
+“Wash the Pain Away!” - Heal
+
+PBAoE channelled, pulsing & front-loaded heal w/ cleanse at end.
+
+Party heal option. Front-loaded so can technically cancel if needed but you’ll need to fully channel for both max value and the cleanse. Take it if playing healer / support. Not that great for solo since the heal is on the medium/low end and there are better sources of Condition cleansing, if that’s even needed in PvE. Other than that, it’s a medium range PBAoE like the others. Strong party effects that require you to get somewhat close for usage.
+
+“Feel the Burn!” - Utility
+
+PBAoE Might & Fire Aura for allies & damage & Burning for enemies.
+
+A whole bunch of fire related buffs and debuffs in 1 go. For some reason, the PvP version has 2 charges of this skill, allowing stockpiling or using 1 and keeping the other just in case. No real reason for that other than possibly helping with Might generation but there’s also no reason why PvE shouldn’t also get it.
+
+“Eye of the Storm!” - Utility
+
+PBAoE stun break, Superspeed, Swiftness & Stability for allies.
+
+Everything needed to break allies out of a stun and escape safely. Only thing missing is the Shocking Aura in PvE. Possibly thinking skill is already overloaded with stuff but the Aura would’ve been handy for Aura related traits, especially since Auras are meant to be a defining aspect of Elementalist.
+
+“Aftershock!” - Utility
+
+PBAoE Protection, Aegis & Magnetic Aura for allies & damage, Cripple & Immobilize for enemies. Also Blasts combos.
+
+If you thought the above was overloaded, wait until you see this one. Convinced the above should have the Shocking Aura now. Whole bunch of the usual Earth effects but its most important aspect is that it’s on-demand Aegis & Magnetic Aura, allowing you to completely bypass some mechanics if timed properly.
+
+“Flash-Freeze!” - Utility
+
+PBAoE Regen & Frost Aura for allies & damage & Chilled for enemies.
+
+A lot more tame compared to the previous 2. Water version, not much else to say. Possibly could use Resistance (timed buff to ignore non-damaging Conditions, soft CC) for allies & Vulnerability for enemies to make it a bit more impactful in both offensive & defensive directions. Meaning there’s more of a choice on when to use it because right now, it’s exclusively used for the Regen & Frost Aura.
+
+“Rebound!” - Elite
+
+PBAoE Fury & buff for allies that ignores the next lethal attack & heals instead. If death buff expires naturally, gain an Aura based on current Attunement.
+
+Very powerful Elite that can ignore mechanics, if used perfectly. Otherwise it’s an incredibly mediocre Fury & Aura buff. That being said, if you’re going a support build it’s a pretty decent choice, but only because the other options absolutely suck compared to it. Just requires a bit of fight knowledge for it to be useful. Which means it won’t be that useful in open world stuff where it’s just chaos usually.
+
+Traits
+
+Singularity
+
+Gain access to Overloads & Shouts.
+
+Only including this because you need to put points into it and it’s technically the first trait in the tree.
+
+Gale Song
+
+PBAoE Protection when using a healing skill.
+
+Bit of extra survivability. Used to be an automatic party stun break when CC’d via an “Eye of the Storm!”. Could lean more into that and also make it so healing skills gain the break stun effect on self, on a cooldown. Also side note, that previous effect had a 5 minute cooldown in PvP. Yikes.
+
+Latent Stamina
+
+PBAoE Vigor when attuning to Water. Granting Vigor also restores Endurance to recipients.
+
+Bit of extra Boons when attuning to Water. Seems a little bit too specific compared to the other traits though, but that’s fine. Just something I noted. Endurance related trait so it’s more active mitigation; defensive w/ some utility if the dodge traits were chosen. Not sure why there’s an ICD since you can’t enter Water more than once every 10s as a Tempest anyway.
+
+Unstable Conduit
+
+Overloads grant an aura based on the Attunement upon completion.
+Fire: Fire Aura | Water: Frost Aura | Air: Shocking Aura | Earth: Magnetic Aura
+
+Overload related trait. If it was on cast rather than end, it would definitely make it safe for Overloads to be started but there’s a huge discrepancy in terms of defensiveness when comparing a Fire Aura and a Magnetic Aura, so it makes sense for it to be at the end. That being said, it’s not that useful. Out of the 3 options, none of them are really offensive.
+
+Gathered Focus
+
+Gain Concentration. Doubled if >= 90% HP.
+
+A whole lot of extra Boon duration stats. Pretty much solidifies this spec as the support spec (which inversely means its DPS capabilities kind of suck in comparison). Health threshold is not that important except in solo / PvP.
+
+Tempestuous Aria
+
+Shouts grant Might to allies & apply Weakness to enemies, in addition to base effects.
+
+Little bit of extra Might & Weakness isn’t really worth taking this trait, especially compared to the other 2. Used to also increase the number of targets hit from 5 to 10 but all of those have been removed when they decided AoE Boon related things are capped at 5 for balance purposes (2 Booners + 3 DPS per subgroup). Possibly also make Shouts have charges in PvE for more flexibility?
+
+Harmonious Conduit
+
+Gain Stability & Swiftness when starting an Overload.
+
+Most important part is the Stability which lasts just long enough to help make sure the Overload completes (unless you get CC’d twice). Extra buffer of protection which means more reliability = more practical damage & other effects.
+
+Invigorating Torrents
+
+Auras you grant also grant Regen & Vigor.
+
+Aura support related trait. Makes Auras better with healing & endurance regen = more active mitigation.
+
+Hardy Conduit
+
+Gain Protection when starting an Overload. Protection is stronger on self (33% -> 39.6% damage reduction).
+
+Even more survivability during Overloads when you’re most vulnerable. Nothing else to be said; it achieves that via 2 different ways (technically both Protection but yeah).
+
+Transcendent Tempest
+
+Overloads are available after 4s instead of 6s. Completing an Overload grants 15% all damage bonus.
+
+DPS Overload option. More (unique) Overloads + damage buff = more damage. Also makes it so you want to save your most damaging skills for after Overloads, which is what you would be doing naturally anyway since they’re available from the start of combat.
+
+Lucid Singularity
+
+Overload pulses & successful completion grant Alacrity (increased recharge speed).
+
+Support Overload option. Only way for Elementalists to provide Alacrity. Since this is an Elite specialisation and base Eles have no way of providing Quickness or Alacrity to others, it will never run into an issue where it can provide both causing a balance nightmare. Feelings about Quickness and Alacrity are still the same. Wouldn’t mind it providing a unique buff to the Elementalist only with the same effect of Quickness and/or Alacrity though, giving Overloads even more of a high in combat.
+
+Elemental Bastion
+
+Heal allies you grant Auras to. Grant Frost Aura to self & allies when stuck <= 75% HP. 30s ICD.
+
+Even more utility to Auras. This honestly could be merged with Invigorating Torrents and be changed to be the healing Overload option. The 2nd portion is just a bit more survivability when under fire.
 
 Weaver Combat
 
