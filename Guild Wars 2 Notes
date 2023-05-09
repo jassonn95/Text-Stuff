@@ -6,7 +6,7 @@ Good combat, mixture of action and tab targeting.
 Targeting sometimes gets annoying when mobs surround / get behind you. Skills won’t fire until you manually face them which is fine for the action combat skills, very annoying for the enemy targeted ones. Something like FFXIV’s legacy camera movement would work wonders and make the targeting feel less clunky.
 Has stamina + dodging, no active blocking. Most abilities are ground targeted or enemy targeted w/ tab targeting.
 No trinity, but the most efficient way to play for endgame stuff is with pseudo trinity anyway (tank / kiter, healer, DPS, support = buff & healer / DPS hybrid).
-Quickness + Alacrity buffs shape the meta. Do not like these buffs as it feels awful not to have them, whereas no Might (+Damage) or Fury (+Crit chance) don’t feel nearly as bad when you don’t have them.
+Quickness + Alacrity buffs shape the meta. Do not like these buffs as it feels awful not to have them, whereas no Might (+Damage) or Fury (+Crit chance) don’t feel nearly as bad when you don’t have them. This differs from Heroism / Bloodlust from WoW because they have a 100% uptime (optimally) whereas in WoW it’s on a CD.
 Wiki integration is great, and would be perfect if there was an in-game client rather than having to open it in a browser.
 Again, spoilt by FFXIV with having all classes on 1 character, really miss that since I end up creating either 1 character but cloning it for other classes (GW2), using almost default presets for the non main classes (BDO) or just not having more than 1 class (WoW).
 Feels like this is just so they can get you to pay for character slots.
@@ -178,7 +178,7 @@ Staff Earth 5 - Shock Wave
 
 Targeted combo projectile that damages, Bleeds and Immobilizes (roots) all hit (piercing up to 5).
 
-Good skill: damages, DoTs and CCs. No real complaints other than the 25s CD, meaning you’re encouraged to dump CDs and go to the next element but that’s not too feasible since there are some real crappy skills in some of the other attunements (cough Water & Air).
+Good skill: damages, DoTs and CCs. No real complaints other than the 25s CD, meaning you’re encouraged to dump CDs and go to the next element but that’s not too feasible since there are some real crappy skills in some of the other Attunements (cough Water & Air).
 
 Scepter
 Mid-long range.
@@ -282,13 +282,13 @@ Dagger Fire 4 - Ring of Fire
 
 PBAoE fire combo field. Damages, Burns on cast & Burns on passthrough.
 
-Just a fire combo field that spawns underneath you. Short ranged, matching weapon. Combo field matching Eles “strengths”. Fire because, well, Fire attunement.
+Just a fire combo field that spawns underneath you. Short ranged, matching weapon. Combo field matching Eles “strengths”. Fire because, well, Fire Attunement.
 
 Dagger Fire 5 - Fire Grab
 
 Short ranged frontal cone. Damages, +60% if they’re burning.
 
-Simple ability that synergises w/ the rest of the weapon / attunement. Same notes about being short ranged apply.
+Simple ability that synergises w/ the rest of the weapon / Attunement. Same notes about being short ranged apply.
 
 Dagger Water 1 - Vapor Blade
 
@@ -660,7 +660,7 @@ Empowering Flame
 
 Grant Power while in Fire.
 
-More damage while in Fire attunement, fitting its theme. Could also make it give power in general and doubled in Fire to make the other attunements stronger / less crappy like Power Overwhelming below. Maybe something for Condition builds too, like Condition Damage in addition to Power.
+More damage while in Fire Attunement, fitting its theme. Could also make it give power in general and doubled in Fire to make the other Attunements stronger / less crappy like Power Overwhelming below. Maybe something for Condition builds too, like Condition Damage in addition to Power.
 
 Burning Precision
 
@@ -794,7 +794,7 @@ It’s extra damage under a threshold, nothing else to say.
 
 Fresh Air
 
-Recharge Air attunement cooldown on crits. Gain Ferocity buff when attuning to Air.
+Recharge Air Attunement cooldown on crits. Gain Ferocity buff when attuning to Air.
 
 Allows a huge amount of flexibility when critting (so always), especially with Tempest Overloads. Even though it’s more fun & interactive, it loses out to Bolt to the Heart in terms of raw damage which is the name of the game at the end of the day.
 
@@ -955,9 +955,87 @@ Soothing Mist’s healing is twice as powerful.
 Healing option, nothing else to be said.
 Arcane
 
+Arcane Prowess
 
+Gain 1 stack of Might when switching Attunements.
 
+Gives you a bit of a benefit when switching Attunements but seriously, 1 Might? Used to be 2s of Fury which was at least somewhat useful. Going off of my dislike for Quickness & Alacrity as a shareable Boon, this could be changed to grant a couple seconds of Quickness to self so that the first skill or 2 when swapping go out quicker, making it feel more dynamic when you switch.
 
+Arcane Precision
+
+Crits have a 33% chance to apply a condition based on Attunement, 3s ICD:
+Fire: Burning | Water: Vulnerability | Air: Weakness | Earth: Bleeding
+
+Double layered RNG, gross. At least crit is usually 100%. Not sure if ICD is for all or just each Attunement, either way it should be just per Attunement to streamline it. Other than that, it’s the only damaging option of the 3 (and only if in Fire or Earth, Water doesn’t count as enemies will almost always have max Vuln).
+
+Renewing Stamina
+
+Gain Vigor on crit. 10s ICD.
+
+At least this one is guaranteed on crit. 50% uptime so it’s useful for extra dodges = active mitigation and whatever dodge related traits taken. Better off leaving it to a support / healer though.
+
+Arcane Restoration
+
+Heal self when swapping Attunements.
+
+Some sustain when swapping Attunements. More of a PvP trait as PvE usually doesn’t call for sustained healing that otherwise can’t be done by a healer.
+
+Elemental Attunement
+
+PBAoE Boon when swapping to a new Attunement:
+Fire: Might | Water: Regen | Air: Swiftness | Earth: Protection
+
+AoE Boons which match the Attunement’s theme. Helpful for maintaining Boons, ignoring the fact that Fire is still 1 Might (cap is 25).
+
+Arcane Resurrection
+
+Cast Geyser (Staff Water 3) when reviving an ally. Geyser partially revives allies. Also gain an aura based on Attunement when beginning a revive on an ally:
+Fire: Fire Aura | Water: Frost Aura | Air: Shocking Aura | Earth: Magnetic Aura
+
+Good trait since it adds some functionality to an existing skill. That said, it somewhat forces you to take that weapon just for that skill to get max value. Aura line isn’t really useful in PvE unless traited into Aura traits. Support / heal skill, take if building that.
+
+Elemental Lockdown
+
+Whenever you hard CC an enemy, gain a Boon based on Attunement, 1s ICD:
+Fire: Might | Water: Regen | Air: Fury | Earth: Protection
+
+Requires hard CC which is few and far between. Not useful in PvE generally because bosses are immune to CC. ICD to standardise between single target and multi target.
+
+Final Shielding
+
+Cast Lesser Arcane Shield when using an Elite skill. 20s ICD.
+Lesser Arcane Shield: same as Arcane Shield, but doesn’t break stun or crit.
+
+Used to be a stun break and shield block when <= 50% HP, now it’s tied to the most disappointing part of Eles. None of the skills have a CD anywhere near 20s other than the Elemental one and that requires it to stay alive and spam its Command almost on cooldown (15s). Also requires holding Elites for the defensive effect, it’s not really a “Final” Shielding in most cases where you want to use your powerful ability.
+
+Elemental Enchantment
+
+Gain Concentration (boon duration stat) & Attunements recharge 15% faster.
+
+The Concentration is generally the reason to go down this tree (+ the ressing trait) which bodes pretty poorly for the tree in general if the best thing is a stat increase. Lowering the cooldown of Attunements is nice but not at all needed. Cooldown of the element left shouldn’t matter as you should use all you need before leaving and the cooldown between non-used elements is negligible.
+
+Evasive Arcana
+
+While in combat, cast a skill while Dodging based on Attunement, 10s ICD per skill:
+Fire: Flame Burst = PBAoE damage & Burn.
+Water: Cleansing Wave = PBAoE heal & cleanse.
+Air: Blinding Flash = PBAoE Blind.
+Earth: Shock Wave = PBAoE damage, Bleeding, Cripple & Blast.
+
+Another good trait that adds functionality to existing mechanics in a non-Boon / stat buff way. Buffs the dodge to add additional effects, most useful being the Water & Earth ones. Definitely looks as though the Earth one is overloaded compared to Air though, could use some additional effects for the weaker ones.
+
+Elemental Surge
+
+Arcane skills recharge 20% faster, grant a Ferocity buff & inflict a Condition based on attunement:
+Fire: Burning | Water: Chilled | Air: Blindness | Earth: Immobilize
+
+Possible to maintain a high uptime on this by using multiple Arcane skills but it doesn’t feel like they fit in on an Elementalist. I wouldn’t miss it if this tree was removed, its traits merged into the other 4 and the associated skills were gone. The effect itself is pretty cool, gives you a buff to maintain but not strong enough to do so due to power creep & opportunity cost for the Utility skill slots.
+
+Bountiful Power
+
+Deal +2% strike damage per unique Boon on you, max 24% (12 Boons).
+
+It is very rare to maintain 12 Boons as some are scarce / don’t last long. Requires relying on others for max value as there are some Boons that Ele don’t get access to at all. Other than that it’s kind of boring since it’s a damage boost you generally can’t control. Could use an extra effect relating to Boons to differentiate it from the other 3 traits that do the same thing (2 of which have another effect like increased Concentration and grant allies Boons when using a Profession mechanic). Maybe increased effect of certain Boons depending on current Attunement.
 
 
 Tempest Combat
