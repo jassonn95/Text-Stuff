@@ -1042,7 +1042,7 @@ Same as core Elementalist, but has the following changes:
 Gains access to Warhorn, allowing new skills which are support oriented.
 Gains access to Overloads after staying in an Attunement for 6s, a powerful channelled skill which then puts that Attunement on a 20s cooldown. Very annoying if interrupted.
 Gains access to Shout skills, PBAoE effects for both allies and enemies.
-Gain access to Tempest traitline. This uses up 1 traitline and is unique from other Elite specialisations (they all use the 3rd tree slot).
+Gain access to the Tempest traitline. This uses up 1 traitline and is unique from other Elite specialisations (they all use the 3rd tree slot).
 Tempest Abilities
 Overloads
 
@@ -1237,8 +1237,37 @@ Heal allies you grant Auras to. Grant Frost Aura to self & allies when stuck <= 
 Even more utility to Auras. This honestly could be merged with Invigorating Torrents and be changed to be the healing Overload option. The 2nd portion is just a bit more survivability when under fire.
 
 Weaver Combat
-
+Gains access to Sword, allowing new skills which are melee ranged.
+Attunements always have a 4s cooldown.
+Swapping out of an Attunement will put it in your offhand for weapon skill purposes (4, 5).
+Attunement you swapped into will be in your main hand for weapon skill purposes (1, 2).
+The 3rd weapon skill will be a unique Weaver Dual Attack skill if main hand and offhand are different Attunements, regardless of element order (Fire + Water is the same as Water + Fire). If they’re the same, it will be the usual core Elementalist skill.
+Gains access to Stance skills which are generally self buffs / effects.
+Gains access to the Weaver traitline. This uses up 1 traitline and is unique from other Elite specilisations (they all use the 3rd tree slot).
 Weaver Abilities
+Sword
+
+
+
+
+
+Dual Attacks
+
+
+
+
+
+Stances
+
+
+
+
+
+Traits
+
+
+
+
 
 Catalyst Combat
 
