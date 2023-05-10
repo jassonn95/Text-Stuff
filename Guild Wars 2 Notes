@@ -1,4 +1,5 @@
 Please use this link for better formatting and images: https://docs.google.com/document/d/1k_OFBEr-UeAbFYDBEgDSdetO3rg-pH5ZSHOx5P1nvqo/edit?usp=sharing
+
 Guild Wars 2 Notes
 General
 Good combat, mixture of action and tab targeting.
@@ -1376,10 +1377,55 @@ Gain Vigor when using a Dual Attack. Dodging grants Barrier.
 
 Also mobility & sustain option, this time focusing more on mitigating & avoiding damage in the first place rather than healing. More of a PvP option but more usable in PvE than the above since Barrier & Dodging are always welcome in PvE content whereas the above requires being constantly Conditioned which doesn’t really happen. That said, Barrier is tiny compared to the 2 Dodges you get every X seconds.
 
-
 Catalyst Combat
-
+Gains access to Hammer, allowing new skills which are both mid-ranged and melee depending on the Attunement (Fire + Air & Water + Earth respectively).
+Gains access to a 5th Profession mechanic: Jade Spheres. Deploys a Jade Sphere which changes depending on the current Attunement, placing down a Combo field that damages & grants Boons to allies. Jade Spheres require 10 Energy (can hold 30 max Energy) which are gained for each instance of hitting an enemy while a Jade Sphere is not out. Each Sphere has a 15s CD. 
+It really should not have both constraints as the Energy is there to prevent camping an Attunement and spamming a Sphere, but that was when the CD was 5s. Remove the Energy as it’s tracked by a tiny ass bar at the bottom of the screen and is completely uneven in single target vs. multitarget situations AND not gaining Energy while a Sphere is out is incredibly frustrating.
+Gains access to Augment Utility skills which are self buffs that get enhanced if standing inside its relevant Jade Sphere field.
+Gains access to the Catalyst traitline. This uses up 1 traitline and is unique from other Elite specialisations (they all use the 3rd tree slot).
 Catalyst Abilities
+Jade Spheres
+
+Deploy Jade Sphere - Fire
+Ground targeted Fire Combo field that pulses damage for enemies & Might for allies.
+
+As mentioned above, there’s no reason for it to have a big cooldown as well as an incredibly restrictive resource cost which can’t be gained while any Jade Sphere is out. Remove the Energy cost since it’s not supported in the UI whatsoever as per this:
+
+The bar is tiny, there’s no divider to indicate each 10 energy and you just have to look for when it’s full and use 3 in a row. Other than that it’s a dedicated button for both a Combo field & Boons, the former boosting damage via Traits and the latter for support builds.
+
+Deploy Jade Sphere - Water
+Ground targeted Water Combo field that pulses damage for enemies & Resolution for allies.
+
+Same notes as the above. Resolution being chosen for Water makes it less locked into healing. It’d be great if that train of thought could be applied to the older Water skills too.
+
+Deploy Jade Sphere - Air
+Ground targeted Lightning Combo field that pulses damage for enemies & Fury for allies.
+
+Same notes as the above. Lightning fields are pretty rare so this is pretty handy. Fury for Air fits as its theme is damage via crits.
+
+Deploy Jade Sphere - Earth
+Ground targeted Poison Combo field that pulses damage for enemies & Protection for allies.
+
+Same notes as the above. Poison & Smoke are the closest to an Earth field in the game and while Poison is the only actual viable option in terms of theme & balance (giving Eles stealth would be dangerous), there are no Poison related traits in the Earth tree so the combo feels like it’s shoehorned in. Protection makes sense for Earth.
+
+Hammer
+
+
+
+
+
+Augments
+
+
+
+
+
+Traits
+
+
+
+
+
 
 Guardian
 Guardian Combat
