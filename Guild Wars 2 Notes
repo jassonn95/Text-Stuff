@@ -1,5 +1,4 @@
 Please use this link for better formatting and images: https://docs.google.com/document/d/1k_OFBEr-UeAbFYDBEgDSdetO3rg-pH5ZSHOx5P1nvqo/edit?usp=sharing
-
 Guild Wars 2 Notes
 General
 Good combat, mixture of action and tab targeting.
@@ -181,7 +180,7 @@ Good overall ability, with somewhat random utility attached to it that’s norma
 Scepter Water 1 - Ice Shards
 Single target attack w/ 3 instances of the same damage. No other effect, but should be a chance combo projectile like Scepter Earth 1.
 
-Bit annoying with the targeted single target attack. Otherwise somewhat boring as it has no other effects. It’s almost identical to Scepter Earth 1 but without the bleed (understandable) and without the combo projectile chance. It having 3 instances of damage makes it less likely to be screwed over by crit RNG, if it wasn’t for the fact that non-DoT builds build around having 100% crit.
+Bit annoying with the targeted single target attack. Otherwise somewhat boring as it has no other effects. It’s almost identical to Scepter Earth 1 but without the bleed (understandable) and without the combo projectile chance. It having 3 instances of damage makes it less likely to be screwed over by crit RNG, if it wasn’t for the fact that power DPS builds build around having 100% crit.
 
 Scepter Water 2 - Shatterstone
 Ground targeted delayed AoE that damages & Chills.
@@ -218,7 +217,7 @@ This is almost exactly the same as Scepter Water 1, except it bleeds and can act
 Scepter Earth 2 - Rock Barrier & Hurl
 Self HP shield, Toughness (stat) buff & Resistance (ignore non-damaging conditions) boon. Gives access to Hurl, consuming the Toughness buff & shooting 5x projectiles for 5 instances of damage, Bleeding and combo projectile.
 
-Originally only had the Toughness buff, so you know it’s bad if you had to triple the amount of effects an ability has. All 3 effects contribute to survivability, as dictated by the Earth theme. Hurl presents some risk vs. reward in consuming the defensive buff for damage, though it’s generally not a life or death situation in PvE.
+Originally only had the Toughness buff, so you know it’s bad if you had to triple the amount of effects an ability has. All 3 effects contribute to survivability, as dictated by the Earth theme. Hurl presents some risk vs. reward in consuming the defensive buff for damage, though it’s generally not a life or death situation in PvE. Piercing would be preferred so it’s less reliant on tab targeting in an action combat game.
 
 Scepter Earth 3 - Dust Devil
 Ground targeted AoE. Damages & Cripples Bleeding enemies 3x. 1st hit blinds.
@@ -1181,59 +1180,201 @@ Does okay damage but you’d only use it if you’re desperate for CC. Same issu
 Staff
 
 Pressure Blast - Fire + Water
-Ground targeted projectile that heals allies. Explodes when hits the ground or an enemy, Regening allies + damaging & Blinding enemies.
+Ground targeted projectile that heals allies it passes through. Explodes when hits the ground or an enemy, Regening allies + damaging & Blinding enemies.
+
+Ground targeted AoE that damages & heals. The explosion should have the same heal as the passthrough heal to make it consistent. Damage is pretty low and there’s no burning. If they want to pass Staff as the support weapon, add combo fields to it. Either Fire or Water (can’t be both because each combo activator can only do so once and it’s seemingly random).
 
 Plasma Blast - Fire + Air
 Frontal projectile that explodes on contact or max range for damage.
 
+This only does damage, not a Burn in sight. Other than that it’s a slow moving exploding projectile, so there’s some skill involved in getting it to hit. Pretty basic, could also use a Fire field if pushing Staff to be support.
+
 Pyroclastic Blast - Fire + Earth
 Ground targeted AoE Fire Combo field. Damages & Burns on impact + on pulse.
+
+Like any other ground targeted Fire AoE, except there’s a bit of a delay w/ the launching. There’s nothing about it that says Earth though. Possibly Cripple or Bleed from shrapnel exploding, or Barrier on hit / for allies for more support?
 
 Monsoon - Water + Air
 Front travelling projectile that damages & Chills enemies + Regens allies per tick.
 
+Forward wave of small damage & Chill + Regen. Apparently acts as a Water field despite not being labelled as one, not sure if intended or not but if it is that’s some extra utility. Vulnerability should also be added as per Water + Air.
+
 Lahar - Water + Earth
 Ground targeted AoE that damages & Cripples enemies. Grant self Stability.
 
+Another ground targeted AoE, feels like Dual attacks were a bit of an afterthought for Staff. Nothing about it says Water either. It leaves a puddle but isn’t labelled as any type of Field when it could easily be Water. Also another situation where an Earth field could be useful (Poison and Smoke don’t count). Should have Bleed on it since a “Lahar” is a slurry of rock & water. Going through that would definitely cut & bleed you.
+
 Pile Driver - Air + Earth
 After a channel, launch a piercing Combo projectile that damages & Dazes enemies.
+
+High damaging attack after a channel which makes sense. Also pierces & Dazes, building on the big damaging channelled attack idea. Could slap a Bleed on it to make it more Earth-y too since right now the only the CC is remotely Earth-y.
 Dagger
 
 Steam Surge - Fire + Water
+Dash while Evading, damaging enemies & healing allies at the end. Also leaves a short Water combo field.
+
+Bit of extra mobility for the short ranged Dagger. Damages & heals for Fire & Water. Water field only lasts for 2s, not really enough for most combos. Evade useful for iframes, skill expression. Could use some Burning since it’s hot steam.
 
 Plasma Burst - Fire + Air
+Short ranged damage & Burning cleave that Blasts combos.
+
+Don’t know why this gets Burning but not the Staff version, they both even have Plasma in the name. Basic cleave that damages & Burns for Fire & Air. Added bonus of Blasting combos which Ele usually need (ways to exploit combos they place).
 
 Ashen Blast - Fire + Earth
+Short ranged damage, Burning & Blinding cleave.
+
+Same as the above but trading in the Blast for a Blind which helps with survivability, albeit for a very short amount of time.
 
 Katabatic Wind - Water + Air
+Short ranged damage, Chill & Daze cleave. Regen for self. Also Blasts combos.
+
+Lots going on but mostly for the CC since you need Water attunement. Bunch of small added bonuses. Same not about Water + Air = Vulnerability applies.
 
 Mudslide - Water + Earth
+Dash while Evading, damaging & Knocking down enemies. Leaves a trail of mud that also knocks down. Also knocks down in an AoE at the end.
+
+Almost entirely Evade & CC, damage is negligible. Covers all cases w/ the knockdown: hitting w/ the animation, the residual field and the end so you’re not forced to aim and slide through a hitbox to get value unlike other moving skills.
 
 Grinding Stones - Air + Earth
+PBAoE damage & Bleeding. Stability & reduced damage taken for self.
+
+Defensive buff that damages around self. Damage is reasonable but it’s the only aspect of Air involved. It’s primarily Earth with the Bleed, Stability & damage reduction. Could use some movespeed while near enemies or something like that for Air; it would synergise well with the melee range damage while not making it too strong of an escape.
 Scepter
 
 Fiery Frost - Fire + Water
+Dodge & fire a single target projectile that damages, Burns & Chills.
+
+Can be “saved” for a dodge (see note about swapping between Attunements and skills not being readily available) or used for damage. Not sure why it’s single target though. Damage, Burning & Chilled fit the skill.
 
 Plasma Beam - Fire + Air
+Channelled single target beam of damage. No movement penalties.
+
+This one at least somewhat fits the single target nature. It should also damage in between caster and target like Scepter Air 1. Feels good to use since there’s no movement speed penalty while channelling.
 
 Fracturing Strike - Fire + Earth
+2 part single target damage, Burning & Vulnerability. 1st is instant, 2nd is delayed.
+
+Also single target when it’s a meteor crashing and exploding? Damages, & Burns which makes sense. Vulnerability is nice but doesn’t really fit with either Fire or Earth. Bleed would’ve made more sense. Doesn’t need to have defensive aspects since Scepter is longer ranged & not support oriented usually.
 
 Glacial Drift - Water + Air
+Forward moving projectile that damages & Chills. Also grant self Stability.
+
+Same as the other forward moving projectile AoEs. Damages & Chills which is fine. Stability is sort of random though. This is the skill that could use Fracturing Strike’s Vulnerability instead.
 
 Stone Tide - Water + Earth
+Ground targeted AoE that pulses damage, Bleeding & Vulnerability.
+
+Another ground targeted AoE. Damage, Bleeding & Vulnerability all fit Earth & Water respectively. Doesn’t necessarily need to be a Water field since Scepter doesn’t have any field primers normally.
 
 Earthen Synergy - Air + Earth
+2 part AoE attack. 1st part damages, 2nd part is delayed, does less damage & Stuns.
+
+Bit of damage and CC, primarily CC. This fits the Air + Earth theme. Not sure why this is AoE when Fiery Frost & Fracturing Strike aren’t. Targeted, ranged AoE CC is pretty strong.
 
 Stances
 
+Aquatic Stance - Healing
+Small heal then self buff. Additional healing for self & allies around enemies you hit. 1s ICD. 2 charges.
 
+Pretty mediocre heal. There’s enough time to proc the AoE heal 4 times due to ICD. Assuming all 4 heals are procced, it heals self for a medium amount and allies for a low amount. Only reason to take this is if you need party healing on a Weaver since base Ele doesn’t have party healing. 
 
+Primordial Stance - Utility
+PBAoE pulsing damage & conditions based on current Attunements. Full Attunements = double Conditions. 2 charges.
+Fire: Burning | Water: Chilled | Air: Vulnerability | Earth: Bleeding
 
+Extra damage and some debuffs depending on the current Attunements, meaning switching Attunements will update the debuffs accordingly. For max damage, generally used while exiting Fire + Air into Fire + Fire. Otherwise, can be used wherever if certain Conditions are needed but that’s generally for PvP. Skill is pretty cool in that it updates to match current Attunements.
+
+Stone Resonance - Utility
+Pulsing Barrier for self. Also grants self Stability on cast. 2 charges.
+
+Some sustain in the form of Barrier. Gaining Barrier while having Barrier will not extend the duration of the 1st application, so it’s most effective against sustained damage. Basically, the tanky Stance.
+
+Unravel - Utility
+Temporarily fully Attune to elements, losing Dual Attacks. Gain Boons based on Attunement. Reset Attunement cooldowns. 2 charges.
+Fire: Might | Water: Vigor | Air: Fury | Earth: Protection
+
+Offers a little bit of leeway regarding swapping between Attunements. Buff lasts barely long enough to swap fully Attune twice (5s w/ 4s ICD). Honestly feels like this should either be basekit as the 5th profession button or the ICD be reduced. Remove the Boons if necessary.
+
+Twist of Fate - Utility
+Stun break, Evade & grant self Superspeed. 2 charges.
+
+Stun break / Evasion stance. Does exactly what it says. Immune to everything except DoTs after breaking out so usually you’re safe unlike some other stun breaks. Charges allow leniency in using it as a stun break or an Evade.
+
+Weave Self & Tailored Victory
+Give self buff for 20s w/ following effects. Reduced Attunement cooldown to 2s. Gain Woven Element buff on use and when entering an Attunement. Entering all 4 Elements will get rid of Weave Self buff & grant Perfect Weave for 10s which is all 4 Woven buffs combined. Also grants access to Tailored Victory.
+Woven Fire: +20% Condition Damage.
+Woven Water: +20% Boon Duration, +20% Healing to Others.
+Woven Air: +50% Movespeed, +10% Strike Damage.
+Woven Earth+ -20% Strike Damage Taken.
+Tailored Victory: Ends Perfect Weave for PBAoE damage & Float. Unblockable.
+
+Probably the only Elite that is actually good. Reduces Attunement recharge to 2s (which I believe should be base or at least lowered to 3s for more dynamic combat). Each buff from the Attunements fit the Attunements. That said, it took almost 6 years to add the +10% damage to Woven Air, meaning this was useless offensively for power builds. But now it’s an amazing skill for both versions of DPS Weaver with the manic cycling through elements. Tailored Victory active itself is probably the only letdown as the damage is weak and there’s a cast time. If it was automatic on expiration that'd make this Elite perfect. Do that change in PvE only if you have to, it shouldn’t suffer just because of another game mode.
 
 Traits
 
+Weaver
+Allows dual wielding Attunements, reducing all recharges to 4s. Gain access to Dual Attacks & Stances.
 
+Only placing this here because like Tempest, it’s technically the 1st trait in the tree.
 
+Superior Elements
+Dual Attacks Weaken enemies. Attacks against Weakened enemies have +15% chance of critting. 4s ICD.
+
+Offensive option. Not that useful for DoT builds since they don’t build crit chance or damage but it’s better than nothing. Weaken should always be on the enemy in instanced content so this is basically +15% crit for power builds. Not sure why this has an ICD in PvE. The only thing this does is mess up how often it’s applied if the Weaver has Alacrity (CDR) as there’s a 4s cooldown between swapping Attunements which is affected by Alacrity to recharge quicker.
+
+Elemental Pursuit
+Gain 2s of Superspeed when inflicting Immobilize, Chilled or Cripple on enemies. 10s ICD.
+
+Mobility option, but with all the blinks on some Ele weapons + Utility skills, there’s no need for this in PvE. It’s definitely more of a PvP trait. Grants mobility in an active way (you need to apply the CC) so it’s more involved w/ you the player.
+
+Master’s Fortitude
+Gain Vitality when wielding a Sword. Gain Vitality based on 5% of Power & 5% of Condition Damage.
+
+Extra HP that scales with damage stats. Helps the (usually) melee Weaver survive better, especially since Ele base stats suck the most out of all professions. Since it’s just passive stats, it’s not all that interesting but you may get use out of it if you’re not building crit / power, especially paired with Elements of Rage which increases crit chance based on Vitality stat (see below).
+
+Elemental Refreshment
+Grant self & allies barrier when using a Dual Attack.
+
+Barrier is pretty small and the ally clause was only added 5 years after release. Still, it’s some free constant sustain since it’s always chosen if you're a Weaver and you should always be cycling through the Attunements anyway.
+
+Weaver’s Prowess
+Gain +10% Condition Damage & +20% Condition Duration when Attuning to a different element (from the main hand Attunement).
+
+More Condition Damage & Duration for DoT builds. The buff lasts long enough to cover entering & exiting an Attunement twice (so Fire + Air -> Fire + Fire -> Earth + Fire will all be covered with the buff). That said it should just be on any Attunement swapping as that line is only affecting Unravel which is rarely used in general and never used in Condition builds. Reduce the duration if needed. Otherwise, encourages active cycling between Attunements which is what Weaver is about: flow.
+
+Swift Revenge
+Gain Swiftness when using a Dual Attack. +15% Strike Damage while under Swiftness or Superspeed.
+
+Power damage option for this section. Swiftness is by far the easiest Boon to get so it’s basically +15% damage. Less interesting compared to the above in terms of application.
+
+Bolstered Elements
+Gain Barrier when using a Stance. Use Lesser Stone Resonance when <=50% HP. 70s ICD.
+Lesser Stone Resonance: same pulsing Barrier as Stone Resonance but no Stability.
+
+Used to give Stability instead of Barrier (we can all guess what game mode caused that to be changed). Give PvE Stability! It feels awful to be constantly knocked about as a squishy melee character, especially since you’d be forced to take this trait to try and counter it and miss out on damage for both power & DoT builds. Also has an emergency defensive measure but if you get spiked you’ll get downed anyway since the Barrier is pulsing.
+
+Elemental Polyphony
+Gain stats based on current Attunements. Dual attuned = gain both benefits but not double benefits if fully Attuned.
+Fire: Power | Water: Healing Power | Air: Ferocity | Earth: Vitality
+
+Some extra stats depending on your Attunements. No reason why this doesn’t give double stats while fully Attuned. In fact there’s a bug where you occasionally get double stats while fully Attuned if you enter a new map, meaning that’s probably the default case.
+
+Elements of Rage
+Gain +10% Damage & +10% Condition Damage when fully Attuning. Also gain Precision based on 13% of Vitality.
+
+The damage option. Damage comes from specific Attunement combinations (full Attunements) so in a way it also encourages cycling through Attunements. Passive crit chance based on Vitality is also nice, but in a less exciting way. Somewhat synergises w/ Master’s Fortitude which grants Vitality based on Power & Condition Damage. Could open up a Hybrid build option, but since it’s the only trait that affects both types of damage, it doesn’t compete with a pure damage type build.
+
+Woven Stride
+Gain Swiftness when Immobilized, Crippled or Chilled. 3s ICD.
+Also gain Regen when gaining Superspeed or Swiftness. No ICD.
+Swiftness on self now grants 40% movespeed, up from 33%.
+
+Mobility & sustain option. Focuses on healing damage rather than avoiding it. Definitely more of a PvP option since constantly being Conditioned is more prevalent there than it is in PvE.
+
+Invigorating Strikes
+Gain Vigor when using a Dual Attack. Dodging grants Barrier.
+
+Also mobility & sustain option, this time focusing more on mitigating & avoiding damage in the first place rather than healing. More of a PvP option but more usable in PvE than the above since Barrier & Dodging are always welcome in PvE content whereas the above requires being constantly Conditioned which doesn’t really happen. That said, Barrier is tiny compared to the 2 Dodges you get every X seconds.
 
 
 Catalyst Combat
