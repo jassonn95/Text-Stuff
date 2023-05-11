@@ -1381,6 +1381,7 @@ Catalyst Combat
 Gains access to Hammer, allowing new skills which are both mid-ranged and melee depending on the Attunement (Fire + Air & Water + Earth respectively).
 Gains access to a 5th Profession mechanic: Jade Spheres. Deploys a Jade Sphere which changes depending on the current Attunement, placing down a Combo field that damages & grants Boons to allies. Jade Spheres require 10 Energy (can hold 30 max Energy) which are gained for each instance of hitting an enemy while a Jade Sphere is not out. Each Sphere has a 15s CD. 
 It really should not have both constraints as the Energy is there to prevent camping an Attunement and spamming a Sphere, but that was when the CD was 5s. Remove the Energy as it’s tracked by a tiny ass bar at the bottom of the screen and is completely uneven in single target vs. multitarget situations AND not gaining Energy while a Sphere is out is incredibly frustrating.
+Sphere itself is kind of ugly. Don’t like mixing magic w/ technology. Especially if it’s green.
 Gains access to Augment Utility skills which are self buffs that get enhanced if standing inside its relevant Jade Sphere field.
 Gains access to the Catalyst traitline. This uses up 1 traitline and is unique from other Elite specialisations (they all use the 3rd tree slot).
 Catalyst Abilities
@@ -1409,10 +1410,85 @@ Ground targeted Poison Combo field that pulses damage for enemies & Protection f
 Same notes as the above. Poison & Smoke are the closest to an Earth field in the game and while Poison is the only actual viable option in terms of theme & balance (giving Eles stealth would be dangerous), there are no Poison related traits in the Earth tree so the combo feels like it’s shoehorned in. Protection makes sense for Earth.
 
 Hammer
+Mid-ranged + melee w/ focus on AoE & control. 
 
+Singeing Strike
+Single target mid-ranged attack, damages & Burns.
 
+Ele Hammer is unique in that it has both melee & ranged skills in Water + Earth & Fire & Air respectively. This skill does exactly what a Fire auto would, damage + Burn. Could use a bit of AoE but other than that it’s okay.
 
+Surging Flames
+Frontal mid-ranged cleave, damages & Burns.
 
+Sends out projectiles that pierce but can only hit an enemy once, meaning there’s no hitbox shenanigans. Mid-range, tick. Damage, tick. Burns, tick.
+
+Flame Wheel & Grand Finale
+Summon projectile that spins around you, “damaging” enemies & Burning them. Refreshes duration of all other similar projectiles. Also grants +10% Damage & +10% Condition Damage. Grants access to Grand Finale after a small ICD: send out all elemental projectiles that pierce, damage & act as Combo projectiles. Apply a Condition depending on the element.
+Fire: Burning | Water: Vulnerability | Air: Weakness | Earth: Bleeding
+
+Grand Finale is available after all Hammer spinning projectile skills.
+
+Originally acted exactly like a projectile, meaning if you were inside a hitbox that was smaller than the radius it would straight up do no damage. Now acts as a pulsing damage field. The damage has been decreased then increased then decreased again in a matter of months. Who doesn’t love seeing a crit for 6 damage? Damage was nerfed via this skill and not the others to lower the skill floor by removing damage from an effectively passive source, keeping Ele as the higher difficulty class. The only reason it even has damage is because of the stupid Energy mechanic.
+
+Condition = Burning which fits. Passive is damage for power & DoT which fits.
+
+Grand Finale (+ the projectiles to a lesser degree) feel so integral to Catalyst that not using a Hammer just feels off. Tying the mechanic to the weapon instead of having it as the 5th profession mechanic and having Jade Spheres be like Tempest Overloads really limits build variety for Catalyst. If you’re playing Catalyst, you’ll be using a Hammer in 99% of cases. That said, the skill itself is a cool finisher that’s rewarding you for cycling through the Attunements and looks pretty cool when primed w/ the 4 orbs flying around you, even if they do <10 damage each. 
+
+Launched Flame Wheel applies burning which fits too.
+
+Triple Sear
+Ground targeted AoE w/ 3 points of damage. Damages & Burns.
+
+Multi section attack which unfortunately can hit a single target multiple times, effectively meaning the damage triples on a large target. Thankfully the variance isn’t as big as the “storm” skills, it’s on a 20s CD so it doesn’t happen too often and the spread between the spots isn’t that big but it really shouldn’t even have the ability to hit multiple times anyway. If it insists on having multiple hits, raise the base damage & make it so hits 2 & 3 only deal a percentage (not 10%).
+
+Molten End
+Delayed PBAoE, damages, & Blasts combos. Grants Might & Fury to self if it hits an enemy, increasing per enemy hit. Boons are frontloaded on 1 target.
+
+Everything about this skill makes sense: delayed slam which does big damage around you, Blasts combos & grants offensive Boons to self. Boons themselves are frontloaded so there’s not a huge difference between single target and multitarget (6 stacks vs. 10).
+
+Stream Strike -> Water Rush -> Chilling Crack
+Frontal cleave.
+Frontal cleave, same damage.
+Frontal cleave, most damage & Chills.
+
+Damage originally was different between hit 1 & 2. Could have at least made it slightly increase. Overall an offensive auto for Water; Chill is handy but still doesn’t interact with Ele in any way.
+
+Rain of Blows
+Frontal channelled cleave. If hit by all 4 strikes, become Chilled.
+
+Pretty much the same as the above, but instead of being backloaded it’s all-loaded (?). Doesn’t mean much in PvE as all 4 hits will almost always happen unless phasing happens. Melee, cleave, damage, Chilled. As expected.
+
+Icy Coil & Grand Finale
+Same as Flame Wheel, but applies Vulnerability & grants -15% Incoming Condition Damage.
+
+Vulnerability is actually useful for Ele compared to Chilled. Reduced Condition Damage helps short ranged Ele survive better much more than increased healing (that was probably going to be only to others anyway).
+
+Crashing Font
+Combo Leap for AoE Damage. Heal if hitting an enemy, increased heal if multiple (frontloaded).
+
+Heals for the same amount as the weaker dedicated heal buttons. Does okay damage and is a handy mid-ranged gapcloser but the main reason it’s used is for the Leap since (any) Combos are important for Catalysts due to certain Traits. Good thing it’s also frontloaded to reduce discrepancy between single target and multi target.
+
+Cleansing Typhoon
+PBAoE damage & combo Whirl. Cleanse conditions, increased # if multiple (frontloaded).
+
+Same as the above, except instead of a heal it’s a cleanse. Not as frontloaded as the others (2 cleanses vs 5). Still handy, but again mostly for the Whirl.
+
+Wind Slam
+Single target mid-ranged damage.
+
+Same as Fire, but trades in the DoT for more direct damage as per Air theme. Same notes apply, could use a tiny AoE at destination.
+
+Hurricane of Pain
+Ground targeted channelled AoE for pulsing damage & Vulnerability.
+
+Crescent Wind & Grand Finale
+Same as the other projectiles, but applies Weakness & grants +10% crit chance.
+
+Wind Storm
+Backstep to damage & knockdown enemies in front of you.
+
+Shock Blast
+Fire a projectile that damages enemies it passes through. Explodes for more damage, Stun & combo Blast.
 
 Augments
 
