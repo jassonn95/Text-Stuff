@@ -1379,6 +1379,7 @@ Also mobility & sustain option, this time focusing more on mitigating & avoiding
 
 Catalyst Combat
 Gains access to Hammer, allowing new skills which are both mid-ranged and melee depending on the Attunement (Fire + Air & Water + Earth respectively).
+Don’t love the Hammer choice, but have grown to not hate it. Would’ve preferred a ranged Greatsword like Mesmer.
 Gains access to a 5th Profession mechanic: Jade Spheres. Deploys a Jade Sphere which changes depending on the current Attunement, placing down a Combo field that damages & grants Boons to allies. Jade Spheres require 10 Energy (can hold 30 max Energy) which are gained for each instance of hitting an enemy while a Jade Sphere is not out. Each Sphere has a 15s CD. 
 It really should not have both constraints as the Energy is there to prevent camping an Attunement and spamming a Sphere, but that was when the CD was 5s. Remove the Energy as it’s tracked by a tiny ass bar at the bottom of the screen and is completely uneven in single target vs. multitarget situations AND not gaining Energy while a Sphere is out is incredibly frustrating.
 Sphere itself is kind of ugly. Don’t like mixing magic w/ technology. Especially if it’s green.
@@ -1456,7 +1457,7 @@ Damage originally was different between hit 1 & 2. Could have at least made it s
 Rain of Blows
 Frontal channelled cleave. If hit by all 4 strikes, become Chilled.
 
-Pretty much the same as the above, but instead of being backloaded it’s all-loaded (?). Doesn’t mean much in PvE as all 4 hits will almost always happen unless phasing happens. Melee, cleave, damage, Chilled. As expected.
+Pretty much the same as the above, but instead of being backloaded it’s all-loaded (?). Doesn’t mean much in PvE as all 4 hits will almost always happen unless phasing happens. Melee, cleave, damage, Chilled. As expected for Water.
 
 Icy Coil & Grand Finale
 Same as Flame Wheel, but applies Vulnerability & grants -15% Incoming Condition Damage.
@@ -1476,32 +1477,149 @@ Same as the above, except instead of a heal it’s a cleanse. Not as frontloaded
 Wind Slam
 Single target mid-ranged damage.
 
-Same as Fire, but trades in the DoT for more direct damage as per Air theme. Same notes apply, could use a tiny AoE at destination.
+Same as Fire, but trades in the DoT for more direct damage as per Air theme. Same notes apply; could use a tiny AoE at destination.
 
 Hurricane of Pain
 Ground targeted channelled AoE for pulsing damage & Vulnerability.
 
+High damaging channelled AoE that also applies Vulnerability, matching Air theme. Since it’s ground targeted + channelled, there’s plenty of counterplay there. Only thing that would make it perfect is if there was a Whirl component on you since you’re rapidly spinning the entire time.
+
 Crescent Wind & Grand Finale
-Same as the other projectiles, but applies Weakness & grants +10% crit chance.
+Same as the other projectiles, but applies Weakness & grants +10% Crit Chance.
+
+Weakness is the only other Condition associated with Air apart from Vulnerability which is taken by Water. Chill & Weakness are comparable in that they help you survive a bit better, w/ varying success since Weakness damage reduction is RNG. Crit chance for Air. This along with the damage up from Fire means you want to start your rotation with 1 or the other before moving to Water / Earth.
 
 Wind Storm
 Backstep to damage & knockdown enemies in front of you.
 
+Decent amount of CC that can also kind of be used as an escape. It locks onto a target so you’ll have to position yourself carefully to move in a specific way. That said, I’ve been knocked back into the map / underground / stuck in a wall multiple times and am very hesitant to even use it because of this.
+
 Shock Blast
 Fire a projectile that damages enemies it passes through. Explodes for more damage, Stun & combo Blast.
 
+A bit of damage and some more CC, but mostly for the combo Blast which works with some Traits. There isn’t much of an animation though so most of the time it doesn’t look like anything is happening other than a tiny pebble even when ignoring the visual vomit on the screen. Air = damage + CC.
+
+Stonestrike
+PBAoE damage.
+
+It’s just PBAoE damage. Differs from the Water one which is a frontal cleave but it’s still melee. Could use a bit of Bleeding on it though, Hammer doesn’t really have good damage for DoT builds and that could help (their design philosophy is that if it can do damage it should be able to do it via both ways).
+
+Whirling Stones
+Visually spin, channelling PBAoE damage & Bleeding. Also blocks missiles / projectiles.
+
+Yes the spinning is slow but it should still count as a Whirl. Other than that it’s a melee PBAoE damage + Bleed, fitting with Earth. Blocking missiles is a nice cherry on top and helps surviving while melee and not having a dedicated gap close outside of the one in Water.
+
+Rocky Loop & Grand Finale
+Same as the other projectiles, but applies Bleeding & grants -15% Incoming Strike Damage.
+
+Earth for Bleeding. Strike damage reduction matching the usual Protection.
+
+Immutable Stone
+Channel for 1.5s, Blocking the next attack. If an attack was Blocked, gain Barrier & an Aura based on the current Attunement.
+
+The fact it only blocks a single attack is a bit annoying. Yes there’s a Barrier that’s decently sized (25% of base Ele’s HP if building glass cannon) but it being eaten up by a stray attack from a random mob or being almost useless in a pack of mobs is annoying. Reduce the duration and block the entire time or keep the duration but block for 0.5s after 1st hit. If that’s an issue for PvP, split the balance between modes. Aura is whatever, mostly there for Aura related Traits. There’s some min maxing by swapping Attunements while this is channelling but not for PvE with a more structured rotation.
+
+Ground Pound
+Delayed PBAoe Damage, Immobilize & Bleed that also Blasts combos.
+
+Earth version of the Fire slam. Sacrifices offensive Boons & direct damage for Bleeding & some soft CC. Same notes apply; it’s a great feeling slam skill.
+
 Augments
 
+Soothing Water - Healing
+Heal & cleanse in pulses. -20% CD if used in Water Sphere.
 
+Sacrifice all burst healing for persistent healing & cleansing that’s not channelled so you can do other things. Very rarely used within a Water Sphere since you can’t really schedule when you’re taking damage in your rotation in PvE, secondary effect more for PvP. No reason why healing was increased in PvP only though. During Beta it only cleansed if used in Water Sphere; Catalyst was a mess then.
 
+Relentless Fire - Utility
+5s buff for +10% damage. 10 attacks in 5s are Unblockable (separate buff). +3s if used in Fire Sphere.
 
+Damage buff, more if used in Fire Sphere. Unblockable portion not relevant in PvE. Has a cast time so won’t be able to use it in the channelled abilities, which could be a cool mechanic since a couple of these are just damage buffs.
+
+Shattering Ice - Utility
+5s buff for extra AoE damage & Chill on each hit w/ 1s ICD. +3s if used in Water Sphere.
+
+Also a damage buff but in the form of another attack rather than +X damage. Chill is also there but not that relevant in PvE. Sphere bonus is also useful as a CD reduction would mess up the flow in a rotation. Also could stand to be instant cast.
+
+Invigorating Air - Utility
+Breaks stun. 5s buff for double Endurance regen & Superspeed. -33% CD if used in Air Sphere.
+
+Risky stun break as there’s nothing stopping you from getting CC’d again. Compared to other stun breaks, not as great but it does have a shorter cooldown. CDR rather than buff duration extension from Sphere interaction puts more weight on the active rather than the buff. Not sure why it got buffed in PvP but not in PvE.
+
+Fortified Earth - Utility
+Block attacks for 3s. Gain Barrier at end of channel. -33% CD if used in Earth Sphere.
+
+Basically what I wanted for Hammer Earth 4. Total block for 3s > Barrier so the CDR is worth more than the buff duration extension (don’t think they can even increase Barrier duration). 
+
+Elemental Celerity - Elite
+Reset CD of all weapon skills in current Attunement. Gain Boon based on Attunement if used in a Jade Sphere.
+Fire: Might | Water: Vigor | Air: Fury | Earth: Protection
+
+Pretty boring Elite and it’s not even that good. It’s a 90s CD just like Weave Self and unlike that Elite, it just lets you use 4 abilities again quicker. Maybe if those abilities were incredibly strong but since the class is balanced around having 20 total abilities (16 non autos), only affecting 25% of the kit isn’t impressive. Would resetting all abilities be busted? Probably. Could at least reduce those ones by a little bit though. Sphere interaction is also pretty crappy since you’re guaranted those Boons in group content. Not worth the slot and honestly makes me wish you could take another Utility skill rather than be forced to use a subpar Elite.
 
 Traits
 
+Depth of Elements
+Trait that grants access to Spheres & Augments.
 
+Adding it here because it’s the 1st trait in the tree, etc, etc.
 
+Hardened Auras
+Gain a Damage Reduction buff (2%, max 10) when granting self an Aura. Gaining stacks refreshes duration of all stacks.
 
+The Aura or Defensive option of the 3. As the newest spec, you can tell the Traits are set up to be going in a specific direction w/ certain groups in each choice. Not sure why this was changed to be only on Auras given to self as maintaining stacks is pretty simple w/ Elemental Epitome (below). All this does is remove edge cases which shouldn’t matter in PvE since this isn’t taken there & you should split balance between the game modes, even if it’s a functionality change.
 
+Vicious Empowerment
+Gain 2x Elemental Empowerment (+1% All Stats each) stacks (max 10) & Might when Disabling or Immobilizing an enemy. Stacks have their own duration.
+
+The Buff or Offensive option. Doesn’t require the enemy to actually be CC’d like Bosses who are immune, just needs the ability to hit. Helps add stacks but not maintain since it doesn’t refresh the duration when gaining stacks and weapons don’t usually have more than 3 ways of applying w/ decently sized CDs. Since it’s All Stats up, it means you deal more damage & are tankier (some stats have a base value of 0 like healing power).
+
+Energized Elements
+Gain Energy (2 lol) & Fury when switching Attunements in combat.
+
+Pretty sad option, it’s meant to be the Jade Sphere option. 2 Energy is 2 hits on an enemy when you’re allowed (gross) to gain Energy. With the amount of multi hitting abilities & AoE there are, 2 Energy is laughable. To make things worse, it’s 3 in PvP. Gaining Fury on Attunement swap is also something that used to exist in the Arcane trait line, making it seem like this was shoehorned in since they couldn’t think of a 3rd Jade Sphere related trait. The other 2 are related to the Boons given by the Spheres (adding another one and adding duration). Not much else you can do with Boons so this one could focus on the combo Field aspect of it instead, increasing duration of the fields or adding pulsing Boons to the spheres in addition to the base Boon application on use, anything but Energy which should be scrapped. Obviously rename it in that case since it won’t really have anything to do with energising.
+
+Elemental Empowerment
+Gain 3x Elemental Empowerment stacks while in combat. 15s duration, 15s refresh time. 10 max stacks.
+
+Pretty much means you always have 3 stacks while in combat. The in combat thing only really matters in PvP.
+
+Empowering Auras
+10s +3% Damage stacks when granting self an Aura, max 15%. Duration refreshed upon stack applications.
+
+The Aura or Offensive option, switching from the previous choice. Used to also be whenever anyone gave you an aura. Can get a 100% uptime via Elemental Epitome. Other than that, Aura = damage, nothing else to really say. Just means more combos are wanted.
+
+Evasive Empowerment
+Gain 2x Elemental Empowerment & Vigor while Evading an attack. 1s ICD.
+
+The Buff or “Defensive” / PvP option. Doesn’t inherently make you tankier but rewards you for using active mitigation via dodging. There’s some synergy with the Dagger + Staff skills with the “Evade” tag on them. ICD is there for the cases where you dodge multiple attacks in a row, though is that necessarily needed? Not much use in PvE, there are easier ways to gain stacks and a big opportunity cost too.
+
+Spectacular Sphere
+Jade Spheres grant another Boon on use.
+Fire: More Might | Water: Vigor | Air: Quickness | Earth: Aegis
+
+The Trait that allows Catalyst to be a Support DPS option. Chosen just for the Quickness Boon, 1 of the 2 that caused so many balance issues (there was a timeframe where every group had a Chronomancer because they were the only ones who could apply any of those Boons). Previously had a -10% damage dealt modifier which was absolutely disgusting considering you’re already missing out on the +15% from Empowering Auras. Pretty sure it’s 1 of only 2 Traits that have a damage down modifier (the other is a Thief one which gives Pistols piercing at a damage reduction cost. It is also competing with an actual damage up Trait too). The other Boons range from nice to have (Might & Vigor) to useful in certain situations (Aegis).
+
+Elemental Epitome
+Gain an Aura based on current Attunement when you combo. Gain Elemental Empowerment whenever you gain an Aura. 10s ICD per Attunement.
+Fire: Fire Aura | Water: Frost Aura | Air: Shocking Aura | Earth: Magnetic Aura
+
+The Trait that allows you to keep generating stacks quickly. Since the ICD is per Attunement, you’re able to gain stacks constantly and then loop back again, playing into the flow aspect that’s encouraged with Hammer 3. Also niche interactions with Aura skills from other weapons / some Leap combos. Makes combos more useful than a small debuff thrown out randomly, etc.
+
+Staunch Auras
+Gain Stability when granting self an Aura.
+
+The Aura or “Defensive” option. Quotation marks since it doesn’t directly stop you from dying, only CC’d. Can’t add Protection since there’s an Earth trait for it. Resolution is free but it’s somewhat specific to DoT damage which isn’t as common as direct damage. Possibly a Barrier as well as Stability for survivability. 
+
+Empowered Empowerment
+While at max stacks of Elemental Empowerment (10), double its effectiveness (+10% -> +20% All Stats).
+
+The Buff or technically Offensive option. Effect itself is pretty boring, but rewarding maintaining 10 stacks adds more weight on the stacks. Put “technically Offensive” option there since a pure support / healing Catalyst doesn’t work & if you’re going Support DPS, you’ll want the below option anyway, leaving this as the “offensive” option.
+
+Sphere Specialist
+Boons applied from your Jade Sphere have 2x the duration (applied before Boon Duration).
+
+The Sphere or Support option. It’s also pretty boring, but it makes you need less Boon Duration to be able to keep Boons up which means you get to spend more of your gear stats on offensive ones (or defensive for whatever reason).
 
 Guardian
 Guardian Combat
