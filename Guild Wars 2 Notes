@@ -331,7 +331,7 @@ Long cast PBAoE Cripple (slow) which explodes for Damage, Bleeding & Blasts comb
 Risk vs. reward since it has a long channel time where you’re vulnerable to CC & damage but the pay off is in big damage and to a lesser degree a combo Blast. It’s also VERY easy to cancel with movement input. Can also be comboed with Lightning Flash (utility blink, discussed below) to reposition the PBAoE without cancelling it, a nifty little combo.
 
 Focus
-Defense oriented. Off-hand only.
+Defensive & Utility oriented. Off-hand only.
 
 Focus Fire 4 - Flamewall
 Ground targeted Fire combo field that damages & Burns.
@@ -1074,7 +1074,7 @@ Gains access to Stance skills which are generally self buffs / effects.
 Gains access to the Weaver traitline. This uses up 1 traitline and is unique from other Elite specilisations (they all use the 3rd tree slot).
 Weaver Abilities
 Sword
-Short ranged & versatile (offensive, defensive, mobility).
+Short ranged & versatile (offensive, defensive, mobility). Main hand only.
 
 Fire Strike -> Fire Swipe -> Searing Slash
 Frontal cleave, damage.
@@ -1686,7 +1686,7 @@ AoE Damage & Blast. There’s a small leap but it doesn’t count as a Combo Lea
 Zealot’s Embrace
 Fire a projectile that damages & Immobilizes enemies. Gain Barrier for each enemy hit, Barrier amount frontloaded on 1st target.
 
-Some CC & survivability to help a melee catch up & live respectively. Doesn’t count as a Projectile for combo purposes.
+Some CC & survivability to help a melee catch up & live respectively. Sets up the other Hammer abilities that require being in melee range. Doesn’t count as a Projectile for combo purposes, which wouldn’t be too crazy if it had it.
 
 Banish
 Single target damage & Knockback. Applies a debuff which will cause Mighty Blow to blink to the target.
@@ -1697,6 +1697,135 @@ Ring of Warding
 Places a Light Combo field ring that knocks back enemies that try to cross it.
 
 Very easy to cancel with movement input; should also only be cancellable with dodges, sheathing or pressing Esc (and obviously being CC’d or downed). It’s purely a PvP skill though as mobs don’t try to escape and it’s a small circle. If it also provided some survivability for allies, this could be a useful skill but as of right now it’s at best just a combo field that can sometimes CC enemies if they try moving.
+
+Staff
+Support, AoE & control.
+
+Bolt of Wrath -> Searing Light -> Seeking Judgement
+Single target ranged damage.
+Ranged projectile, explodes for more AoE damage.
+Ranged projectile, explodes for the most AoE damage.
+
+Used to be a weaker frontal cleave of damage but was changed 6 years into game life. Changed to be ranged and deal more damage. Projectiles become progressively slower meaning the back loaded high damage attack can be more easily dodged but that’s more of a PvP thing to keep a track of. Ranged = safer & gives base Guardian a 2nd ranged weapon, the more support oriented Staff.
+
+Holy Strike
+Ground targeted AoE that pulses healing for allies & nukes enemies at the end, Blasting combos.
+
+Used to be a forwarding moving projectile that damages enemies & heals allies it touches. It had an option to detonate for more damage, healing & a Light aura (Resolution when hit on 1s ICD & -10% Condition Damage received) at the cost of a much higher cooldown (3x - 4x depending on which patch). Damage was okay but the heal was negligible and took too long. Reworked to be modernised with its effects packed together which better suits an action game. Also who doesn’t like Blasts?
+
+Symbol of Swiftness
+Ground targeted AoE Light combo field that pulses damage & Swiftness for allies.
+
+Same notes as the other Symbol skills. Swiftness isn’t as important as the others due to how common it is.
+
+Empower
+Backloaded channelled PBAoE heal that also pulses Might.
+
+Channelled heal which means it’s pretty easy to cancel. Its heal is also back loaded meaning there’s some risk involved if going for max value. Heal is decent but used to maintain Might, meaning there’s a choice presented on whether to keep buffing or save for the healing.
+
+Line of Warding
+Creates a Ward in the shape of a line, ground targeted. Acts as a Light Combo field.
+
+Ground targeted line version of Ring of Warding. Same notes apply about it possibly having more of a use in PvE, since it’s effectively just a Light Combo field. If a boss needs to be CC’d, it’s usually not moving to trigger the knockback.
+
+Mace
+Support based melee. Main hand only.
+
+True Strike -> Pure Strike -> Faithful Strike
+Frontal cleave.
+Frontal cleave, more damage.
+Frontal cleave, most damage & PBAoE heal.
+
+Same as the other Guardian auto combos, but also applies a heal. Most support / healing oriented auto chain that Guardian has, take it if defence is needed (PvP).
+
+Symbol of Faith
+PBAoE Light Combo field, damaging enemies & pulsing Regen for allies. Very long cast time.
+
+For some reason this has the longest cast time out of all the Symbol skills at 1.25s vs mostly 0.5s (Hammer takes 1s but that makes sense since it’s meant to be slow). It would make sense if it provided immediate healing but it pulses Regen, a HoT (that lasts 1s so it’s just 1 tick). No reason for why it should have that long of a cast time. Other than that it’s more healing but this time in Boon form rather than a direct heal. Same notes about Symbols apply.
+
+Protector’s Strike
+PBAoE zone that follows you. Block only the next attack on self or allies in the zone, dealing PBAoE damage & granting PBAoE Protection & Aegis. Also fully charges Virtue of Justice.
+
+Definitely feels more of a PvP ability since not only does it block 1 attack, it blocks 1 attack aimed at anyone near the player so it can be eaten by pretty much anything. Like other “block next attack” skills, the duration should either be lowered so it can block all attacks during that time or keep the duration but block for Xs after the 1st hit. Boons are defensive, matching the mace design w/ some extra damage from the Virtue of Justice passive charging. Possibly could use Resolution as well since that’s associated with Light fields / Guardian; might be overloading skill then.
+
+Scepter
+Mid-ranged damage & control. Main hand only.
+
+Orb of Wrath
+Single target ranged damage, slow moving.
+
+It’s just single target ranged damage. It being slow doesn’t matter in PvE really.
+
+Symbol of Punishment
+Ground targeted AoE Light combo field that pulses damage & Might for allies. Also randomly deals extra damage within the field.
+
+Matches the other Symbol skills except for the extra random damage. Why this can’t be merged with the damage from the Symbol to standardise the damage I don’t know, other than for the ~uniqueness~.
+
+Chains of Light
+Single target damage, Immobilize & Vulnerability.
+
+Ranged targeted CC. Not useful in PvE at all since enemies are either CC immune or already capped at Vulnerability.
+
+Sword
+Short ranged & versatile (offensive, defensive, mobility). Main hand only.
+
+Sword of Wrath -> Sword Arc -> Sword Wave
+Frontal cleave.
+Frontal cleave, more damage.
+Frontal cleave, most damage. Damage split into 3 forks which are individual hits for Virtue of Justice stack purposes. Can technically be hit by less than 3.
+
+Same notes about melee combos apply. 3rd attack is the most interesting in that it’s specifically split into 3 to help charge the Virtue of Justice stacks faster as opposed to just a big singular hit. 
+
+Symbol of Blades
+Blink to an enemy, damaging & Blinding. Drop a Light Combo field that damages & pulses Fury for allies.
+
+Used to not drop a Symbol at all. Choice between keeping it as a blink for mobility or using it for damage. 1 of 3 Symbols that grant an offensive Boon, water combat excluded. Not useful for DoT builds though as there are no DoTs in any base main hand weapon other than the passive Virtue of Justice, rectified later by a spec.
+
+Zealot’s Defense
+Channel that blocks ranged attacks while firing projectiles (non combo) that deal damage.
+
+Same note about sacrificing a block for damage or vice versa. Since it’s a channel it’s also very easy to cancel in an action combat game especially since it’s a 3s channel. Needs an option to not let movement input interrupt channels.
+
+Focus
+Defensive & Utility oriented. Off-hand only.
+
+Ray of Judgement
+Single target damage that only ticks if the 1st tick hits.
+
+Doesn’t fit the Defense / Utility quote at all. Used to fire a projectile that bounced between allies & enemies, applying Regen & cleansing + damaging & Blinding respectively. Could’ve kept the Blind or add pulsing Regen around the enemy if hit, something to keep the Focus design going. That said, the damage is pretty good. Probably designed this way to differentiate itself from Shield.
+
+Shield of Wrath
+Blast combos & block the next 3 attacks on self. If it blocks less than 3 attacks, explode for PBAoE damage. No cast time so it can be used while CC’d.
+
+Requiring the blocks not to be used for damage makes it somewhat awkward. Suppose there is some risk vs. reward involved in that you need to sacrifice some defence in order to do some damage. Blast is handy but requires relying on others for useful fields since Light fields only cleanse which isn’t always needed. Damage isn’t too high & the cooldown is pretty high so missing out on the damage isn’t too bad but could make it so rather than doing no damage it does less if the shield is broken or change it to heal instead since if you’re getting pummelled you probably want a heal.
+
+Shield
+Defence oriented. Off-hand only, also increases Defense stat.
+
+Shield of Judgement
+Frontal cone, damages enemies & granting Protection & Aegis to allies.
+
+On demand mitigation via DR & Block. Helps survivability tremendously & while ranged it’s pretty short so some risk involved.
+
+Shield of Absorption
+PBAoE zone that knocks back enemies & follows you. Absorbs all projectiles & acts as a Light Combo field. Can be detonated for PBAoE healing.
+
+Either use as CC, defence against projectiles which is a bit more niche or healing. Can be used for all 3 but having all 3 happen at the same time is more of a PvP thing.
+
+Torch
+DoT related. Off-hand only.
+
+
+Zealot’s Flame & Zealot’s Fire
+Grant Zealot’s Flame buff, PBAoE pulsing Burning. Incorrect tooltip saying final pulse applies additional Burning. It doesn't.
+Allows use of Zealot’s Fire: single target ranged damage & Burning.
+
+Ignoring the false advertisement, this skill is all about Burning. It’s the only DoT related base weapon for Guardian and it’s off-hand only too. There’s a Trait that grants Zealot’s Flame when you crit and it’s always taken on DoT builds because Zealot’s Fire has no cooldown, meaning crit proc = free damage & Burning. Skills themselves are just PBAoE Burning & single target ranged damage & Burning, nothing too interesting. Excitement is all from the Trait procs.
+
+Cleansing Flame
+Channelled frontal AoE that damages enemies & cleanses conditions from allies (not self). Final tick applies Burning.
+
+Damage & cleanses pulse 10(!) times making it very powerful. A bit annoying that the cleanse doesn’t affect yourself but I suppose that’s because of PvP. Decent damage & very good Burning, a choice to be made between damage & cleansing but since cleansing is pretty niche, go with the damage.
 
 
 Dragonhunter Combat
