@@ -1623,8 +1623,81 @@ The Sphere or Support option. It’s also pretty boring, but it makes you need l
 
 Guardian
 Guardian Combat
-
+Like the archetype; it’s basically Paladin without the religion.
+Standard 2 weapon skill bars, swapping in combat has a cooldown.
+Profession Mechanics are Virtues, passives that can be sacrificed for a more powerful active.
+Virtue of Justice: Burn every few attacks. Activate to make the next attack for you & allies Burn.
+Virtue of Resolve: passively heal self. Activate to cleanse self and PBAoE heal.
+Virtue of Courage: gain Aegis, refreshing every 40s. Activate to grant PBAoE Aegis.
+Lowest HP in the game (tied with Elementalist & Thief) but highest base armour (tied with Warrior & Revenant). Also has a decent amount of active defensive skills, focusing on proactive tankiness rather than face tanking.
+Low HP isn’t as big of a problem on Guardian compared to Ele but the difference still feels bad (11k vs 19k between lowest & highest).
+It’s especially annoying on higher ping where you have less time to react.
+Base Guardian focuses more on defensive / protective skills for self & allies, fitting with the theme & name really.
+Guardian skills have a lot of light fields which generally result in cleansing effects. These are presented in the form of Symbols which are pulsing ground AoEs that benefit allies and hinder enemies.
+Also has access to Wards which prevent enemies from passing over them.
 Guardian Abilities
+Greatsword
+High damage & slow attacks w/ cleave.
+
+Strike -> Vengeful Strike -> Wrathful Strike
+Frontal cleave.
+Frontal cleave, more damage.
+Frontal cleave, most damage & grant PBAoE Might per enemy hit.
+
+Pretty simple auto chain for a melee weapon. Little bit of Might but it only lasts 5s so it can’t really be used to properly maintain / add stacks. It does have the same range as a 1H sword though, I think it’d make more sense if it was slightly longer ranged given the size difference between the weapons generally.
+
+Whirling Wrath
+Combo Whirl for PBAoE ticking damage. Also sends out projectiles that damage.
+
+Optimal use is to use the skill while inside the enemy hitbox which is a no no in by book. Only way to fix this is to either get rid of the projectiles (which I assume were added to make it a more unique greatsword spin attack) or make them home in on the targeted enemy rather than fire out randomly. Another option is to split the damage so the majority of it is on the whirling blade, right now it’s 50/50. Combo Whirl makes sense, even if it’s slower than Ele’s Hammer Air 2 which doesn’t have it.
+
+Leap of Faith
+Combo Leap for PBAoE damage & Blind + healing for each enemy hit.
+
+Gap closer which can be used can be used for damage, survivability (heal + Blind) or mobility. There’s some drawback if you use it for damage and end up needing the gap closer while it’s recharging, etc. Other than that it’s your usual gap closer with extra utility.
+
+Symbol of Resolution
+PBAoE Light Combo field, damaging enemies & pulsing Resolution for allies.
+
+PBAoE damage & Resolution. If the Resolution buff seems out of place it’s because it used to be called Symbol of Wrath and gave Retaliation (thorns). Otherwise it’s just more melee damage that interacts with some Traits for more damage. Cleansing utility from Light field is also there.
+
+Binding Blade -> Pull
+Combo Whirl & send out projectiles to nearby enemies that damage & apply a unique DoT. Allows the use of Pull if at least 1 target is hit, surprisingly pulling enemies in and consuming the DoT damage.
+
+Optimal single target damage use is to also use it while inside the enemy hitbox + have other enemies around. Fortunately most of the damage is via the DoT so it’s less reliant on the initial hit hitting multiple times and the Dot doesn’t stack with itself so there’s no multitarget shenanigans. DoT being consumed means you’ll have to time the CC or sacrifice the damage for the CC, which is more prevalent in PvE since the window for good use of CC is less than compared to PvP. Also acts as a Combo Whirl, which makes me realise that Ele weapons just suck in that department, having 1 or 2 Combo related skills while Guardian gets all 4. Yes there are 4 Attunements but cycling just for a combo isn’t generally worth it.
+
+Hammer
+Melee w/ focus on AoE & control. 
+
+
+
+Hammer Swing -> Hammer Bash -> Symbol of Protection
+Frontal cleave.
+Frontal cleave, same damage.
+AoE Light Combo field between self & target, damaging enemies & pulsing Protection for allies.
+
+The 2nd attack could use an extra effect or slightly more damage, just to make it differentiate from the 1st and feel like the combo is getting stronger. The whole combo takes 2.4s and the field lasts a base 2s, meaning it’s possible to get 100% uptime if Quickness is applied making it a strong defensive weapon option. It’s the only Symbol that can do that due to not technically having a cooldown, but requires constant auto attacking. The field does get placed in front of you so that might cause issues sometimes depending on the hitbox of the enemy.
+
+Mighty Blow
+Leap (not combo) forward & PBAoE damage & Blast combos. Teleport to an enemy if they have the Mighty Blow debuff.
+
+AoE Damage & Blast. There’s a small leap but it doesn’t count as a Combo Leap for some reason, probably because the technology for 2 Combo using components on a single skill. Can sort of be used as a gap closer, though the leap is short and the Banish teleport requires you hitting it w/ a melee skill.
+
+Zealot’s Embrace
+Fire a projectile that damages & Immobilizes enemies. Gain Barrier for each enemy hit, Barrier amount frontloaded on 1st target.
+
+Some CC & survivability to help a melee catch up & live respectively. Doesn’t count as a Projectile for combo purposes.
+
+Banish
+Single target damage & Knockback. Applies a debuff which will cause Mighty Blow to blink to the target.
+
+Normally I’d say something about it being single target but due to the teleport mechanic w/ Mighty Blow, I’d have to agree w/ it being single target otherwise it might break something when it tries to teleport to multiple debuffed targets. It’s actually the hardest hitting Hammer ability so in PvE, there’s a choice between saving it for CC or using it for damage (only 15s CD so not too bad of a choice).
+
+Ring of Warding
+Places a Light Combo field ring that knocks back enemies that try to cross it.
+
+Very easy to cancel with movement input; should also only be cancellable with dodges, sheathing or pressing Esc (and obviously being CC’d or downed). It’s purely a PvP skill though as mobs don’t try to escape and it’s a small circle. If it also provided some survivability for allies, this could be a useful skill but as of right now it’s at best just a combo field that can sometimes CC enemies if they try moving.
+
 
 Dragonhunter Combat
 
