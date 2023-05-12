@@ -1930,6 +1930,18 @@ Ground targeted AoE damage, Vulnerability & Cripple. 3 charges. NPC at target.
 
 Should be a Whirl.
 
+Elite
+
+“Feel My Wrath!” - Shout
+PBAoE Fury & Quickness. Quickness duration from this skill on self doubled.
+
+Renewed Focus - Meditation
+Channel for 3s, becoming Invulnerable & recharging all 3 Virtues.
+
+Signet of Courage - Signet
+Passive: PBAoE heal every 3s.
+Active: Channel pulsing healing & Protection, Resolution & Stability. Back loaded heal at the end of the channel.
+
 
 Dragonhunter Combat
 
