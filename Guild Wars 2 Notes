@@ -12,6 +12,7 @@ Again, spoilt by FFXIV with having all classes on 1 character, really miss that 
 Feels like this is just so they can get you to pay for character slots.
 Can’t have every crafting profession on the same character, forced to have multiple characters for that.
 There is sort of a shared levelling system post level 80, but they’re for utilities rather than combat stuff (auto-loot which should’ve been basekit, special crafting, mount skills, etc).
+There are racials but they almost never matter (except some Sylvari racial skill was used in one of the raids, don’t really know the details).
 Awful microtransactions, lots of FOMO. Should strictly be for cosmetics and not convenience. Even more insulting is that equipment & skill loadouts are both separate and character bound, so if you play more than 1 character it’s absolutely overpriced.
 Loot. Boxes.
 Being able to buy currency in exchange for in-game currency is bad. The effects aren’t too awful as the game has horizontal progression that’s somewhat easy to reach the highest level but still, being able to buy progression (via gear, materials, etc) is dumb.
@@ -34,6 +35,7 @@ There is underwater combat with its own set of weapons & abilities, but it’s n
 There’s also a couple of skills when you’re downed / drowning (downed underwater). Won’t be including those either as they’re mostly damage / helping you survive long enough to get saved.
 Combos are an interesting mechanic but they’ve pretty much been unchanged since release. Their importance and effectiveness have gone down while new classes, specialisations, weapons + skills have made them even more irrelevant. Why bother comboing for boons when another class can press a couple of buttons for permanent buff uptime.
 Every interaction being bound to F is very annoying.
+Why does logging into a character re-order it in the character select screen?
 Elementalist
 Elementalist Combat
 Love the concept, execution could be better.
@@ -1825,7 +1827,108 @@ Ignoring the false advertisement, this skill is all about Burning. It’s the on
 Cleansing Flame
 Channelled frontal AoE that damages enemies & cleanses conditions from allies (not self). Final tick applies Burning.
 
-Damage & cleanses pulse 10(!) times making it very powerful. A bit annoying that the cleanse doesn’t affect yourself but I suppose that’s because of PvP. Decent damage & very good Burning, a choice to be made between damage & cleansing but since cleansing is pretty niche, go with the damage.
+Damage & cleanses pulse 10(!) times making it very powerful. Follows targeted enemy so make sure to position properly. A bit annoying that the cleanse doesn’t affect yourself but I suppose that’s because of PvP. Decent damage & very good Burning, a choice to be made between damage & cleansing but since cleansing is pretty niche, go with the damage.
+
+Healing
+
+“Receive the Light!” - Shout
+Heal self then channel frontal pulsing healing.
+
+Party healing option, sacrificing self healing for party healing. Risky since it’s a channel & it’s somewhat short ranged.
+
+Litany of Wrath - Meditation
+Heal self a little & grant self buff that heals you for 33% of damage dealt.
+
+If you have nothing to attack, it heals for almost nothing. If you do have a target, you’re practically unkillable for 6s assuming you don’t get 1 shot.
+
+Shelter - No Tag
+Block for 2s & heal at the end.
+
+Sacrifice healing for a 2s block. Take if you need the block but better off face tanking with the super healing from Litany of Wrath. The block is far more niche. It having no tag & hence interaction with any skill specific traits makes it a little weak. Could possibly edit it to be a Consecration (beneficial AoEs) and make it leave a healing field for the Guardian after the cast or something; don’t make it a party heal or it will overlap with the shout.
+
+Signet of Resolve - Signet
+Passive: Remove a condition from self every 5s.
+Active: Burst heal & remove 2 conditions.
+
+Strongest heal if there is no target & is the Condition cleansing option. Take if you really need cleansing, otherwise Litany of Wrath if you’re a DPS or “Receive the Light” if you’re a healer.
+
+Utility
+Choose 3.
+
+
+Hallowed Ground - Consecration
+Ground targeted Fire Combo field that pulses Stability & Resolution for allies.
+
+Purging Flames - Consecration
+Ground targeted Fire Combo field that damages & Burns enemies while cleansing allies.
+
+Sanctuary - Consecration
+Ground targeted Light combo field that heals allies & Blocks missiles. Blocks enemies from coming in & pulses a knockback on enemies already inside.
+
+Wall of Reflection - Consecration
+Ground targeted Light combo line field that reflects projectiles.
+
+Contemplation of Purity - Meditation
+Breaks stun. Convert Conditions into Boons.
+
+Judge’s Intervention - Meditation
+Breaks stun. Blink to target, PBAoE damage & Burning.
+
+Merciful Intervention - Meditation
+Blink to ally in ground targeted area, healing & partially reviving. If there are no allies in the targeted area, it doesn’t blink.
+
+Smite Condition - Meditation
+Cleanse Conditions & PBAoE damage. More damage if any Conditions are cleansed.
+
+“Hold the Line!” - Shout
+PBAoE Protection & Regen.
+
+“Advance!” - Shout
+PBAoE Swiftness & Aegis. 2 charges.
+
+“Save Yourselves!” - Shout
+Breaks stun. Draw all Conditions from nearby allies to self. Grant self Fury, Might, Protection, Regen, Resolution, Swiftness, Vigor & Resistance.
+
+Missing: Aegis, Alacrity, Quickness & Stability.
+
+“Stand Your Ground!” - Shout
+Breaks stun. PBAoE Resolution & Stability.
+
+Bane Signet - Signet
+Passive: Gain Power.
+Active: Single target damage & Knockdown.
+
+Signet of Judgement - Signet
+Passive: -10% Incoming Damage & Condition Damage.
+Active: Breaks stun & PBAoE Resolution for allies & Burning for enemies.
+
+Signet of Mercy - Signet
+Passive: Gain Concentration.
+Active: Ground targeted revive of 1 ally w/ cast time. 
+
+Signet of Wrath - Signet
+Passive: Gain Condition Damage.
+Active: Single target damage & Immobilize.
+
+Bow of Truth - Spirit Weapon
+Ground targeted healing & Light Combo field. 2 charges. NPC next to you.
+
+Somewhat delayed.
+
+Hammer of Wisdom - Spirit Weapon
+Ground targeted damage & Knockdown + Blast Combo. 2 charges. NPC at target.
+
+Somewhat delayed.
+
+Shield of the Avenger - Spirit Weapon
+Ground targeted AoE (not combo field) that Blocks missiles then damages & Weakens enemies. 3 charges. NPC at target but disappears very quickly.
+
+Should be a Light combo field.
+
+Sword of Justice - Spirit Weapon
+Ground targeted AoE damage, Vulnerability & Cripple. 3 charges. NPC at target.
+
+Should be a Whirl.
 
 
 Dragonhunter Combat
