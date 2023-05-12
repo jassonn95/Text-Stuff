@@ -393,7 +393,7 @@ Cantrips are all defensive spells that activate instantly and this is no differe
 Glyph of Elemental Harmony - Glyph
 Medium heal burst + a Boon depending on current Attunement.
 
-Glyphs secondary effects change depending on the current Attunement. In this case, Fire = Might, Water = Regen, Air = Swiftness & Earth = Protection. However these Boons aren’t the main reason to take this heal as they don’t last long enough or they don’t scale that well (Regen won’t do much if you don’t have Healing Power). It’s the biggest non-conditional burst heal out of the base heal skills.
+Glyphs secondary effects change depending on the current Attunement. In this case, Fire = Might, Water = Regen, Air = Swiftness & Earth = Protection. However these Boons aren’t the main reason to take this heal as they don’t last long enough or they don’t scale that well (Regen won’t do much if you don’t have Healing Power). It’s the biggest non-conditional burst heal out of the base Healing skills.
 
 Signet of Restoration - Signet
 Passively heal per spell cast (so any weapon skill). 
@@ -574,7 +574,7 @@ Honestly one of the worst skills Eles have. Trading everything away for a bunch 
 
 Traits
 Non-coloured Traits are auto picked if the tree is chosen. Coloured Traits are a choice of 1. Can only pick 3 trees.
-Fire
+Fire - Damage & Burning
 
 Empowering Flame
 Grant Power while in Fire.
@@ -637,7 +637,7 @@ Blinding Ashes
 Blind enemies that you Burn. 8s ICD per enemy.
 
 PvP option. A blind every 8s isn’t that useful, especially compared to the others.
-Air
+Air - Mobility, Crit & CC
 
 Zephyr’s Speed
 +5% crit chance. +25% movespeed while in Air.
@@ -700,7 +700,7 @@ Cast Lightning Rod when you hard CC an enemy.
 Lightning Rod: Damage & apply Weakness.
 
 PvP option. There’s not enough CC in the kit to justify taking this over the other 2, and even then it’s only really taken for the Weakness.
-Earth
+Earth - Tankiness & Bleeding
 
 Stone Flesh
 -7% strike damage taken while in Earth.
@@ -764,7 +764,7 @@ Stone Heart
 Gain a buff for 4s when entering Earth and 2s when exiting where you cannot be crit.
 
 Hyperspecific active mitigation. Don’t believe most PvP builds have a high chance of critting except for very specific ones. PvE mobs also don’t have a high chance of critting either. Should just be changed to strike damage reduction instead. Keep the buff implementation though, it allows flexibility as opposed to the original “can’t be crit while in Earth” variation.
-Water
+Water - Healing & Utility
 
 Soothing Mist
 PBAoE HoT over 10s while in Water, refreshing duration every 3s.
@@ -825,7 +825,7 @@ Soothing Power
 Soothing Mist’s healing is twice as powerful.
 
 Healing option, nothing else to be said.
-Arcane
+Arcane - Attunements
 
 Arcane Prowess
 Gain 1 stack of Might when switching Attunements.
@@ -870,7 +870,7 @@ Final Shielding
 Cast Lesser Arcane Shield when using an Elite skill. 20s ICD.
 Lesser Arcane Shield: same as Arcane Shield, but doesn’t break stun or crit.
 
-Used to be a stun break and shield block when <= 50% HP, now it’s tied to the most disappointing part of Eles. None of the skills have a CD anywhere near 20s other than the Elemental one and that requires it to stay alive and spam its Command almost on cooldown (15s). Also requires holding Elites for the defensive effect, it’s not really a “Final” Shielding in most cases where you want to use your powerful ability.
+Used to be a stun break and shield block when hit <= 50% HP, now it’s tied to the most disappointing part of Eles. None of the skills have a CD anywhere near 20s other than the Elemental one and that requires it to stay alive and spam its Command almost on cooldown (15s). Also requires holding Elites for the defensive effect, it’s not really a “Final” Shielding in most cases where you want to use your powerful ability.
 
 Elemental Enchantment
 Gain Concentration (boon duration stat) & Attunements recharge 15% faster.
@@ -1062,7 +1062,7 @@ Overload pulses & successful completion grant Alacrity (increased recharge speed
 Support Overload option. Only way for Elementalists to provide Alacrity. Since this is an Elite specialisation and base Eles have no way of providing Quickness or Alacrity to others, it will never run into an issue where it can provide both causing a balance nightmare. Feelings about Quickness and Alacrity are still the same. Wouldn’t mind it providing a unique buff to the Elementalist only with the same effect of Quickness and/or Alacrity though, giving Overloads even more of a high in combat.
 
 Elemental Bastion
-Heal allies you grant Auras to. Grant Frost Aura to self & allies when stuck <= 75% HP. 30s ICD.
+Heal allies you grant Auras to. Grant Frost Aura to self & allies when hit <= 75% HP. 30s ICD.
 
 Even more utility to Auras. This honestly could be merged with Invigorating Torrents and be changed to be the healing Overload option. The 2nd portion is just a bit more survivability when under fire.
 
@@ -1351,7 +1351,7 @@ Gain Swiftness when using a Dual Attack. +15% Strike Damage while under Swiftnes
 Power damage option for this section. Swiftness is by far the easiest Boon to get so it’s basically +15% damage. Less interesting compared to the above in terms of application.
 
 Bolstered Elements
-Gain Barrier when using a Stance. Use Lesser Stone Resonance when <=50% HP. 70s ICD.
+Gain Barrier when using a Stance. Use Lesser Stone Resonance when hit <=50% HP. 70s ICD.
 Lesser Stone Resonance: same pulsing Barrier as Stone Resonance but no Stability.
 
 Used to give Stability instead of Barrier (we can all guess what game mode caused that to be changed). Give PvE Stability! It feels awful to be constantly knocked about as a squishy melee character, especially since you’d be forced to take this trait to try and counter it and miss out on damage for both power & DoT builds. Also has an emergency defensive measure but if you get spiked you’ll get downed anyway since the Barrier is pulsing.
@@ -1941,6 +1941,211 @@ Channel for 3s, becoming Invulnerable & recharging all 3 Virtues.
 Signet of Courage - Signet
 Passive: PBAoE heal every 3s.
 Active: Channel pulsing healing & Protection, Resolution & Stability. Back loaded heal at the end of the channel.
+
+Traits
+Non-coloured Traits are auto picked if the tree is chosen. Coloured Traits are a choice of 1. Can only pick 3 trees.
+
+Zeal - Strike Damage & Symbols
+
+Zealot’s Resolution
+Cast Lesser Symbol of Resolution when hit <= 75%.
+Lesser Symbol of Resolution: same as Symbol of Resolution but less damage & higher (?) Resolution duration.
+
+Wrathful Spirit
+Aegis grants Resolution & Fury when consumed (consumed when blocking an attack).
+
+Fiery Wrath
++7% Strike Damage against Burning enemies.
+
+Zealous Scepter
+Gain Might when Virtue of Justice triggers, doubled when wielding a Scepter.
+
+Symbolic Exposure
+Symbols inflict Vulnerability. +5% Strike Damage against Vulnerable enemies.
+
+Furious Focus
+While having Fury, attacks apply Vulnerability. 1s ICD.
+
+Zealous Blade
+Gain Power, doubled w/ Greatsword. Greatsword skills recharge 20% faster.
+
+Kindred Zeal
+Gain Condition Damage based on 10% Power.
+
+Symbolic Power
+Symbols deal +30% Strike Damage.
+
+Eternal Armory
+Spirit Weapons gain 1 charge, recharge 20% faster & Burns on 1st hit (if it damages).
+
+Shattered Aegis
+Whenever an Aegis you apply is consumed, deal PBAoE non-crit damage.
+
+Symbolic Avenger
++2% Strike Damage whenever an enemy is hit by your Symbols, max 10%.
+Radiance - Burning & Virtue of Justice
+
+Justice is Blind
+Gain Light Aura & PBAoE Blind when activating Virtue of Justice.
+
+Inner Fire
+Gain 8s Fury when hitting an enemy w/ >3 Burning stacks. 10s ICD.
+
+Right-Hand Strength
+Gain Precision. Gain Power w/ a One-Handed Weapon in main hand.
+
+Healer’s Resolution
+Gain 8s Resolution when using a Healing skill. 20s ICD.
+
+Renewed Justice
+Reset cooldown for Virtue of Justice when killing an enemy. 1s ICD.
+
+Wrath of Justice
+Hitting an enemy w/ the active effect of Virtue of Justice casts Lesser Signet of Wrath: damage & Immobilize the target. 25s ICD.
+
+Radiant Fire
+Gain Zealot’s Flame when critting, giving you PBAoE Burning & allowing use of Zealot’s Fire if a Torch is equipped.. Burning you inflict has +20% duration. Torch skills recharge 20% faster.
+
+Retribution
++10% Strike Damage while having Resolution.
+
+Radiant Power
++10% Crit Chance against Burning enemies. Gain Ferocity.
+
+Amplified Wrath
+Burning you inflict deals +10% damage. +20% Burning duration from passive of Virtue of Justice.
+
+Perfect Inscriptions
+Signets recharge 20% faster, have improved passives & keep passives while recharging.
+Resolve: Cleansing interval 5s -> 4s.
+Bane: Power 180 -> 216.
+Judgement: Damage Reduction 10% -> 12%.
+Wrath: Condition Damage 180 -> 216.
+Mercy: Concentration 120 -> 150.
+Courage: Passive Healing +20%
+
+Righteous Instincts
+Resolution grants +25% Crit Chance & grants Might every 1s.
+Valor - Blocking, Aegis & Virtue of Courage
+
+Valorous Defense
+Gain 5s Aegis when hit <= 50%. 30s ICD.
+
+Strength of the Fallen
+Cleanse a condition every 10s. HP degenerates 33% slower while downed.
+
+Smiter’s Boon
+Cast Lesser Smite Condition when using a Healing skill. 16s ICD
+Lesser Smite Condition: cleanse 2 conditions & PBAoE damage. More damage if a Condition is cleansed.
+
+Focus Mastery
+Focus skills grant Protection & recharge 20% faster.
+
+Steadfast Courage
+Gain 3s Protection when blocking w/ Aegis.
+
+Stalwart Defender
+Gain Toughness w/ Shield. Shield skills recharge 20% faster.
+
+Strength in Numbers
+While in combat, PBAoE 3s Protection. 10s ICD.
+
+Communal Defenses
+Blocking attacks grants Aegis to allies. 15s ICD.
+
+Does NOT grant Aegis to self.
+
+Might of the Protector
+Gain Might when Blocking attacks. 1s ICD.
+
+Altruistic Healing
+Heal self when granting Boon to an ally, including self.
+
+Monk’s Focus
+Meditation skills heal self, grant Fury to allies & recharge 20% faster.
+
+Tenacious Defense
+Whenever an Aegis you grant is consumed, reduce recharge of Virtue of Courage by 1s.
+Honor - Dodging, Healing & Virtue of Resolve
+
+Vigorous Precision
+Gain 5s Vigor when you Crit. 10s ICD.
+
+Invigorated Bulwark
++5% Outgoing Healing whenever you Block an attack, max +25%. Mace skills recharge 20% faster & their Boons granted last 33% longer (caps are still the same).
+
+Protective Reviver
+Cast Lesser Shield of Absorption when you begin reviving an ally. Detonation of Shield of Absorption partially revives allies.
+Lesser Shield of Absorption: knock back enemies & create a Light Combo field which absorbs projectiles. Detonates automatically at the end to heal allies.
+
+Protector’s Restoration
+Cast Lesser Symbol of Protection when using a Healing skill.
+
+Selfless Daring
+PBAoE heal at the end of your dodges.
+
+Honorable Staff
+Gain Concentration, doubled w/ Staff. Staff skills recharge 20% faster.
+
+Pure of Heart
+Aegis that you apply heal when consumed.
+
+Empowering Might
+Grant PBAoE 8s 1x Might when Critting. 1s ICD.
+
+Purity of Body
+Virtue of Resolve passive also increases Endurance Regen by 15%.
+
+Additive w/ Vigor (+65% total).
+
+Pure of Voice
+Shout skills recharge 20% faster & convert 1 Condition into a Boon per ally.
+
+Writ of Persistence
+Symbols are bigger (😉), last 2s longer (😜) & heal allies.
+
+Force of Will
+Gain Vitality. +1% Outgoing Healing per 100 Vitality.
+Virtues - All Virtues
+
+Inspired Virtue
+Virtues grant PBAoE Boons when activated. +1% Strike Damage per Boon on you.
+Justice: 3 x Might.
+Resolve: Regen.
+Courage: Protection.
+
+Unscathed Contender
++7% Strike Damage w/ Aegis. +7% Strike Damage while >= 90% HP.
+
+Resolute Subconscious
+Gain Resolution & Aegis when Disabled. 30s ICD.
+
+Master of Consecrations
+Consecrations last 2s longer & recharge 20% faster.
+
+Virtue of Resolution
+Gain Resolution when activating a Virtue. Resolution you grant lasts 25% longer.
+
+Inspiring Virtue
++10% Strike Damage for 6s after activating a Virtue.
+
+Absolute Resolve
+Activating Virtue of Resolve PBAoE cleanses 2 Conditions. Passive healing from the Virtue is 25% stronger.
+
+Glacial Heart
+Mighty Blow becomes Glacial Blow, dealing more damage, scaling better & Chilling enemies. (Non-crit) Damage & Chill enemies you Disable.
+
+Power of the Virtuous
+Gain Condition Damage based on 13% Vitality. Virtues recharge 15% faster.
+
+Permeating Wrath
+Passive of Virtue of Justice now triggers every 3 attacks from 5 & Burns in an AoE.
+
+Battle Presence
+Nearby allies gain the passive effect of Virtue of Resolve.
+
+Indomitable Courage
+Active of Virtue of Courage breaks stun & grants Stability to allies. Passive down from 40s to 30s recharge.
 
 
 Dragonhunter Combat
