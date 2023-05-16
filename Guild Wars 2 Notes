@@ -1638,6 +1638,26 @@ Base Guardian focuses more on defensive / protective skills for self & allies, f
 Guardian skills have a lot of light fields which generally result in cleansing effects. These are presented in the form of Symbols which are pulsing ground AoEs that benefit allies and hinder enemies.
 Also has access to Wards which prevent enemies from passing over them.
 Guardian Abilities
+Virtues
+
+Virtue of Justice
+Passive: Burn enemies every 5 attacks.
+Active: PBAoE buff that makes the next attack Burn for longer than the passive.
+
+Offensive Virtue. Use the active during “Burn” phases, otherwise just keep the passive rolling.
+
+Virtue of Resolve
+Passive: Regen HP.
+Active: PBAoE heal & self cleanse.
+
+Healing Virtue. Passively healing is pretty low & burst healing is a lot more valuable so it’s effectively a second weaker heal w/ some condition cleansing for self. Use it when you’re low.
+
+Virtue of Courage
+Passive: Infinite duration Aegis to self every 40s.
+Active: PBAoE Aegis.
+
+Defensive Virtue. Use it when you think you’re able to be hit by something big, which is a bit annoying since it can be eaten up by random attacks but still handy in those cases.
+
 Greatsword
 High damage & slow attacks w/ cleave.
 
