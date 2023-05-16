@@ -1859,88 +1859,124 @@ Choose 3.
 Hallowed Ground - Consecration
 Ground targeted Fire Combo field that pulses Stability & Resolution for allies.
 
+Big defensive cooldown against CC, but needs to be used before you get CC’d since it doesn’t break stun by itself. Can also be used for a Fire field or help maintaining Resolution but there are better ways for both; more like a top up for those. 45s is a very large cooldown but it matches the effect of a party wide CC immunity. Only issue is that there are only 3 slots to choose for Utilities.
+
 Purging Flames - Consecration
 Ground targeted Fire Combo field that damages & Burns enemies while cleansing allies.
+
+Handy cleansing utility but the damage & Burning is the reason why it’s taken. It has a relatively low cooldown, and with Condition Duration maxed out it has decent uptime too. Plus a Fire field which is always handy for Might & more Burning. Cleansing is mostly incidental and there are better dedicated ways to cleanse.
 
 Sanctuary - Consecration
 Ground targeted Light combo field that heals allies & Blocks missiles. Blocks enemies from coming in & pulses a knockback on enemies already inside.
 
+Very long cooldown for another very defensive skill. An emergency button as it blocks most ranged attacks & knocks back melee enemies. However due to the limited slots, how rare emergency situations should happen & the large cooldown, this skill is primarily used for the huge CC if placed inside an enemy’s hitbox since it knocks back 5 times. Probably sees more use in PvP where the healing & blocking is more important. Light field is somewhat nice too.
+
 Wall of Reflection - Consecration
 Ground targeted Light combo line field that reflects projectiles.
 
+Think Yasuo W but it reflects instead of blocks. Much more reasonable anti-projectile skill since it’s only a 25s CD. That said, it’s still very niche and w/ the limited skill slots, it’s not always taken. There’s also a Light field but it’s very narrow and you probably don’t want to accidentally walk in front of something that’s meant to be protecting you.
+
 Contemplation of Purity - Meditation
-Breaks stun. Convert Conditions into Boons.
+Breaks stun. Convert all Conditions on self into Boons.
+
+Very niche skill. For a stun break it’s pretty bad since nothing prevents you from being CC’d again. Fear & Taunt would convert into Stability but they’re removed by the stun break. For a Condition cleanse it’s pretty bad because of the 40s CD, leaving you out of a skill for 40s. If it also healed you per Condition cleansed it would make it a better defensive skill option.
 
 Judge’s Intervention - Meditation
-Breaks stun. Blink to target, PBAoE damage & Burning.
+Breaks stun. Blink to target, PBAoE damage & Burning. No cast time.
+
+Offensive gap closer. Stun break on a mobility skill is nice, wish all mobility skills had it (cough Lightning Flash). There’s some damage & Burning too but the main use is the blink. It’s instant cast too so you can do some cool stuff with channelled skills. That said, it’s mostly a PvP skill as gap closers aren’t usually needed in PvE and if they are you have permanent Swiftness & occasionally other classes to group port.
 
 Merciful Intervention - Meditation
 Blink to ally in ground targeted area, healing & partially reviving. If there are no allies in the targeted area, it doesn’t blink.
 
+Healer gap closer, sort of. Requires an ally to be in the area otherwise it’s just a PBAoE heal + partial revive; makes the skill more reliant on ally positioning. Doesn’t break stun either so it seems like the skill is just to jump start reviving an ally or as a kind of restrictive gap closer. Not really a difficult choice on when to use it in PvE since gap closers aren’t really needed w/ the above mentioned Swiftness + group port.
+
 Smite Condition - Meditation
 Cleanse Conditions & PBAoE damage. More damage if any Conditions are cleansed.
+
+Another niche skill. It only cleanses 2 in PvE (3 in PvP for some reason. Raise it in PvE) and does okay damage, and that’s pretty much it. 2 cleanses isn’t that much and the damage isn’t really worth warranting taking it as a skill, especially with a 20s and no charges. Adding some Burning on the cleansed conditional would make it better and fits thematically. Even just adding 1 charge would make it a lot better.
 
 “Hold the Line!” - Shout
 PBAoE Protection & Regen.
 
+Defensive shout, take it if you need Protection & Regen. Has decent (50%) uptime with max Boon duration, which is pretty overkill since a bunch of other skills & traits give Protection without having to take up another slot whilst also providing other effects.
+
 “Advance!” - Shout
 PBAoE Swiftness & Aegis. 2 charges.
+
+Versatile shout, mostly for the on-demand Aegis. 2 charges makes it even more versatile, though in PvE it’s going to be saved for the on-demand Aegis. Especially since Swiftness is not a rare Boon.
 
 “Save Yourselves!” - Shout
 Breaks stun. Draw all Conditions from nearby allies to self. Grant self Fury, Might, Protection, Regen, Resolution, Swiftness, Vigor & Resistance.
 
-Missing: Aegis, Alacrity, Quickness & Stability.
+A very niche shout. Can be comboed w/ Contemplation of Purity to eat up everyone’s Conditions & cleanse them in PvP but that’s pretty much the only use. No situation in PvE calls for that combo and w/o the cleanse, it’s pretty likely it will get you killed even w/ the defensive Boons or it didn’t do enough to warrant taking it. It has a huge CD too w/ 50s.
 
 “Stand Your Ground!” - Shout
 Breaks stun. PBAoE Resolution & Stability.
+
+Anti-CC shout. Almost as strong as Hallowed Ground but with the lower cooldown it’s more versatile. Also provides Resolution but that’s incidental, too.
 
 Bane Signet - Signet
 Passive: Gain Power.
 Active: Single target damage & Knockdown.
 
+Power DPS signet. Choice to sacrifice (a lot of) damage for CC. The sacrifice is pretty big so it makes the choice less interesting in that you’re almost never encouraged to use the active. If the active damage was better or also granted offensive Boons to help offset the damage loss it would be a better Signet design. Could also reduce the Power gained but then what would be the point of taking it in the first place?
+
 Signet of Judgement - Signet
 Passive: -10% Incoming Damage & Condition Damage.
 Active: Breaks stun & PBAoE Resolution for allies & Burning for enemies.
 
+Defensive signet. Sacrifice some tankiness for a stun break, DoT tankiness & Burning? Back when Retaliation was in the game, it made sense since it discouraged enemies from hitting you (at least in PvP, in PvE they just get punished). Before that was changed, the Burning used to be Weakness, further building upon that idea of a defensive Signet that protected the user through defensive effects. Adding Protection upon activation would help it achieve its original effects.
+
 Signet of Mercy - Signet
 Passive: Gain Concentration.
-Active: Ground targeted revive of 1 ally w/ cast time. 
+Active: Ground targeted revive of 1 ally w/ cast time.
+
+A ranged res. Compared to the Ele one it’s nowhere near as versatile but it still gets the job done. Does come with sacrificing Boon Duration for a reasonably long time (50s) but in exchange for a pretty powerful effect. That said it’s rarely needed in PvE since you’re usually able to just walk up to them and res them. In PvP, Boon Duration is less needed so it’s almost exclusively wanted for the active.
 
 Signet of Wrath - Signet
 Passive: Gain Condition Damage.
 Active: Single target damage & Immobilize.
 
-Bow of Truth - Spirit Weapon
-Ground targeted healing & Light Combo field. 2 charges. NPC next to you.
+Condition DPS signet. Choice to sacrifice DPS for a pretty weak CC, not sure why anyone would ever press this button outside of PvP or accidentally pressing it. For Condition builds it would be 12s of Immobilize but the timeframe to CC bosses is much lower than that.
 
-Somewhat delayed.
+Bow of Truth - Spirit Weapon
+Ground targeted healing & Light Combo field. 2 charges.
+
+Healing option. The healing is somewhat delayed in the animation so need to keep that in mind. If the skill was more responsive it’d be better, obviously. But this seems to be a result of it being changed from a pet skill to a temporary pet skill. Charges are great as always for versatility & the Light field is handy for cleansing.
 
 Hammer of Wisdom - Spirit Weapon
-Ground targeted damage & Knockdown + Blast Combo. 2 charges. NPC at target.
+Ground targeted damage & Knockdown + Blast Combo. 2 charges.
 
-Somewhat delayed.
+CC option. Also somewhat delayed so need to keep that in mind, but less so for PvE since there’s a window for CC breaks on bosses. Also has a Blast component but no one is going to sacrifice CC for that. Charges again make it versatile.
 
 Shield of the Avenger - Spirit Weapon
-Ground targeted AoE (not combo field) that Blocks missiles then damages & Weakens enemies. 3 charges. NPC at target but disappears very quickly.
+Ground targeted AoE (not combo field) that Blocks missiles then damages & Weakens enemies. 3 charges.
 
-Should be a Light combo field.
+Ranged version of Sanctuary without the CC. Weird how it’s not a Light combo field though. Does a little bit of damage & Weakens but that’s more of a PvP thing. 3 charges makes it very handy but its effect is pretty niche in PvE.
 
 Sword of Justice - Spirit Weapon
-Ground targeted AoE damage, Vulnerability & Cripple. 3 charges. NPC at target.
+Ground targeted AoE damage, Vulnerability & Cripple. 3 charges.
 
-Should be a Whirl.
+DPS option. Should be a Whirl considering the animation. Does damage & applies Vulnerability, all a DPS needs (+ Cripple). Charges make it very versatile but you’re probably just going to dump it during burst windows.
 
 Elite
 
 “Feel My Wrath!” - Shout
 PBAoE Fury & Quickness. Quickness duration from this skill on self doubled.
 
+Offensive option, sort of. Provides offensive buffs, not much else to say. The 2nd line is just there to force certain builds to put more Boon Duration or take more utility skills, keeping the personal DPS in check.
+
 Renewed Focus - Meditation
 Channel for 3s, becoming Invulnerable & recharging all 3 Virtues.
+
+Defensive option. Gives 3s of immunity which can be very helpful in some mechanics, though it only affects you so not much use if everyone else is dead. More of a PvP skill. Recharging Virtues is somewhat useful, moreso on Firebrands who gain abilities via the Virtues.
 
 Signet of Courage - Signet
 Passive: PBAoE heal every 3s.
 Active: Channel pulsing healing & Protection, Resolution & Stability. Back loaded heal at the end of the channel.
+
+Healing option. Passive heal is pretty weak, especially since it’s pulsing so there’s no real choice between keeping or using the active. Burst heals are much more valuable & it giving all 3 defensive Boons makes it effective in all situations.
 
 Traits
 Non-coloured Traits are auto picked if the tree is chosen. Coloured Traits are a choice of 1. Can only pick 3 trees.
