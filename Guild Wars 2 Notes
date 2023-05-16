@@ -1984,72 +1984,116 @@ Non-coloured Traits are auto picked if the tree is chosen. Coloured Traits are a
 Zeal - Strike Damage & Symbols
 
 Zealot’s Resolution
-Cast Lesser Symbol of Resolution when hit <= 75%.
+Cast Lesser Symbol of Resolution when hit <= 75%. 30s ICD.
 Lesser Symbol of Resolution: same as Symbol of Resolution but less damage & higher (?) Resolution duration.
 
+Pretty cool way of having an auto defensive buff when taking some damage while incorporating it w/ one of the unique mechanics of the class. It doing less damage compared to the regular Symbol makes sense, but giving a higher duration for the Boon is a little weird.
+
 Wrathful Spirit
-Aegis grants Resolution & Fury when consumed (consumed when blocking an attack).
+Aegis grants Resolution & Fury when it ends.
+
+Little bit of offensive & defensive Boons for when you block an attack w/ Aegis (or it expires). There aren’t many ways to apply Aegis though, so it’s not that useful in keeping those Boons up. It’s basically just a little bit extra, nothing to play around. Just some stats.
 
 Fiery Wrath
 +7% Strike Damage against Burning enemies.
 
+With how abundant Burning is even just within Guardian, let alone in a group, this is just a +7% Strike Damage buff. Conditional makes sense, it’s not something random like Poisoned.
+
 Zealous Scepter
 Gain Might when Virtue of Justice triggers, doubled when wielding a Scepter.
+
+Unlike other weapon specific traits, this one doesn’t affect the cooldown of Scepter skills. All it does is add a little bit of Might which you can get from other methods like skills or openworld buffs like Jade Tech Offensive Overcharge. Otherwise in group content, the extra Might won’t be needed since it’s covered by support. Also require your Virtue of Justice passive to trigger to even get any effect. If it gave group Might then this “might” be a viable choice.
 
 Symbolic Exposure
 Symbols inflict Vulnerability. +5% Strike Damage against Vulnerable enemies.
 
+Improves Symbols by making them debuff enemies & makes Vulnerability more effective for you. The stronger Symbols are, the more you’re inclined to use them before your other damaging skills, like a damage cooldown.
+
 Furious Focus
 While having Fury, attacks apply Vulnerability. 1s ICD.
+
+Not really needed since Vulnerability is a very common Condition. ICD is there to prevent someone being blasted with debuffs I guess but put that in PvP since it’s only really a problem there. Or at least lower it. Fury conditional is not really an issue most of the time.
 
 Zealous Blade
 Gain Power, doubled w/ Greatsword. Greatsword skills recharge 20% faster.
 
+Power DPS option. What a weapon specific trait should look like. More damage stat & CDR = more DPS = more fun.
+
 Kindred Zeal
 Gain Condition Damage based on 10% Power.
+
+Condition Damage option. A bit boring but not every trait needs to completely change an ability's functionality to get the job done.
 
 Symbolic Power
 Symbols deal +30% Strike Damage.
 
+Symbols are even stronger. Same note about Symbols becoming a pseudo damage cooldown.
+
 Eternal Armory
 Spirit Weapons gain 1 charge, recharge 20% faster & Burns on 1st hit (if it damages).
 
+Makes Spirit Weapons a lot better. Extra charge is nice, recharging quicker is always great & the Burn is handy. This does encourage you to use up all 3 Utility slots on Spirit Weapons for max value, but since they all do different things you’ll end up with a “jack of all trades master of not really doing anything specific well” kind of build. 
+
 Shattered Aegis
-Whenever an Aegis you apply is consumed, deal PBAoE non-crit damage.
+Whenever an Aegis you apply is consumed (consumed when blocking an attack), it deals PBAoE non-crit damage.
+
+Bit of extra damage whenever any Aegis from you is consumed. Damage is small (can’t crit) and the area isn’t too big. Again, Aegis isn’t that common enough for a build to be built around it. If it included Blocks / Reflects it might be a bit more interesting as there’d be more opportunities for this to proc.
 
 Symbolic Avenger
 +2% Strike Damage whenever an enemy is hit by your Symbols, max 10%.
+
+Makes Symbols even stronger. Pretty much as strong as Symbols are going to get; a bonafide damage cooldown now. Gives stacks to maintain, encouraging use of weapons that have a Symbol (they all do, main hand anyway).
 Radiance - Burning & Virtue of Justice
 
 Justice is Blind
 Gain Light Aura & PBAoE Blind when activating Virtue of Justice.
 
+Little bit of defensive utility when using the fire themed mechanic, fitting.
+
 Inner Fire
 Gain 8s Fury when hitting an enemy w/ >3 Burning stacks. 10s ICD.
+
+Could be pretty useful in solo or PvP but since Fury is covered by other classes it’s not that useful compared to Fiery Wrath (above) which is a flat damage bonus.
 
 Right-Hand Strength
 Gain Precision. Gain Power w/ a One-Handed Weapon in main hand.
 
+Bit of extra crit chance & Power if using a 1H weapon. The damage boost is pretty small and compared to Healer’s Resolution + Righteous Instincts, it’s overall less damage.
+
 Healer’s Resolution
 Gain 8s Resolution when using a Healing skill. 20s ICD.
+
+Helps with Resolution uptime. ICD is only there because of Firebrand Mantra heal. Resolution uptime is important because if you’re going down this tree, you’re going for Righteous Instincts which increases damage & massively increases your crit chance, meaning less gear power budget spent on crit chance and more on Power / crit damage which is an overall damage boost. Placing it on the healing skill also adds a factor of risk vs. reward too, don’t want to be caught in need of healing without a heal. Less worrisome in group content, usually.
 
 Renewed Justice
 Reset cooldown for Virtue of Justice when killing an enemy. 1s ICD.
 
+More buttons to press for more damage = more for the player to do, more fun. ICD is just there for Willbender which turns Virtue of Justice into a dash.
+
 Wrath of Justice
 Hitting an enemy w/ the active effect of Virtue of Justice casts Lesser Signet of Wrath: damage & Immobilize the target. 25s ICD.
 
+An additional 3s root. Sneaky way of adding an extra Utility skill in w/ the 3 slot limit but its effects are pretty weak overall since it’s just the passive. Probably better in PvP.
+
 Radiant Fire
-Gain Zealot’s Flame when critting, giving you PBAoE Burning & allowing use of Zealot’s Fire if a Torch is equipped.. Burning you inflict has +20% duration. Torch skills recharge 20% faster.
+Gain Zealot’s Flame when critting, giving you PBAoE Burning & allowing use of Zealot’s Fire if a Torch is equipped (10s ICD). Burning you inflict has +20% duration. Torch skills recharge 20% faster.
+
+Condi damage option & a great weapon specific trait. Not only does it recharge Torch skills faster (cough Scepter), it adds a proc to play around using the existing Torch skill; something else to keep track of. 
 
 Retribution
 +10% Strike Damage while having Resolution.
 
+Power DPS option, putting more importance on Resolution as it’s now also increasing your damage dealt.
+
 Radiant Power
 +10% Crit Chance against Burning enemies. Gain Ferocity.
 
+More crit chance against most enemies as they should always be Burning vs. you, especially in a group. Extra Ferocity to go with the crit chance.
+
 Amplified Wrath
 Burning you inflict deals +10% damage. +20% Burning duration from passive of Virtue of Justice.
+
+Condi damage option. Flat damage boost is nice. Extra Burning duration is helpful but not as much as you think as a lot of Burning for Guardian comes from other skills, not just Virtue of Justice.
 
 Perfect Inscriptions
 Signets recharge 20% faster, have improved passives & keep passives while recharging.
@@ -2060,89 +2104,138 @@ Wrath: Condition Damage 180 -> 216.
 Mercy: Concentration 120 -> 150.
 Courage: Passive Healing +20%
 
+Previously gave the passive effects to allies while recharging, making it a pseudo party buff. Changed when they did a pass and got rid of unique buffs to prevent making specific classes mandatory, but that leaves this trait feeling kind of meh compared to the other 2 options. If you’re running 5 Signets this could be useful. Even then the other 2 options are better offensively.
+
 Righteous Instincts
 Resolution grants +25% Crit Chance & grants Might every 1s.
+
+Makes Resolution even more important. As mentioned before, frees up stat power budget from crit chance and more into damage or crit damage. Was 50% before which is a pretty big nerf, but still useful. Also a bit of Might but again, not that useful in group content.
 Valor - Blocking, Aegis & Virtue of Courage
 
 Valorous Defense
 Gain 5s Aegis when hit <= 50%. 30s ICD.
 
+Like other “get X when hit below Y” traits, it helps you survive.
+
 Strength of the Fallen
 Cleanse a condition every 10s. HP degenerates 33% slower while downed.
+
+Not sure why anyone would take this. There are way better Condition cleansing methods & the downed portion shouldn’t ever be useful since you’re aiming to not be downed, especially in the defensive tree; the “Fallen” theme doesn’t really fit.
 
 Smiter’s Boon
 Cast Lesser Smite Condition when using a Healing skill. 16s ICD
 Lesser Smite Condition: cleanse 2 conditions & PBAoE damage. More damage if a Condition is cleansed.
 
+Also adds a 4th Utility skill without a 4th Utility slot. Lets you cleanse a couple Conditions when healing without choosing the Condition cleansing heal, freeing up your build a little. Otherwise not too interesting. 
+
 Focus Mastery
 Focus skills grant Protection & recharge 20% faster.
+
+Compared to the Torch one it’s a little boring. Get tankier in the tanky tree, works fine. None of these options have anything to do with Aegis or Blocking though, despite being advertised. Maybe this one can count with Protection. Maybe.
 
 Steadfast Courage
 Gain 3s Protection when blocking w/ Aegis.
 
+Little extra bit of tankiness. Could be made more general / versatile by changing it to Block / Reflect in general rather than relying on Aegis only. Adjust duration if needed.
+
 Stalwart Defender
 Gain Toughness w/ Shield. Shield skills recharge 20% faster.
+
+Even more boring than the Focus one, which at least required a skill to be used to get its effect. A stat stick trait that does achieve its goal of tankiness.
 
 Strength in Numbers
 While in combat, PBAoE 3s Protection. 10s ICD.
 
+Used to give a unique Toughness party buff which was culled along w/ the other unique party buffs. Party damage mitigation, useful in PvP. Most of this tree isn’t that useful in PvE due to not really having a tanking role, only a kiting role occasionally. 
+
 Communal Defenses
 Blocking attacks grants Aegis to allies. 15s ICD.
 
-Does NOT grant Aegis to self.
+Does NOT grant Aegis to self. Good to see the restriction isn’t only Aegis only but any Blocks, making it a lot more usable. Does require you to Block something though, which would be a little janky since attacks usually go out in 1 go so if you Block something to get the effect, it might already be too late. Making it be on-demand would be a lot more powerful yes but also would work a lot better.
 
 Might of the Protector
 Gain Might when Blocking attacks. 1s ICD.
 
+ICD isn’t really needed in PvE. If it’s a technical reason then surely reducing the ICD wouldn’t hurt. Especially since in PvP there’s a lot of targets being bombed with Conditions and it seems to run fine. Rewards Blocking, which is okay. If it gave party Might it “might” (wait I already made that joke) be more useful, an alternative option to stacking Might.
+
 Altruistic Healing
 Heal self when granting Boon to an ally, including self.
+
+Since a tank role doesn’t really exist, it’s not that useful since it’s just self healing. Definitely more of a PvP trait where extra sustain always helps. It’s also a pretty unique way of adding some sustain.
 
 Monk’s Focus
 Meditation skills heal self, grant Fury to allies & recharge 20% faster.
 
+Little bit of extra Fury & self sustain. Not enough Fury to build around it though, more like an added bonus when using those skills. Overall, not that useful in PvE due to no tanks.
+
 Tenacious Defense
 Whenever an Aegis you grant is consumed, reduce recharge of Virtue of Courage by 1s.
+
+There aren’t that many ways to grant Aegis so the mileage from this trait is pretty low. Somewhat decent concept though, active cooldown reduction is more involved.
 Honor - Dodging, Healing & Virtue of Resolve
 
 Vigorous Precision
 Gain 5s Vigor when you Crit. 10s ICD.
 
+Little bit of extra dodging. Requires crit though which isn’t really used for healers since heals don’t crit. Definitely a relic of an age passed by where the trinity was purposefully avoided.
+
 Invigorated Bulwark
 +5% Outgoing Healing whenever you Block an attack, max +25%. Mace skills recharge 20% faster & their Boons granted last 33% longer (caps are still the same).
+
+Much better weapon specific trait. They don’t need all to have a similar impact on builds but they should be better than just being stat sticks. Rewards using some of the Mace skills well while also being able to be used w/ other weapons (namely Shield).
 
 Protective Reviver
 Cast Lesser Shield of Absorption when you begin reviving an ally. Detonation of Shield of Absorption partially revives allies.
 Lesser Shield of Absorption: knock back enemies & create a Light Combo field which absorbs projectiles. Detonates automatically at the end to heal allies.
 
+Helps w/ ressing. If you need that like in PvP, take it. It’s nice to have but ideally there shouldn’t be anyone needing a res; there are better options in this tree.
+
 Protector’s Restoration
-Cast Lesser Symbol of Protection when using a Healing skill.
+Cast Lesser Symbol of Protection when using a Healing skill. 20s ICD.
+Lesser Symbol of Protection: same as Symbol of Protection but less damage and higher duration (since it’s not on an auto attack).
+
+Helps w/ Protection uptime, pretty much the reason to take it. Also nice that it’s on demand, gives it a level of control and reliability.
 
 Selfless Daring
 PBAoE heal at the end of your dodges.
 
+Extra healing; gives you a choice to save your dodges for survivability or use it to sustain the group.
+
 Honorable Staff
 Gain Concentration, doubled w/ Staff. Staff skills recharge 20% faster.
+
+If using a Staff, take it. Even then it’s just a stat boost so it’s not that useful compared to unique buffs / healing like the other options.
 
 Pure of Heart
 Aegis that you apply heal when consumed.
 
+Little extra healing but since Aegis is pretty rare it’s not all that useful. Still it is a unique method of healing and can’t be gained through stats on gear, making it more interesting than the 1st option.
+
 Empowering Might
 Grant PBAoE 8s 1x Might when Critting. 1s ICD.
+
+Helps w/ Might uptime for the party. Requires critting though which again is not very likely for healers due to healer builds not putting any crit chance on. Not ideal but it’s the only offensive option.
 
 Purity of Body
 Virtue of Resolve passive also increases Endurance Regen by 15%.
 
-Additive w/ Vigor (+65% total).
+Additive w/ Vigor (+65% total). Extra dodging to synergise the other dodge related traits. More dodges = more survivability & healing.
 
 Pure of Voice
 Shout skills recharge 20% faster & convert 1 Condition into a Boon per ally.
 
+Compared to the below it’s not that useful. Its unique effect isn’t strong enough to warrant choosing it, especially since there are already skills that cleanse Conditions. Turning them into Boons is nice but not worth a Trait for. Probably a lot more useful in PvP.
+
 Writ of Persistence
 Symbols are bigger (😉), last 2s longer (😜) & heal allies.
 
+Turns Symbols into a healing & Booning bastion. Bigger area means there’s more leeway and it lasting longer means more healing & more Boons being given, perfect for support healers.
+
 Force of Will
 Gain Vitality. +1% Outgoing Healing per 100 Vitality.
-Virtues - All Virtues
+
+Little bit of tankiness & a little bit of extra healing. Does so via stats so it’s not as interesting as the other option.
+Virtues - All Virtues, Generalist
 
 Inspired Virtue
 Virtues grant PBAoE Boons when activated. +1% Strike Damage per Boon on you.
@@ -2150,39 +2243,62 @@ Justice: 3 x Might.
 Resolve: Regen.
 Courage: Protection.
 
+Each Boon fits into their respective Virtue, offensive, healing & defensive. Added damage buff is also very handy. A lot more powerful than the Ele version which is neither a minor trait (doesn’t have to be chosen) nor gives an additional effect, just the damage.
+
 Unscathed Contender
 +7% Strike Damage w/ Aegis. +7% Strike Damage while >= 90% HP.
+
+Used to only give +20% w/ Aegis and nothing without it. While it’s been normalised, it’s still pretty feast or famine especially w/ how rare Aegis is. Still it does reward not being hit by things, though there are a lot of random bits of damage flying about, in the open world at least. Could even be changed from Aegis to full health, lower the value if needed.
 
 Resolute Subconscious
 Gain Resolution & Aegis when Disabled. 30s ICD.
 
+Defensive option, helps survive being CC’d.
+
 Master of Consecrations
 Consecrations last 2s longer & recharge 20% faster.
+
+Utility / Condition option. Since it increases the duration of Consecrations, it increases the duration of Purging Flames which is a big portion of Condition builds’ damage. An extra 2 pulses is huge. 
 
 Virtue of Resolution
 Gain Resolution when activating a Virtue. Resolution you grant lasts 25% longer.
 
+An extra 3s of Resolution per Virtue, which all have pretty big CDs. Resolution is somewhat uncommon & the extra duration helps. Synergises w/ the Radiance tree & its Resolution traits & other Guardians w/ specced into that tree.
+
 Inspiring Virtue
 +10% Strike Damage for 6s after activating a Virtue.
+
+Turns the Virtues into a damage cooldown. Adds a choice between saving the heal / block for their original use or to risk it on damage (fire active should be used during burst windows already).
 
 Absolute Resolve
 Activating Virtue of Resolve PBAoE cleanses 2 Conditions. Passive healing from the Virtue is 25% stronger.
 
+Healer option as it improves the healing virtue which can be spread to others in the next choice. Extra Condition cleanse is also pretty nice to have.
+
 Glacial Heart
 Mighty Blow becomes Glacial Blow, dealing more damage, scaling better & Chilling enemies. (Non-crit) Damage & Chill enemies you Disable.
+
+The leftover choice. Weird how there’s no Condition Damage option in this group, it ends up being this one by default. Should probably change Inspiring Virtue to be Condition Damage too. Trait itself is decent, upgrading Hammer’s specific skill rather than giving the usual -20% CDR. The Disable portion also technically upgrades the other Hammer non-auto skills too. Overall it’s a great weapon trait.
 
 Power of the Virtuous
 Gain Condition Damage based on 13% Vitality. Virtues recharge 15% faster.
 
+Forced Condition Damage trait which is weird. Virtues recharging faster is probably the most you’ll get for a Power build. More Virtues to use = more cooldowns for damage (especially if taking Inspiring Virtue).
+
 Permeating Wrath
 Passive of Virtue of Justice now triggers every 3 attacks from 5 & Burns in an AoE.
+
+Offensive option. Burns more often & turns it into an AoE making it useful in those situations too. Works for both DPS builds, though mostly the Condition one since that actually scales the Burn damage & duration.
 
 Battle Presence
 Nearby allies gain the passive effect of Virtue of Resolve.
 
+Healer option. Add passive healing to the party. Pretty simple but does allow you to keep it on cooldown for longer since the burst healing should be needed less often now.
+
 Indomitable Courage
 Active of Virtue of Courage breaks stun & grants Stability to allies. Passive down from 40s to 30s recharge.
 
+Defensive option (aka PvP). Builds upon the defensive Virtue & helps survive more often.
 
 Dragonhunter Combat
 
