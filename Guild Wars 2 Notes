@@ -2186,7 +2186,7 @@ Since a tank role doesn’t really exist, it’s not that useful since it’s ju
 Monk’s Focus
 Meditation skills heal self, grant Fury to allies & recharge 20% faster.
 
-Little bit of extra Fury & self sustain. Not enough Fury to build around it though, more like an added bonus when using those skills. Overall, not that useful in PvE due to no tanks.
+Little bit of extra Fury & self sustain. Not enough Fury to build around it though, more like an added bonus when using those skills. Overall, not that useful in PvE due to no tanks meaning less reliant on self heals.
 
 Tenacious Defense
 Whenever an Aegis you grant is consumed, reduce recharge of Virtue of Courage by 1s.
@@ -2224,7 +2224,7 @@ Extra healing; gives you a choice to save your dodges for survivability or use i
 Honorable Staff
 Gain Concentration, doubled w/ Staff. Staff skills recharge 20% faster.
 
-If using a Staff, take it. Even then it’s just a stat boost so it’s not that useful compared to unique buffs / healing like the other options.
+It’s just a stat boost so it’s not that useful compared to unique buffs / healing like the other options even w/ a Staff.
 
 Pure of Heart
 Aegis that you apply heal when consumed.
@@ -2244,7 +2244,7 @@ Additive w/ Vigor (+65% total). Extra dodging to synergise the other dodge relat
 Pure of Voice
 Shout skills recharge 20% faster & convert 1 Condition into a Boon per ally.
 
-Compared to the below it’s not that useful. Its unique effect isn’t strong enough to warrant choosing it, especially since there are already skills that cleanse Conditions. Turning them into Boons is nice but not worth a Trait for. Probably a lot more useful in PvP.
+Compared to the choices below it’s not that useful. Its unique effect isn’t strong enough to warrant choosing it, especially since there are already skills that cleanse Conditions. Turning them into Boons is nice but not worth a Trait for. Probably a lot more useful in PvP.
 
 Writ of Persistence
 Symbols are bigger (😉), last 2s longer (😜) & heal allies.
@@ -2321,12 +2321,244 @@ Active of Virtue of Courage breaks stun & grants Stability to allies. Passive do
 Defensive option (aka PvP). Builds upon the defensive Virtue & helps survive more often.
 
 Dragonhunter Combat
-
+More offensive than base Guardian.
+Gains access to Longbow, allowing new skills which are long range & offence oriented.
+Virtue actives have been changed to have a more physical effect rather than be a buff but still serve their respective purposes (damage, healing or defence).
+Gains access to Trap skills, damaging AoEs that can be used to zone.
+Gains access to the Dragonhunter traitline. This uses up 1 traitline and is unique from other Elite specialisations (they all use the 3rd tree slot).
 Dragonhunter Abilities
+Virtues
+
+Spear of Justice -> Hunter’s Verdict
+Passive: the same as Virtue of Justice.
+Active: Throw a piercing, unblockable spear to tether to enemies. Tethered enemies are Revealed (can’t stealth), Burned & Crippled. While tethered, can activate Hunter’s Verdict to pull enemies in & break the tether (separate CD). Does less damage than Virtue of Justice if all buffed attacks land on the same target.
+
+Does less damage than the base version if everyone w/ the buff hits the same target, but it does much more AoE damage & also has utility with Crippled, Revealed & the pull. Also has a bunch of traits which interact w/ the tether, making it do more damage in the long run. It does have a cast time & is targeted so it can cause some issues if you’re trying to aim it at something behind you while moving. Piercing ranged attack makes it feel good to use though, which is something Guardian’s lack. Pull is helpful but it has a 40s CD which doesn’t show in the UI if you don’t have anyone tethered so it’s a little difficult to keep track of.
+
+Wings of Resolve
+Passive: the same as Virtue of Resolve.
+Active: Combo Leap to an area, healing allies. Also removes Immobilize & cleanses 2 Conditions. Heal is much stronger than Virtue of Resolve but has a small cast time & heal radius is smaller.
+
+Pretty much a straight up upgrade from the base version. There is a 1s cast time so you need to pre-emptively use it if it’s for the healing but it gives you an option to use it as a gap closer. Also gets rid of Immobilized making it a pseudo mobility skill too. The extra mobility goes a long way on the somewhat immobile class. Smaller radius generally doesn’t matter as everyone’s stacked anyway.
+
+Shield of Courage
+Passive: the same as Virtue of Courage.
+Active: Grant Aegis in a cone in front of you & also Block attacks in that same cone. Vulnerable to attacks from the side & back. Aegis granting area is a lot smaller than Virtue of Courage.
+
+Also an upgrade from the base version. Smaller radius doesn’t matter again because everyone’s usually stacked & the side / back not blocking doesn’t matter since the base version doesn’t have 3s of frontal block anyway. Feels great to use if timed correctly to completely mitigate mechanics.
+
+Longbow
+
+Puncture Shot
+Long range piercing (20%) combo Projectile. If it hits more than 1, Cripple all enemies hit.
+
+Used to only bounce to 1 additional target behind the main target, making it awful in AoE situations. Piercing makes it a lot more forgiving in those cases. Otherwise it’s a decent filler attack w/ a little bit of soft CC in some cases. It does slow your movement either like other games so that feels good too.
+
+True Shot
+Long range piercing combo Projectile. Short cast time for big damage on a low CD.
+
+Purely a damage skill. Has a little cast time which takes getting used to in an action combat game. Cooldown is pretty low at 4s so it’s like a pseudo filler damage skill. Same notes about piercing being good. Would be perfect if it had a cast time but you’re able to move slowly during it, would fit the action combat a lot more.
+
+Deflecting Shot
+Slow-ish moving piercing combo Projectile, damages, Blinds, Knockbacks & Blocks missiles.
+
+Less damage than True Shot but more than Puncture Shot. Has a lot of additional effects making it versatile. Can use it for CC or defensive projectile blocking or just use it on cooldown for damage. Projectile blocking hitbox is a little small and it’s moving so it takes some getting used to compared to Shield of Courage or the ground targeted AoEs.
+
+Symbol of Energy
+Ground targeted Light Combo field that damages & Burns enemies while pulsing Vigor for allies.
+
+Longbow’s Symbol. Same notes for Symbols apply here. The Boons that aren’t granted by the other weapons are: Aegis, Alacrity, Quickness, Resistance, Stability & Vigor. Aegis, Resistance & Stability are powerful Boons but are more of an on-demand type of buff, which all the other Symbol Boons aren’t. Alacrity & Quickness are somewhat problematic so they got to be pretty hesitant in adding those Boons in. Firebrand has Quickness covered & Willbender technically has Alacrity covered, which pretty much just leaves Vigor as the default Boon. Vigor is utility leaning on defensive as more dodges = more active mitigation for the long range Longbow.
+
+Hunter’s Ward
+Ground targeted AoE after a channel. Pulse damage & Cripple before a final burst of damage & placing a Ward ring around enemies, preventing escape.
+
+What was once relegated to be a CC skill because of PvP w/ a whopping 40s CD and pitiful damage has now been changed to be a good damaging skill on a 20s CD in PvE. The Ward rings are technically CC but require the enemy to try and move out of them, which isn’t always the case especially against bosses. In general it’s a decent damaging AoE arrow rain skill.
+
+Traps
+
+Purification - Healing
+Weak self heal & place a trap. If triggered, burst heal & Regen while slightly damaging & Blinding enemies.
+
+Basically a delay heal since if you’re in melee range (which is most of the time), the trap will trigger which makes it effectively a PBAoE skill, at least in PvE (applies to all other Trap skills too). Definitely more of a PvP skill where the Blind is more useful. Still loses out in healing to Litany of Wrath like every other heal skill.
+
+Fragments of Faith - Utility
+Break stuns & place a trap. If triggered, damage & Cripple enemies while granting self Stability. Leaves behind fragments which grant Aegis if you don’t already have it.
+
+Defensive option. Decent stun break since it grants Stability & Aegis but it’s on a pretty big 45s CD. Only benefit over something like “Stand Your Ground!” is that it does damage and can, in theory, grant Aegis multiple times to yourself.
+
+Light’s Judgement - Utility
+Place a trap. If triggered, Daze enemies & grant self Swiftness. Pulse slight damage, Revealing & Vulnerability.
+
+CC / PvP option. Reveal isn’t useful in PvE & Vulnerability should already be covered by other players or even just by the Guardian with Symbolic Exposure trait. Daze & Swiftness helps catch out enemies or peel for yourself, making it versatile.
+
+
+
+Test of Faith - Utility
+Place a trap. If triggered, damage & Cripple enemies while granting self Protection. Further damage & Cripple to enemies trying to cross the area.
+
+Defensive option. Helps peel by both Crippling on activation and on crossing, doubling as a zoning tool. Less useful in PvE as the best defence is to kill everything.
+
+Procession of Blades - Utility
+Place a trap. If triggered, damage enemies & grant self Fury.
+
+Offensive option. Not much to say as it just damages & grants Fury. Does have a Whirling animation, could add a combo Whirl component for a bit more flavour.
+
+Dragon’s Maw - Elite
+Place a trap. If triggered, Pull enemies in, Slow (actions are slower) them & hold them in a Ward. Grant self Might.
+
+An actual offensive Elite for Guardian. Does good burst damage and keeps enemies held down so you can use a blender on them (Procession of Blades + Greatsword’s Whirling Wrath + a Symbol). Since Boons should be covered by others if you’re going DPS, this is pretty much the only option.
+
+Traits
+
+Virtuous Action
+Changes Virtues to the ones listed above. Gain access to Traps.
+
+Like the other initial Elite specialisation traits, adding it because it’s the 1st in the tree.
+
+Piercing Light
+Traps Slow enemies & recharge 20% faster.
+
+Slightly improves traps. Only take if you’re using Traps, obviously. It’s actually the offensive option of the 3 since more damaging Traps = more damage. Slow is inconsequential in PvE, more of a PvP thing.
+
+Dulled Senses
+Cripple enemies you Disable.
+
+PvP option as most enemies either die before Cripple gets any effect (once the Disable runs out) or are immune to Cripple / CC.
+
+Soaring Devastation
+Wings of Resolve deals some damage upon landing. Movespeed increased while it’s not on cooldown.
+
+Damage isn’t worth taking, especially since it requires you to both use the healing Virtue & go through the jumping animation. If the damage was higher or gave you a damage boost after using it, it could be more of a choice to either use for damage or save for healing / mobility. Movespeed increase is okay, but Swiftness is pretty much permanent these days.
+
+Defender’s Dogma
+Blocking causes Justice passive to reach max charge & reduces active cooldown of Spear of Justice by 3s. 1s ICD.
+
+Nothing to really play around as Blocks & Aegis are both pretty rare. It does technically increase damage by maxing out the charges for the passive & lowering the cooldown of the active for Justice. Maxing out the charges can range from 5 to 1 though, making it vary wildly in effectiveness depending on when you Block. Adding a separate proc so that it doesn’t overlap w/ the usual counter would normalise its effectiveness. Extra active Spears are always fun to have though.
+
+Hunter’s Determination
+Elite skills break stuns.
+
+Defensive against CC option. Compared to the damage option though it’s a little lacklustre. Lowest CD Elite is 30s, but offers no protection afterwards. The ones that do offer protection are more relevant in PvP, as are most anti-CC traits.
+
+Zealot’s Aggression
+Deal +10% Strike Damage against Crippled enemies. Justice’s passive Cripples.
+
+Offensive option. With all the Cripple from Justice’s active, Longbow & other players this is essentially just +10% damage. Less reliant on applying the debuff than compared to solo play, which makes it less interesting but hey, it’s more damage.
+
+Bulwark
+Shield of Courage gains increased radius & +2s duration.
+
+Defensive option. Makes the cone wider & lasts a little longer, but compared to the damage increase option it’s nowhere near worth it. If there was a part that also allowed more uses like CDR or an extra charge or something that interacted with Aegis, it would be a lot better. Definitely more useful in PvP, especially WvW.
+
+Pure of Sight
+Deal bonus Strike Damage based on distance. Min +5% when closer, Max +15% when far away.
+
+Another damage up trait. Max range isn’t all that useful in PvE due to how it’s usually best to group up in melee range for heals / Boons. It could use a better indicator as to when the max damage boost is achieved though; the tooltip is rather vague. Since there’s no playing around the range, it’s less interesting in PvE than in PvP.
+
+Hunter’s Fortification
+Remove Conditions when Blocking (1s ICD). Receive -10% Strike Damage when no Conditions are on you.
+
+Blocking / Defensive option. Like the previous Blocking option, there aren’t that many Blocks to proc its effect. The damage reduction is nice and is more achievable since it doesn’t require a Block but overall it’s more of a PvP option.
+
+Heavy Light
+Gain Stability when Disabling an enemy (1s ICD). Deal +15% Strike Damage to Disabled enemies. Deal +10% Strike Damage against Defiant (CC immune) enemies.
+
+CC / PvP option. Stability isn’t that needed in PvE, and when it is it’s usually needed on demand so CCing an immune enemy doesn’t work. The damage portions are pretty interesting though in that they encourage you to CC enemies before using your burst skills (which is already the normal but still). Damage doesn’t beat the next option though.
+
+Big Game Hunter
+Spear of Justice tether duration doubled. Hitting a tethered enemy inflicts Vulnerability and deals +20% Strike Damage.
+
+DPS option. Makes the Spear a very powerful damage cooldown. Damage increase is a lot more than the other option and burst phases are more important than a general damage increase. Changing the importance of a single skill & turning it into something to play around is great design. Also adds a lot more risk into using the pull as that breaks the tether.
 
 Firebrand Combat
-
+Replaces Virtues with Tomes which have their own weapon skills. Each skill has a page / charge cost which regenerates over time, up to 5 by default. Pages are shared across all 3 tomes.
+Passives are the same but are disabled for a period of time (~20s higher than base Guardian’s cooldown) when a Tome is equipped.
+Gains access to Axe, melee damage & CC.
+Gains access to Mantras which require preparing before being able to be used. Each charge is an AoE effect, either beneficial or detrimental. The final charge is more powerful but will put the skill on cooldown and require preparing again. For Firebrand’s, Mantras are automatically prepared while out of combat in PvE and not on cooldown.
+Gains access to the Firebrand traitline. This uses up 1 traitline and is unique from other Elite specialisations (they all use the 3rd tree slot).
 Firebrand Abilities
+Tomes
+Tome of Justice
+
+Chapter 1: Searing Spell
+Frontal cone for damage, Burning & Vulnerability. Costs 1 page, 0.5s CD.
+
+Tomes were recently-ish changed to have a charged resource rather than having their own costs. This prevents DPS builds from accessing the utility of other skills like cleanses or reflects.
+
+Due to the above change, it’s never worth it to use this skill since it has the same cost as the damaging skills below which do more damage. Unfortunately that’s the side effect of the change above. A change to make it used more is if it buffs 1 of the next skills used. Doesn’t necessarily have to be damage, could be longer duration non-damaging debuffs or wider AoE, something that makes it more usable in cases other than “all the damaging skills are on cooldown and I need something now”.
+
+Chapter 2: Igniting Burst
+PBAoE damage, Burning & Weakness. Costs 1 page, 8s CD.
+
+PBAoE damage (and Weakness). Not much else to be said, it’s strictly better than the above skill since Vulnerability is not in short supply.
+
+Chapter 3: Heated Rebuke
+Ground targeted AoE, damages & pulls enemies. Costs 1 page, 10s CD.
+
+CC skill. Useful if you need to gather enemies, otherwise not worth it since Firebrand is usually either Condition Damage or Healing, meaning the damage doesn’t scale that well.
+
+Chapter 4: Scorched Aftermath
+PBAoE Fire Combo field. Pulses damage, Burning & Bleeding. Costs 1 page, 15s CD.
+
+Big damage via direct damage & DoTs as well as a Fire field. Like the 2nd skill, there’s not much else to say as it’s like other Fire field skills and it’s strictly better than the 1st skill.
+
+Epilogue: Ashes of the Just
+PBAoE buff. Next 2 attacks Burn. Costs 1 page, 20s CD.
+
+Bunch of extra Burning. Doesn’t require enemies to be hit by an AoE so it’s slightly more versatile. Again, strictly better than the 1st skill.
+Tome of Resolve
+
+Chapter 1: Desert Bloom
+Frontal cone for healing. Costs 1 page, 0.5s CD.
+
+Unlike the 1st skill for Justice, this skill actually does something the other skills don’t: burst healing. This makes it actually usable for healers rather than having the other skills be strictly better versions of it.
+
+Chapter 2: Radiant Recovery
+PBAoE cleanse. Heal target per Condition cleansed. Costs 1 page, 4s CD.
+
+Used if cleansing is needed. Extra healing is handy due to the damaging Conditions. Low-ish CD means it can be used again in the really bad Condition cases (skill 5 also cleanses, we’re talking 10+ Conditions).
+
+Chapter 3: Azure Sun
+Ground targeted AoE Vigor, Regen & Swiftness. Costs 1 page, 8s CD.
+
+Since Swiftness is abundant and Regen is just another form of a HoT, this skill’s unique property is the Vigor. Whether or not that’s enough for this skill to be used depends on the situation, but more likely than not it’s a no.
+
+Chapter 4: Shining River
+PBAoE Water Combo field. Pulses healing & Swiftness. Costs 2 pages, 10s CD.
+
+Each pulse is actually weaker than skill 1 and overall has a lower healing ratio than 2 x skill 1 (2 x due to costing 2 pages). Could be useful for the Combo field but otherwise needs something else to warrant costing 2 pages.
+
+Epilogue: Eternal Oasis
+PBAoE buff. +33% Healing Effectiveness on target. Convert 5 Conditions into Boons. Costs 2 pages, 20s CD.
+
+Huge healing buff & Condition cleansing. Definitely warrants the CD & page cost. Obviously use it before other healing skills for max value, especially if it gets rid of the Poison healing debuff.
+Tome of Courage
+
+Chapter 1: Unflinching Charge
+Frontal cone for Protection & Swiftness. Costs 1 page, 0.5s CD.
+
+The base duration of the Protection is 2s, so if you really need it then it’s an option but compared to the other skills you’re better off healing the damage.
+
+Chapter 2: Daring Challenge
+PBAoE damage, Taunt (Condition that forces afflicted to attack applier) & Resolution. Costs 1 page, 4s CD.
+
+Taunt is definitely more of a PvP Condition as it doesn’t work on CC immune enemies like bosses. Resolution isn’t that helpful either since the crit trait isn’t used by Condition builds generally.
+
+Chapter 3: Valiant Bulwark
+Ground targeted AoE that reflects missiles. Costs 2 pages, 15s CD.
+
+Reflecting missiles could be handy but it does cost 2 pages which would eat up a lot of DPS or healing. Definitely a PvP skill.
+
+Chapter 4: Stalwart Stand
+Breaks stun. PBAoE Light combo field that pulses Resistance. Costs 2 pages, 20s CD.
+
+Extra stun break which could be used in emergencies but that’s pretty much it (for PvE). Doesn’t protect you further from CC and you’re better off cleansing the Conditions rather than reducing its effectiveness. It’s also worth noting that it requires opening the Tome & then pressing this skill, which is an additional key needed to access an important skill such as a stun break.
+
+Epilogue: Unbroken Lines
+PBAoE buff. 300 Toughness, Protection, Stability & Aegis. Costs 2 pages, 25s CD.
+
+Very powerful defensive buff but it does cost 2 pages which would eat up DPS or healing. Like the other defensive skills, it would get more use in PvP than in PvE.
+
 
 Willbender
 Did not play Willbender enough, so in the interest of time I will be skipping it.
