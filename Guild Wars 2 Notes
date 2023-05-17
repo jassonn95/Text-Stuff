@@ -2348,6 +2348,7 @@ Active: Grant Aegis in a cone in front of you & also Block attacks in that same 
 Also an upgrade from the base version. Smaller radius doesn’t matter again because everyone’s usually stacked & the side / back not blocking doesn’t matter since the base version doesn’t have 3s of frontal block anyway. Feels great to use if timed correctly to completely mitigate mechanics.
 
 Longbow
+Long range AoE damage & CC.
 
 Puncture Shot
 Long range piercing (20%) combo Projectile. If it hits more than 1, Cripple all enemies hit.
@@ -2474,7 +2475,7 @@ Firebrand Combat
 Replaces Virtues with Tomes which have their own weapon skills. Each skill has a page / charge cost which regenerates over time, up to 5 by default. Pages are shared across all 3 tomes.
 Passives are the same but are disabled for a period of time (~20s higher than base Guardian’s cooldown) when a Tome is equipped.
 Gains access to Axe, melee damage & CC.
-Gains access to Mantras which require preparing before being able to be used. Each charge is an AoE effect, either beneficial or detrimental. The final charge is more powerful but will put the skill on cooldown and require preparing again. For Firebrand’s, Mantras are automatically prepared while out of combat in PvE and not on cooldown.
+Gains access to Mantras which require preparing before being able to be used. Each charge is an AoE effect, either beneficial or detrimental. The final charge is more powerful but will put the skill on cooldown and require preparing again. For Firebrand’s, Mantras are automatically prepared while out of combat in PvE and not on cooldown due to having no special effect when their preparations are done like Mesmers.
 Gains access to the Firebrand traitline. This uses up 1 traitline and is unique from other Elite specialisations (they all use the 3rd tree slot).
 Firebrand Abilities
 Tomes
@@ -2558,6 +2559,54 @@ Epilogue: Unbroken Lines
 PBAoE buff. 300 Toughness, Protection, Stability & Aegis. Costs 2 pages, 25s CD.
 
 Very powerful defensive buff but it does cost 2 pages which would eat up DPS or healing. Like the other defensive skills, it would get more use in PvP than in PvE.
+
+Axe
+Melee damage & control.
+
+
+Core Cleave -> Bleeding Edge -> Searing Slash
+Frontal cleave, damages & Bleeds.
+Frontal cleave, same damage & Bleed.
+Frontal cleave, most damage & Burns.
+
+Feel like the 2nd attack could have a slightly different effect rather than being exactly the same as the 1st attack. Maybe sacrificing 1 of the Bleed stacks for a Burning stack which is strictly better for Guardian’s w/ the Burning traits. Otherwise it’s a typical auto chain for a Condition based weapon (Axe itself isn’t strictly Condition based, but Firebrand is).
+
+Symbol of Vengeance
+Frontal Light Combo field that pulses damage, Bleeding, Cripple & Fury for allies.
+
+First of all, the Symbol looks badass. Other than that it’s the usual Symbol w/ pulsing beneficial effects for allies & detrimental effects for enemies. Fury being chosen is fine as there weren't any other offensive Boons you could add other than Quickness / Alacrity, which you don’t really want on a weapon since it will cause balance issues w/ a DPS being able to give such powerful Boons to a group without really a drawback. Bleeding could be better by being a Burn but other than that it’s fine.
+
+Blazing Edge
+Frontal cone Pull (Darius E) that damages & Burns.
+
+Utility skill but the Burn is actually respectable. This means you either have to use it for the Burn or keep it for the Pull / CC. Fortunately for bosses you can use it on cooldown most of the time as the CC requirement is usually covered by others or the CC doesn’t matter since they’re immune.
+
+Mantras
+All of the “Mantra of X” skills are 2.25s channels which give access to other 2 skills. No other effects are there for Firebrands. 1 will refer to middle skill while 2 refers to the last skill. All of the following Mantras are PBAoE w/ a frontal cone.
+
+Mantra of Solace -> Restoring Reprieve -> Rejuvenating Respite - Healing
+Heals + grants Protection & Resolution.
+Bigger heal, longer lasting Boons & also grants Aegis.
+
+Mantra of Flame -> Flame Rush -> Flame Surge - Utility
+Damages & Burns.
+Triples Burning stacks.
+
+Mantra of Lore -> Opening Passage -> Clarified Conclusion - Utility
+Grants Regen & Cleanses 2 Conditions.
+Regen lasts longer & converts 5 Conditions into Boons instead of cleansing.
+
+Mantra of Truth -> Echo of Truth -> Voice of Truth - Utility
+Damages, Cripples, Blinds & applies Weakness.
+No longer Cripples. Other 2 Conditions last longer. Also applies Vulnerability & Immobilize.
+
+Mantra of Potence -> Potent Haste -> Overwhelming Celerity - Utility
+Grants Might & Quickness.
+Grants more Might & both Boons last longer.
+
+Mantra of Liberation -> Portent of Freedom -> Unhindered Delivery - Elite
+Breaks stuns + grants Stability & Resolution.
+Grants 5 x Stability stacks. Both Boons last longer & also grants Swiftness.
 
 
 Willbender
