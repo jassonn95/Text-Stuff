@@ -2716,6 +2716,19 @@ Ground-targeted blink w/ AoE damage & spawning Willbender Flames as the ring of 
 
 It does have a little cast time so that needs to be something you’re aware of compared to the other non-Firebrand Courage skills. This means you need to use it earlier if you want to Block something on demand. That said it sacrifices some defensiveness for mobility in the form of a blink, damage & sustained tankiness via Aegis & Stability. This is similar to the Dragonhunter Courage skill in that it’s a longer lasting tankiness skill but it does require constant attacking as it takes 5 attacks to trigger the passives.
 
+Off-Hand Sword
+Short ranged & versatile (offensive & mobility).
+
+Executioner’s Calling
+Frontal cleave for damage & Vulnerability. 2nd frontal cleave for more damage, increased if hit by 1st hit.
+
+The damaging skill; does melee damage. The 2nd strike is pretty much immediately after the 1st, so the damage conditional only misses if you somehow manage to aim the 1st strike incorrectly or use it while another player is dodging in PvP. Otherwise it’s a pretty standard damaging melee skill.
+
+Advancing Strike
+Dash forward then blink & combo Whirl to enemy for cleave damage, Slow & Immobilize.
+
+The mobility skill, but it’s janky since the blink only happens if you’re within 100 range, which is practically melee. That means the Whirl, damage, Slow & Immobilize won’t happen. They should happen anyway even if you don’t reach a target for consistency’s sake.
+
 
 Necromancer
 Necromancer Combat
