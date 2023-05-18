@@ -2835,6 +2835,38 @@ Tied highest HP in the game but lowest armour due to being a caster. Combined w/
 Has access to Poison & Dark Combo fields, fitting w/ the Necro theme as well.
 Necros have the unique mechanic of Corruption, converting Boons into Conditions. This is mostly a PvP thing as most mobs don’t have Boons the majority of the time.
 Necromancer Abilities
+Death Shroud
+
+Death Shroud
+Replace current weapon skills w/ the below. Also prevents Healing, Utility & Elite skills from being used (if Minions are summoned they stay summoned. Signet passives are gone unless otherwise stated). Turn Life Force into the current HP bar & take 33% reduced damage.
+
+There’s also an aquatic version but like the other Professions, will be ignoring them.
+
+Life Blast
+Ranged piercing damage.
+
+Simple filler. Piercing damage is always nice so it doesn’t get completely screwed over by targeting shenanigans in AoE situations.
+
+Dark Path -> Dark Pursuit
+Ranged targeted (non-Combo) projectile. AoE damage, Bleeding & Chilled that’s Unblockable. Allows use of Dark Pursuit on the main target, blinking to the target & resetting the CD of Dark Path.
+
+Mobility skill as the damage & Bleeding isn’t that high. It being Unblockable helps guarantee it landing (can still be dodged) and hence consistent. Complete cooldown refund is nice and isn’t too powerful as it requires a target: great for chasing down but not as good for peeling.
+
+Doom
+Single target ranged Fear.
+
+Single target CC, not much else to say.
+
+Life Transfer
+PBAoE channel to damage & drain Life Force.
+
+Big damage & increases Life Force which increases how long you can stay in Shroud / gives you more “HP”. Trade off is that it’s short ranged & requires a channel, leaving you vulnerable. Can be layered w/ CC skills for a nice combo, especially since 3 of the other 4 skills in Shroud have some sort of CC on them.
+
+Tainted Shackles
+PBAoE damage, Torment & Reveal. Immobilize if enemies stay within range.
+
+Morgana R basically, except there’s no damage on the chains ending so it’s just CC. Would be a lot more satisfying if it did some damage or applied damaging Conditions at the end. As mentioned before it combos well with Life Transfer so they’re Immobilized and unable to run away from the drain.
+
 
 Reaper Combat
 
