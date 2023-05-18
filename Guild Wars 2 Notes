@@ -2729,6 +2729,38 @@ Dash forward then blink & combo Whirl to enemy for cleave damage, Slow & Immobil
 
 The mobility skill, but it’s janky since the blink only happens if you’re within 100 range, which is practically melee. That means the Whirl, damage, Slow & Immobilize won’t happen. They should happen anyway even if you don’t reach a target for consistency’s sake.
 
+Physical
+
+Reversal of Fortune
+Negate (not Block) the next attack within 1.5s, healing instead. If nothing is negated, heal for a lesser amount. 2 charges.
+
+Similar to Shelter but with some key differences. This skill doesn’t actually Block, so it doesn’t interact with Block traits. This skill has 2 charges, making it more versatile. Finally it only affects the next attack, meaning if you’re being bombarded it won’t help much. It trades the safety of a channelled Block for versatility, which is much more useful in PvP and certain scenarios in PvE.
+
+Flash Combo -> Repose
+Blink to target & damage multiple times. Gain access to Repose, allowing you to blink back to your starting position for minor PBAoE damage & combo Blast.
+
+The damage itself is okay, a bit lower than other damaging skills due to the power budget going into both a blink & a return action. While it could be handy in niche cases in PvE, it’s again a much better skill in PvP. Blast is a bit janky if you use it at range though as there wouldn’t be any Combo fields behind you but should be fine if you’re on top of the enemy but that raises the question as to why you’re not using a better damaging Utility if you’re just going to use this for the damage.
+
+Whirling Light
+Combo Whirl multiple times for damage, Weakness & Burning. Has an animation but can move freely during it.
+
+The actual damaging utility. Has 4 Whirls in it so it can do even more damage if used within a damaging field like Fire. Weakness is again more of a PvP Condition but the damage & Burning has uses in PvE. Channelling for 1.25s means you’re locked out of other skills but you can move freely making it feel less restrictive than other attacks.
+
+Heel Crack
+Damage & Stun target.
+
+It’s just CC w/ some damage; it doesn’t even have charges. Only good thing is that it’s a relatively low CD, which makes it more of a PvP skill again since CC windows in PvE don’t come up that often where you’d be better off w/ the higher CD Sanctuary or even Rolling Light since it breaks more CC in PvE for some reason.
+
+Rolling Light -> Quick Retribution
+Break stun & Evade backwards, slightly damaging + Blinding enemies & gaining Swiftness. Allows use of Quick Retribution: short Combo Leap damage & Daze target.
+
+Decent stun break as it comes with an Evade & Blind to avoid being attacked / CC’d again. The short Leap w/ the Daze actually CCs for more than Heel Crack in PvE which is funny considering it has another ability attached to it. The most offensive & the most mobile of the stun breaks, giving it a lot more value in PvP.
+
+Heaven’s Palm
+Blink to target for PBAoE damage. Knocks down the target & knocks back other enemies.
+
+Very low cooldown for an Elite at 20s. Has a decent range too so it can even double up as a gap closer. Damage isn’t that bad either. Damage, mobility + CC fit the theme of Willbender well. Being able to save it for CC or mobility (less likely w/ the Virtues) or use it for damage makes it very versatile.
+
 
 Necromancer
 Necromancer Combat
