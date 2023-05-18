@@ -2806,8 +2806,7 @@ Defensive option. Only affects the Courage passive as being immune to soft CC is
 Lethal Tempo
 Activating a Virtue or triggering its passive gives a +2% All Damage stack, up to +10%. Gaining stacks refreshes the duration of all stacks. Duration: 6s.
 
-
-
+Extra damage for cycling through your Virtues + spacing them out. This lines up with the Willbender Flames part where the previous flames disappear if you use another Virtue. With all 4 Virtues (2 x Resolve charges) + Alacrity, you should be able to constantly keep this up if you’re always attacking. This does cause issues w/ downtime though which makes practical effectiveness vary depending on the fight. This can be resolved by increasing the duration or gaining stacks on mobility skills.
 
 Phoenix Protocol
 Gain Alacrity & Regen when Resolve’s passive triggers, but no longer heal.
