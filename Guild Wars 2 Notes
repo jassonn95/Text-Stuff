@@ -2588,25 +2588,37 @@ Mantra of Solace -> Restoring Reprieve -> Rejuvenating Respite - Healing
 Heals + grants Protection & Resolution.
 Bigger heal, longer lasting Boons & also grants Aegis.
 
+Sacrifices personal healing for group healing & defensive Boons. Group healing is stronger than the other party heal skill “Receive the Light!” if all charges are used but requires the channel time before it’s usable. Previously every charge gave Aegis which if timed correctly was incredibly powerful compared to damage reduction. Fits the philosophy of powerful effects at the cost of a long channel. Final charge can be used in an emergency but there’s a choice to be made as not only is there the channel you need to worry about but also the 25s CD, locking you out of all healing & Boons as opposed to keeping it charged w/ the weaker heals.
+
 Mantra of Flame -> Flame Rush -> Flame Surge - Utility
 Damages & Burns.
-Triples Burning stacks.
+3 x the Burning stacks.
+
+Same notes about being a Mantra apply. That said, the only effect this skill has is damage so there’s nothing stopping you from unloading all charges & then preparing the Mantra again (which is the optimal way for DPS), whereas the heal skill isn’t always needed but when it is, it‘s needed.
 
 Mantra of Lore -> Opening Passage -> Clarified Conclusion - Utility
 Grants Regen & Cleanses 2 Conditions.
 Regen lasts longer & converts 5 Conditions into Boons instead of cleansing.
 
+Same notes about being a Mantra apply. With max Boon Duration, this skill can almost have a 100% uptime for Regen (needed for some builds) without eating all charges. Otherwise it’s a little bit of extra healing & some cleansing. Very few cases will justify needing more than 4 Conditions to be cleansed outside of PvP so the last charge + preparing the Mantra is unlikely for this skill, but it is an option.
+
 Mantra of Truth -> Echo of Truth -> Voice of Truth - Utility
 Damages, Cripples, Blinds & applies Weakness.
 No longer Cripples. Other 2 Conditions last longer. Also applies Vulnerability & Immobilize.
+
+Same notes about being a Mantra apply. The Conditions applied are definitely more PvP oriented as they don’t break CC bars fast enough in PvE. In PvP there’s more downtime for preparing Mantras so there’s less downside to using the final charge.
 
 Mantra of Potence -> Potent Haste -> Overwhelming Celerity - Utility
 Grants Might & Quickness.
 Grants more Might & both Boons last longer.
 
+Same notes about being a Mantra apply. Like the DPS Mantra, there’s nothing stopping you from using all charges other than overcapping Quickness, which won’t happen if you’re the only 1 in your subgroup providing Quickness. So this ends up being a pump & dump skill which gets prepared again during filler downtime.
+
 Mantra of Liberation -> Portent of Freedom -> Unhindered Delivery - Elite
 Breaks stuns + grants Stability & Resolution.
 Grants 5 x Stability stacks. Both Boons last longer & also grants Swiftness.
+
+Very powerful party utility as it breaks stun for everyone in your subgroup + prevents further CC for a bit. Final charge is very rarely needed in PvE as you’re unlikely going to need to block more than 1 CC in a short time frame; most likely it’ll be because you haven’t gained another charge yet from the last use since it’s 25s per charge.
 
 
 Willbender
