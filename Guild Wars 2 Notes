@@ -2761,6 +2761,68 @@ Blink to target for PBAoE damage. Knocks down the target & knocks back other ene
 
 Very low cooldown for an Elite at 20s. Has a decent range too so it can even double up as a gap closer. Damage isn’t that bad either. Damage, mobility + CC fit the theme of Willbender well. Being able to save it for CC or mobility (less likely w/ the Virtues) or use it for damage makes it very versatile.
 
+Traits
+
+Willbender Training
+Changes Virtues into movement skills. Gain access to Physical skills.
+
+As always, it’s the 1st trait.
+
+Searing Pact
+Gain Condition Damage. Willbender Flames now inflict Burning on enemies struck.
+
+Condition Damage choice. As mentioned before, the flames should have Burning basekit as it’s weird for fire not to Burn & this Trait could’ve made the Burning last longer or add more stacks. Other than that, choose if building for DoTs. All 3 choices affect the same thing but for different builds so the choice is pretty cut and dry.
+
+Power for Power
+Gain Power. Willbender Flames deal double damage.
+
+Power Damage choice. Same notes above about this group of Traits affecting the same thing. Only affects the damage of the flames meaning it’s less reliable than the Condition option in PvP (since players are more likely to walk out of it than mobs).
+
+Conceited Curate
+Gain Healing Power. Willbender Flames heal you when they strike an enemy.
+
+Sustain choice. Same notes above about this group of Traits affecting the same thing. Also the same notes about players being able to move out of it, negating its effect.
+
+Righteous Sprint
++25% Movespeed. Gain Swiftness when using a Virtue.
+
+More mobility for Willbender, both passive & active. Note that movespeed boosts don’t stack and only take the highest value, in this case being the 33% from Swiftness.
+
+Restorative Virtues
+Triggering Virtue passives reduce active weapon CDs by 0.25s. Gain Alacrity when using Flowing Resolve.
+
+Cooldown option. All choices affect Virtue passives (3rd one only Courage) + an active, so again they all affect similar things but w/ their own direction. The choice this time is less cut & dry as this option actually beats out the below in damage since in group content you already have Might & Fury covered but the general idea stays the same. Active portion is less useful since you probably want to save it for the healing / mobility.
+
+Holy Reckoning
+Triggered Virtue passives additionally grants Might. Gain Fury when using Rushing Justice.
+
+Offensive option, except in group content where it becomes redundant. This makes it more useful in PvP where you’re not going to have a dedicated Boon support to handle Boons. If needed, this could easily be changed to be the offensive option by changing one of the Boons into a unique self damage buff.
+
+Vanguard Tactics
+Triggered Courage passive additionally grants Resistance. Gain Resolution & Protection when shadow-stepping (blinking).
+
+Defensive option. Only affects the Courage passive as being immune to soft CC is pretty powerful. The trade off is that the active Boon effect is granted by any blinks, not just from Crashing Courage which makes it more readily available through weapon skills & other utility skills and hence versatile.
+
+Lethal Tempo
+Activating a Virtue or triggering its passive gives a +2% All Damage stack, up to +10%. Gaining stacks refreshes the duration of all stacks. Duration: 6s.
+
+
+
+
+Phoenix Protocol
+Gain Alacrity & Regen when Resolve’s passive triggers, but no longer heal.
+
+The utility option. Passive triggers can be spread to allies via the Battle Presence trait. Formerly also increased Resolve’s passive duration by 2s but was removed in PvE only. Due to the fact that it requires the passive to proc which is based on number of attacks (no matter how strong or weak), its effectiveness differs with weapons & how often their damage procs. If it’s a single big hit, you’ll get less effect out of it than a bunch of weaker hits, despite being in combat for the same amount of time. One way to normalise this is to make it so it pulses on Flowing Resolve’s activation rather than require passive procs. If they want to keep Willbender as another selfish spec, the above suggestion can be changed to pulse to self only instead of group, removing the interaction with Battle Presence.
+
+Tyrant’s Momentum
+Lethal Tempo grants +3% All Damage per stack (max 15%), but only lasts for 4s. Justice passive lasts 2s longer.
+
+The damage option. Overall a damage increase as damage is mostly through burst via cooldowns rather than a constant DPS in PvE. Duration reduction is slightly offset by Justice lasting longer, allowing for more Lethal Tempo procs to be stacked.
+
+Deathless Courage
+Killing an enemy w/ Courage’s passive increases its duration by 2s, up to a max of 4s extra (2 procs). You cannot be downed w/ Courage’s passive. Courage no longer grants Aegis & initial duration is now 4s instead of 6s.
+
+The defensive option. Turns Crashing Courage into a much more powerful defensive skill if you can get the procs. Pretty bad in PvE unless there are adds running around, but it can still be used as a pseudo immunity at the cost of damage. It requires killing & not downing which also makes its effectiveness in PvP questionable, as players are downed first before being killed. But like in PvE, it can be used as a pseudo immunity (still need to be healed up).
 
 Necromancer
 Necromancer Combat
