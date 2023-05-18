@@ -2620,9 +2620,75 @@ Grants 5 x Stability stacks. Both Boons last longer & also grants Swiftness.
 
 Very powerful party utility as it breaks stun for everyone in your subgroup + prevents further CC for a bit. Final charge is very rarely needed in PvE as you’re unlikely going to need to block more than 1 CC in a short time frame; most likely it’ll be because you haven’t gained another charge yet from the last use since it’s 25s per charge.
 
+Traits
 
-Willbender
-Did not play Willbender enough, so in the interest of time I will be skipping it.
+Purity of Word
+Converts Virtues into Tomes. Gain access to Mantras.
+
+Like always, it’s the 1st trait in the tree.
+
+Unrelenting Criticism
+Axe skills inflict additional Bleeding. Symbol of Vengeance Dazes on initial strike.
+
+Selfish DPS option. Bleeding isn’t as great since most Guardian traits are Burning as mentioned before but still scales with Condition stats. Little bit of CC on a low-ish CD is also nice to have.
+
+Liberator’s Vow
+Grant Quickness when using your heal skill. 7s ICD.
+
+Utility / Group DPS option. Works well with the healing Mantra as a charge counts as using your healing skill, otherwise the next lowest healing CD is 25s. Makes the final charge of the healing Mantra even worse to use since it also puts the skill on a 25s CD.
+
+Archivist of Whispers
+Gain 3 additional max pages, up to 8.
+
+Versatile option (DPS, Healing or Tankiness for the Tomes). This probably could use an additional effect of reducing Tome skill cooldowns since right now the extra pages don’t really do much other than allow you to dip into the Tomes you aren’t building towards for some utility (Pull, cleansing, tankiness respectively).
+
+Swift Scholar
+Equipping a Tome grants Quickness. 8s ICD + will not grant it if you have the Dormant debuff (passive disabled for recently equipping a Tome). Every 3 Tome skills grants 1 page, resetting counter when exiting a Tome.
+
+Bit of extra Quickness for you to use the Tome skills quickly. ICD + Dormant clause make it a little restrictive but the small boost is nice for the bigger Tome CDs. Page refund encourages 3 skill bursts when going into Tome, allowing for more Tome skills to be used in the long run. Keeping track of how many skills were used adds an extra layer to the rotation and is the more involved & interesting part of this Trait.
+
+Weighty Terms
+Final Mantra charges Slow enemies. Mantra charges recover 20% faster.
+
+More Mantra uses = more Boons / Conditions. With this Trait, you can maintain Quickness a lot easier which frees up more gear Stats for damage / healing and the Elite slot for something else like the party stun break. Final charge Slowing is more useful in PvP, not so much in PvE.
+
+Stalwart Speed
+Granting Aegis or Stability grants Quickness. 7s ICD.
+
+Aegis & Stability are pretty rare and when they are applied they’re usually applied in bursts. The ICD prevents full value of this Trait, leaving it feeling lacklustre especially compared to Weight Terms in terms of Quickness uptime.
+
+Legendary Lore
+Tome skills grant self Boons upon casting.
+Justice: 2 x Might.
+Resolve: Regen.
+Courage: Protection.
+
+Selfish option as the Boons only apply to yourself. Helps top up the Boons for their respective uses. Not really needed if you have others covering the Boons for you. Previously Justice increased the Burning duration of the Justice passive, which was much more useful for Burning DPS BUT was completely different from the Resolve & Courage effects in that it was actually useful.
+
+Imbued Haste
+Gain Condition Damage, Healing Power & Vitality while under Quickness.
+
+Bit of extra stats while under Quickness, the main support aspect of Firebrand. The lack of Power pretty much seals the deal that Power Firebrand was not meant to be.
+
+Stoic Demeanor
+Retain Courage passive while on cooldown. Grant Resistance & Might to allies when Disabling, Immobilizing or Slowing an enemy. 1s ICD.
+
+Defensive option. Helps maintain Resistance & Might a little bit, especially if you take Weighty Terms for the Slow on the final charge. Since it doesn't grant Protection it feels like an incomplete Defensive option, but I suppose there’s a risk of overloading this skill. Replacing the Might w/ Protection would solidify the defensive identity.
+
+Quickfire
+Retain Justice passive while on cooldown. Granting Quickness to an ally also grants Ashes of the Just, making their next attack Burn. 7s ICD.
+
+Offensive option. Basically just extra damage every 7s for doing something you’re probably already doing if you’re going the support Burning build. Pure Burning build doesn’t get much out of this other than retaining the Justice passive. If you want to include pure Burning builds as this is the only offensive option, you can change the Quickness conditional into any Boon so that it affects the healing Mantra too.
+
+Loremaster
+Retain Resolve passive while on cooldown. Tome pages recharge every 6s instead of 8s.
+
+Healing / support option. Little bit of extra pages helps but it’s definitely the least interesting of the 3 options. Could be changed to also reduce the cost of the healing Tome skills to 1 to keep it as the healing option but also make it more interesting.
+
+Willbender Combat
+
+Willbender Abilities
+
 Necromancer
 Necromancer Combat
 
