@@ -2686,8 +2686,36 @@ Retain Resolve passive while on cooldown. Tome pages recharge every 6s instead o
 Healing / support option. Little bit of extra pages helps but it’s definitely the least interesting of the 3 options. Could be changed to also reduce the cost of the healing Tome skills to 1 to keep it as the healing option but also make it more interesting.
 
 Willbender Combat
-
+Much more mobile than base Guardian: Virtues become movement skills which lose their passives until activated. 
+Passives all grant beneficial effects for consecutive attacks. 
+Cooldowns are lower compared to their Base Guardian counterparts.
+Virtue actives are all selfish base kit, no longer granting effects to allies.
+Gains access to off-hand Sword, adding another offensive off-hand weapon w/ some extra mobility.
+Gains access to Physical skills which specialise in mobility, CC & damage.
+Gains access to the Willbender traitline. This uses up 1 traitline and is unique from other Elite specialisations (they all use the 3rd tree slot).
 Willbender Abilities
+Virtues
+
+Willbender Flames
+All Virtues manifest flames (not a Combo field) that damage enemies. The shape & number of targets vary w/ each Virtue.
+
+It's a bit weird that fire doesn’t Burn enemies by default. Requires a Trait to be taken, which could’ve easily been “Burn from Willbender Flames burns for longer / more damage”. Other than that it’s just extra damage in the form of an AoE. It not being a Fire Combo field makes sense since there’d be a lot of Combo fields and the game already struggles with visual overload + the size of the AoEs themselves are small. Note that using another Virtue removes the previous one’s Flames, so space them out.
+
+Rushing Justice
+Dash to target or forward to gain Justice passive (Burns enemies), damaging & Burning enemies + firing a fork of Willbender Flames in front.
+
+Fits with the mobility philosophy of this spec. Otherwise it does exactly what you expect from the offensive Virtue: damage + Burning. Flames being spawned in front reiterates the offensive nature of it, though it can be used as mobility if you have no target selected at the obvious cost of damage.
+
+Flowing Resolve
+Cleanse mobility Conditions, heal self & gain Resolve passive which heals you. Dash in target direction, Evading attacks & leaving Willbender Flames behind. 2 charges.
+
+More versatile than the Justice variant since you can choose the direction. Freeing self from mobility Conditions (Chill, Cripple & Immobilize) helps a ton. Does sacrifice on demand healing in exchange for the mobility in the form of an Evade & sustained healing, so there’s some risk from burst damage there. Evade adds a layer of skill in the form of active mitigation & having 2 charges makes it even more versatile as mobility (+ cleansing) or healing.
+
+Crashing Courage
+Ground-targeted blink w/ AoE damage & spawning Willbender Flames as the ring of that AoE + grant self Aegis & Stability. Gain Courage passive which grants the same Boons. Has a bit of a cast time.
+
+It does have a little cast time so that needs to be something you’re aware of compared to the other non-Firebrand Courage skills. This means you need to use it earlier if you want to Block something on demand. That said it sacrifices some defensiveness for mobility in the form of a blink, damage & sustained tankiness via Aegis & Stability. This is similar to the Dragonhunter Courage skill in that it’s a longer lasting tankiness skill but it does require constant attacking as it takes 5 attacks to trigger the passives.
+
 
 Necromancer
 Necromancer Combat
