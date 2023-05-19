@@ -2933,6 +2933,36 @@ Single target damage & Life Force gain + Corrupt Boons. For each Condition up on
 
 Decent damage & Life Force gain w/ the PvP utility of Corruption. The main draw is the extra Torment per Condition the target already has since this is a Condition weapon. The cap is 5 and there are a total of 14, so the cap is very easily reached regardless of party composition. The skill is upgraded even further with a trait, making it stronger & AoE which resolves the only weakness this skill has.
 
+Dagger
+Bit of a weird weapon w/o its own niche. Main & off hand.
+
+Necrotic Slash -> Necrotic Stab -> Necrotic Bite
+Frontal damage x 2, 2 targets.
+Frontal damage + Life Force, 2 targets. Same overall damage.
+Frontal damage + Life Force, 2 targets. Most damage & Life Force
+
+Dagger doesn’t really seem to have a niche on its own, other than the Life Force generation. It barely cleaves & does less damage compared to other weapons. It does have the most “transfer Conditions to target” out of the weapons but overall it’s just outclassed by all the other weapons. Leaning into Life Force & transferring Conditions could make it more usable while keeping its uniqueness.
+
+Life Siphon
+Drain HP from target. Healing is increased if you’re Bleeding. Damage is increased if the enemy is Bleeding.
+
+Okay amount of damage & an okay amount of healing. Would be better if this skill (and hence all main-hand Dagger skills) gained Life Force as well. It does have a synergy with self Bleeding & enemy Bleeding but the benefit isn’t that much. It’s also a single target ranged attack which is still annoying.
+
+Dark Pact
+Bleed self. Bleed & Immobilize target + Corrupt their Boons. Gain Life Force per Corruption.
+
+The Bleeding doesn’t match what the autos are doing but does have synergy w/ skill 2. Doesn’t have much use in PvE though as mobs don’t have Boons usually. This means the Life Force clause isn’t relevant either. Possibly change it to have a base value that increases w/ number of Boons corrupted like the other corrupting weapon. Also single target.
+
+Deathly Swarm
+Bouncing projectile that damages, transfers Conditions & Blinds.
+
+Condition transferring skill. Damage isn’t that much so it’s purely for the Condition transfer. There are Corruption Utility skills which also apply Conditions to self to synergise w/ this but it’s mostly a PvP skill where Conditions are more abundant.
+
+Enfeebling Blood
+Ground targeted AoE that damages, Bleeds, Weakens & Corrupts a Boon.
+
+Off-hand Condition skill. It’s the only off-hand Condition weapon other than Torch for Scourge so it’s used by default. It’s an AoE that damages & debuffs, not much else to say. Again, Boon Corruption is not useful in PvE.
+
 
 Reaper Combat
 
