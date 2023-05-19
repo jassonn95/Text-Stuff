@@ -2896,22 +2896,42 @@ Ground targeted Mark that damages & Fears enemies.
 Same as the other Marks functionally. Does the most amount of damage so it’s highest in the priority list. Fear can be useful in PvE but since bosses are CC immune and Fear is a Condition (meaning it needs to tick to damage the CC bar), it’s best to just use it as damage & not save it unlike in PvP.
 
 Axe
-Mid-ranged power weapon. Main hand only.
+Mid-ranged Power weapon. Main hand only.
 
 Rending Claws
 Ranged Vulnerability & damage x 2. Vulnerability doubled if below target 50% HP.
 
-It’s an okay filler attack that has synergy with the 2nd skill w/ the Vulnerability. However, there are better weapons & Shroud which sort of counts as a 3rd weapon, making filler skills less valuable.
+It’s an okay filler attack that has synergy with the 2nd skill w/ the Vulnerability. However, there are better weapons & Shroud which sort of counts as a 3rd weapon, making filler skills less valuable. It’s even less valuable since it’s single target only.
 
 Ghastly Claws
 Ranged channel damage & Life Force. Bonus 1% damage per Vulnerability stack on target.
 
-Does really good damage especially if the target has max Vulnerability stacks, which is often the case when there are multiple players. Also recovers a good chunk of Life Force. Its only issue is the other 2 skills aren’t that great, making this choice a little bit worse off.
+Does really good damage especially if the target has max Vulnerability stacks, which is often the case when there are multiple players. Also recovers a good chunk of Life Force. Its only issue is the other 2 skills aren’t that great, making this choice a little bit worse off. It’s also single target but it’s not as bad since it’s a channelled high damage skill, which makes more sense since you want to be sure you got a target before starting it.
 
 Unholy Feast & Unholy Burst
 PBAoE damage, Cripple & Boon Corruption. If the enemy is below 50% HP, deal additional AoE damage around the enemy.
 
 A lot of the power budget is in the AoE & the Boon Corruption, which makes it less useful in group content as there’s usually just 1 target & no Boons to corrupt. It’s a much better skill in PvP and occasionally in PvE open world stuff but since the other 2 skills are single target, there are better AoE options. The additional damage is okay 
+
+Scepter
+Mid-ranged Condition weapon. Main hand only.
+
+Blood Curse -> Rending Curse -> Putrid Curse
+Single target damage & Bleeding.
+Same as the 1st.
+Most single target damage, same Bleeding & Poison.
+
+Like other attack combos, I think there should be something that differentiates each attack. Since the Bleeding is the same for all parts of the combo, the only thing that would make sense is if the 2nd attack had the 2nd most damage. Other than that it’s a combo that makes sense for a Condition build. Still annoying with the single target.
+
+Grasping Dead
+Ground targeted AoE damage, Bleeding & Cripple.
+
+An AoE damaging skill w/ Bleeding. There’s also a Cripple but like other soft CC Conditions it’s not as useful in PvE. That just leaves damage, which means use it on cooldown; not that interesting in terms of rotation. It’s AoE though!
+
+Feast of Corruption
+Single target damage & Life Force gain + Corrupt Boons. For each Condition up on the target up to a cap, gain additional Life Force & inflict Torment (DoT that’s stronger if the enemy is not moving).
+
+Decent damage & Life Force gain w/ the PvP utility of Corruption. The main draw is the extra Torment per Condition the target already has since this is a Condition weapon. The cap is 5 and there are a total of 14, so the cap is very easily reached regardless of party composition. The skill is upgraded even further with a trait, making it stronger & AoE which resolves the only weakness this skill has.
 
 
 Reaper Combat
