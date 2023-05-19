@@ -2989,6 +2989,30 @@ Self buff for Swiftness, PBAoE lifesteal damage & Life Force.
 
 Utility skill. Constantly pulses for 5s meaning it lasts going into Shroud. Makes rotations faster if using a non 2H weapon. Otherwise it provides more mobility & rewards for sticking on top of enemies, synergising w/ itself.
 
+Healing
+Choose 1.
+
+Consume Conditions - Corruption
+Consume all Conditions on self, healing + additional healing per Condition. Apply Vulnerability to self.
+
+The Condition cleanse option. Hypothetically the highest healing skill too but the odds of you being afflicted by all 14 Conditions is pretty low. Still, if Conditions are an issue then this is the best option, even if it applies Vulnerability to yourself. There are a couple of weapon skills that can cleanse / transfer that off too.
+
+Summon Blood Fiend -> Taste of Death - Minion
+Summon a ranged minion that damages & heals you on attack. Activate again to sacrifice the minion for healing (+ Life Force since it dies).
+
+The highest DPS option as it’s the only 1 that does consistent damage & stays active while in Shroud. It does mean you’re using an ugly ass pet though. Can also sacrifice it for more healing but note that it does have its own HP bar, meaning it can die from raid wide damage or other mechanics. This adds another layer of annoyance to it since you don’t really control where it goes. If it was invulnerable in PvE (keep it as is for PvP for counterplay) then it would be better.
+
+Signet of Vampirism - Signet
+Passive: passively lifesteal from the closest enemy while in combat.
+Active: Heal self & mark an enemy. Next 25 attacks on it will lifesteal, 1s ICD / attacker.
+
+The offensive party healing option as it’s lifesteal (damage + healing). The only issue is that since it’s lifesteal, the heal can be wasted if someone full health eats up a charge. It also obviously requires a target whereas the Well doesn’t. Trait allows you to keep the passive while in Shroud and for it to also rapidly recharge per second while in Shroud.
+
+Well of Blood - Well
+Heal self & place a Light Combo field beneath self that pulses healing.
+
+The utility party healing option. Does no damage compared to the Signet and heals the group for less overall but there’s no chance for the heal to be wasted as it’s done via healing, not life steal. There’s also a Light Combo field which may or not be useful. Trait makes it so this also revives players which could be useful in those scenarios.
+
 
 Reaper Combat
 
