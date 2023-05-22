@@ -3208,6 +3208,67 @@ Spiteful Spirit
 Cast Spiteful Spirit when entering Shroud. Spiteful Spirit: PBAoE damage, Cripple & Boon Corruption. Gain Resolution per enemy hit. Further Corruption for enemies <= 50%.
 
 Has at least a 10s CD built in from exiting Shroud, but you’ll need to rebuild Life Force and you don’t want to be entering Shroud just for this Trait (use weapon / Utility cooldowns, wait for Shroud cooldowns to finish). A lot of the power budget is in the Boon Corruption as it doesn’t do much damage and can’t crit. Might be useful in PvP if there are Boon heavy builds.
+Curses - Conditions
+
+Barbed Precision
+Crits have a 33% chance of Bleeding. +20% Bleeding duration.
+
+Still not a huge fan of RNG on top of RNG. Make it guaranteed on crit but have an ICD or weaken the effect, no need for it to be that random. Especially for DoT builds which don’t build around 100% crit. Extra Bleeding duration is nice.
+
+Insidious Disruption
+Disabling enemies inflicts Torment.
+
+Doesn’t have an ICD, so it basically adds a Torment to any ability with a Disable on it. It’s the most offensive Condition Trait of the 3, so it’s often the default choice since the only reason you go down this traitline is for the Condition damage.
+
+Plague Sending
+First attack in Shroud transfers 2 x Conditions.
+
+Has at least a 10s CD due to Shroud cooldowns (20 for Scourge). That severely limits the amount of Conditions you remove / transfer in bursts, which is what you want otherwise the Conditions on you will just time off or be cleansed by someone else. It needs something else, possibly pulsing transfers while in Shroud, encouraging you to stay in Shroud for as long as possible.
+
+Chilling Darkness
+Blinding enemies Chills them. 3s ICD.
+
+Little bit of extra soft CC. Not that useful in PvE but incredibly annoying in PvP. There aren’t that many Necro skills that Blind though, further limiting how useful this is especially w/ the ICD.
+
+Furious Demise
+Gain Fury when entering Shroud. Gain Precision.
+
+Bit of extra Fury padding for more crits, which is nice but won’t do much for DoT builds other than Barbed Precision. Same goes for the extra Precision, though that at least benefits Target the Weak (below).
+
+Master of Corruption
+Corruption skills recharge 33% faster & inflict another Condition on you.
+
+If using Corruptions (which you should be for Condition builds), take this trait. More Conditions = more damage. It uniquely comes with a “downside” of another Condition being inflicted on you when using Corruptions, but what it really does is make transferring Conditions stronger, especially the damaging ones. 
+
+Path of Corruption
+Shroud skill 2 also Corrupts 2 Boons (1 for Scourge).
+
+Not sure why Scourge is nerfed, they’re all AoE skills w/ similar CDs. The only reason why I can see it’s nerfed is because Scourge Shroud skill 2 also Corrupts Boons and they don’t want it to Corrupt too many Boons at once. Other than that they’re all pretty different skills, w/ Necro & Reaper only sharing mobility aspects. Take if you need to Corrupt Boons.
+
+Terror
+Fear you inflict damages per second.
+
+The other Condition option if you’re not taking Corruption skills for some reason. There aren’t that many Fearing skills though so effectiveness is limited; you won’t really be able to count this as another DoT to upkeep.
+
+Target the Weak
++2% Crit Chance against an enemy per Condition they have. Gain Condition Damage based on 13% Precision.
+
+Extra crit chance not that useful for DoT builds as previously mentioned. Probably a remnant of a bygone era where builds were a lot more wacky. Extra Condition Damage based on Precision on the other hand is very useful.
+
+Weakening Shroud
+Cast Lesser Enfeeble when entering Shroud (10s ICD). Crits inflict Weakness. Lesser Enfeeble: PBAoE damage, Bleeding, Weakness & Boon Corruption. Can’t crit.
+
+More of a PvP option compared to Lingering Curse since the damage isn’t that great but it does have debuffs (Weakness) and Corruption, both of which are better in PvP.
+
+Parasitic Contagion
+Heal for 5% of your Condition damage. Does not heal while in Shroud.
+
+Sustain option, which means it’s more of a Solo PvE or PvP option. Not affecting Shroud HP makes sense, but it also straight up doesn’t heal you while you’re in Shroud (your actual HP bar). This seems counterintuitive. It should heal your HP bar but not affect the Life Force bar (which acts as your HP in Shroud).
+
+Lingering curse
+Gain Condition Damage. Conditions inflicted by Scepter last 50% longer. Feast of Corruption becomes Devouring Darkness, increasing damage, Torment duration & gains Life Force per enemy hit.
+
+Extra Condition Damage for the Condition Damage builds, always nice to have. Huge Condition duration increase for Scepter and upgrades one of its skills to be even stronger. Only reason not to take this is if you’re not using Scepter for some reason, and even then the Condition Damage might be enough as a Trait. The Condition Duration + upgrading a skill are a lot more interesting than the usual recharge 20% faster variants as you can feel its effects a lot more.
 
 
 
