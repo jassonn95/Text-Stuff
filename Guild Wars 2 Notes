@@ -2318,7 +2318,7 @@ Healer option. Add passive healing to the party. Pretty simple but does allow yo
 Indomitable Courage
 Active of Virtue of Courage breaks stun & grants Stability to allies. Passive down from 40s to 30s recharge.
 
-Defensive option (aka PvP). Builds upon the defensive Virtue & helps survive more often.
+Defensive option (PvP). Builds upon the defensive Virtue & helps survive more often.
 
 Dragonhunter Combat
 More offensive than base Guardian.
@@ -2635,7 +2635,7 @@ Selfish DPS option. Bleeding isn’t as great since most Guardian traits are Bur
 Liberator’s Vow
 Grant Quickness when using your heal skill. 7s ICD.
 
-Utility / Group DPS option. Works well with the healing Mantra as a charge counts as using your healing skill, otherwise the next lowest healing CD is 25s. Makes the final charge of the healing Mantra even worse to use since it also puts the skill on a 25s CD.
+Utility / Group DPS option. Works well with the healing Mantra as a charge counts as using your healing skill, otherwise the next lowest healing CD is 25s. Makes the final charge of the healing Mantra even worse to use due to the 25s CD.
 
 Archivist of Whispers
 Gain 3 additional max pages, up to 8.
@@ -2837,8 +2837,8 @@ Necros have the unique mechanic of Corruption, converting Boons into Conditions.
 Necromancer Abilities
 Death Shroud
 
-Death Shroud
-Replace current weapon skills w/ the below. Also prevents Healing, Utility & Elite skills from being used (if Minions are summoned they stay summoned. Signet passives are gone unless otherwise stated). Turn Life Force into the current HP bar & take 33% reduced damage.
+Death Shroud -> End Death Shroud
+Replace current weapon skills w/ the below. Also prevents Healing, Utility & Elite skills from being used (if Minions are summoned they stay summoned. Signet passives are gone unless otherwise stated). Turn Life Force into the current HP bar & take 33% reduced damage. Press again to exit, putting it on a 10s CD.
 
 There’s also an aquatic version but like the other Professions, will be ignoring them.
 
@@ -3013,7 +3013,7 @@ Heal self & place a Light Combo field beneath self that pulses healing.
 
 The utility party healing option. Does no damage compared to the Signet and heals the group for less overall but there’s no chance for the heal to be wasted as it’s done via healing, not life steal. There’s also a Light Combo field which may or not be useful. Trait makes it so this also revives players which could be useful in those scenarios.
 
-Utilities
+Utility
 Choose 3.
 
 Blood Is Power - Corruption
@@ -3119,6 +3119,30 @@ Well of Suffering - Well
 Ground targeted Dark Combo field that pulses damage & Vulnerability. Unblockable.
 
 Does the most damage out of all the Wells, which is why the only other effect is Vulnerability (which is more damage). Take it if you need Power damage as it’s mathematically the best choice. Otherwise it’s just a ground AoE Dark field.
+
+Elite
+Choose 1.
+
+Plaguelands - Corruption
+Bleed self. Inflict Place down an AoE (not field) that pulses damage & Conditions, each pulse applying the previous pulses’ Conditions too (Bleed, Poison, Torment, Vulnerability, Cripple, Weakness, Blindness, Chill & Burning).
+
+The Condition Damage option. Places a metric crap ton of Conditions onto enemies in an AoE. Visually looks like a Dark field but doesn’t act like one, possibly due to balance issues. Darkness doesn’t have any Condition Damage capabilities though, only Blindness & Life Steal so there’s no reason for it not to be a thing in PvE. Most of the damaging Conditions are frontloaded, meaning they get applied over and over again due to how the skill works. Oddly Burning is at the end, possibly due to balance reasons rather than getting multiple stacks of it. It’s a strong Condition Elite overall.
+
+Summon Flesh Golem -> Charge - Minion
+Summon a melee minion that damages & Cripples. Activate again to grant the minion Stability & cleanse movement Conditions. It then charges forward, damaging enemies. The charge also Launches enemies at the edge of its hitbox & Knockdown enemies closer to its hitbox. Enemies w/ big hitboxes and CC bars can be “launched” multiple times.
+
+The constant DPS & CC option. Like every other minion, it comes with the drawbacks of having to use a pet. It does do a lot of CC damage to a CC bar though, the main reason to take this skill.
+
+Lich Form - Spectral
+Transform into a Lich, gaining Precision & Vitality + new weapon skills but losing Healing & Utility skills. Gain Stability every 3s. Gain Life Force upon end. Removes all other Spectral effects.
+Deathly Claws: Ranged piercing damage.
+Lich’s Gaze: Random projectile at nearby enemy that damages, Cripples & applies Vulnerability. 5 charges, low recharge.
+a) Ripple of Horror: Targeted wave that damages & Fears. Unblockable. Reactivate for:
+b) March of Undeath: Blink to Ripple of Horror wave, destroying it.
+Summon Madness: Summon 8 minions that attack & explode for more damage after 6s.
+Grim Specter: PBAoE pulsing lifesteal that also drains Vitality. Unblockable.
+
+It has a huge CD of 150s like Ele’s Tornado, which makes it a lot less usable in PvE especially since it removes your Healing & Utility skills. The only reason this is taken in PvE is due to Summon Madness doing a lot of burst damage for burst phases. All the other skills are either too weak (Lich’s Gaze), provide mediocre CC (Ripple of Horror) or provide effects not that useful in PvE (Ripple of Horror & Grim Specter). The blink isn’t worth a 150s CD and extra temporary Vitality isn’t that useful.
 
 
 Reaper Combat
