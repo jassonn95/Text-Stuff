@@ -1,6 +1,6 @@
 Please use this link for better formatting and images: https://docs.google.com/document/d/1k_OFBEr-UeAbFYDBEgDSdetO3rg-pH5ZSHOx5P1nvqo/edit?usp=sharing
 
- Guild Wars 2 Notes
+Guild Wars 2 Notes
 General
 Good combat, mixture of action and tab targeting.
 Targeting sometimes gets annoying when mobs surround / get behind you. Skills won’t fire until you manually face them which is fine for the action combat skills, very annoying for the enemy targeted ones. Something like FFXIV’s legacy camera movement would work wonders and make the targeting feel less clunky.
@@ -3055,6 +3055,30 @@ Summon Shadow Fiend -> Haunt - Minion
 Summon a melee minion that damages. Activate again to make the minion blink to the enemy for PBAoE damage, Blindness, Chill & Weakness + Life Force.
 
 The other melee minion that’s more standard. No sacrifice so while it’s more streamlined, it’s more boring since you’re just using its ability on cooldown, at least in PvE. Otherwise it’s a stock standard minion. Also less ugly than the others, barely.
+
+Plague Signet - Signet
+Passive: Transfer a condition from an ally to yourself. 3s ICD.
+Active: Breaks stun. Transfer 5 Conditions to target.
+
+Defensive option. The passive isn’t really much as it only transfers a single Condition regardless of how many allies you have near you and it’s on a 3s ICD. Active can be saved as a stun break / Condition cleanse or used to transfer Conditions you’ve granted yourself from Corruption Utilities or some weapon skills. However, there are better stun breaks that also protect you from further CC / have other utility and the Conditions you grant yourself aren’t really that detrimental. That leaves the cleanse which isn’t as useful in PvE.
+
+Signet of Spite - Signet
+Passive: Gain Power.
+Active: Damage, Bleed, Blind, Cripple, Poison, Torment, Weaken & apply Vulnerability to the target.
+
+Offensive option. Interesting in that it’s both a Power & Condition option, but via passive & active respectively. That said, it’s a little boring either way just like other Signets. Power you just keep it on cooldown permanently and Condition you use it on cooldown for a burst of Conditions. It does have a whopping 60s cooldown though in PvE (PvP has 40s) which makes it a lot less attractive unless there’s a lot of phase transitions.
+
+Signet of the Locust
+Passive: Gain movement speed.
+Active: PBAoE damage & Boon removal. Heal per hit & Boon removed.
+
+Utility option. Movespeed isn’t that useful since, like other Signets, only gives 25% while Swiftness gives 33% and isn’t that rare. The active could be useful in AoE situations for both damage and sustain but more often than not there are better skills. There’s some Boon removal but again, that’s a PvP thing.
+
+Signet of Undeath:
+Passive: Generate Life Force. 3s ICD.
+Active: Sacrifice half base HP to res an ally in a ground targeted AoE.
+
+Utility / support option. The Life Force gain is small but constant and that can be translated into damage or utility depending on the spec. However due to Signets not retaining their passive baseline while in Shroud, it’s only really used w/ support Scourge since their Shroud doesn’t remove the active weapon / utility skills. Active is handy for a ranged res w/ its own Necro flavour but its effectiveness is the same as the other ranged res abilities. It also has a pretty large 75s CD.
 
 
 Reaper Combat
