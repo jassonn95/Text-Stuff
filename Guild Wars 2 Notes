@@ -1,6 +1,6 @@
 Please use this link for better formatting and images: https://docs.google.com/document/d/1k_OFBEr-UeAbFYDBEgDSdetO3rg-pH5ZSHOx5P1nvqo/edit?usp=sharing
 
-Guild Wars 2 Notes
+ Guild Wars 2 Notes
 General
 Good combat, mixture of action and tab targeting.
 Targeting sometimes gets annoying when mobs surround / get behind you. Skills won’t fire until you manually face them which is fine for the action combat skills, very annoying for the enemy targeted ones. Something like FFXIV’s legacy camera movement would work wonders and make the targeting feel less clunky.
@@ -3036,12 +3036,25 @@ Apply Vulnerability to self. Spread Conditions on target to nearby enemies at 50
 
 The AoE option. Take it if you need to spread DoTs. It has been nerfed to only have half the duration and then again to cap at 5 stacks, but it’s still pretty powerful.
 
-Bone Fiend -> Rigor Mortis - Minion
-Summon a ranged minion that damages. Also Cripples every 10s. Activate again 
+Summon Bone Fiend -> Rigor Mortis - Minion
+Summon a ranged minion that damages a target. Also Cripples every 10s. Activate again to temporarily Immobilize the minion but cause its next attacks to do more damage & Immobilize.
 
+One of the ranged options. This one is more versatile as it can actually move by default. It does less damage and is shorter range but has the Cripple utility + being able to move. Active adds more CC. Its attacks also count as % chance Combo Projectiles so that’s something to account for in terms of damage (or utility depending on the field). Self Immobilize on the minion seems a bit weird, it only really matters in edge cases like using it at long range (it has mid-high range), which is more a PvP thing.
 
+Summon Bone Minions -> Putrid Explosion - Minion
+Summon 2 melee minions that damage. Activate again to sacrifice 1 for damage & a Blast around the dead minion.
 
+It’s a pretty good designed ability in that you have a choice for constant DPS or burst damage w/ some utility. The cooldown doesn’t start until both minions are dead though, which makes it an all or nothing kind of ability. Due to burst phases in boss encounters, you’re more likely than not just going to dump both minions, respawn them once available and keep them there until the next burst phase. Blast is nice but doesn’t warrant any playing around. Also since it’s a sacrifice, it grants some Life Force.
 
+Summon Flesh Wurm -> Necrotic Traversal - Minion
+Summon a long range, immobile minion that damages. Activate again to break stun, sacrifice the minion, blink to it, PBAoE Poison, Blast & bonus Life Force.
+
+The other ranged option. It’s longer ranged, does more damage and has a 100% chance of being a Combo Projectile but no form of CC and it’s always rooted. Its active is a lot more defensive compared to Bone Fiend w/ the stun break & blink. There’s a Blast and PBAoE Poison but that requires the minion to be in melee range of the enemy, which would obviously make it not a blink since you’re usually in melee range too. Since it’s a sacrifice, it grants a lot of Life Force too since it also has the bonus Life Force but that’s more of a bonus effect rather than wasting damage + a stun break for.
+
+Summon Shadow Fiend -> Haunt - Minion
+Summon a melee minion that damages. Activate again to make the minion blink to the enemy for PBAoE damage, Blindness, Chill & Weakness + Life Force.
+
+The other melee minion that’s more standard. No sacrifice so while it’s more streamlined, it’s more boring since you’re just using its ability on cooldown, at least in PvE. Otherwise it’s a stock standard minion. Also less ugly than the others, barely.
 
 
 Reaper Combat
