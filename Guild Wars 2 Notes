@@ -3144,6 +3144,75 @@ Grim Specter: PBAoE pulsing lifesteal that also drains Vitality. Unblockable.
 
 It has a huge CD of 150s like Ele’s Tornado, which makes it a lot less usable in PvE especially since it removes your Healing & Utility skills. The only reason this is taken in PvE is due to Summon Madness doing a lot of burst damage for burst phases. All the other skills are either too weak (Lich’s Gaze), provide mediocre CC (Ripple of Horror) or provide effects not that useful in PvE (Ripple of Horror & Grim Specter). The blink isn’t worth a 150s CD and extra temporary Vitality isn’t that useful.
 
+Traits
+Non-coloured Traits are auto picked if the tree is chosen. Coloured Traits are a choice of 1. Can only pick 3 trees.
+Spite - Strike Damage
+
+Reaper’s Might
+Shroud skill 1 (auto) grants 1 x Might.
+
+More offensive buffs while in Shroud. While Boons are usually granted by a specific support / healer, the Might granted here lasts 15s which is pretty decent sometimes. More often than not it’s wasted due to having a support though.
+
+Spiteful Talisman
++10% Strike Damage against Boon-less enemies. Focus & Axe skills recharge 20% faster.
+
+Since 99% of mobs in PvE don’t have Boons, it’s a +10% damage buff for Power builds. Also makes Axe & Focus a little bit more attractive to use. Both of these weapons have skills which get rid of Boons, synergising. This effect is more prevalent in PvP though.
+
+Spiteful Renewal
+Consume a Condition & heal if consuming one when using a Healing skill. 5s ICD.
+
+A little bit of extra cleansing & healing. The 5s CD seems to only be there because of Summon Blood Fiend + Taste of Death, though the heal & cleansing aren’t strong enough to even warrant taking this trait, let alone “comboing” it w/ that healing skill.
+
+Bitter Chill
+Chilling an enemy inflicts 3 x Vulnerability.
+
+Seems more useful in PvP since enemies actually have Boons, making Spiteful Talisman a little less attractive. Still there aren’t too many Necro skills that Chill & when they do it’s only a couple seconds of Vulnerability anyway. An option if not using Focus / Axe or any Boon removing skills and you don’t want the healing / cleansing option.
+
+Death’s Embrace
+Deal +25% Strike Damage while downed. Inflict 5 x Vulnerability when hitting an enemy <= 50% HP. 10s ICD.
+
+The Strike Damage while downed only affects 2 skills, a channelled lifesteal and a PBAoE damaging Dark field. The damage doesn’t affect the lifesteal healing, so it only really helps you in getting a Rally (killing or assisting in killing an enemy while downed picks you up, up to 3 times in a short period). Since you’re not meant to be downed often, this trait only really provides Vulnerability on low HP enemies. It does have 80% uptime which is nice. The 50% HP threshold fits with the overall theme.
+
+Chill of Death
+Cast Lesser Spinal Shivers on an enemy when hitting an enemy <= 50%.
+Lesser Spinal Shivers: Chill & remove up to 3 Boons. Damage depends on how many Boons are removed. 20s CD.
+
+PvP option as Boons aren’t on PvE enemies. Power budget is in the Boon removal as the damage is lower and it has a higher CD compared to the Focus version.
+
+Awaken the Pain
+Might grants more Power but less Condition Damage (2:1 split instead of 1:1). Gain 5 x Might when entering Shroud.
+
+Take this if you’re going a Power build, which you probably are if you’re going down this tree. DoTs do less damage w/o this Trait but it’s far outweighed by the damage gain on Strike Damage. Little bit of extra Might when entering Shroud helps too.
+
+Signets of Suffering
+Gain a better version of equipped Signet passives while in Shroud. Signets recharge 4% every second in Shroud.
+
+This Trait requires both you taking Signets and being in Shroud for it to have any effect. It’s a lot more active compared to other Signet traits though, as they passively recharge quicker while this requires you to actively go into Shroud for the recharge. However since this traitline is about Strike Damage and this doesn’t really help with that other than making the Power Signet stronger in Shroud, it’s not a very good choice overall. Possibly better in a different traitline.
+
+Siphoned Power
+Gain 3 x Might when hitting an enemy <= 50% HP. 1s ICD.
+
+Even more Might for the player. While it requires the enemy to be low (fits the theme), it only has a 1s ICD which means you’ll reach the 25 cap in no time, even without a support. ICD prevents a huge discrepancy between single target and AoE, but that doesn’t really matter since you reach max pretty quickly.
+
+Dread
+Inflicting Fear grants Quickness & Fury (3s ICD). Shroud skill 3 recharges 50% when killing an enemy.
+
+None of the other traits are Fear or Condition-applying themed so it seems sort of random (excluding Bitter Chill). Base Necro & Reaper Shroud Skill 3 are both Fear related, so it fits the overall theme. Scourge’s Shroud Skill 3 is a Barrier and Harbinger’s Shroud Skill 3 is a gapcloser w/ DoTs, so neither fit the Fear theme. It does provide a unique combo w/ a bunch of Barrier / gapclosers if a bunch of adds die. A PvP option since you want to Fear more often and Boons are harder to come by.
+
+Close to Death
++20% Strike Damage against enemies <= 50% HP.
+
+Even more execute damage. A little boring but fits the theme of Strike Damage & execute thresholds.
+
+Spiteful Spirit
+Cast Spiteful Spirit when entering Shroud. Spiteful Spirit: PBAoE damage, Cripple & Boon Corruption. Gain Resolution per enemy hit. Further Corruption for enemies <= 50%.
+
+Has at least a 10s CD built in from exiting Shroud, but you’ll need to rebuild Life Force and you don’t want to be entering Shroud just for this Trait (use weapon / Utility cooldowns, wait for Shroud cooldowns to finish). A lot of the power budget is in the Boon Corruption as it doesn’t do much damage and can’t crit. Might be useful in PvP if there are Boon heavy builds.
+
+
+
+
+
 
 Reaper Combat
 
