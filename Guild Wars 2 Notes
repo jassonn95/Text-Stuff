@@ -3019,7 +3019,7 @@ Choose 3.
 Blood Is Power - Corruption
 Bleed self & target + PBAoE Might. 2 charges.
 
-Stuck between support (Might) & Condition DPS (Bleeding). Necro doesn’t have enough Might generation to keep up 25 stacks for everyone so at best this skill is supplementary. Does pretty good damage though, which means its best use is using it on cooldown.
+All Corruption skills debuff yourself in exchange for an effect that’s Condition related. Stuck between support (Might) & Condition DPS (Bleeding). Necro doesn’t have enough Might generation to keep up 25 stacks for everyone so at best this skill is supplementary. Does pretty good damage though, which means its best use is using it on cooldown.
 
 Corrosive Poison Cloud - Corruption
 Weaken self. Ground targeted Poison Combo field that Poisons & Weakens + Blocks Missiles. Unblockable.
@@ -3079,6 +3079,26 @@ Passive: Generate Life Force. 3s ICD.
 Active: Sacrifice half base HP to res an ally in a ground targeted AoE.
 
 Utility / support option. The Life Force gain is small but constant and that can be translated into damage or utility depending on the spec. However due to Signets not retaining their passive baseline while in Shroud, it’s only really used w/ support Scourge since their Shroud doesn’t remove the active weapon / utility skills. Active is handy for a ranged res w/ its own Necro flavour but its effectiveness is the same as the other ranged res abilities. It also has a pretty large 75s CD.
+
+Spectral Armor - Spectral
+Breaks stun & gain Protection. Gain Life Force every time you take damage, 1s ICD.
+
+Spectral skills gimmick is granting Life Force. This is the defensive option which allows you to be tankier. Its Life Force generation is from taking damage, playing into the defensive nature of the skill. Pretty much the same as the other defensive skills.
+
+Spectral Grasp - Spectral
+PBAoE Pull for Chill & Life Force per hit.
+
+CC utility option. It’s a long range and grants huge amounts of Life Force if it hits multiple times, but it trades off all damage for this utility. If you need a Pull, this is an option.
+
+Spectral Walk -> Spectral Recall - Spectral
+Breaks stun & places down a mark. Gain Swiftness & a buff which consumes Conditions every 2s in exchange for Life Force. Can re-activate to recall to the mark.
+
+Utility option that has a lot of effects on it. Can be used as a stun break, but it’s not as defensive as others. Can be used to cleanse Conditions but that has a 2s ICD so it’s not as useful. Its most powerful effect is the return which can be useful for some mechanics depending on the fight, or more effective in general in PvP.
+
+Spectral Ring - Spectral
+Ground targeted Ethereal Combo field that applies (not pulse) Protection & Fear. Gain Life Force each time someone is Feared (1.5s ICD). Unblockable.
+
+Since it doesn’t pulse, it only applies the effects once its previous application wears off and they pass through the ring again (if ICD for Fear is done) which makes it a lot more janky compared to just pulsing. Can reduce the duration of the effects to make it pulsing. Otherwise it’s an okay ranged AoE fear. Ethereal is an odd choice though as that’s usually a Mesmer field, whereas Necro usually has Poison (doesn’t fit) or Darkness (fits better than Ethereal in my opinion).
 
 
 Reaper Combat
