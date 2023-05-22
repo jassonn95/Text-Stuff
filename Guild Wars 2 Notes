@@ -3098,7 +3098,27 @@ Utility option that has a lot of effects on it. Can be used as a stun break, but
 Spectral Ring - Spectral
 Ground targeted Ethereal Combo field that applies (not pulse) Protection & Fear. Gain Life Force each time someone is Feared (1.5s ICD). Unblockable.
 
-Since it doesn’t pulse, it only applies the effects once its previous application wears off and they pass through the ring again (if ICD for Fear is done) which makes it a lot more janky compared to just pulsing. Can reduce the duration of the effects to make it pulsing. Otherwise it’s an okay ranged AoE fear. Ethereal is an odd choice though as that’s usually a Mesmer field, whereas Necro usually has Poison (doesn’t fit) or Darkness (fits better than Ethereal in my opinion).
+Since it doesn’t pulse, it only applies the effects once its previous application wears off and they pass through the ring again (if ICD for Fear is done) which makes it a lot more janky compared to just pulsing. Can reduce the duration of the effects to make it pulsing. Otherwise it’s an okay ranged AoE fear. Ethereal is an odd choice though as that’s usually a Mesmer field, whereas Necro usually has Poison (doesn’t fit) or Dark (fits better than Ethereal in my opinion).
+
+Well of Corruption - Well
+Ground targeted Dark Combo field that pulses damage, Boon Corruption + Life Force per target per pulse. Unblockable.
+
+Does the least amount of damage out of all the damaging Wells. Most of the power budget goes into the Boon Corruption & Life Force. To get max value though there needs to be multiple enemies w/ Boons which just isn’t a thing in PvE. Even if max enemies were being hit by all pulses, it would only give 30% Life Force which you can get from Spectral Grasp hitting only 2 enemies. Since Boon Corruption isn’t useful in PvE and the Life Force gain is minimal, this isn’t really an option.
+
+Well of Darkness - Well
+Ground targeted Dark Combo field that pulses damage, Blindness & Chill.
+
+Does the 2nd most damage out of all the Wells. Sacrifices some damage compared to Suffering for Blindness & Chilled, which are more useful in Solo PvE or PvP for survivability. Take it if you need Power damage as it’s mathematically the 2nd best choice. Can also be used for surviving but you generally use that at the beginning of fights too, so it doesn’t change when or how to use it compared to just for damage.
+
+Well of Power - Well
+Breaks stun & grant self Stability + ground targeted Dark Combo field that pulses Might & converts Conditions into Boons for allies.
+
+The most defensive out of all the Wells. Doesn’t do damage but still hits enemies for the purpose of some Traits. Provides the most support for allies too w/ the Might & reverse corruption. It’s a good stun break too w/ the Stability & constant cleansing, sacrificing further defensiveness for the party utility.
+
+Well of Suffering - Well
+Ground targeted Dark Combo field that pulses damage & Vulnerability. Unblockable.
+
+Does the most damage out of all the Wells, which is why the only other effect is Vulnerability (which is more damage). Take it if you need Power damage as it’s mathematically the best choice. Otherwise it’s just a ground AoE Dark field.
 
 
 Reaper Combat
