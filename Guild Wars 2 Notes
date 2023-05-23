@@ -59,7 +59,7 @@ Power budget includes access to a lot of combo fields. The importance of combos 
 Auras are also meant to be a prominent feature for Eles but they haven’t really been changed since release either. They last for very little time and are unaffected by boon duration stats, so their effects while decently strong are rarely felt, especially since it requires you to get hit.
 Elementalist Abilities
 Staff
-Long range AoEs, being pushed to be more support oriented.
+Long range AoEs, being pushed to be more support oriented. 2H.
 
 Staff Fire 1 - Fireball
 Targeted projectile AoE for damage & Burn (only PvE, will only be doing PvE version).
@@ -163,7 +163,7 @@ Targeted combo projectile that damages, Bleeds and Immobilizes (roots) all hit (
 Good skill: damages, DoTs and CCs. No real complaints other than the 25s CD, meaning you’re encouraged to dump CDs and go to the next element but that’s not too feasible since there are some real crappy skills in some of the other Attunements (cough Water & Air).
 
 Scepter
-Mid-long range, damage & control.
+Mid-long range, damage & control. Main hand only.
 
 Scepter Fire 1 - Flamestrike
 Targeted AoE 2 part attack. 1st is targeted, 2nd is wherever the 1st was after a brief delay. Both damage & Burn.
@@ -1413,7 +1413,7 @@ Ground targeted Poison Combo field that pulses damage for enemies & Protection f
 Same notes as the above. Poison & Smoke are the closest to an Earth field in the game and while Poison is the only actual viable option in terms of theme & balance (giving Eles stealth would be dangerous), there are no Poison related traits in the Earth tree so the combo feels like it’s shoehorned in. Protection makes sense for Earth.
 
 Hammer
-Mid-ranged + melee w/ focus on AoE & control. 
+Mid-ranged + melee w/ focus on AoE & control. 2H.
 
 Singeing Strike
 Single target mid-ranged attack, damages & Burns.
@@ -1659,7 +1659,7 @@ Active: PBAoE Aegis.
 Defensive Virtue. Use it when you think you’re able to be hit by something big, which is a bit annoying since it can be eaten up by random attacks but still handy in those cases.
 
 Greatsword
-High damage & slow attacks w/ cleave.
+High damage & slow attacks w/ cleave. 2H.
 
 Strike -> Vengeful Strike -> Wrathful Strike
 Frontal cleave.
@@ -1689,7 +1689,7 @@ Combo Whirl & send out projectiles to nearby enemies that damage & apply a uniqu
 Optimal single target damage use is to also use it while inside the enemy hitbox + have other enemies around. Fortunately most of the damage is via the DoT so it’s less reliant on the initial hit hitting multiple times and the Dot doesn’t stack with itself so there’s no multitarget shenanigans. DoT being consumed means you’ll have to time the CC or sacrifice the damage for the CC, which is more prevalent in PvE since the window for good use of CC is less than compared to PvP. Also acts as a Combo Whirl, which makes me realise that Ele weapons just suck in that department, having 1 or 2 Combo related skills while Guardian gets all 4. Yes there are 4 Attunements but cycling just for a combo isn’t generally worth it.
 
 Hammer
-Melee w/ focus on AoE & control. 
+Melee w/ focus on AoE & control. 2H.
 
 
 
@@ -1721,7 +1721,7 @@ Places a Light Combo field ring that knocks back enemies that try to cross it.
 Very easy to cancel with movement input; should also only be cancellable with dodges, sheathing or pressing Esc (and obviously being CC’d or downed). It’s purely a PvP skill though as mobs don’t try to escape and it’s a small circle. If it also provided some survivability for allies, this could be a useful skill but as of right now it’s at best just a combo field that can sometimes CC enemies if they try moving.
 
 Staff
-Support, AoE & control.
+Support, AoE & control. 2H.
 
 Bolt of Wrath -> Searing Light -> Seeking Judgement
 Single target ranged damage.
@@ -2348,7 +2348,7 @@ Active: Grant Aegis in a cone in front of you & also Block attacks in that same 
 Also an upgrade from the base version. Smaller radius doesn’t matter again because everyone’s usually stacked & the side / back not blocking doesn’t matter since the base version doesn’t have 3s of frontal block anyway. Feels great to use if timed correctly to completely mitigate mechanics.
 
 Longbow
-Long range AoE damage & CC.
+Long range AoE damage & CC. 2H.
 
 Puncture Shot
 Long range piercing (20%) combo Projectile. If it hits more than 1, Cripple all enemies hit.
@@ -2561,7 +2561,7 @@ PBAoE buff. 300 Toughness, Protection, Stability & Aegis. Costs 2 pages, 25s CD.
 Very powerful defensive buff but it does cost 2 pages which would eat up DPS or healing. Like the other defensive skills, it would get more use in PvP than in PvE.
 
 Axe
-Melee damage & control.
+Melee damage & control. Main hand only.
 
 
 Core Cleave -> Bleeding Edge -> Searing Slash
@@ -2717,7 +2717,7 @@ Ground-targeted blink w/ AoE damage & spawning Willbender Flames as the ring of 
 It does have a little cast time so that needs to be something you’re aware of compared to the other non-Firebrand Courage skills. This means you need to use it earlier if you want to Block something on demand. That said it sacrifices some defensiveness for mobility in the form of a blink, damage & sustained tankiness via Aegis & Stability. This is similar to the Dragonhunter Courage skill in that it’s a longer lasting tankiness skill but it does require constant attacking as it takes 5 attacks to trigger the passives.
 
 Off-Hand Sword
-Short ranged & versatile (offensive & mobility).
+Short ranged & versatile (offensive & mobility). Off-hand only, obviously.
 
 Executioner’s Calling
 Frontal cleave for damage & Vulnerability. 2nd frontal cleave for more damage, increased if hit by 1st hit.
@@ -2868,7 +2868,7 @@ PBAoE damage, Torment & Reveal. Immobilize if enemies stay within range.
 Morgana R basically, except there’s no damage on the chains ending so it’s just CC. Would be a lot more satisfying if it did some damage or applied damaging Conditions at the end. As mentioned before it combos well with Life Transfer so they’re Immobilized and unable to run away from the drain.
 
 Staff
-Long ranged AoEs in the form of Marks, which are basically ranged Traps.
+Long ranged AoEs in the form of Marks, which are basically ranged Traps. 2H.
 
 Necrotic Grasp
 Long ranged piercing (20%) Combo Projectile that damages & grants Life Force per target hit.
@@ -3485,7 +3485,7 @@ Infusing Terror -> Terrify
 Give self 66% all damage reduction & 3 x Stability. Activate within 6s for:
 PBAoE Fear. Removes the above DR.
 
-Has an interesting decision to be made: DR or CC. The DR has been super increased in PvE since I last played a lot of Reaper (20% -> 66%) so now it’s probably just better for 6s of 66% damage reduction (+ Protection, Shroud DR, etc). There’s sometimes still a use for a PBAoE fear though and you can get both full effects if you time it correctly. Stability also helps since you’re melee.
+Has an interesting decision to be made: DR or CC. The DR has been super increased in PvE since I last played a lot of Reaper (20% -> 66%) so now it’s probably just better for 6s of 66% damage reduction (+ Protection, Shroud DR, etc). There’s sometimes still a use for a PBAoE fear though and you can get both full effects if you time it correctly. Stability also helps since you’re melee. The DR has no cast time meaning it can be used even CC’d, making it great in emergencies.
 
 Soul Spiral
 4 x Combo Whirl for PBAoE damage & Poison.
@@ -3496,6 +3496,36 @@ Executioner’s Scythe
 Single target damage, increasing the lower they are. Stuns target. Creates an Ice Combo field that pulses Chill.
 
 Has a decent animation time, so it’s actually a DPS loss if you use it while they’re >= 50% HP. So it starts out as just a CC skill and eventually becomes a fully fledged damaging skill once below 25% HP. Ice Combo field is also there for the Condition build (Chill = Bleed) but it’s also the only Ice Combo field Reaper / Necro has.
+
+Greatsword
+High damage & slow attacks w/ cleave. 2H.
+
+Dusk Strike -> Fading Twilight -> Chilling Scythe
+Frontal cleave & Life Force.
+Frontal cleave, more damage & same Life Force.
+Frontal cleave, most damage & most Life Force. Chills & resets Gravedigger CD.
+
+Another basic melee combo. Attacks are pretty slow even compared to other Greatsword autos from other classes so it takes some getting used to. Resets the CD of Gravedigger, effectively making it a 4th part of the combo but much more flexible as you can’t break the combo. Chill is also there for certain Traits.
+
+Gravedigger
+3 x Combo Whirl for heavy PBAoE damage. Resets CD if hitting a Downed or <= 50% HP enemy.
+
+Does heavy damage but has a decently long cast time so it’s easy to cancel. Pretty much replaces your auto once the enemy is under 50% HP outside of Life Force generation, which removes the combo counting in exchange for resource management. Skills that change the combat loop are more interesting.
+
+Death Spiral
+Combo Whirl for frontal cleave 6 x damage & 12 x Vulnerability. Gain Life Force per enemy hit per hit.
+
+Does good damage & debuffing while recovering a decent chunk of Life Force, especially in AoE situations since it’s per hit (6x) per enemy. Other than that it’s more melee damage. Less than Gravedigger spam though, so again you need to manage Life Force in the execution phase.
+
+Nightfall
+Place a Dark Combo field beneath that pulses 4 x damage, Blindness, Cripple & Boon Corruption.
+
+Does good damage and has a ton of utility. It’s unique from the other skills in that it persists after being casted, meaning you can enter Shroud and gain Shroud related buffs on it. This makes it overall stronger than the other skills. Utility effects aren’t worth holding the skill for in PvE, they’re more like a happy bonus.
+
+Grasping Darkness
+Frontal claws that damage, Chill & Pull enemies towards you. Life Force per enemy hit.
+
+Has an annoying animation that can be cancelled with Nightfall or any weapon swapping (including Shroud). While there’s some skill expression in this, it’s ultimately arbitrary as to which skills have an animation cancel, meaning it’s inconsistent = unintentional. Mostly used for either the Pull utility or Life Force + Chill (for Traits). In group content, Pull is rarely useful for boss fights so that just leaves you using it on cooldown for the Life Force & Chill. If you really need a Pull, Spectral Grasp is a lot better since it doesn’t require aiming.
 
 
 Scourge Combat
