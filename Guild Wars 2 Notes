@@ -3455,11 +3455,48 @@ Shroud / Condition DPS option. Take this if you’re a Condition build. ICD spec
 
 Reaper Combat
 Melee oriented and focuses on Power damage which is something base Necro lacked.
-Otherwise it’s similar to base Necro w/ the Life Force & Shroud, but changes it from Death Shroud to Reaper Shroud which degenerates slightly quicker.
+There’s some Condition damage capabilities w/ Chill but with how wacky Combo fields are in their prioritisation, more often than not you will ignore your own Ice fields which is where a lot of your Chill comes from, making it inconsistent at best. 
+There’s just not enough Chill application to warrant ever building around it.
+Otherwise it’s similar to base Necro w/ the Life Force & Shroud, but changes it from Death Shroud to Reaper’s Shroud which degenerates slightly quicker.
 Gains access to Greatsword, allowing new skills which are melee cleaving.
 Gains access to Shout skills, PBAoE effects for just enemies.
 Gain access to the Reaper traitline. This uses up 1 traitline and is unique from other Elite specialisations (they all use the 3rd tree slot).
 Reaper Abilities
+Reaper’s Shroud
+
+Reaper’s Shroud -> Exit Reaper’s Shroud
+Replace current weapon skills w/ the below. Also prevents Healing, Utility & Elite skills from being used (if Minions are summoned they stay summoned. Signet passives are gone unless otherwise stated). Turn Life Force into the current HP bar & take 33% reduced damage. Press again to exit, putting it on a 10s CD. Drains Life Force slightly faster than Death Shroud.
+
+Aquatic version is pretty much the same but like always, will be ignored.
+
+Life Rend -> Life Slash -> Life Reap
+Frontal cleave.
+Frontal cleave, more damage.
+Frontal cleave, most damage. Life Force per target hit.
+
+Your basic melee cleave combo. Makes sense for it to cleave as you’re using a big ass scythe. Damage ramps up as well. Life Force at the end pretty much extends the time you’re in Shroud, which also works along with a Trait which reduces all other Shroud CDs = more abilities = more damage = more player agency = more fun.
+
+Death’s Charge
+Combo Leap forward, destroying Projectiles and dealing PBAoE pulsing damage. PBAoE damage + Blind at the end.
+
+Does decent damage, can be used as a gap closer and also has defensive utility w/ the projectile destruction + Blind. It does a whole bunch at once and since it’s only a 6s CD, you’re not really punished for just spamming it for damage. That does make it a little less interesting in the decision making department but again, 6s CD.
+
+Infusing Terror -> Terrify
+Give self 66% all damage reduction & 3 x Stability. Activate within 6s for:
+PBAoE Fear. Removes the above DR.
+
+Has an interesting decision to be made: DR or CC. The DR has been super increased in PvE since I last played a lot of Reaper (20% -> 66%) so now it’s probably just better for 6s of 66% damage reduction (+ Protection, Shroud DR, etc). There’s sometimes still a use for a PBAoE fear though and you can get both full effects if you time it correctly. Stability also helps since you’re melee.
+
+Soul Spiral
+4 x Combo Whirl for PBAoE damage & Poison.
+
+The big damaging skill, for both Power & Condition (not keen on it). It does have a lengthy animation channel so you can be interrupted / accidentally cancel it. Other than that, there’s a Whirl that could be handy (more likely not though).
+
+Executioner’s Scythe
+Single target damage, increasing the lower they are. Stuns target. Creates an Ice Combo field that pulses Chill.
+
+Has a decent animation time, so it’s actually a DPS loss if you use it while they’re >= 50% HP. So it starts out as just a CC skill and eventually becomes a fully fledged damaging skill once below 25% HP. Ice Combo field is also there for the Condition build (Chill = Bleed) but it’s also the only Ice Combo field Reaper / Necro has.
+
 
 Scourge Combat
 
