@@ -902,7 +902,7 @@ Same as core Elementalist, but has the following changes:
 Gains access to Warhorn, allowing new skills which are support oriented.
 Gains access to Overloads after staying in an Attunement for 6s, a powerful channelled skill which then puts that Attunement on a 20s cooldown. Very annoying if interrupted.
 Gains access to Shout skills, PBAoE effects for both allies and enemies.
-Gain access to the Tempest traitline. This uses up 1 traitline and is unique from other Elite specialisations (they all use the 3rd tree slot).
+Gains access to the Tempest traitline. This uses up 1 traitline and is unique from other Elite specialisations (they all use the 3rd tree slot).
 Tempest Abilities
 Overloads
 
@@ -3453,9 +3453,12 @@ Shroud skill 1 inflicts Burning on target. Scourge: 1s ICD. Harbinger: ⅓ durat
 
 Shroud / Condition DPS option. Take this if you’re a Condition build. ICD specifically for the Condition specs is a bit weird though, but seemingly there for damage balance purposes as base classes aren’t really played and Reaper is mostly a Power spec. Other than that, it’s just extra DoT damage doing something you’re already doing.
 
-
 Reaper Combat
-
+Melee oriented and focuses on Power damage which is something base Necro lacked.
+Otherwise it’s similar to base Necro w/ the Life Force & Shroud, but changes it from Death Shroud to Reaper Shroud which degenerates slightly quicker.
+Gains access to Greatsword, allowing new skills which are melee cleaving.
+Gains access to Shout skills, PBAoE effects for just enemies.
+Gain access to the Reaper traitline. This uses up 1 traitline and is unique from other Elite specialisations (they all use the 3rd tree slot).
 Reaper Abilities
 
 Scourge Combat
