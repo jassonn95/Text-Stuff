@@ -3269,7 +3269,7 @@ Lingering curse
 Gain Condition Damage. Conditions inflicted by Scepter last 50% longer. Feast of Corruption becomes Devouring Darkness, increasing damage, Torment duration & gains Life Force per enemy hit.
 
 Extra Condition Damage for the Condition Damage builds, always nice to have. Huge Condition duration increase for Scepter and upgrades one of its skills to be even stronger. Only reason not to take this is if you’re not using Scepter for some reason, and even then the Condition Damage might be enough as a Trait. The Condition Duration + upgrading a skill are a lot more interesting than the usual recharge 20% faster variants as you can feel its effects a lot more.
-Death Magic - Tankiness
+Death Magic - Tankiness & Minions
 
 Armored Shroud
 Gain 5 x Death’s Carapace in Shroud (max 30). Death’s Carapace: 20 Toughness.
@@ -3330,6 +3330,67 @@ Unholy Sanctuary
 Heal 2% HP/s while in Shroud. While Life Force is >= 10% (25% for Scourge), Shroud will activate if you would take a lethal blow. 30s ICD.
 
 Defensive / sustain option. Offers a little bit of healing while you’re in Shroud to help top you off. Not as needed in group play but could be useful solo; definitely more effective in PvP. Automatically makes Shroud a 2nd chance HP bar which could be useful but considering Shroud can be entered while CC’d, it’s not that helpful if you’re paying attention. Could possibly also give a protective / healing field (fitting w/ “Sanctuary”) when proccing to differentiate it from someone who’s paying attention and activates Shroud when they’re about to die. Only edge case is if Shroud is on cooldown, in which case this is better.
+Blood Magic - Life Steal & Healing
+
+Mark of Evasion
+Leave a Lesser Mark of Blood when dodging. Lesser Mark of Blood: same as Mark of Blood but weaker, Regens for less and doesn’t Blast.
+
+Adds a little bit of extra damage & healing when you dodge, a little bit of risk. In PvE you just use it while in the hitbox to proc it for damage, doesn’t really do anything else.
+
+Ritual of Life
+Cast Lesser Well of Blood when starting a revive. All of your Wells of Blood partially revive allies per pulse. Lesser Well of Blood: same as Well of Blood but less initial self healing & healing pulse. 30s ICD.
+
+Support / revive option. Like the other revive augmenting Traits, taking Well of Blood is encouraged for max value. Pretty much exactly the same as Ele’s Geyser, except it’s a Healing skill rather than a Staff skill (both pulse healing).
+
+Quickening Thirst
++25% movement speed while >= 75% HP. Dagger skills recharge 33% faster if used above the same threshold.
+
+Dagger option. Way more interactive than the flat 20% reduction of other similar Traits. HP threshold synergies w/ both the traitline and Dagger’s Life Siphon. That said, Dagger is still a very weird item with no outstanding feature in PvE, so no real point in using it or this trait. Movement speed is sometimes handy but Swiftness is common enough.
+
+Blood Bond
+Cast Lesser Signet of Vampirism on target if you inflict Bleeding on them so they’re at 4 or more stacks. Lesser Signet of Vampirism: same as Signet of Vampirism but only has 5 stacks. 16s ICD.
+
+5 stacks every 16s seems very weak. The damage is pretty weak and can’t even crit but the healing is okay. It has the same issue as the regular version in that the Lifesteal can and will be wasted on full HP allies, meaning more often than not it’s just a bit of extra damage and not even good damage. A way to make this better is to possibly change the effect to “own Lifesteal also heals allies” or something like that, since it’s called “Blood Bond”. Might overlap Vampiric Presence a little bit though.
+
+Vampiric
+Each attack’s hit Lifesteals. Minions also Lifesteal and heal you for that amount too.
+
+Has no ICD, so skills with a lot of attacks get the most benefit. Also makes having a lot of Minions worthwhile too since more Minions = more attacks. Basically just more Lifesteal, fitting the theme.
+
+Life from Death
+PBAoE heal & partially revive allies when exiting Shroud.
+
+Healing / Support option. The only real Support spec for Necro is Scourge though since it has Barrier in its kit which obviously encourages building Healing Power. Overall it’s just extra healing / reviving, not that useful for other specs since they want to stay in Shroud for as long as possible and Scourge has a set time for their Shroud.
+
+Banshee’s Wail
++50% Duration for all Warhorn skill effects (beneficial & detrimental). +10% Healing to others.
+
+Useful if using Warhorn, otherwise there are better Traits to use. Not sure why Warhorn and Healing to others are coupled together, considering Warhorn has 0 healing capability. In fact there really aren’t any party healing weapon skills for Necro other than the single AoE regen on staff. While the Trait should be healing related, it feels shoehorned together with the Warhorn part.
+
+Vampiric Presence
+Pulsing PBAoE aura that giants Lifesteal to allies (0.5s ICD for Lifesteal procs). Doubled Lifesteal damage & healing while in Shroud.
+
+Offensive / sustained healing option. Basically gives everyone their own Lifesteal (doesn’t stack w/ other Necros w/ this trait). As mentioned in Blood Bond, the suggested change would overlap but would make that Trait an actual option, short of lowering the CD from 16s to like 5s.
+
+Last Rites
+While not Downed, nearby allies do not bleed out while Downed. Gain Healing Power based on current HP%, increasing the lower you are.
+
+Downed related Traits are useful but not that often in PvE, since in the ideal scenario no one gets Downed. Extra Healing Power the lower you are makes it more dynamic and effective when you need it most, though it’s essentially just a stat increase.
+
+Blood Bank
+Gaining HP gives 10% of it as a Barrier. Becomes 100% while at max HP.
+
+Survivability via overheal option. Pretty cool unique effect that doesn’t really see much use since it’s best for Solo to make use of the Barrier but as Solo you don’t get as much healing. Definitely a PvP option.
+
+Unholy Martyr
+Entering Shroud transfers Conditions from allies to you (5 max). Exiting Shroud consumes Conditions (3 max) for Life Force per consumed.
+
+Utility option. The issue is that it requires exiting Shroud for max value, while the best use of Shroud is more often than not maximising its duration. Can “combo” with Shrouded Removal which pulses cleansing while in Shroud but requiring 2 Traits for some decent Condition cleansing isn’t that worth it, especially in PvE. Might be worth it for certain PvP matchups.
+
+Transfusion
+Shroud skill 4 pulses healing & partial revival. Up to 5 downed allies will be teleported to you upon using Shroud skill 4.
+
+Healing / support option. This is especially useful on Scourge because its mechanic is placing down persistent AoEs which means you can pull allies towards you from pretty far away to heal and revive them. It always pulses 9 times over the duration of each skill, so it technically heals the fastest on Reaper since its skill only lasts 2.75s but takes 9s for Harbinger which is yikes. Lots of healing & reviving in this traitline and this is no different. Its pull is the most powerful and unique aspect to the revives.
 
 
 
