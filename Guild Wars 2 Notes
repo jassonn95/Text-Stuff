@@ -3269,6 +3269,67 @@ Lingering curse
 Gain Condition Damage. Conditions inflicted by Scepter last 50% longer. Feast of Corruption becomes Devouring Darkness, increasing damage, Torment duration & gains Life Force per enemy hit.
 
 Extra Condition Damage for the Condition Damage builds, always nice to have. Huge Condition duration increase for Scepter and upgrades one of its skills to be even stronger. Only reason not to take this is if you’re not using Scepter for some reason, and even then the Condition Damage might be enough as a Trait. The Condition Duration + upgrading a skill are a lot more interesting than the usual recharge 20% faster variants as you can feel its effects a lot more.
+Death Magic - Tankiness
+
+Armored Shroud
+Gain 5 x Death’s Carapace in Shroud (max 30). Death’s Carapace: 20 Toughness.
+
+Extra tankiness while in Shroud. Introduces the traitlines main mechanic of a Toughness stack. As always, the UI isn't that great to keep track of the little icon.
+
+Flesh of the Master
+Minions have +50% HP. Gain 2 x Death’s Carapace per minion you have out.
+
+Tankiness option. Makes your minions a lot tankier so they do more damage since they live longer. Since they live longer, there’s less pressure on you so you do more damage too. Adds even more tankiness through the Carapace stacks. Much more interactive skill type trait compared to “X skills recharge faster”, though all it requires is for you to have minions out. All 3 choices are related via gaining stacks, making them comparable to one another.
+
+Putrid Defense
++15% Poison Damage. Applying Poison grants Death’s Carapace.
+
+Offensive option. Poison isn’t as prominent in Necro builds though (the order is Torment > Bleeding > Poison > Burning) so it’s not as effective as it seems. Offers another way of gaining Carapace stacks for more tankiness.
+
+Shrouded Removal
+Lose a Condition when entering Shroud + every 3s in Shroud. Gain 3 x Death’s Carapace when removing Conditions from yourself in any way.
+
+Utility option that helps with Condition cleansing. More prominent in PvP as that’s where the majority of Conditions come from, especially persistent Conditions since it only cleanses every 3s. Gaining stacks from any removal of Conditions rather than just from the Shroud cleanse makes it synergise w/ other Necro cleanses, giving it more versatility.
+
+Soul Comprehension
++20% passive Life Force from deaths (10% -> 12%). Kills (and assists) grant Death’s Carapace.
+
+A bit of extra Life Force from deaths is nice, but only applicable for open world or fights with adds. Same goes for the stacks as it requires things dying which isn’t always the case. Still it does its job when it procs and it fits the theme of death magic.
+
+Necromantic Corruption
++25% Minion Damage. Each Minion takes a Condition from you every 10s (small delay between each transfer). Minion attacks transfer Conditions to the target.
+
+Offensive option if taking minions. Makes combat loop a lot simpler & easier, just need to keep your Minions alive / summoned. There is a bit of a delay before a Condition is taken off of you, most likely to prevent full Minion builds making you immune to Conditions. Transferring Conditions to enemies fits the Necro theme of plague spreading.
+
+Dark Defiance
+When Disabled, gain Protection (20s ICD). Protection on self also grants -20% Condition Damage taken.
+
+Defensive option. Both effects are passive so it’s not the most interactive. Become tankier when in a tough spot (CC’d) and increase that tankiness to also include Condition Damage, which wasn’t a thing before Resolution was added.
+
+Deadly Strength
+Death’s Carapace also grants 10 Power per stack.
+
+Offensive option if not taking minions. 10 Power (max 300) isn’t that much though, so it’s not a very strong or exciting trait. It used to give Power based on 7% of Toughness, doubled while in Shroud. The 1st part is a lot less interesting than the current iteration as it requires you keeping up stacks. The 2nd part w/ doubling effectiveness while in Shroud could’ve been kept in the new version, putting more emphasis on Shroud which is the strong form of Necro / the highlight.
+
+Beyond the Veil
+Take -10% Condition Damage while at or above 10 x Death’s Carapace stacks.
+
+More tankiness w/ stacks, this time Condition Damage as opposed to Strike Damage (which is what Toughness counteracts). Stack threshold encourages a bunch of minions to consistently maintain the stacks vs. a linear scaling of DR vs. stacks.
+
+Death Nova
+When you or a Minion is downed (or dead), create a Poison Nova. Summon a Jagged Horror Minion when you kill a foe (cap of 5, 3s ICD, 30s duration). Poison Nova: PBAoE Poison combo field for pulsing some damage & Poison.
+
+Offensive (Condition) option. A couple of the Minion skills have in-built sacrifices which interact with this, otherwise the only time this procs is when the summoned minions expire so it’s not very effective. It’s even less effective in single target fights where the summoning doesn’t even happen. There’s no real way to add more to this skill since it’s called Death Nova, it needs something to die. Possibly make it start pulsing a weak Poison field when low HP and then explode when downed / die?
+
+Corrupter’s Fervor
+Inflicting a Condition on an enemy grants Death’s Carapace. Gain pulsing Protection while at or above 25 x Death’s Carapace stacks.
+
+Defensive option. A lot of Necro skills apply a Condition so it’s very easy to reach the threshold since there’s no ICD. Applying Protection gives it counterplay in PvP, otherwise in PvE it’s just additional DR which is weaker in group play since others will be providing Protection too.
+
+Unholy Sanctuary
+Heal 2% HP/s while in Shroud. While Life Force is >= 10% (25% for Scourge), Shroud will activate if you would take a lethal blow. 30s ICD.
+
+Defensive / sustain option. Offers a little bit of healing while you’re in Shroud to help top you off. Not as needed in group play but could be useful solo; definitely more effective in PvP. Automatically makes Shroud a 2nd chance HP bar which could be useful but considering Shroud can be entered while CC’d, it’s not that helpful if you’re paying attention. Could possibly also give a protective / healing field (fitting w/ “Sanctuary”) when proccing to differentiate it from someone who’s paying attention and activates Shroud when they’re about to die. Only edge case is if Shroud is on cooldown, in which case this is better.
 
 
 
