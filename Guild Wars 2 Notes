@@ -3391,10 +3391,67 @@ Transfusion
 Shroud skill 4 pulses healing & partial revival. Up to 5 downed allies will be teleported to you upon using Shroud skill 4.
 
 Healing / support option. This is especially useful on Scourge because its mechanic is placing down persistent AoEs which means you can pull allies towards you from pretty far away to heal and revive them. It always pulses 9 times over the duration of each skill, so it technically heals the fastest on Reaper since its skill only lasts 2.75s but takes 9s for Harbinger which is yikes. Lots of healing & reviving in this traitline and this is no different. Its pull is the most powerful and unique aspect to the revives.
+Soul Reaping - Shroud & Life Force
 
+Gluttony
++10% Life Force from all sources.
 
+This includes from kills, skills & Traits. A bit boring but fits the theme. More Life Force does mean more Shroud which, again, is the highlight of Necro.
 
+Unyielding Blast
+Shroud skill 1 inflicts 2 x Vulnerability.
 
+More Vulnerability = more damage. Affects the Shroud’s “auto” (Scourge it affects all skills since using a skill causes Shades to “attack”) which is the filler and least impactful of Shroud skills but Vulnerability is always welcomed. Less effective on Boss enemies since everyone will be applying the debuff on it already.
+
+Soul Marks
+Marks (Staff AoEs) become Unblockable and generate Life Force when triggered.
+
+Life Force option if using Staff. Unblockable doesn’t mean much in PvE, so it’s more of a PvP thing. Extra Life Force is handy for the Life Force hungry builds like healing / support.
+
+Speed of Shadows
+Entering Shroud removes movement Conditions & grants Swiftness.
+
+Mobility option, meaning it’s a PvP option. Makes Shroud more powerful which is a good thing since it’s meant to feel like a powerful form.
+
+Sinister Shroud
+Shroud skills recharge 15% faster.
+
+Makes Shroud even more powerful. More skills = more damage (usually) = more player agency = more dopamine hits. It’s a bit boring but it does affect all Necros and is baseline if taking this traitline so it makes sense.
+
+Soul Barbs
+Entering or exiting Shroud grants +10% All Damage for 15s.
+
+Damaging / Shroud option. All Shrouds have a 10s CD, except for Scourge which has a 20s CD. This means that you’re able to go into Shroud, stay in it for ~15s DPSing and then exit, use your other cooldowns + Utility skills for another 15s then re-enter. It changes the combat loop slightly to centre around the damage boost (you want to be doing this anyway but this gives a 15s timer).
+
+Vital Persistence
+Gain Vitality. +20% Incoming Healing.
+
+Survivability option. Doesn’t really fit with the other choices as it affects neither the Shroud nor Life Force other than increasing the cap w/ the Vitality. It’s pretty boring, just makes you have a higher max HP and heal for more.
+
+Fear of Death
+Your Fear effects last twice as long. Inflicting Fear generates Life Force.
+
+CC / Life Force option. Much more useful in PvP as Fear requires ticking to be effective and boss CC phases are usually short. Generates Life Force so it fits in the traitline unlike some other Traits.
+
+Soul Battery
++20% Max Life Force (base = 69% of Max HP).
+
+More max Life Force just means more effective HP since Life Force drains at a fixed % of the Max Life Force, so it doesn’t actually increase the time in Shroud. It does technically increase Life Force gained since they’re based on a % of Max Life Force too. Nice to have but nothing to play around, which fits since it’s a minor Trait.
+
+Eternal Life
+Gain Life Force every second not in Shroud up to 66%. Gain Protection upon entering Shroud.
+
+Life Force / tanky option. If you really need Life Force generation, say there’s not enough things dying or not enough things to hit with Life Force skills, then it might be an option. Also makes you tankier in Shroud via Protection, meaning it’s a PvP option since in PvE others will be providing Protection. Like before, stronger Shroud = good.
+
+Death Perception
++15% Crit Chance. +15% Crit Damage in Shroud.
+
+Shroud / Power DPS option. Used to only give 50% Crit Chance but only in Shroud. Changing it to always give the Crit Chance and having Crit Damage in Shroud makes sense as you always want to aim for 100% crit (having more doesn’t do anything) but Crit Damage you want as much as possible. Improves Shroud so it becomes even more powerful, heightening its power fantasy. Also cute pun name.
+
+Dhuumfire
+Shroud skill 1 inflicts Burning on target. Scourge: 1s ICD. Harbinger: ⅓ duration.
+
+Shroud / Condition DPS option. Take this if you’re a Condition build. ICD specifically for the Condition specs is a bit weird though, but seemingly there for damage balance purposes as base classes aren’t really played and Reaper is mostly a Power spec. Other than that, it’s just extra DoT damage doing something you’re already doing.
 
 
 Reaper Combat
