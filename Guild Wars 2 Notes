@@ -665,7 +665,7 @@ Single target damage & Vulnerability when switching to Air / finishing Air Overl
 More benefits for switching to Air. Could’ve done with a Shocking Aura in PvE too. This one retains the ability to crit because it’s in Air I guess.
 
 Inscription
-Gain a Boon when casting a Glyph. Glyphs recharge 20% quicker.
+Gain a Boon when casting a Glyph. -20% Glyph CD.
 Fire: Might | Water: Regen | Air: Swiftness | Earth: Protection
 
 Boons given are pretty bad as it’s 1 stack of Might, Regen requiring Healing Power to scale, Swiftness being easily given / not needed and Protection only lasting 3s. Glyphs recharging quicker might be useful but not enough to warrant choosing them if you’re not already using them. Big opportunity cost compared to the others.
@@ -681,7 +681,7 @@ Deal +10% strike damage to hard CC’d (cannot attack) or defiant (CC immune) en
 +10% damage in boss fights is huge since they’re almost always CC immune. And when they’re not, the group will CC it to make it even more vulnerable. Damage multipliers on top of damage multipliers. Stun duration increase is nice but not that many skills apply Stun specifically. Might’ve been better to be hard CC in general. Take if doing group content with a boss.
 
 Aeromancer’s Training
-Gain Ferocity, doubled in Air. Air weapon skills recharge 20% faster.
+Gain Ferocity, doubled in Air. -20% Air weapon skills CD.
 
 More damage via Ferocity and via more Air skills. Same notes about CDR apply. Little bland though, could use something relating to Swiftness or CC or critting.
 
@@ -745,7 +745,7 @@ Earthen Blessing
 PvP option, there’s no way those 3 Conditions are prevalent enough in PvE to warrant taking it.
 
 Geomancer’s Training
--10% strike damage from nearby enemies. Earth weapon skills recharge 20% faster.
+-10% strike damage from nearby enemies. -20% Earth weapon skills CD.
 
 General tankiness from enemies in close range. More Earth skills, you know the drill. It being direct damage reduction as opposed to Toughness does seem like it’s trying not to make Strength of Stone too powerful.
 
@@ -756,7 +756,7 @@ Remove 1 condition when hit while >= 75% HP. 1s ICD.
 Some utility to reward being tanky. ICD is understandable, don’t want it too strong in multitarget fights but HP conditional seems like it’s only there because of PvP, it should be reduced. Could also be changed to be Conditions removed every X seconds in combat, X reduced every time hit to make it a viable option for when you’re successfully dodging / blocking.
 
 Written in Stone
-Signets recharge 20% faster & retain passives while recharging.
+-20% Signets CD & retain passives while recharging.
 
 Technically the offensive option as it means more Signet of Fire, the big Burn utility (and also Signet of Healing but to a lesser degree of effectiveness). Out of all the Utility specific traits, this has got to be the most effective and useful of the lot since it changes functionality in a good way rather than slapping on a small Boon / Aura.
 
@@ -807,7 +807,7 @@ Flow like Water
 Offensive option. Adds another layer of keeping your HP above a certain level, though if you play like me you want to be topped off always because of how squishy Eles are. The 2nd portion helps maintain the 1st portion, synergising with itself.
 
 Aquamancer’s Training
-+15% Healing to others. Water weapon skills recharge 20% faster.
++15% Healing to others. -20% Water weapon skills CD.
 
 Constant healing to others increase. More Water skills = you know the drill 2.0.
 
@@ -873,7 +873,7 @@ Lesser Arcane Shield: same as Arcane Shield, but doesn’t break stun or crit.
 Used to be a stun break and shield block when hit <= 50% HP, now it’s tied to the most disappointing part of Eles. None of the skills have a CD anywhere near 20s other than the Elemental one and that requires it to stay alive and spam its Command almost on cooldown (15s). Also requires holding Elites for the defensive effect, it’s not really a “Final” Shielding in most cases where you want to use your powerful ability.
 
 Elemental Enchantment
-Gain Concentration (boon duration stat) & Attunements recharge 15% faster.
+Gain Concentration (bonus boon duration stat) & -15% Attunements CD.
 
 The Concentration is generally the reason to go down this tree (+ the ressing trait) which bodes pretty poorly for the tree in general if the best thing is a stat increase. Lowering the cooldown of Attunements is nice but not at all needed. Cooldown of the element left shouldn’t matter as you should use all you need before leaving and the cooldown between non-used elements is negligible.
 
@@ -887,7 +887,7 @@ Earth: Shock Wave = PBAoE damage, Bleeding, Cripple & Blast.
 Another good trait that adds functionality to existing mechanics in a non-Boon / stat buff way. Buffs the dodge to add additional effects, most useful being the Water & Earth ones. Definitely looks as though the Earth one is overloaded compared to Air though, could use some additional effects for the weaker ones.
 
 Elemental Surge
-Arcane skills recharge 20% faster, grant a Ferocity buff & inflict a Condition based on attunement:
+-20% Arcane skills CD, grant a Ferocity buff & inflict a Condition based on attunement:
 Fire: Burning | Water: Chilled | Air: Blindness | Earth: Immobilize
 
 Possible to maintain a high uptime on this by using multiple Arcane skills but it doesn’t feel like they fit in on an Elementalist. I wouldn’t miss it if this tree was removed, its traits merged into the other 4 and the associated skills were gone. The effect itself is pretty cool, gives you a buff to maintain but not strong enough to do so due to power creep & opportunity cost for the Utility skill slots.
@@ -2035,7 +2035,7 @@ While having Fury, attacks apply Vulnerability. 1s ICD.
 Not really needed since Vulnerability is a very common Condition. ICD is there to prevent someone being blasted with debuffs I guess but put that in PvP since it’s only really a problem there. Or at least lower it. Fury conditional is not really an issue most of the time.
 
 Zealous Blade
-Gain Power, doubled w/ Greatsword. Greatsword skills recharge 20% faster.
+Gain Power, doubled w/ Greatsword. -20% Greatsword skills CD.
 
 Power DPS option. What a weapon specific trait should look like. More damage stat & CDR = more DPS = more fun.
 
@@ -2050,7 +2050,7 @@ Symbols deal +30% Strike Damage.
 Symbols are even stronger. Same note about Symbols becoming a pseudo damage cooldown.
 
 Eternal Armory
-Spirit Weapons gain 1 charge, recharge 20% faster & Burns on 1st hit (if it damages).
+Spirit Weapons gain 1 charge, -20% CD & Burns on 1st hit (if it damages).
 
 Makes Spirit Weapons a lot better. Extra charge is nice, recharging quicker is always great & the Burn is handy. This does encourage you to use up all 3 Utility slots on Spirit Weapons for max value, but since they all do different things you’ll end up with a “jack of all trades master of not really doing anything specific well” kind of build. 
 
@@ -2096,7 +2096,7 @@ Hitting an enemy w/ the active effect of Virtue of Justice casts Lesser Signet o
 An additional 3s root. Sneaky way of adding an extra Utility skill in w/ the 3 slot limit but its effects are pretty weak overall since it’s just the passive. Probably better in PvP.
 
 Radiant Fire
-Gain Zealot’s Flame when critting, giving you PBAoE Burning & allowing use of Zealot’s Fire if a Torch is equipped (10s ICD). Burning you inflict has +20% duration. Torch skills recharge 20% faster.
+Gain Zealot’s Flame when critting, giving you PBAoE Burning & allowing use of Zealot’s Fire if a Torch is equipped (10s ICD). Burning you inflict has +20% duration. -20% Torch skills CD.
 
 Condi damage option & a great weapon specific trait. Not only does it recharge Torch skills faster (cough Scepter), it adds a proc to play around using the existing Torch skill; something else to keep track of. 
 
@@ -2116,7 +2116,7 @@ Burning you inflict deals +10% damage. +20% Burning duration from passive of Vir
 Condi damage option. Flat damage boost is nice. Extra Burning duration is helpful but not as much as you think as a lot of Burning for Guardian comes from other skills, not just Virtue of Justice.
 
 Perfect Inscriptions
-Signets recharge 20% faster, have improved passives & keep passives while recharging.
+-20% Signets CD, have improved passives & keep passives while recharging.
 Resolve: Cleansing interval 5s -> 4s.
 Bane: Power 180 -> 216.
 Judgement: Damage Reduction 10% -> 12%.
@@ -2149,7 +2149,7 @@ Lesser Smite Condition: cleanse 2 conditions & PBAoE damage. More damage if a Co
 Also adds a 4th Utility skill without a 4th Utility slot. Lets you cleanse a couple Conditions when healing without choosing the Condition cleansing heal, freeing up your build a little. Otherwise not too interesting. 
 
 Focus Mastery
-Focus skills grant Protection & recharge 20% faster.
+Focus skills grant Protection & -20% CD.
 
 Compared to the Torch one it’s a little boring. Get tankier in the tanky tree, works fine. None of these options have anything to do with Aegis or Blocking though, despite being advertised. Maybe this one can count with Protection. Maybe.
 
@@ -2159,7 +2159,7 @@ Gain 3s Protection when blocking w/ Aegis.
 Little extra bit of tankiness. Could be made more general / versatile by changing it to Block / Reflect in general rather than relying on Aegis only. Adjust duration if needed.
 
 Stalwart Defender
-Gain Toughness w/ Shield. Shield skills recharge 20% faster.
+Gain Toughness w/ Shield. -20% Shield skills CD.
 
 Even more boring than the Focus one, which at least required a skill to be used to get its effect. A stat stick trait that does achieve its goal of tankiness.
 
@@ -2184,7 +2184,7 @@ Heal self when granting Boon to an ally, including self.
 Since a tank role doesn’t really exist, it’s not that useful since it’s just self healing. Definitely more of a PvP trait where extra sustain always helps. It’s also a pretty unique way of adding some sustain.
 
 Monk’s Focus
-Meditation skills heal self, grant Fury to allies & recharge 20% faster.
+Meditation skills heal self, grant Fury to allies & -20% CD.
 
 Little bit of extra Fury & self sustain. Not enough Fury to build around it though, more like an added bonus when using those skills. Overall, not that useful in PvE due to no tanks meaning less reliant on self heals.
 
@@ -2200,7 +2200,7 @@ Gain 5s Vigor when you Crit. 10s ICD.
 Little bit of extra dodging. Requires crit though which isn’t really used for healers since heals don’t crit. Definitely a relic of an age passed by where the trinity was purposefully avoided.
 
 Invigorated Bulwark
-+5% Outgoing Healing whenever you Block an attack, max +25%. Mace skills recharge 20% faster & their Boons granted last 33% longer (caps are still the same).
++5% Outgoing Healing whenever you Block an attack, max +25%. -20% Mace skills CD & their Boons granted last 33% longer (caps are still the same).
 
 Much better weapon specific trait. They don’t need all to have a similar impact on builds but they should be better than just being stat sticks. Rewards using some of the Mace skills well while also being able to be used w/ other weapons (namely Shield).
 
@@ -2222,7 +2222,7 @@ PBAoE heal at the end of your dodges.
 Extra healing; gives you a choice to save your dodges for survivability or use it to sustain the group.
 
 Honorable Staff
-Gain Concentration, doubled w/ Staff. Staff skills recharge 20% faster.
+Gain Concentration, doubled w/ Staff. -20% Staff skills CD.
 
 It’s just a stat boost so it’s not that useful compared to unique buffs / healing like the other options even w/ a Staff.
 
@@ -2242,12 +2242,12 @@ Virtue of Resolve passive also increases Endurance Regen by 15%.
 Additive w/ Vigor (+65% total). Extra dodging to synergise the other dodge related traits. More dodges = more survivability & healing.
 
 Pure of Voice
-Shout skills recharge 20% faster & convert 1 Condition into a Boon per ally.
+-20% Shout skills CD & convert 1 Condition into a Boon per ally.
 
 Compared to the choices below it’s not that useful. Its unique effect isn’t strong enough to warrant choosing it, especially since there are already skills that cleanse Conditions. Turning them into Boons is nice but not worth a Trait for. Probably a lot more useful in PvP.
 
 Writ of Persistence
-Symbols are bigger (😉), last 2s longer (😜) & heal allies.
+Symbols are bigger, last 2s longer & heal allies.
 
 Turns Symbols into a healing & Booning bastion. Bigger area means there’s more leeway and it lasting longer means more healing & more Boons being given, perfect for support healers.
 
@@ -2276,7 +2276,7 @@ Gain Resolution & Aegis when Disabled. 30s ICD.
 Defensive option, helps survive being CC’d.
 
 Master of Consecrations
-Consecrations last 2s longer & recharge 20% faster.
+Consecrations last 2s longer & -20% CD.
 
 Utility / Condition option. Since it increases the duration of Consecrations, it increases the duration of Purging Flames which is a big portion of Condition builds’ damage. An extra 2 pulses is huge. 
 
@@ -2301,7 +2301,7 @@ Mighty Blow becomes Glacial Blow, dealing more damage, scaling better & Chilling
 The leftover choice. Weird how there’s no Condition Damage option in this group, it ends up being this one by default. Should probably change Inspiring Virtue to be Condition Damage too. Trait itself is decent, upgrading Hammer’s specific skill rather than giving the usual -20% CDR. The Disable portion also technically upgrades the other Hammer non-auto skills too. Overall it’s a great weapon trait.
 
 Power of the Virtuous
-Gain Condition Damage based on 13% Vitality. Virtues recharge 15% faster.
+Gain Condition Damage based on 13% Vitality. -15% Virtues CD.
 
 Forced Condition Damage trait which is weird. Virtues recharging faster is probably the most you’ll get for a Power build. More Virtues to use = more cooldowns for damage (especially if taking Inspiring Virtue).
 
@@ -2417,7 +2417,7 @@ Changes Virtues to the ones listed above. Gain access to Traps.
 Like the other initial Elite specialisation traits, adding it because it’s the 1st in the tree.
 
 Piercing Light
-Traps Slow enemies & recharge 20% faster.
+Traps Slow enemies & -20% CD.
 
 Slightly improves traps. Only take if you’re using Traps, obviously. It’s actually the offensive option of the 3 since more damaging Traps = more damage. Slow is inconsequential in PvE, more of a PvP thing.
 
@@ -2648,7 +2648,7 @@ Equipping a Tome grants Quickness. 8s ICD + will not grant it if you have the Do
 Bit of extra Quickness for you to use the Tome skills quickly. ICD + Dormant clause make it a little restrictive but the small boost is nice for the bigger Tome CDs. Page refund encourages 3 skill bursts when going into Tome, allowing for more Tome skills to be used in the long run. Keeping track of how many skills were used adds an extra layer to the rotation and is the more involved & interesting part of this Trait.
 
 Weighty Terms
-Final Mantra charges Slow enemies. Mantra charges recover 20% faster.
+Final Mantra charges Slow enemies. -20% Mantra charges recovery time.
 
 More Mantra uses = more Boons / Conditions. With this Trait, you can maintain Quickness a lot easier which frees up more gear Stats for damage / healing and the Elite slot for something else like the party stun break. Final charge Slowing is more useful in PvP, not so much in PvE.
 
@@ -3154,7 +3154,7 @@ Shroud skill 1 (auto) grants 1 x Might.
 More offensive buffs while in Shroud. While Boons are usually granted by a specific support / healer, the Might granted here lasts 15s which is pretty decent sometimes. More often than not it’s wasted due to having a support though.
 
 Spiteful Talisman
-+10% Strike Damage against Boon-less enemies. Focus & Axe skills recharge 20% faster.
++10% Strike Damage against Boon-less enemies. -20% Focus & Axe skills CD.
 
 Since 99% of mobs in PvE don’t have Boons, it’s a +10% damage buff for Power builds. Also makes Axe & Focus a little bit more attractive to use. Both of these weapons have skills which get rid of Boons, synergising. This effect is more prevalent in PvP though.
 
@@ -3236,7 +3236,7 @@ Gain Fury when entering Shroud. Gain Precision.
 Bit of extra Fury padding for more crits, which is nice but won’t do much for DoT builds other than Barbed Precision. Same goes for the extra Precision, though that at least benefits Target the Weak (below).
 
 Master of Corruption
-Corruption skills recharge 33% faster & inflict another Condition on you.
+-33% Corruption skills CD & inflict another Condition on you.
 
 If using Corruptions (which you should be for Condition builds), take this trait. More Conditions = more damage. It uniquely comes with a “downside” of another Condition being inflicted on you when using Corruptions, but what it really does is make transferring Conditions stronger, especially the damaging ones. 
 
@@ -3343,7 +3343,7 @@ Cast Lesser Well of Blood when starting a revive. All of your Wells of Blood par
 Support / revive option. Like the other revive augmenting Traits, taking Well of Blood is encouraged for max value. Pretty much exactly the same as Ele’s Geyser, except it’s a Healing skill rather than a Staff skill (both pulse healing).
 
 Quickening Thirst
-+25% movement speed while >= 75% HP. Dagger skills recharge 33% faster if used above the same threshold.
++25% movement speed while >= 75% HP. -33% Dagger skills CD if used above the same threshold.
 
 Dagger option. Way more interactive than the flat 20% reduction of other similar Traits. HP threshold synergies w/ both the traitline and Dagger’s Life Siphon. That said, Dagger is still a very weird item with no outstanding feature in PvE, so no real point in using it or this trait. Movement speed is sometimes handy but Swiftness is common enough.
 
@@ -3414,7 +3414,7 @@ Entering Shroud removes movement Conditions & grants Swiftness.
 Mobility option, meaning it’s a PvP option. Makes Shroud more powerful which is a good thing since it’s meant to feel like a powerful form.
 
 Sinister Shroud
-Shroud skills recharge 15% faster.
+-15% Shroud skills CD.
 
 Makes Shroud even more powerful. More skills = more damage (usually) = more player agency = more dopamine hits. It’s a bit boring but it does affect all Necros and is baseline if taking this traitline so it makes sense.
 
@@ -3700,6 +3700,68 @@ Ghastly Breach - Elite
 Dark Combo field that pulses Damage, 3 x Might, Slow, Burning & Boon Corruption to 3 x Torment.
 
 Compared to Plaguelands, it does less overall damage & applies less Conditions in exchange for some Might, a Slow (better in PvP), Boon Corruption & a Dark field. Half of these effects are strictly better for PvP, the other half are more support oriented which is welcome but they’re not that strong (Might lasts 6s, Combo fields have janky prioritisation). Overall this seals the deal for Scourge to be a PvP spec w/ its hybridisation and Boon Corruption effects.
+
+Traits
+
+Mantle of Sand
+Gain access to Shade skills in exchange for the usual Shroud. Gain access to Punishment skills.
+
+As usual, including it because it’s the 1st trait.
+
+Abrasive Grit
+Sand Flare now also grants the Barrier to allies. Granting Barrier via Scourge skills or Traits removes a Condition from them.
+
+Support option. Sand Flare used to be PBAoE Barrier by default. Extra cleansing via Barrier is helpful sometimes, moreso in PvP. Line about Scourge skills / Trait is meant to cover edge cases of weapons you can pick up, though I don’t think any do. More like future proofing from wacky interactions. Take it if supporting.
+
+Fell Beacon
+-20% Torch skills CD. Gain Expertise (bonus Condition Duration stat) based on 7% of Condition Damage.
+
+DPS option. More Torch skills = more Torment = more damage. More Expertise means you can spend less of your gear stat budget on Condition Duration and more on Condition Damage = more DPS overall. Overall a simple trait, nothing crazy.
+
+Nourishing Ashes
+Gain 5% Life Force when inflicting Burning, removing or Corrupting a Boon. 3s ICD.
+
+Life Force option. Life Force isn’t really that much of an issue to warrant spending this Trait on. Mostly a PvP issue where you use Shroud Life Force HP / Shade skills (Barriers) a lot more to survive. Burning + Boon makes sense, not sure why Torment isn’t included since it’s part of the Scourge theme too, more than Burning.
+
+Sand Sage
+Gain Concentration & Expertise for each active Sand Shade.
+
+More Boon & Condition duration for using Shades. Funny thing is that Scourge & Necro in general don’t really grant that many Boons, so Concentration goes mostly wasted. With the introduction of Harbinger, it makes Scourge’s Condition aspect feel really redundant. Should push this more into the meta support builds where it’s a healer + Boons (Might, Fury + Quickness or Alacrity) or support DPS + Boons. Currently it’s purely healing or subpar DPS w/ very little Boon support, reiterating its PvP-ness.
+
+Desert Empowerment
+Manifest Sand Shade “attack” grants a Barrier to nearby allies.
+
+Support option. Grants persistent Barriers which can help if there’s constant damage, otherwise the Barrier will go to waste since it degenerates after ~5s. One way it could play into the Barrier identity is that each “attack” grants a stack that makes the next Sand Cascade + Desert Shroud grant more Barrier, since Barriers strength is in preventing damage which is most effective against big bursts in most fight designs.
+
+Sadistic Searing
+-20% Punishment skill CD & causes the next Manifest Sand Shade “attack” to inflict Burning in addition to its other effects.
+
+Offensive option if using Punishments. Unfortunately Punishment skills have some of their power budget in the Boon Corruption which isn’t useful in PvE at all, meaning it loses out to the base Necro utility skills in terms of Condition damage. PvP option.
+
+Herald of Sorrow
+Desert Shroud upgrades to Sandstorm Shroud. It’s cheaper, backloads its effect in a detonation rather than pulsing + detonation grants allies Barrier, damages, 6 x Torments & Corrupts Boons.
+
+Completely changes how the skill works which is pretty cool, opting for burst rather than pulsing effects. However, it does less damage and applies less Torment compared to being hit by all the pulses which is the case in PvE. The detonation delay is very telegraphed so it’s pretty easy to dodge in PvP. The only benefit is that it grants Barrier to allies + Corrupts Boons, but it loses out to the other options. Not really sure why its effects are so weak relative to not taking the Trait.
+
+Blood as Sand
+-5% All Incoming Damage per active Sand Shade.
+
+Extra tankiness, which helps since the Barrier gained in exchange for losing the ability to use Life Force as HP isn’t always there to block damage. Also the other Shrouds inherently take reduced damage anyway (33%), this is just giving an effect back. Yes Shroud is less common than having a Sand Shade out but it feels like this should be baseline.
+
+Sand Savant
+Limited to 1 Sand Shade. Charge CD 8s -> 10s. Max total targets 12 -> 10 (5 each, you and the Shade). Radius of all Shade abilities increased. Counts as 3 Shades for related Traits.
+
+Utility option. In PvE, it’s the support option since in group content there’s usually only 1 enemy, meaning the target increase is for the ally components. More allies hit = more Barriers, cleanses, etc. Since you require less charge uses to hit slightly fewer allies, it’s actually more flexible in where you place the Shade despite the slight CD increase. This section could use a better support option though, and this could be the healing / Barrier option w/ your Barriers last longer or % convert to healing if expiring. Other options currently don’t present a way to include an offensive / Boon support option though, as 1 is DPS and the other is solely on Corruption which is irrelevant in PvE. Possibly requires a theme shift for Feed from Corruption, but keeping the Boon aspect.
+
+Demonic Lore
++25% Torment damage you inflict. If an enemy is inflicted w/ your Torment, it will Burn for 3s, reapplying every 3s.
+
+DPS option. Extra damage is nice but a little boring. Burning is essentially just more damage but implemented in a more unique way. 
+
+Feed from Corruption
+Whenever you remove or Corrupt a Boon, gain it (set duration & stacks).
+
+PvP option. Not only does it require Boon Corruption, its benefit is that it grants Boons which is much more valuable in PvP where you're without dedicated supports. Fits the theme for Scourge + Punishment skills though, while also affecting some base skills.
 
 
 Harbinger
