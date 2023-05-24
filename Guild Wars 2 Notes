@@ -3529,41 +3529,35 @@ Has an annoying animation that can be cancelled with Nightfall or any weapon swa
 
 Shouts
 
-“Your Soul Is Mine!”
+“Your Soul Is Mine!” - Healing
 Self heal + Life Force. PBAoE damage + Life Force per hit. Increased damage & Life Force per enemy hit in melee range.
 
+Heals an okay amount compared to other heals. The main defining feature is the damage & Life Force generation. Even if there’s only 1 enemy, it restores 18% every 16s which is on par w/ weapon skills. This presents you with a choice between keeping it as a heal or using it for Life Force (which sometimes translates to HP in Shroud anyway). Unique melee bonuses fit the Reaper theme (melee Necro). Definitely the offensive option if you don’t want to use a pet.
 
-
-
-“Nothing Can Save You!”
+“Nothing Can Save You!” - Utility
 PBAoE damage. Converts 2 Boons into 6 x Vulnerability. Next 10 attacks are Unblockable. Increased damage & Unblockable hits per enemy hit in melee range.
 
+The PvP option as Boon removal / “Corruption” + Unblockable are a lot more useful in PvP than it is in PvE. Same notes about melee bonuses apply. The “Corruption” not being a true Corruption makes sense since most Conditions aren’t that useful for Power builds other than the CC ones. Since it’s consistently the damage taken debuff, you can plan around it and get CC from other skills.
 
-
-
-“Rise!”
+“Rise!” - Utility
 PBAoE damage. Summon a Minion + additional Minion per enemy hit (max 5). Increased damage + additional Minion per enemy hit in melee range. Minions take 33% of damage you would’ve taken. Unblockable.
 
+The Minion / tanky option. Summons a crap ton of Minions which all interact w/ Minion traits. Take it if you’re going for that build. They also tank damage for you which makes it the tanky option. Less damage taken during Shroud means more time in it for more damage. Less useful for the defensive side in group content. Same notes about melee range bonuses apply.
 
-
-
-“Suffer!”
+“Suffer!” - Utility
 PBAoE damage & Chill. Transfer a Condition to each enemy hit. Increased damage & additional Condition transferred per enemy hit in melee range.
 
+Condition cleansing option. Unique in that it’s a relatively low CD and also provides Chill for Reaper traits. Can also be kind of seen as the Condition option since Reaper Condition uses Chill & you can transfer self inflicted Conditions. Same notes about melee range bonuses apply.
 
-
-
-“You Are All Weaklings!”
+“You Are All Weaklings!” - Utility
 Breaks stun & gain 5 x Might + PBAoE damage & Weakness. Bonus Might per enemy hit. Increased damage & additional Might per enemy hit in melee range.
 
+Offensive option. Does the most damage out of all the Shouts and gives an offensive Boon to boot. There’s also a stun break but it’s not that strong since nothing stops you from being CC’d again. Still it’s a nice burst of damage which can be pseudo used defensively too, giving you options. Same notes about melee range bonuses apply.
 
-
-
-“Chilled to the Bone!”
+“Chilled to the Bone!” - Elite
 PBAoE damage, Stun & Chilled. Gain 2 x Stability, 2 x Might & Fury per enemy hit. Increased damage, Stun & Quickness per enemy hit in melee range.
 
-
-
+Compared to the other Elites, it’s the lowest CD so you get to use it more often. Does the most amount of CC damage if you’re melee range on normal sized hitbox enemies (the Minion does more if the hitbox is large which isn’t good design, should be consistent). Damage burst is decent while being on a reasonable CD, unlike Lich Form with its 2.5 minute CD. It’s a solid option for Reaper since it also provides Boons and Conditions that help Reaper keep on top of enemies as a melee (Chilled, Stability & Quickness). The only downside is its lengthy cast time compared to other non-Channelled shouts (which are almost all instant). Having a long cast time in PvP makes sense for counterplay, less so in PvE.
 
 
 Scourge Combat
