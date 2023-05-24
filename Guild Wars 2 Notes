@@ -3559,6 +3559,68 @@ PBAoE damage, Stun & Chilled. Gain 2 x Stability, 2 x Might & Fury per enemy hit
 
 Compared to the other Elites, it’s the lowest CD so you get to use it more often. Does the most amount of CC damage if you’re melee range on normal sized hitbox enemies (the Minion does more if the hitbox is large which isn’t good design, should be consistent). Damage burst is decent while being on a reasonable CD, unlike Lich Form with its 2.5 minute CD. It’s a solid option for Reaper since it also provides Boons and Conditions that help Reaper keep on top of enemies as a melee (Chilled, Stability & Quickness). The only downside is its lengthy cast time compared to other non-Channelled shouts (which are almost all instant). Having a long cast time in PvP makes sense for counterplay, less so in PvE.
 
+Traits
+
+Shroud Knight
+Death Shroud turns into Reaper’s Shroud. Life Force drain in Shroud 3% -> 4%. Gain access to Shouts.
+
+Like always, added here since it’s the 1st trait.
+
+Augury of Death
+Shouts Lifesteal, doubled against melee targets.
+
+Could be useful if you’re using a lot of Shouts (5 slots). Previously reduced the CD of Shouts instead of the melee bonus. While the melee range bonus fits the theme of the Reaper Shouts, trading more uses of Shout & their utility effects for more damage or healing (at most an extra 500 damage / HP) doesn’t seem worth it, especially compared to Chilling Nova.
+
+Chilling Nova
+Crits against Chilled enemies cause a Chilling Nova explosion. 3s ICD.
+Chilling Nova: AoE damage & Chill. Can’t crit.
+
+Glad to see it being a guaranteed proc on Crit unlike other Traits. While its effects aren’t too crazy, it’s the Chill that’s most important as Chill isn’t that readily available compared to other Conditions and Reaper relies on Chill for certain Traits (see below). Plus adding an extra explosion to Crits makes them feel better, even if you’re at 100% Crit Chance like most Power builds. Not Critting is a PvP thing where Crit isn’t guaranteed and you can’t convince me otherwise, just split the damn balance already.
+
+Relentless Pursuit
+-33% Duration of Movement Conditions. -66% while in Shroud (not retroactive).
+
+PvP option as movement Conditions aren’t an issue in PvE. It’s not retroactive either meaning it will have to be applied on you while you’re in Shroud for it to get the higher reduction. It’s useful for a melee based class but not worth a Trait slot in PvE.
+
+Shivers of Dread
+Inflicting Fear inflicts Chill.
+
+This only affects a handful of skills so its effectiveness is very limited. Still it does help with Chill uptime a little bit (only 2s per application) but that’s fine for a Minor Trait.
+
+Soul Eater
+Attacks in melee range deal +10% Strike Damage & heal 4%. Healing not applicable while in Shroud.
+
+Used to recharge Greatsword skills 20% faster + heal & grant Life Force while wielding a Greatsword. The change from weapon specific to just being in melee range makes it a lot more versatile. Making the healing active rather than passive makes it feel more impactful too. Original version made Greatsword Lifesteal & Gravedigger recharge other skills slightly on hit. The damage bonus achieves the same goal as both CDR iterations, so it’s effectively the same goal that’s being achieved but via a more universal way.
+
+Chilling Victory
+Attacking a Chilled enemy grants 1 x Might & 1% Life Force. 1s ICD.
+
+This might be useful in PvP? The Might doesn’t last that long and it’s only 1 stack + it’s very little Life Force w/ an ICD too so it doesn’t seem to be very useful in PvE. ICD is fine to normalise its effectiveness in single target vs AoE but does limit how strong this Trait is.
+
+Decimate Defenses
++2% Crit Chance per Vulnerability stack on an enemy (max 50% w/ 25 stacks).
+
+Formerly the premier DPS option as it was universal while the other one wasn’t. But w/ the changes to Soul Eater, this leaves this Trait as objectively inferior. 100% Crit Chance could be achieved without it without too much damage loss. While the Vulnerability requirement isn’t too hard to fulfil, it still is a constraint while being melee isn’t since Reaper is a melee spec anyway, you won’t be dealing any damage at ranged most of the time so there’s no loss in always being melee.
+
+Cold Shoulder
++20% Chill duration. +15% Strike Damage against Chilled enemies.
+
+Extra duration is nice for Chill uptime. The main feature is the huge damage bonus against Chilled enemies, putting a lot of importance in maintaining Chill uptime.
+
+Blighter’s Boon
++1% Life Force when granting self a Boon or removing a Boon from an enemy. If in Shroud, heal instead of the Life Force.
+
+Life Force option. Could be useful if you’re really starved for Life Force but w/ Greatsword skills and maybe 1 or 2 Utilities, you should be fine. Healing component is more useful in PvP w/ the lack of a dedicated healer.
+
+Deathly Chill
+Applying Chill applies 4 x Bleeding.
+
+What gives Reaper a Condition damage option. It’s not that great though as Chill is pretty limited compared to other Conditions. Proccing Chilling Nova requires a crit which is normally not part of a Condition build’s stats. There’s some Crit from Decimate Defenses but requiring 3 total Traits to make a build function makes it feel like it’s not really intended to be the main source of damage.
+
+Reaper’s Onslaught
+Gain Ferocity & Quickness in Shroud. Quickness lasts 3s and is reapplied every 3s. Hitting Life Reap (end of Shroud auto chain) reduces the CD of other Shroud skills by 1s.
+
+Power damage option. Makes Shroud even more powerful (same notes about it being the strong form). Quickness makes it feel better to use the skills, especially the longer animation ones. Active CDR via completing the melee combo feels a lot better than a generic 20% recharge boost.
 
 Scourge Combat
 
