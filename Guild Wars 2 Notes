@@ -3669,6 +3669,38 @@ Single target ranged damage & Torment. Knockdown after a delay. Grant 2 x Might 
 
 Can be used for some damage + Might or saved for CC. Provides more utility than the other skill so there’s some more decision making involved. Might + CC are also useful for support builds. Realistically enemies will have around 9 or 10 Conditions on them on a consistent basis so that’s still a decent amount of Might in group content.
 
+Punishment
+
+Sand Flare - Healing
+Heal self & grant self Barrier. Convert a Boon to 3 x Torment for nearby enemies.
+
+Sacrifices healing in exchange for Barrier & the Boon Corruption. Total healing if Barrier fully blocks is roughly the same as the other heals. All Punishment skills have their power budget in the Boon -> Torment conversion, which leaves a lot to be desired in PvE since most mobs don’t have Boons. Condition & Support hybrid w/ emphasis on Boon removal is pretty niche. For it to be better in PvE, it needs either a baseline Torment application or something like “if already affected by Torment”.
+
+Trail of Anguish - Utility
+Breaks stun. Leave a trail behind you as you move that grants Swiftness & Stability for allies + damages, Burns & converts a Boon into 3 x Torment for enemies.
+
+An okay stun break as it gives you the means to ignore CC once and run faster while discouraging enemies from chasing you (at least in PvP). Same notes about Punishment apply.
+
+Desiccate - Utility
+PBAoE damage, Boon Corruption to 3 x Torment & 5 x Might. Grants Life Force + bonus per hit.
+
+Offensive support option w/ the damage & Might. Life Force is pretty handy as always. Same notes about Punishment apply.
+
+Sand Swell - Utility
+Delayed blink that creates a portal from start to finish. Grants allies who use it Barrier. PBAoE damage & Boon Corruption for 3 x Torment.
+
+Pretty handy utility / support skill w/ the portal. It’s more restrictive than other portals since it requires a valid path behind beginning & end (can’t be used to go up a ledge) and is shorter but does provide Barrier & the usual Boon Corruption. Same notes about Punishment apply.
+
+Serpent Siphon - Utility
+Ground targeted AoE for damage, Poison & Boon Corruption to 3 x Torment. Hitting an enemy drops orbs that grant allies Barrier.
+
+Offensive healing option w/ the damage & Barrier. The orbs are a pretty annoying implementation as a single ally can walk over them and consume them all for themselves unintentionally, especially w/ the visual noise in the game. Better application would just be an AoE of Barrier upon hitting the skill. Same notes about Punishment apply.
+
+Ghastly Breach - Elite
+Dark Combo field that pulses Damage, 3 x Might, Slow, Burning & Boon Corruption to 3 x Torment.
+
+Compared to Plaguelands, it does less overall damage & applies less Conditions in exchange for some Might, a Slow (better in PvP), Boon Corruption & a Dark field. Half of these effects are strictly better for PvP, the other half are more support oriented which is welcome but they’re not that strong (Might lasts 6s, Combo fields have janky prioritisation). Overall this seals the deal for Scourge to be a PvP spec w/ its hybridisation and Boon Corruption effects.
+
 
 Harbinger
 Did not play Harbinger enough, so in the interest of time I will be skipping it.
