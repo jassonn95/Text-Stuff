@@ -3629,6 +3629,33 @@ Gains access to Torch for an off-hand Condition weapon.
 Gains access to Punishment skills which involve Corrupting Boons into Torment + ally support.
 Gains access to the Scourge traitline. This uses up 1 traitline and is unique from other Elite specialisations (they all use the 3rd tree slot).
 Scourge Abilities
+Shade
+
+Manifest Sand Shade
+Create a Sand Shade at the target location. Using other Shade abilities causes PBAoE damage & Torment around you and each Shade. 3 charges. Targets can only be affected by 1 instance (can’t bomb a target by placing 3 by you).
+
+Being able to place multiple ranged AoEs that deal the same effects as the ones around you gives you a lot of zone control. Less useful in PvE but still handy. Damage does activate when using any Shade skill, including this one so for DPS it sort of just boils down to pressing down every button at once which isn’t that interesting. It does have opportunity cost since using those skills will obviously not be useful if you don’t need the cleanse, Barrier or CC so there’s some decision making involved.
+
+Nefarious Favor
+PBAoE Condition conversion to Boon.
+
+Relatively low CD of 5s, so there’s less risk in using it to proc the damage. The cleanse doesn’t affect many allies, only 3 total and it only cleanses 1 Condition per ally so it’s more of a consistent cleanse; less useful in PvE compared to PvP.
+
+Sand Cascade
+PBAoE Barrier.
+
+Decently sized Barrier. This has a longer CD of 10s so there’s more risk in using it for damage. Barrier only lasts for a couple of seconds so you run the risk of wasting the effective HP if you use it incorrectly / for damage.
+
+Garish Pillar
+PBAoE Fear.
+
+Even longer CD of 15s. Fear doesn’t last that long but considering it could affect 12 enemies at 4 different locations, it makes sense.
+
+Desert Shroud
+Grant self Barrier. PBAoE pulsing damage & Torment.
+
+Longest CD of 20s, twice the usual Shroud CD. Fits the usual “powerful form” that other Shrouds have w/ the Barrier & Pulsing damage. Much of the Shade skill power is in its interaction w/ the Traits, including the base Necro ones (ranged revive + pull, Burning on every “attack”, etc).
+
 
 Harbinger
 Did not play Harbinger enough, so in the interest of time I will be skipping it.
