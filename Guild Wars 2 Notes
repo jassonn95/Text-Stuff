@@ -3950,6 +3950,34 @@ Destroy call Clones for 1s of Distortion, making you immune to Damage, Condition
 
 True immunity on demand is pretty great, especially w/ how squishy casters are. Or are they squishy because of this. Either way it can be used very well or very poorly, giving a lot of room for skill expression especially w/ the 50s CD. Use it in emergencies or use it to cheese mechanics; immunity is very powerful & versatile.
 
+Greatsword
+2H ranged weapon w/ focus on AoE damage & CC.
+
+Spatial Surge
+Ranged beam that damages the target and 2 closest in the beam AoE, for more damage if they’re farther away from you.
+
+Pretty standard ranged beam attack. Would’ve much preferred this or some sort of variation compared to Hammer for Catalyst but that’s just me (also not relevant to Mesmer whoops). Damage difference isn’t too much to worry about moving away and you can always prioritise using the other weapon’s filler attacks. Damaging falling off the farther away you are makes sense as a tradeoff for the range.
+
+Mirror Blade
+Ranged damaging attack that bounces between enemies & allies. Damage is reduced per bounce. Allies gain 3 x Might & enemies gain 3 x Vulnerability. Spawn a Clone at the 1st target (it doesn’t get hit by any of the bounces) that uses Spatial Surge.
+
+Pseudo AoE since it bounces but also works in single target situations since it can bounce off of you too if you’re in range. Provides some support w/ Might & Vulnerability but they don’t last long enough and Greatsword overall doesn’t warrant building duration stats. The main use is for the damage & the Clone spawning, especially w/ the low CD of 5s. So it ends up w/ being used on CD.
+
+Mind Stab
+Ground targeted AoE that damages & Cripples.
+
+Does decent damage and the Cripple isn’t that useful in PvE, so it’s another use on CD damaging skill. Also it has a satisfying stab in the ground and an illusion stabs the enemy, pretty cool.
+
+Phantasmal Berserker
+Ranged piercing damaging attack that strips 2 x Boons from enemies hit. Spawn a Phantasm by the 1st target hit. It will do a moving Combo Whirlwind attack that damages & Cripples.
+
+As a Phantasm skill, it’s the highest priority due to the damage + the Clone generation afterwards. What’s not great about the Whirlwind attack is that it can hit up to 4 times; it’s hitbox dependent which is annoying. Other than that the Boon removal isn’t useful in PvE so that makes it even easier to use on CD. The Clone it spawns is the same as the one from Mirror Blade, using a Greatsword.
+
+Illusionary Wave
+Frontal cone damage & knockback.
+
+Strictly for CC as the damage is really low which is fine since not every skill needs to be part of a DPS rotation. Also requires you to be in short-ish range so there’s some risk but the cone is pretty big so in the case you’re being swarmed it’s pretty handy. Overall, it’s to be used against melee that get near you to make some space as a ranged weapon.
+
 
 Chronomancer Combat
 
