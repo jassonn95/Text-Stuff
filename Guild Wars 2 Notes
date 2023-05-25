@@ -3822,6 +3822,38 @@ Mid-high ranged targeted AoE damage, Poison, Weakness & Stun. Gain Life Force pe
 
 Pretty much the same as the above, again, but AoE at target rather than piercing. As long as it’s not just single target it's fine. Does have a small Stun attached to it so you can hold it for that but it does do a lot of Condition damage so a choice needs to be made. Otherwise, same notes as the above.
 
+Elixirs
+
+Elixir of Promise - Healing
+Heal self & Regen on cast. Ground targeted AoE damage & Poison. If you’re in the AoE, gain 10 Blight. If >=5 Blight stacks on cast, consume that for double the damage & Poison duration.
+
+Offensive Condition DPS heal since it Poisons enemies. It heals for a decent amount and has an okay Regen on it too which works w/ the loss of Blight stacks since it only gives you back your Max HP, it doesn’t also heal you by that value. 10 Blight is a lot to get in a short amount of time (each second in Shroud gives 2) which is both good for the extra effect thresholds and bad due to the lower HP risk. Has the threshold mechanic like all other Elixirs. The Poison is the only offensive Condition out of all the Elixirs so this is actually part of the DPS rotation. Obviously that comes w/ the additional risk of not having a heal but that’s what healers are for.
+
+Elixir of Risk - Utility
+Grant self 10 x Might & Fury on cast. Ground targeted AoE damage & Weakness. If you’re in the AoE, gain 10 Blight. If >=5 Blight stacks on cast, consume that for double damage & Weakness duration.
+
+Offensive Elixir as it grants Might & Fury. Has decent uptime if you have max Boon duration (20s w/ 25s CD) but obviously that comes at a damage cost. There is a Trait that grants the Boons to allies in the explosion radius too, allowing a support build. Condition is Weakness so it’s not that useful in PvE. Same notes about Elixirs apply.
+
+Elixir of Anguish - Utility
+Grant self Swiftness & Quickness on cast. Ground targeted AoE damage & Cripple. If you’re in the AoE, gain 10 Blight. If >=5 Blight stacks on cast, consume that for double damage & Cripple duration.
+
+The other offensive / utility Elixir, granting Quickness & Swiftness which both can be used offensively and defensively. Quickness only lasts 5s so it alone won’t be able to permanently maintain the Boon. Same notes about Elixirs apply.
+
+Elixir of Bliss - Utility
+Grant self Resolution & cleanse 5 x Conditions for 3% Life Force each. Ground targeted AoE damage & 1 x Boon Corruption per target. If you’re in the AoE, gain 10 Blight. If >=5 Blight stacks on cast, consume that for double damage & 2 extra Boon Corruptions per target.
+
+Condition defensive option, granting Resolution & cleansing Conditions. Resolution doesn’t last that long so you’ll have to time it properly rather than throwing it out on CD. Trait that grants Boons doesn’t include the cleansing capability, so it will only be the 5s of Resolution which could be useful depending on what you need (many Power Guardians would like it). Same notes about Elixirs apply.
+
+Elixir of Ignorance - Utility
+Breaks stun & grants self Resistance. Ground targeted AoE damage & Blindness. If you’re in the AoE, gain 10 Blight. If >=5 Blight stacks on cast, consume that for double damage & Blindness duration.
+
+CC defensive option, granting Resistance & breaking stun. Again it only lasts 5s so use when you need, not 100% of the time. Okay as a stun break since it also blinds but that requires you hitting the threats w/ it, if they’re spread / immune then it’s a weak stun break. Same notes as the above, except instead of Conditions it’s CC.
+
+Elixir of Ambition - Elite
+Grant self every Boon w/ 5s duration (25 stacks for Might). Ground targeted AoE for damage & all damaging Conditions. If you’re in the AoE, gain 15 Blight. If >=5 Blight stacks on cast, consume that for double damage & Condition duration.
+
+Being able to grant your subgroup 5s of every Boon when specced (more if building it) while also inflicting enemies w/ all damaging Conditions is insane. Compared to Plaguelands it’s definitely more party utility focused which is the tradeoff. Being able to use it at the beginning of fights / during burst means it guarantees there’s no ramp up for players in your group = max damage from the get go. If that’s what you need, then you should pick it. Otherwise Plaguelands will do more in a selfish way. Same notes about Elixirs apply.
+
 
 Mesmer
 Mesmer Combat
