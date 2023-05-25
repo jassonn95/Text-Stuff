@@ -3919,15 +3919,37 @@ Condition DPS option. Exact same notes as the Power version. Weakness is not a s
 Mesmer
 Mesmer Combat
 Pretty cool archetype; I like all things magic and this is no exception.
-Clones + Phantasms are like pets, but without any of the drawbacks: you can customise them since they look like you. They don’t require any management other than the initial target and they don’t last that long most of the time so there’s less time for any annoyances.
+Clones (max 3) + Phantasms (no max but set duration) are like pets, but without any of the drawbacks: you can customise them since they look like you. They don’t require any management other than the initial target and they don’t last that long most of the time so there’s less time for any annoyances.
 Phantasms are more powerful than Clones but only last long enough for an attack, after which they respawn as a Clone.
 Clones are weak in both HP and damage.
 Standard 2 weapon skill bars, swapping in combat has a cooldown.
-Profession mechanic revolves around destroying Clones for PBAoE effects around them and yourself, increasing the more you had when you cast. Effects range from Power damage, Condition damage, CC & Invulnerability called Distortion.
+Profession mechanic revolves around destroying Clones for PBAoE effects around them and yourself. Shattered clones all run towards your target and a target can be hit by multiple shatters. Effects range from Power damage, Condition damage, CC & Invulnerability called Distortion.
 Clones are generated from weapon skills, Utility skills & Traits.
 Medium HP but lowest armour like other casters. This is offset by the in-built Invulnerability that’s always available to Mesmer.
 Has access to Ethereal Combo fields, fitting w/ the Mesmer’s Illusion theme well.
 Mesmer Abilities
+Shatters
+
+Mind Wrack
+Destroy all Clones for PBAoE damage.
+
+Power option. Damage per clone actually goes down the more Clones you have, but since there’s a 12s CD and w/ all the Clone generation, it’s still optimal to use at 3 Clones. Having the Clones run to the target makes the ranged ones actually usable for damage. 
+
+Cry of Frustration
+Destroy all Clones for PBAoE damage & Confusion.
+
+Same as the above, but for Condition. Strike Damage is less than Mind Wrack but if you’re overflowing w/ Clones this is an option. Otherwise, the same notes apply.
+
+Diversion
+Destroy all Clones for PBAoE Daze (that only hits 1 enemy). Cannot be Dazed again by this skill until it wears off. Damage to CC bars can occur together.
+
+Not being able to be Dazed again until the previous one runs out is a bit annoying but I suppose that beats 4s of not being able to do anything (in PvP anyway, who cares about the feelings of mobs). This can be bypassed by having a mix of melee and ranged clones but no one is going to build around that; it’s just a nuance to keep track of. Otherwise, use it if you need CC. The above doesn’t apply for CC bars which is the main bulk of CC importance anyway in PvE.
+
+Distortion
+Destroy call Clones for 1s of Distortion, making you immune to Damage, Conditions & CC. Gain 1s for every Clone destroyed.
+
+True immunity on demand is pretty great, especially w/ how squishy casters are. Or are they squishy because of this. Either way it can be used very well or very poorly, giving a lot of room for skill expression especially w/ the 50s CD. Use it in emergencies or use it to cheese mechanics; immunity is very powerful & versatile.
+
 
 Chronomancer Combat
 
