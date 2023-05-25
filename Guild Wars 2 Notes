@@ -22,7 +22,7 @@ Little instanced content that I feel like I could quickly jump into, both becaus
 Global trading post is great, except when the gold barons are able to manipulate it.
 Inventory management is annoying, junk being dropped by everything taking up space and since you have to pay for gear sets your gear will be sitting in the inventory too. Also filled with random items that have very specific uses like teleporters & keys, etc.
 Way too many currencies & keys & materials.
-Imagine paying 500g to unlock basic party leadership functionality.
+Imagine paying 300g to unlock basic party leadership functionality.
 Mounts are great, but some are redundant (Springer vs. Skyscale, Skimmer vs. Skiff).
 UI needs more customisation, currently only size & where minimap is.
 Buff bar is awful, a tiny row of icons that doesn’t seem to have any priority. This excludes boons (positive buffs) and conditions (negative buffs) which are common across all classes; these have their own row.
@@ -3765,13 +3765,45 @@ PvP option. Not only does it require Boon Corruption, its benefit is that it gra
 
 Harbinger Combat
 Gains access to Harbinger Shroud at the cost of Death Shroud. Has its unique skills.
-Still drains Life Force but no longer uses it as a secondary HP bar. Additionally gains Blight while in Shroud (or hitting self with Elixirs) which decreases your max HP by 1.5%, up to 37.5%. Consume Blight stacks via Devouring Cut, Voracious Arc or Elixirs for increased damage + Condition Duration.
+Still drains Life Force but no longer uses it as a secondary HP bar. Additionally gains Blight while in Shroud (or hitting self with Elixirs) which decreases your max HP by 1.5%, up to 37.5%. Consume Blight stacks via Devouring Cut, Voracious Arc or Elixirs to increase their damage + Condition Duration. Each stack has its own duration.
 High risk high reward gameplay as you’re now a squishy caster. Still have the most HP out of the casters but armour is lowest.
 Condition damage based, overlapping w/ Scourge a lot.
 Gains access to Pistol for another main hand Condition weapon.
 Gains access to Elixirs, providing support via Boons & Conditions.
 Gains access to the Harbinger traitline. This uses up 1 traitline and is unique from other Elite specialisations (they all use the 3rd tree slot).
 Harbinger Abilities
+Harbinger Shroud
+
+Harbinger Shroud -> Exit Harbinger Shroud
+Replace current weapon skills w/ the below. Also prevents Healing, Utility & Elite skills from being used (if Minions are summoned they stay summoned. Signet passives are gone unless otherwise stated). Does NOT turn Life Force into the current HP bar nor do you get any extra DR while in Shroud. Gain Blight stacks while in Shroud or hitting self w/ Elixirs which reduce your max HP by 1.5% (max 37.5%). Blight stacks are used to empower certain Shroud skills + Elixirs. Press again to exit, putting it on a 10s CD. Drains Life Force faster than Death Shroud (3% -> 5%).
+
+Aquatic version is pretty much the same but like always, will be ignored.
+
+Tainted Bolts
+Ranged targeted AoE that damages & Torments.
+
+Pretty normal ranged attack for a Condition based spec. Mid-long range and it has an AoE so there’s no complaints about its usability.
+
+Dark Barrage
+Ranged piercing 6 x damage & Torment.
+
+Relatively low CD of ranged Condition attacks. Piercing makes it better when enemies are lined up for you vs. a clump but that doesn’t really matter in PvE. There’s no other effect like CC or Combos so it’s a use on cooldown type of skill.
+
+Devouring Cut
+Mid ranged gap closer for PBAoE damage. If >=5 Blight stacks, consume it (5) for double damage + 5 x Torment.
+
+Bit of an animation lock so there’s risk in using it. Can either save it as a gap closer or use it on CD for damage, giving you a decision to make (but gap closers aren’t really that needed in PvE most of the time). CD is only 8s so you’re not vulnerable without it for too long. It stops at the target so you won’t get any weird interactions. Damage seems to go out after a certain distance through the dash no matter how long the dash is, but since the AoE size is pretty big it shouldn’t matter. Has the Blight interaction, encouraging you to only use it while you have stacks: risk reward.
+
+Voracious Arc
+Mid ranged gap closer w/ Evade for PBAoE damage & Daze. If >=5 Blight stacks, consume it (5) for double damage + 5 x Torment.
+
+Same as the above except the gap closer is less risky due to being quicker and having an Evade component, which could be used to dodge some mechanics. It also comes with a short Daze so there’s an option to save it for CC but it’s not that strong so there’s no harm in using it as DPS. 10s CD which isn’t too bad either, can use it for any of the above reasons without too much risk. Same notes about Blight risk reward.
+
+Vital Draw
+Place a pulsing AoE field (not Combo) for damage, Float & Life Force per enemy hit.
+
+Doesn’t have any Torment on it so it’s purely for the Float (CC) or Life Force. Use it for either of those reasons when you need them, not much else to say. Very handy for solo play since it’s 3s of AoE CC, albeit on a 20s CD.
+
 
 Mesmer
 Mesmer Combat
