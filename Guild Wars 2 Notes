@@ -3854,6 +3854,67 @@ Grant self every Boon w/ 5s duration (25 stacks for Might). Ground targeted AoE 
 
 Being able to grant your subgroup 5s of every Boon when specced (more if building it) while also inflicting enemies w/ all damaging Conditions is insane. Compared to Plaguelands it’s definitely more party utility focused which is the tradeoff. Being able to use it at the beginning of fights / during burst means it guarantees there’s no ramp up for players in your group = max damage from the get go. If that’s what you need, then you should pick it. Otherwise Plaguelands will do more in a selfish way. Same notes about Elixirs apply.
 
+Traits
+
+Dark Disciple
+Replaces Death Shroud with Harbinger Shroud & explains its Blight mechanics. Grants access to Elixirs.
+
+As always, included because it’s the 1st trait.
+
+Wicked Corruption
++0.5% Strike Damage per Blight stack (max 12.5%). +10% Crit Damage against Tormented enemies.
+
+Power DPS option. Take it if you’re building for Power damage. Extra Crit damage against Tormented enemies fits since the majority of the Shroud abilities apply Torment. It’s basically just a damage boost w/ a thematic restriction which isn’t really a restriction given how much Torment there is in Shroud + Pistol.
+
+Vile Vials
+-20% Elixir skill CDs & they additionally inflict 5 x Vulnerability.
+
+Utility / support option, especially paired w/ the other Elixir trait that spreads Boons. A bit boring though + the Vulnerability isn’t that useful since there’s a bunch from other Necro traitlines + other players to reach 25.
+
+Septic Corruption
++0.5% Condition Damage (damage, not stat) per Blight stack (max 12.5%). Dark Barrage (Shroud 2) also inflicts Poison.
+
+Condition DPS option. Like the Power option, take it if building for Condition damage. Adds an extra DoT to one of the skills you’re using on CD (since it only does damage). It’s another way of saying “deal more damage” like the Crit damage one, just slightly more interesting & can interact w/ other Traits / effects vs. +X% Condition Duration or whatever.
+
+Alchemic Vigor
+Gain Vitality. Heal every second per stack of Blight.
+
+Reduces the risk from Blight since you have more HP + slowly heal it back up when you consume / lose Blight stacks. Also interacts w/ the following Traits that all have a Vitality conversion rate.
+
+Implacable Foe
+Gain 3 x Stability when entering Shroud. Gain Ferocity based on 13% of Vitality.
+
+Power DPS + defensive option. Doesn’t give an effect that helps w/ Power damage though as Stability’s usefulness isn’t only helpful for Power nor does it have any interaction like “deal more damage w/ Stability” which wouldn’t fit thematically anyway. Makes it fall behind the Condition counterpart which is probably why you don’t see much of it. Could possibly have something w/ more Strike damage per Blight stack, increased at melee or something to emphasise the risk reward thing (may overlap w/ Reaper).
+
+Twisted Medicine
+Elixirs also grant their Boons to allies within the impact zone. Gain Concentration based on 13% of Vitality.
+
+Support option. Makes the Elixirs 5x as effective + gives you some Concentration so you need to spend less to get max uptime on Boons. Choice being placed w/ DPS traits pretty much forces down the damage support DPS builds can do, which makes sense as you don’t want something topping the charts while also being the main provider of support.
+
+Dark Gunslinger
+-20% Pistol skills CD. Gain Expertise based on 13% of Vitality.
+
+Condition option. More Pistol skills = more DoTs. More Expertise = more of the gear power budget spent on Condition Damage instead. Most boring of the 3 since the 2 Pistol skills w/ CDs are used on CD, MAYBE holding the Stun one.
+
+Corrupted Talent
+Gain 15% Life Force when entering Shroud.
+
+Helps w/ Life Force resource management. Optimal use is to enter Shroud while at 85% to make sure nothing is wasted (bonus Life Force or time not in Shroud) so while it’s a very simple Trait, it does add an extra layer to the resource management game.
+
+Cascading Corruption
+Gain Power. While in Shroud, pulse PBAoE damage & Cripple.
+
+Power DPS option. Range is pretty short so it’s practically melee, reinforcing the high risk vs. reward design philosophy. Other than that it’s just damage & some Cripple utility, although that’s never the deciding factor. Cripple doesn’t interact w/ Power builds either, making it overall weaker when compared 1 to 1 w/ the Condition variant.
+
+Deathly Haste
+While in Shroud, pulse PBAoE Quickness & Fury.
+
+Support option. Take it if you’re supporting. Like the other support option, it’s placed against 2 other DPS options, limiting its damage which is correct. Its radius is twice the size of the other 2 for obvious reasons as you’re aiming for allies not enemies.
+
+Doom Approaches
+Gain Condition Damage. While in Shroud, pulse 3 x Torment & Weakness.
+
+Condition DPS option. Exact same notes as the Power version. Weakness is not a selling point but is nice to have, especially since other classes synergise w/ it (Weaver) and it has a decent uptime (66% without any Condition duration, which DoT builds usually go for 100% / double base duration).
 
 Mesmer
 Mesmer Combat
