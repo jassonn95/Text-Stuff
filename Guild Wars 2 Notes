@@ -3924,7 +3924,7 @@ Phantasms are more powerful than Clones but only last long enough for an attack,
 Clones are weak in both HP and damage.
 Standard 2 weapon skill bars, swapping in combat has a cooldown.
 Profession mechanic revolves around destroying Clones for PBAoE effects around them and yourself. Shattered clones all run towards your target and a target can be hit by multiple shatters. Effects range from Power damage, Condition damage, CC & Invulnerability called Distortion.
-Clones are generated from weapon skills, Utility skills & Traits.
+Clones are generated from weapon skills, Utility skills & Traits. Their weapon is determined by your main hand (or 2H) weapon.
 Medium HP but lowest armour like other casters. This is offset by the in-built Invulnerability that’s always available to Mesmer.
 Has access to Ethereal Combo fields, fitting w/ the Mesmer’s Illusion theme well.
 Mesmer Abilities
@@ -4046,16 +4046,16 @@ Illusionary Leap -> Swap
 Spawn a Clone by the target. All Clones created by this skill will then leap at the target, Crippling them. They will use the Sword auto attack chain. 
 Activate again within 5s and within mid range to swap places with the newest clone, causing PBAoE Immobilize at the swapped location. Combat Leap at the starting location.
 
-Sword’s Clone generator. Does very little damage so it will be exclusively used for Clones or utility from mobility, Mind Slash chain from the Clones or the CC. Cripple doesn’t really help in PvE most of the time. Vulnerability is handy but doesn’t last very long as it’s unlikely you’ll have 3 x Sword clones up for a long time without Shattering. Their autos do rip Boons though which can be handy in niche cases. The blink is the most useful as it is a gapcloser and has Immobilize on it which can be useful. Also a Leap but they don’t have any offensive effects. Basically use it on CD for a Clone, occasionally use the blink if needed.
+Sword’s Clone generator. Does very little damage so it will be exclusively used for Clones or utility from mobility, Mind Slash chain from the Clones or the CC. Cripple doesn’t really help in PvE most of the time. Vulnerability is handy but doesn’t last very long. Their autos do rip Boons though which can be handy in niche cases. The blink is the most useful as it is a gapcloser and has Immobilize on it which can be useful. Also a Leap but they don’t have any offensive effects. Basically use it on CD for a Clone, occasionally use the blink if needed.
 
 Illusionary Riposte -> Counter Blade
-Block the next attack, damaging the enemy & generating a Sword Clone. Also grants Evasion for a bit after blocking the attack.
+Block the next attack, damaging the enemy & generating a Clone based on your main hand. Also grants Evasion for a bit after blocking the attack.
 Activate before blocking an attack to fire a projectile that Dazes in an AoE around the target.
 
 If you know damage is coming up, you can use it to mitigate it and get a Clone. Fortunately it also comes w/ an Evasion after the Block unlike other “block next attack” skills, making it less likely to be eaten up by a stray pebble of damage. The 2nd portion is purely CC. Still of the belief that it should auto fire if nothing is blocked.
 
 Phantasmal Swordsman
-Frontal hit that damages & grants 8 x Might if it hits. Also counts as a Combo Leap (for some reason). As long as the attack isn’t Blocked, missed via Blind or the target is out of the standard 1200 long range, a Phantasm will spawn. It will Combo Leap for damage before using Blurred Frenzy. It will then spawn a Sword Clone.
+Frontal hit that damages & grants 8 x Might if it hits. Also counts as a Combo Leap (for some reason). As long as the attack isn’t Blocked, missed via Blind or the target is out of the standard 1200 long range, a Phantasm will spawn. It will Combo Leap for damage before using Blurred Frenzy. It will then spawn a Clone based on your main hand weapon.
 
 The initial hit doesn’t do much damage but every bit counts, especially w/ the extra Might you get. Phantasms always do a lot of damage so you want to make sure it goes off properly. There’s no other nuance to the skill though so use it on CD, preferably in melee range. The fact that it leaps to the target as a melee and also uses the multi hitting skill that also makes it Evade makes the Phantasm very powerful, especially w/ a Trait that builds damage stacks per hit.
 
@@ -4069,9 +4069,22 @@ Activate again to Pull nearby (mid range) enemies into the centre, destroying it
 Great utility skill because of the Pull. Light Combo fields can be handy but most of the time they’re not even activated by others since it prioritises their own field (which will be a lot in group content / open world events). Swiftness & Cripple are also handy but the Pull is the main attraction so you can cleave everything down. In theory there’s a choice between the field and the Pull but there really isn’t a choice.
 
 Phantasmal Warden
-Spawn a Phantasm near you that moves into range (mid) of your target before creating a PBAoE bubble that blocks projectiles while also throwing out projectiles at an enemy that damages & applies 12 x total Vulnerability. Respawns as a Sword Clone.
+Spawn a Phantasm near you that moves into range (mid) of your target before creating a PBAoE bubble that blocks projectiles while also throwing out projectiles at an enemy that damages & applies 12 x total Vulnerability. Respawns as a Clone based on your main hand weapon.
 
-Damage is sort of random though as the projectiles can target an enemy other than your selected target. That is mitigated by being in the hitbox though. Projectile blocking is nice but it’s a little janky at range since the Phantasm moves into range of the enemy so its projectiles hit something. That said once it starts it’s a guaranteed bubble for a couple of seconds. The Clone being a Sword one has some interaction w/ the Cripple leap they all do upon Illusionary Leap, something to keep in mind of. Choice between damage & projectile defence but since the movement is a little janky it can be unreliable. Would be better if it was ground targeted; reduce projectile range if it’s too strong.
+Damage is sort of random though as the projectiles can target an enemy other than your selected target. That is mitigated by being in the hitbox though. Projectile blocking is nice but it’s a little janky at range since the Phantasm moves into range of the enemy so its projectiles hit something. That said once it starts it’s a guaranteed bubble for a couple of seconds. Choice between damage & projectile defence but since the movement is a little janky it can be unreliable. Would be better if it was ground targeted; reduce projectile range if it’s too strong.
+
+Pistol
+Off-hand only weapon w/ mid-ranged projectiles.
+
+Phantasmal Duelist
+Single target ranged damage & Cripple. Summon a Phantasm nearby that damages. All shots are a 20% Combo Projectile. Respawns as a Clone based on your main hand weapon.
+
+Spawns a Phantasm (and hence Clone) as well for those related traits. Cripple isn’t that helpful but the multitude of 20% Projectiles could be useful. Doesn’t inherently do Condition damage, unlike the next skill. That sort of makes the Pistol a jack of all trades weapon though, doing a bit of everything.
+
+Magic Bullet
+Fire a single bullet that bounces to hit up to 4 enemies. Each enemy is damaged & inflicted w/ 3 x Confusion. Additionally, the 1st is stunned, 2nd is Dazed and 3rd is Blinded. Counts as a Combo Projectile.
+
+For Power builds this is purely CC as the damage & scaling is very low. For Condition builds, it does decent Confusion damage and since Scepter is the only possible option for Condition Damage, that means an off-hand needs to be used and it’s between this and Torch (or both for max skills to use). For Power, only use it if you need CC. For Condition it’s more interesting as you either use it for DPS or keep it for CC. It has a lengthy CD of 25s so there is an actual risk involved in this choice. It being a bouncing attack also makes it feel less awful in multi target situations, even if the secondary targets take less CC.
 
 
 Chronomancer Combat
