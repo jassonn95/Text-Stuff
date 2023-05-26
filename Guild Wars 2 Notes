@@ -3978,6 +3978,34 @@ Frontal cone damage & knockback.
 
 Strictly for CC as the damage is really low which is fine since not every skill needs to be part of a DPS rotation. Also requires you to be in short-ish range so there’s some risk but the cone is pretty big so in the case you’re being swarmed it’s pretty handy. Overall, it’s to be used against melee that get near you to make some space as a ranged weapon.
 
+Staff
+2H ranged weapon w/ focus on support (Boons & Conditions).
+
+Winds of Chaos
+Ranged bouncing projectile that damages enemies. The 1st gets Torment and the subsequent enemies get Confusion. Allies get both Fury & 1 x Might. The Clone version has a shorter duration for the Conditions.
+
+Ranged attack that applies both Boons & Conditions, fitting the support role. They don’t last very long but it can bounce a couple of times + the Clones do the same attack so they also apply them, albeit at a lower duration for the Conditions (since they’re meant to do less damage than you).
+
+Phase Retreat
+Blink away from the target, counting as a Combo Leap. Summon a Clone that casts Winds of Chaos. Clone only spawns if there’s a target, but it can be used without a target to blink backwards.
+
+Choice between a blink and a Clone (i.e. damage most of the time). There’s also a Combo Leap but that only gives Auras which aren’t that useful, even on a class that specialises in them like Ele. Can also be used under some CC effects like knocked down; it will blink back but you’re still CC’d so it’s still a decent defensive skill on a lowish CD of 10s. A bit annoying as a Clone generator though since you’ll want to move back to where you were for heals, buffs, mechanics, etc.
+
+Phantasmal Warlock
+Summon 2 x Phantasms that deal damage & 2 x Vulnerability to target via a beam, similar to Spatial Surge. Transforms into the same Clone as the one in Phase Retreat.
+
+Phantasm skill. Since it doesn’t do anything other than damage + summon Clones (which is also damage), you just use it on cooldown. They spawn near you and have a long range attack so you can sort of plan where the Clones will be for Shatters. Since there’s 2 there’s more Clones for more damage. Ranged clones on a ranged weapon.
+
+Chaos Armor
+Grant self Chaos Aura (Protection, Regen or Swiftness when hit. Enemies get Weakness, Confusion or Cripple) & PBAoE Blind & 3 x Confusion.
+
+Applies an Aura and also has an effect on activation, whereas for the longest time Ele Aura skills only gave the aura w/o the transmutation. Since Auras aren’t that useful in PvE, the 1st half can be ignored. The only use it has in PvE is the Blind which is handy for solo play and the Confusion which is useful for Condition DPS. This leaves the skill to be used on CD in group content.
+
+Chaos Storm
+Ground targeted Ethereal Combo field that pulses damage, random Boons (Aegis, Resolution, Swiftness) and random Conditions (Chilled, Poison, Weakness). 1st hit also Dazes.
+
+More utility based since the damage isn’t that strong and since the Conditions are random, it cycles between 2 non-damaging ones and Poison which Mesmers don’t have Traits for. Boons are defensive but their effectiveness ranges from not that useful (Swiftness) and very powerful (Aegis). Rather than random, it should pulse in a certain order. Possibly Aegis -> Resolution -> Swiftness so you can use it proactively before a mechanic. Also Dazes so it could be saved for a little bit of CC. Also has a Combo field that could be useful but not as a main reason to use the skill.
+
 
 Chronomancer Combat
 
