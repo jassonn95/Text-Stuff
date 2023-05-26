@@ -4004,7 +4004,28 @@ Applies an Aura and also has an effect on activation, whereas for the longest ti
 Chaos Storm
 Ground targeted Ethereal Combo field that pulses damage, random Boons (Aegis, Resolution, Swiftness) and random Conditions (Chilled, Poison, Weakness). 1st hit also Dazes.
 
-More utility based since the damage isn’t that strong and since the Conditions are random, it cycles between 2 non-damaging ones and Poison which Mesmers don’t have Traits for. Boons are defensive but their effectiveness ranges from not that useful (Swiftness) and very powerful (Aegis). Rather than random, it should pulse in a certain order. Possibly Aegis -> Resolution -> Swiftness so you can use it proactively before a mechanic. Also Dazes so it could be saved for a little bit of CC. Also has a Combo field that could be useful but not as a main reason to use the skill.
+More utility based since the damage isn’t that strong and since the Conditions are random, it cycles between 2 non-damaging ones and Poison. Boons are defensive but their effectiveness ranges from not that useful (Swiftness) and very powerful (Aegis). Rather than random, it should pulse in a certain order. Possibly Aegis -> Resolution -> Swiftness so you can use it proactively before a mechanic. Also Dazes so it could be saved for a little bit of CC. Also has a Combo field that could be useful but not as a main reason to use the skill.
+
+Scepter
+Mid-ranged Condition damage & control. Main hand only.
+
+Ether Bolt -> Ether Blast -> Ether Clone
+Single target damage & Torment.
+Single target, same damage & longer Torment.
+Single target, most damage & summon a Clone that uses Ether Bolt. If at max Clones, apply the longest Torment.
+
+Single target damage makes it awful in AoE situations + accidentally targeting the wrong enemy. Torment doesn’t really match the usual Confusion that Mesmers have, meaning if you have Confusion specific Runes / Sigils (in armour / weapon slots) it won’t affect the damage from this. Having a constant Clone generator is nice. That said, the combo is inconsistent in that by default it doesn’t continue the chain until the previous projectile hits. This isn’t the case if you have the Scepter specific Trait Malicious Sorcery or have Quickness on you, making it even more inconsistent. Clones spawn by you so you can control where they are to prepare for Shatters.
+
+Illusionary Counter -> Counterspell
+Block the next attack for damage, 5 x Torment and 2 x Clones that use Ether Bolt. Alternatively, reactive before block is consumed for:
+Fire a bolt that damages & Blinds enemies in a line. Summon a Clone to use Ether Bolt on the 1st hit enemy.
+
+Can be used defensively which rewards the most or offensively for far less damage and only 1 Clone. In PvE the more dangerous attacks are more predictable so you can more easily predict when to keep firing off for the clone or save it for the extra clone + damage, making it versatile. There aren’t any cases where you don’t want the 2nd part to go off though so it should just fire off automatically if it doesn’t block anything. Maybe it doesn't work well with Stealth but auto attacks stop when stealthed, could use the same logic w/ this. 
+
+Confusing Images
+Channelled beam that damages & Confuses enemies.
+
+Channelled so you can use other instant cast abilities during it. Applying Confusion + being multi target makes it feel better than the other 2 skills, and who doesn’t like laser beams? Weapon overall would be better if it all applied Confusion & the autos had a little cleave + didn’t have that weird inconsistency.
 
 
 Chronomancer Combat
