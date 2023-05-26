@@ -4059,6 +4059,20 @@ Frontal hit that damages & grants 8 x Might if it hits. Also counts as a Combo L
 
 The initial hit doesn’t do much damage but every bit counts, especially w/ the extra Might you get. Phantasms always do a lot of damage so you want to make sure it goes off properly. There’s no other nuance to the skill though so use it on CD, preferably in melee range. The fact that it leaps to the target as a melee and also uses the multi hitting skill that also makes it Evade makes the Phantasm very powerful, especially w/ a Trait that builds damage stacks per hit.
 
+Focus
+Off-hand only that focuses on defensive skills & utility.
+
+Temporal Curtain -> Into the Void
+Ground targeted line Light Combo field. Grants Swiftness to allies & Cripple to enemies. Allies can gain Swiftness multiple times but beyond the 1st time it’s only 1s.
+Activate again to Pull nearby (mid range) enemies into the centre, destroying it.
+
+Great utility skill because of the Pull. Light Combo fields can be handy but most of the time they’re not even activated by others since it prioritises their own field (which will be a lot in group content / open world events). Swiftness & Cripple are also handy but the Pull is the main attraction so you can cleave everything down. In theory there’s a choice between the field and the Pull but there really isn’t a choice.
+
+Phantasmal Warden
+Spawn a Phantasm near you that moves into range (mid) of your target before creating a PBAoE bubble that blocks projectiles while also throwing out projectiles at an enemy that damages & applies 12 x total Vulnerability. Respawns as a Sword Clone.
+
+Damage is sort of random though as the projectiles can target an enemy other than your selected target. That is mitigated by being in the hitbox though. Projectile blocking is nice but it’s a little janky at range since the Phantasm moves into range of the enemy so its projectiles hit something. That said once it starts it’s a guaranteed bubble for a couple of seconds. The Clone being a Sword one has some interaction w/ the Cripple leap they all do upon Illusionary Leap, something to keep in mind of. Choice between damage & projectile defence but since the movement is a little janky it can be unreliable. Would be better if it was ground targeted; reduce projectile range if it’s too strong.
+
 
 Chronomancer Combat
 
