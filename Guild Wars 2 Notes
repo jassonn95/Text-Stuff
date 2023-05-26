@@ -3969,7 +3969,7 @@ Ground targeted AoE that damages & Cripples.
 Does decent damage and the Cripple isn’t that useful in PvE, so it’s another use on CD damaging skill. Also it has a satisfying stab in the ground and an illusion stabs the enemy, pretty cool.
 
 Phantasmal Berserker
-Ranged piercing damaging attack that strips 2 x Boons from enemies hit. Spawn a Phantasm by the 1st target hit. It will do a moving Combo Whirlwind attack that damages & Cripples.
+Ranged piercing damaging attack that strips 2 x Boons from enemies hit. Spawn a Phantasm by the 1st target hit. It will do a moving Combo Whirlwind attack that damages & Cripples. It will then spawn a Greatsword Clone.
 
 As a Phantasm skill, it’s the highest priority due to the damage + the Clone generation afterwards. What’s not great about the Whirlwind attack is that it can hit up to 4 times; it’s hitbox dependent which is annoying. Other than that the Boon removal isn’t useful in PvE so that makes it even easier to use on CD. The Clone it spawns is the same as the one from Mirror Blade, using a Greatsword.
 
@@ -4026,6 +4026,38 @@ Confusing Images
 Channelled beam that damages & Confuses enemies.
 
 Channelled so you can use other instant cast abilities during it. Applying Confusion + being multi target makes it feel better than the other 2 skills, and who doesn’t like laser beams? Weapon overall would be better if it all applied Confusion & the autos had a little cleave + didn’t have that weird inconsistency.
+
+Sword
+Short ranged & versatile (offensive, defensive, mobility). Main hand & off-hand.
+
+Mind Slash -> Mind Gash -> Mind Spike
+Frontal cleave, damage & Vulnerability.
+Frontal cleave, same damage & Vulnerability.
+Frontal cleave, most damage. Remove a Boon from targets. Does bonus damage if they have no Boons to remove.
+
+Basic auto chain that you'd expect from a power weapon; Vulnerability fits. The Boon removal also fits w/ Mesmer’s other Boon removal effects. Bonus damage is handy, especially in PvE where it will almost always proc the bonus damage. Only annoying thing is that short range and how it sometimes doesn’t work properly if the enemy is close to you and behind your camera while you’re trying to move.
+
+Blurred Frenzy
+Channelled frontal cleave for big damage. Evading during the channel time.
+
+Does a lot of damage and also makes you Evade, so there’s a decision to be made on whether to use the skill as part of your rotation or hold it to mitigate damage. Doesn’t block DoT damage already on you though unlike Distortion so you need to watch out for that. The Evade is linked w/ the animation though, meaning if you cancel it (which is likely if you’re not used to it), it will be wasted and be put on full cooldown. Additionally if you have Quickness, the animation will finish earlier meaning you actually lose out on some Evasion for having a beneficial buff on you. The Evasion and the animation should be decoupled if Quickness is staying in the game.
+
+Illusionary Leap -> Swap
+Spawn a Clone by the target. All Clones created by this skill will then leap at the target, Crippling them. They will use the Sword auto attack chain. 
+Activate again within 5s and within mid range to swap places with the newest clone, causing PBAoE Immobilize at the swapped location. Combat Leap at the starting location.
+
+Sword’s Clone generator. Does very little damage so it will be exclusively used for Clones or utility from mobility, Mind Slash chain from the Clones or the CC. Cripple doesn’t really help in PvE most of the time. Vulnerability is handy but doesn’t last very long as it’s unlikely you’ll have 3 x Sword clones up for a long time without Shattering. Their autos do rip Boons though which can be handy in niche cases. The blink is the most useful as it is a gapcloser and has Immobilize on it which can be useful. Also a Leap but they don’t have any offensive effects. Basically use it on CD for a Clone, occasionally use the blink if needed.
+
+Illusionary Riposte -> Counter Blade
+Block the next attack, damaging the enemy & generating a Sword Clone. Also grants Evasion for a bit after blocking the attack.
+Activate before blocking an attack to fire a projectile that Dazes in an AoE around the target.
+
+If you know damage is coming up, you can use it to mitigate it and get a Clone. Fortunately it also comes w/ an Evasion after the Block unlike other “block next attack” skills, making it less likely to be eaten up by a stray pebble of damage. The 2nd portion is purely CC. Still of the belief that it should auto fire if nothing is blocked.
+
+Phantasmal Swordsman
+Frontal hit that damages & grants 8 x Might if it hits. Also counts as a Combo Leap (for some reason). As long as the attack isn’t Blocked, missed via Blind or the target is out of the standard 1200 long range, a Phantasm will spawn. It will Combo Leap for damage before using Blurred Frenzy. It will then spawn a Sword Clone.
+
+The initial hit doesn’t do much damage but every bit counts, especially w/ the extra Might you get. Phantasms always do a lot of damage so you want to make sure it goes off properly. There’s no other nuance to the skill though so use it on CD, preferably in melee range. The fact that it leaps to the target as a melee and also uses the multi hitting skill that also makes it Evade makes the Phantasm very powerful, especially w/ a Trait that builds damage stacks per hit.
 
 
 Chronomancer Combat
