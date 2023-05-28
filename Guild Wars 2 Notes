@@ -4099,6 +4099,31 @@ PBAoE damage & Burning. Spawn a Phantasm that has a frontal cleave of Burning, 3
 
 While there is a 0.5s Daze attached, the huge amount of Conditions + a Phantasm relegates this skill to being used on CD, which makes it less interesting in terms of decision making but pretty cool in terms of seeing a bunch of DoTs appearing on your enemies. As always, skills being AoE makes it feel good vs. single target misery.
 
+Healing
+Choose 1.
+
+Ether Feast - No Tag
+Heal self, healing for more per active Clone.
+
+Most basic of the heals, so it will be the baseline for comparisons. Has an interaction w/ Clones but the difference is minor (+11% per Clone). Could have an effect that’s more involved w/ Clones like spawning a Clone or 2 if you don’t have one. This will make it more versatile and interesting while also interacting w/ Clone Traits.
+
+Mirror - Manipulation
+Reflect projectiles & heal self.
+
+Weaker heal but has the added benefit of reflecting projectiles. It’s only 2s though so timing is key. It’s infinitely better than an Aegis though since it’s 2s rather than the next attack. Also has a pretty low CD of 12s. That said, since it only reflects for you, it’s best for PvP.
+
+Mantra of Recovery -> Power Return - Mantra
+Heal self & channel to prepare the Mantra. Completing preparation heals in PBAoE.
+Heal self, increased if <= 50%. 2 charges.
+
+Not really a support option as the PBAoE heal only happens on preparation completion (2.25s) and that can only happen once every 10s and requires you to potentially waste 2 healing charges. If both charges are used while below the threshold, it heals for just slightly less than Ether Feast which has no drawback (preparation). While it can potentially heal for a lot w/ the preparation + charges, it requires a lot of time that could be spent doing anything else. High risk heal for big heals, potentially useful in PvP if you’re able to get it off.
+
+Signet of the Ether - Signet
+Passive: Heal self when summoning an Illusion (Clone or Phantasm).
+Active: Heal self & fully recharge all Phantasm skills.
+
+DPS option. The active heals for roughly the same as Ether Feast and is a big DPS increase if you use it after you summon all your Phantasms, giving you a choice between a heal or damage. Passive heal is pretty small but does help since it affects all Illusions, not just Phantasms. Not worth keeping it for the passive though since the damage is way more important than passive incremental healing, something a healer can take care of.
+
 
 Chronomancer Combat
 
