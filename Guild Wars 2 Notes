@@ -4509,11 +4509,72 @@ Midnight: removes Conditions.
 Humility: applies Vulnerability.
 
 Improves all Signets, but the only reason to ever take this is for its effect on Inspiration. Extending the duration of your subgroups Boons by 3s every 20s is useful, freeing up some Boon Duration stats for damage, etc. However as it stands, Mesmers don’t have a strong healer build so there’s no reason to ever take this traitline. If healing were better, it might be a viable option since healers require both healing + Boons otherwise they’re left in the dust like healer Scourge. Mesmers can provide Boons and do support levels of DPS, but having suboptimal healing isn’t the best and until healing is increased, support Mesmers will stay as support DPS.
+Illusions - Shatters & Illusions
 
+Cry of Pain
+Shatter skill 2 inflicts an additional stack of Confusion for a +33% duration.
 
+More DoT damage. Not all that useful for Power builds though, could’ve at least increased the strike damage a little bit too or inflict Vulnerability so it’s not a completely dead trait for those builds. Otherwise it’s more damage for DoT builds.
 
+Shatter Storm
+Shatter skill 1 becomes an ammo skill w/ 2 charges.
 
+Power DPS option. Being able to use Shatter skill 1 twice in a burst phase means overall more damage. Clone generation is really high in openers anyway so it would’ve been used on skill 2 anyway, even if it’s suboptimal for Power builds.
 
+Persistence of Memory
+When a Phantasm becomes a Clone, transfer all their current Boons onto you.
+
+Pretty useful for solo since you want as many Boons as you can get while you’re by yourself. It also transfers any Boon on them, not just the ones you grant so there’s some party synergy but in that case you’re better off w/ Shatter Storm.
+
+The Pledge
+Additional Burning from Torch skills. -20% Torch skill CDs.
+
+Condition damage option, but only if you’re using Torch AND going down this tree. There are better options though, which makes this tree the 3rd best option for Condition builds, leaving it to never be used outside of a weird base Mesmer only Condition build which is in of itself suboptimal. Trait itself is pretty boring, adding a Burn to skills that already Burn and reducing CDs passively.
+
+Compounding Power
+Creating an Illusion grants a +2% Damage & +30 Condition Damage stack, max +10% & +150.
+
+Extra damage for doing something you’re already doing. Stacks don’t refresh in duration so there’s nothing to really keep a track of. Mostly means you’ll do a lot of damage during openers and less so during downtime where stacks are lower (Phantasm skills still recharging). Actually affects Power & Condi builds this time.
+
+Escape Artist
+Create a Clone when gaining Stealth in combat.
+
+Strictly PvP for the misdirection. Taking an entire Trait for a single Clone that requires Stealth, a rare effect is not worth it. The plus side is that it applies to any form of Stealth, not just Mesmer’s / yours and it doesn’t have a CD. But you need to remember the 3 Clone cap.
+
+Phantasmal Haste
+Phantasms spawn w/ Quickness. Gain Quickness when creating a Phantasm.
+
+Makes your Phantasms attacks quick. This only really helps in edge cases in burst phases as they only have 1 attack before devolving into a Clone. The Quickness you get for summoning a Phantasm is nice but it’s only 1.5s and it only affects yourself. Better off leaving it to the supports, especially since you would be choosing this Trait.
+
+Maim the Disillusioned
+Shatters inflict Torment on hit.
+
+Extra DoT damage. Specifically worded as on hit, meaning each explosion from the Clones and yourself apply the Torment. That’s pretty much it.
+
+Master of Misdirection
+-15% Shatter skill CDs.
+
+More Shatters, more damage / utility. Nothing else to say. Would be more interesting if the effect was weaker / stronger depending on how many Clones are used though.
+
+Phantasmal Force
+Phantasms deal +1% Strike Damage each stack of Might you have, max +25%. Gain 3 x Might when your Phantasms become Clones.
+
+Power DPS option. Phantasms deal more damage at a consistent 25% while you have max stacks, which you will have in group content. Extra Might padding is nice but not needed, leaving this trait as a +25% Phantasm damage trait which is a little boring but everyone likes more damage so who cares. Due to how crappy the Condi option is, this is also taken by Condi builds that don’t use Scepter, which is the majority of them.
+
+Master of Fragmentation
+Shatters are improved.
+Skill 1: +25% Crit Chance.
+Skill 2: Cripples on hit.
+Skill 3: Hits 5 targets instead of 1.
+Skill 4: Reflects projectiles.
+Skill 5 (some specs): +1s duration.
+
+Utility option as it grants a bunch of effects. Since they’re both offensive and defensive, it’s best used in PvP where you can make the most of all the benefits. The other options are generally better for their respective dedicated roles.
+
+Malicious Sorcery
++20% attack speed while wielding a Scepter. -20% Scepter skill CDs.
+
+Condition option, if using a Scepter obviously. The attack speed does NOT stack w/ Quickness, which greatly diminishes the value since in group content you’ll have Quickness. That pretty much leaves you with just the CDR, reiterating the fact that this is the 3rd best option for Condi builds.
 
 Chronomancer Combat
 
