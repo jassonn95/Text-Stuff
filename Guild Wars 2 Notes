@@ -2263,7 +2263,7 @@ Justice: 3 x Might.
 Resolve: Regen.
 Courage: Protection.
 
-Each Boon fits into their respective Virtue, offensive, healing & defensive. Added damage buff is also very handy. A lot more powerful than the Ele version which is neither a minor trait (doesn’t have to be chosen) nor gives an additional effect, just the damage.
+Each Boon fits into their respective Virtue, offensive, healing & defensive. Added damage buff is also very handy. A lot more powerful than the Ele version which is neither a minor Trait (doesn’t have to be chosen) nor gives an additional effect, just the damage.
 
 Unscathed Contender
 +7% Strike Damage w/ Aegis. +7% Strike Damage while >= 90% HP.
@@ -4256,6 +4256,7 @@ Active: Polymorph the target. CC immune targets take huge Defiance Bar Damage.
 
 CC option. The passive isn’t that useful since a stun is still a stun, no matter how reduced it is. The active lasts for 6s so it will do a 6s stuns worth of Defiance damage to bosses during CC phases. Otherwise the polymorph is incredibly annoying in PvP since it replaces your weapon skills w/ bird (or fish for underwater) skills and disables your utility skills. As you can see there’s no DPS option for base Mesmer, leaving the Elite specs to cover that hole.
 
+Traits
 Domination - Interruption & Vulnerability
 
 Illusion of Vulnerability
@@ -4317,7 +4318,6 @@ Power Block
 Interrupting deals damage & Weakness. Enemy skills that you interrupt have a +15s CD. 3s ICD when using CC skills against Defiance Bars. Cannot crit.
 
 Strictly a PvP option as part of the power budget is in the CD increase which doesn’t apply in PvE. Can completely screw over a person if you manage to interrupt multiple skills in a row, Weakening them a bunch and locking them out of a lot of skills. 
-
 Dueling - Crits & Dodging
 
 Critical Infusion
@@ -4379,6 +4379,69 @@ Deceptive Evasion
 Create a Clone at your position when dodging in combat.
 
 Clone option? It’s not particularly defensive as you don’t Stealth or break their targeting, all it does is leave a Clone behind. Clones aren’t particularly high in demand due to all the weapon skill and Phantasms generating Clones, so not really sure what the point of this trait is. Possibly in PvP.
+Chaos - Conditions & Defense
+
+Metaphysical Rejuvenation
+Gain Regen when hit below 75% HP. 15s ICD.
+
+Little bit of sustain, but the main reason for the Regen is the interaction w/ the other minor Traits in this traitline.
+
+Method of Madness
+Cast Lesser Chaos Storm when using a healing skill. Lesser Chaos Storm: same as Chaos Storm but less damage & the random Poison lasts half as long. 35s ICD.
+
+The only “offensive” option. Most of the effects are utility based but there’s some pulsing damage & Poison. Since it’s the only option that does damage, you’ll have to take it as it is. Some healing skills are offensive anyway, this Trait makes them slightly better w/ the pulsing effects & Field.
+
+Illusionary Defense
+-5% Incoming Strike Damage stacks whenever you summon an Illusion, max -25%.
+
+Selfish defensive option. Only affects Strike Damage and gaining a stack doesn’t refresh its duration but Illusions cover both Clones & Phantasms so gaining stacks shouldn’t be too hard. Definitely more of a PvP option, possible tanking option in PvE.
+
+Master of Manipulation
+Manipulation skills grant PBAoE Aegis.
+
+Party defensive option. Requires Manipulation skills to be taken though and they’re generally not that great in terms of damage / use in PvE: only Blink and possibly Mimic are useful in PvE. Even in PvP they’re not that great and have niche uses.
+
+Illusionary Membrane
+While affected by Regen, +10% Condition Damage dealt and -10% Condition Damage received.
+
+Main reason this traitline is the Condition DPS tree. Extra damage from having something that’s pretty easy to get, though Regen stacking is a bit weird. It stacks in duration, but only up to 5 times and no one knows which ones get overwritten, but that’s a whole ‘nother discussion. Also makes you slightly tankier against DoTs which is always nice, but not as useful in PvE since cleansing is more effective (rather, possible) here than in other MMOs.
+
+Auspicious Anguish
+Converts 2 damaging Conditions on self to Boons whenever you gain Distortion or become Disabled.
+
+A very niche Trait as there’s only a few ways to gain Distortion: Distortion Shatter, a Virtuoso Utility Blade Renewal and an Inspiration Trait Blurred Inscriptions which require Signet usage. Otherwise it requires you to be CC’d which shouldn’t ever be the goal, especially not to just cleanse 2 Conditions. Doesn’t have an ICD though so it could be useful in PvP scenarios where you’re getting CC locked, but Conditions would be the least of your troubles in that case. The conversions also vary wildly in value: Vigor, Aegis, Resolution, Regen & 3 x Might but that’s more due to Condition -> Boon conversion than this trait specifically. Could possibly change it to be Protection & Resolution only to emphasise the defensiveness.
+
+Chaotic Transference
+Gain Protection when casting Chaos Armor. When gaining Protection, also gain Regen (15s ICD).
+
+An incredibly niche Trait as it only affects the Chaos Armor skill from Staff. If it also affected Chaos Aura it would be infinitely more useful. Otherwise it’s another defensive option but a very niche one. Also slightly helps with Regen uptime.
+
+Chaotic Potency
+Gain Condition Damage, doubled when wielding a Staff. -20% Staff & Trident (underwater) skill CDs.
+
+Condition DPS option, even if you’re not using Staff. Unlike the Sword trait above, it has uses even when not using a Sword. Not as exciting as the Greatsword one but extra Condition Damage is always nice to have. Since it’s the only offensive option of the 3, it’s an easy choice for PvE. Especially w/ the other 2 options being like… that.
+
+Chaotic Persistence
+Gain Concentration & Expertise while affected by Regen.
+
+Further interaction w/ Regen. Boons & Conditions from you lasting longer makes it versatile in both offensive and utility based builds, preferably both to make the most out of this tree.
+
+Chaotic Interruption
+Interrupting an enemy recharges a random equipped weapon skills CD by 5s. 1s ICD.
+
+Fortunately the “random” skill can’t affect skills that are fully recharged so nothing is wasted. It only affects skills that are visibly active on your bar though, so nothing on the other weapon and nothing that’s the 2nd part of another skill. It also doesn’t affect the CC skills themselves as they don’t go on CD until after the whole animation (some edge cases w/ delayed projectiles may affect itself, reducing its own CD). Overall it’s an okay skill but not all that useful in PvE like most interrupt Traits. It doesn’t have the line about having a 3s ICD against Defiance Bars though, but assuming it’s the cast then it’s still not that useful since they don’t happen that often. And if it’s not the case then it’s completely useless against bosses. 1s ICD to prevent AoE CC skills outperforming single target ones.
+
+Prismatic Understanding
++50% Stealth Duration from Mesmer skills. Gain random Boons while Stealthed (Aegis, Protection, Regen, Might, Swiftness).
+
+Extra Stealth makes this the PvP option. Boons are also only given to you so it’s not as strong as you think it is (since a couple of them are party based Stealth). The Boons being random don’t help either, especially since one is Aegis and the other is a singular Might.
+
+Bountiful Disillusionment
+Gain Stability when using a Shatter. Gain an additional Boon based on the Shatter.
+Skill 1: 5 x Might | Skill 2: Vigor | Skill 3: Fury | Skill 4: Regen | Skill 5 (some specs): Resistance
+
+Little bit of extra Boon coverage + Stability. Always nice to have Stability since being CC’d feels awful. Other than that, it’s just a little extra Boon coverage, nothing crazy or all that useful honestly. Might be okay for Chronomancer or Virtuoso to gain Resistance on their 5th Shatter but taking an entire Condition / Defensive tree for that is a bit much.
+
 
 Chronomancer Combat
 
