@@ -4318,6 +4318,68 @@ Interrupting deals damage & Weakness. Enemy skills that you interrupt have a +15
 
 Strictly a PvP option as part of the power budget is in the CD increase which doesn’t apply in PvE. Can completely screw over a person if you manage to interrupt multiple skills in a row, Weakening them a bunch and locking them out of a lot of skills. 
 
+Dueling - Crits & Dodging
+
+Critical Infusion
+Critting grants Vigor. 10s ICD.
+
+Lets you dodge a little bit more for simply attacking (since you should be capped out w/ 100% crit). Has some synergy w/ some of the other Traits but mostly extra active mitigation.
+
+Phantasmal Fury
+Phantasms have 10s Fury. 10s ICD.
+
+Offensive power option. Basically just means Phantasms always have Fury on them. Very unlikely that Phantasms will last for longer than 10s, but the 10s duration + re-application is just so that other players in PvP can’t still a 30s Fury buff off of your clones for free. Phantasms inherit your stats, so w/o this Trait they’d be at 75% crit w/o the Fury assuming maxing crit.
+
+Desperate Decoy
+Cast Decoy when hit below 50% HP.
+
+Defensive option. Not all that useful in PvE since Stealth & a singular Clone aren’t going to help you avoid raid wide damage. Much more useful in PvP since it breaks targeting and you’re Stealthed.
+
+Duelist’s Discipline
+Pistol attacks from you & Illusions Bleed. Interrupting recharges 25% of Pistol skill CDs, 3s ICD against Defiance Bars.
+
+Condition damage option if you’re using a Pistol. Getting active mitigation is much more involved than the flat 20% some other Traits have; a lot more interesting. That said there’s only 2 Pistol skills so its value is pretty limited. Could include additional Bleeding on next attack(s) after interrupting to further enhance its identity as a duelist.
+
+Sharper Images
+Illusions inflict Bleeding on crit.
+
+Extra DoTs for extra damage. Not that useful for Power builds as you have nothing scaling the Bleeding damage or duration. Condition builds don’t mind it as the best Condition gear have crit on them (just no crit damage). It also doesn’t have an ICD so multi-hit Clone attacks are very powerful at applying Bleeding.
+
+Blinding Dissipation
+Shatter skill 2 inflicts PBAoE Blindness.
+
+PvP / Condition option. Blindness isn’t that useful in PvE so that’s what makes it a PvP option. It’s a pseudo Condition DPS option because of a Trait further down the traitline that applies Confusion whenever you Blind an enemy. Blind you want to get rid of by attacking but attacking while Confused does more damage to you, giving the enemy a choice on what to do.
+
+Evasive Mirror
+Gain 2s of projectile reflection after successfully dodging an attack. 1.5s ICD.
+
+Defensive option. Requires a successful dodge so you can’t preemptively dodge for the buff. Basically just extends your dodge against ranged attacks.
+
+Fencer’s Finesse
+Gain a stacking Ferocity buff (max 10) whenever you or an Illusion strikes w/ a Sword or Spear (underwater). -20% Sword & Spear skill CDs.
+
+Power DPS option. Main reason why you want multihit attacks; to stack up quickly for the burst attacks. Only gain stacks from certain weapons and the stacks don’t refresh the duration so there’s only a couple of seconds to get the heavy hitters out. Obviously this requires taking a Sword though, which may be annoying if you want to deal Power damage without using a Sword. Could be changed so that the stack cap is doubled and the stack Ferocity be halved. Then, have it apply stacks on any bladed weapon (Sword, Greatsword, Axe or Dagger) but have it apply double stacks for Sword only. Maybe even triple and adjust stack value accordingly, just as long as there’s use of this Trait without using a Sword explicitly, though that doesn’t fit the usual “Fencer” image.
+
+Master Fencer
+Grant PBAoE Fury when critting. 8s ICD.
+
+Extra Fury for your subgroup. Has a 50% uptime, possibly 100% if you have 100% Boon Duration, allowing for some support capability. Most of the Mesmer support builds don’t build full Boon Duration though, meaning another source will have to be added. Still it’s pretty decent for a minor Trait.
+
+Superiority Complex
++15% Crit Damage. Another +10% Crit Damage against Disabled or <=50% HP enemies. Only affects your damage (not Illusions).
+
+Power damage option. Free Crit Damage which is increased against Disabled (not helpful in PvE) enemies or those below 50% HP. It’s also multiplicative rather than increasing the “crit damage” stat which is increased by Ferocity. It’s overall pretty boring but more damage is more damage. Extra damage conditionals are at least somewhat interesting, requiring coordination or just progressing the fight.
+
+Ineptitude
+Interrupting an enemy inflicts Blind & Blinding an enemy inflicts 2 x Confusion. 3s ICD when using a CC skill against Defiance Bars.
+
+Condition DPS option. Affects all Blinds, not just the ones from this Trait, making it more versatile. The extra Blindness can help but not so much in group content. Same notes about Defiance Bar ICD; previously didn’t work at all so it’s better than nothing.
+
+Deceptive Evasion
+Create a Clone at your position when dodging in combat.
+
+Clone option? It’s not particularly defensive as you don’t Stealth or break their targeting, all it does is leave a Clone behind. Clones aren’t particularly high in demand due to all the weapon skill and Phantasms generating Clones, so not really sure what the point of this trait is. Possibly in PvP.
+
 Chronomancer Combat
 
 Chronomancer Abilities
