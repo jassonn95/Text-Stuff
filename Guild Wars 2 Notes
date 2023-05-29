@@ -4256,6 +4256,67 @@ Active: Polymorph the target. CC immune targets take huge Defiance Bar Damage.
 
 CC option. The passive isn’t that useful since a stun is still a stun, no matter how reduced it is. The active lasts for 6s so it will do a 6s stuns worth of Defiance damage to bosses during CC phases. Otherwise the polymorph is incredibly annoying in PvP since it replaces your weapon skills w/ bird (or fish for underwater) skills and disables your utility skills. As you can see there’s no DPS option for base Mesmer, leaving the Elite specs to cover that hole.
 
+Domination - Interruption & Vulnerability
+
+Illusion of Vulnerability
+Inflict 3 x Vulnerability when interrupting an enemy. 3s ICD when using CC skills against Defiance Bars.
+
+Little bit of extra Vulnerability. Not that useful in PvE since it doesn’t work until CC phases where it will have that 3s ICD. Definitely sees more use in PvP.
+
+Bountiful Blades
+Greatsword’s Mirror Blades bounces an additional 2 times. Greatsword’s Phantasmal Berserker summons an additional berserker but does -33% damage (total 133% damage, double the Illusions).
+
+Good example of a weapon specific trait since it does more than a CDR. More bounces means more damage, Might & Vulnerability depending on who gets hit. Additional Phantasms do overall more damage even with the damage reduction; there’s no case where it’s a DPS loss. An additional Phantasm means an additional Clone means more for Shatters.
+
+Empower Illusions
+Illusions deal +15% Strike Damage.
+
+The other DPS option. Only applies to damage from your Illusions and since Clones barely do any damage, it only applies to Phantasms which are pretty limited. It’s the option you take if you’re not using Greatsword for whatever reason.
+
+Rending Shatter
+Shatter skills inflict 1 x Vulnerability on hit.
+
+Can apply a lot of Vulnerability in quick succession as it applies per Shatter explosion (4 if you have 3 Clones out since it also explodes around you). Not that useful in PvE though as Vulnerability is covered pretty easily from having multiple players do the bare minimum.
+
+Dazzling
+Dazing or Stunning an enemy applies 5 x Vulnerability.
+
+Pretty useless in PvE as the only chance of Stunning is when the Defiance Bar is broken. Unsure if you need to land the final CC or not to get its effects. Otherwise it’s a lot more useful in PvP.
+
+Shattered Concentration
+Shatter skills remove 1 x Boon on hit.
+
+Removing Boons is strictly a PvP option. Like the other Shatter trait, it applies on hit so you can quickly remove Boons if you have a bunch of Clones up.
+
+Egotism
++10% Strike Damage against enemies w/ lower HP % than you.
+
+Very useful in PvE since you’re almost always topped up from healers vs. PvP where you’re fighting for your life most of the time. Because of that, there’s no real nuance involved and is just a high uptime damage up Trait. Doesn’t include Illusion damage though.
+
+Furious Interruption
+Gain Quickness when interrupting a foe. 3s ICD.
+
+Like the other Interrupt Traits, it’s not very useful in PvE. Same notes apply. 3s of Quickness w/ a 3s ICD, potential uptime if you space out your CC but not worth it since CC locking someone is more important in PvP. Quickness is nice but better to get it through a support and not eat up a Trait for it.
+
+Fragility
++0.5% Strike Damage per Vulnerability stack on the target (max 12.5%).
+
+An easy 12.5% Strike Damage boost without doing anything on your part since again, Vulnerability stacks up pretty quickly naturally w/ more players. It does synergise w/ all the Vulnerability Traits in this traitline though, fitting.
+
+Vicious Expression
++15% Strike Damage for you & your Illusions against enemies w/o Boons. Disabling an enemy removes 2 Boons from them.
+
+DPS option. More Strike Damage against all enemies in PvE since enemies don’t have Boons. Otherwise in PvP you get to remove Boons while CCing.
+
+Mental Anguish
++25% Shatter Damage. Doubled against enemies not attacking.
+
+Another DPS option. Puts a lot of power into Shatters which aren’t always available, and only 2 of them damage anyway. Could be good for burst reasons in PvP but not as powerful in PvE compared to the above.
+
+Power Block
+Interrupting deals damage & Weakness. Enemy skills that you interrupt have a +15s CD. 3s ICD when using CC skills against Defiance Bars. Cannot crit.
+
+Strictly a PvP option as part of the power budget is in the CD increase which doesn’t apply in PvE. Can completely screw over a person if you manage to interrupt multiple skills in a row, Weakening them a bunch and locking them out of a lot of skills. 
 
 Chronomancer Combat
 
