@@ -4123,7 +4123,7 @@ Active: Heal self & fully recharge all Phantasm skills.
 
 DPS option. The active heals for roughly the same as Ether Feast and is a big DPS increase if you use it after you summon all your Phantasms, giving you a choice between a heal or damage. Passive heal is pretty small but does help since it affects all Illusions, not just Phantasms. Not worth keeping it for the passive though since the damage is way more important than passive incremental healing, something a healer can take care of.
 
-Utilities
+Utility
 Choose 3.
 
 Decoy - Clone
@@ -4236,6 +4236,25 @@ Passive: Gain Expertise.
 Active: Breaks stun. PBAoE Blind & Stealth self.
 
 Condition DPS + defensive option. Like the other Condition option, it’s best to be used by Condition DPS only as half of the effect is worthless for Power DPS who can use another stun break skill to full effect. Active presents a choice between damage and defensive effects too. The stun break is sort of unsafe as you’re not immune to CC especially against CC Condition immune enemies like bosses or AoEs (Blind & Stealth respectively).
+
+Elite
+Choose 1.
+
+Time Warp - Glamour
+Ground targeted Ethereal Combo field that pulses Quickness & Superspeed for allies + Slow & Chilled for enemies. Unblockable.
+
+Utility option. In PvE it will be purely for the Quickness and less so for the Superspeed. The Slow & Chilled can count for Traits and some CC damage but they won’t last long enough to count as a consistent source. It does have a lengthy CD of 120s though, making the other smaller options of Quickness more attractive while leaving this slot for something more useful.
+
+Mass Invisibility - Manipulation
+PBAoE Stealth.
+
+Stealth is definitely more powerful in PvP. As mentioned in the other party stealth skill, this lasts 6s vs 2s but only affects 10 players. This makes it more useful in PvE to skip mob packs but other than that it doesn’t have any combat interactions. Unsure if Thief Stealth attacks work as I don’t play Thief that often, but if it does it could be a cute interaction? Albeit a little niche and not all that effective since this has a 48s CD.
+
+Signet of Humility - Signet
+Passive: -20% Stun Duration on self.
+Active: Polymorph the target. CC immune targets take huge Defiance Bar Damage.
+
+CC option. The passive isn’t that useful since a stun is still a stun, no matter how reduced it is. The active lasts for 6s so it will do a 6s stuns worth of Defiance damage to bosses during CC phases. Otherwise the polymorph is incredibly annoying in PvP since it replaces your weapon skills w/ bird (or fish for underwater) skills and disables your utility skills. As you can see there’s no DPS option for base Mesmer, leaving the Elite specs to cover that hole.
 
 
 Chronomancer Combat
