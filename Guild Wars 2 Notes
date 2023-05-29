@@ -4441,6 +4441,78 @@ Gain Stability when using a Shatter. Gain an additional Boon based on the Shatte
 Skill 1: 5 x Might | Skill 2: Vigor | Skill 3: Fury | Skill 4: Regen | Skill 5 (some specs): Resistance
 
 Little bit of extra Boon coverage + Stability. Always nice to have Stability since being CC’d feels awful. Other than that, it’s just a little extra Boon coverage, nothing crazy or all that useful honestly. Might be okay for Chronomancer or Virtuoso to gain Resistance on their 5th Shatter but taking an entire Condition / Defensive tree for that is a bit much.
+Inspiration - Healing & Support
+
+Mender’s Purity
+Cast Lesser Power Cleanse when using a healing skill. Lesser Power Cleanse: same as Power Cleanse but only cleanses 1 not 3 Conditions. 1s ICD.
+
+Little extra bit of cleansing. Doesn’t have a huge CD like other on skill Traits, meaning it’s best used with the healing Mantra for max value. Otherwise, it’s just a little bit of extra cleansing utility which fits the minor Trait status.
+
+Medic’s Feedback
+Cast Feedback (exact same as the Utility skill) when reviving an ally. Feedback pulses 5% partial revive. 32s ICD.
+
+The revive Trait. Exactly like the other revive Traits, except it reflects projectiles instead of blocking like Guardian or healing more like Ele or Necro. As such, the same notes apply.
+
+Restorative Mantras
+PBAoE heal when finishing a Mantra preparation only, it doesn’t affect the charges portion at all.
+
+Pretty awful as it doesn’t affect the charges at all. It could’ve at least had half the effect or something. As it stands a 1.6k heal after a 2.25s channel is absolutely not worth it and part of the reason why heal Mesmers don’t work as they don’t have reliable ways of healing well.
+
+Sympathetic Visage
+Phantasms take a Condition from you when summoned.
+
+Little bit of Condition cleansing. Does exactly what it says, nothing else. Phantasms are a bit rarer than Clones so the cleansing isn’t as powerful as you think, especially since it’s technically not cleansed but on the Phantasms themselves. Meaning it may impact their damage if they take Weakness off of you (other Conditions should be fine).
+
+Inspiring Distortion
+Grant allies Aegis in a PBAoE when giving self Distortion or using Shatter Skill 4.
+
+Extra tankiness for allies. Doesn’t grant self Aegis which shouldn’t be needed anyway since you’re completely immune during Distortion. Formerly gave allies Distortion which is completely overpowered, having a party be immune to everything on demand is wild and doesn’t fit a minor Trait.
+
+Warden’s Feedback
+Focus skills reflect projectiles. -20% Focus skill CDs.
+
+Adds a little bit of protection against projectiles, though not as much as you think since Phantasmal Warden already blocks projectiles, this just changes it to reflect. Lower CDs are always appreciated but an entire Trait for something that only affects 2 skills is a bit of a high cost.
+
+Restorative Illusions
+Heal self & cleanse a Condition when using a Shatter. Increased healing per Clone Shattered.
+
+Extra sustain and cleansing for self when using a Shatter. Interaction w/ Clones is nice as it gives a small amount of skill expression. Should be changed to PBAoE heal though to help w/ Mesmer healing builds as it currently does not exist and the other 2 options aren’t really of the healing thematic.
+
+Temporal Enchanter
+Glamour skills last 1s longer. Casting Glamour skills grants PBAoE Superspeed & Resistance.
+
+Only really affects 3 of the 5 Glamour skills since the portals lasting an extra second doesn’t really matter and Veil lasting another second doesn’t help since you can’t gain Mesmer Stealth when already affected by Mesmer Stealth. The other 3 lasting longer helps though, but generally only under PvP situations. Superspeed is handy but not needed in PvE generally and Resistance is nice to have but not that needed as Conditions aren’t that common in PvE. Purely useful in PvP.
+
+Healing Prism
+PBAoE heal whenever you heal yourself. 10s ICD. Gain Healing Power based on 13% of Power.
+
+10s ICD for 500 healing is a bit much. It doesn’t even affect yourself. Lower the CD or increase the healing to help with Mesmer healer builds. Otherwise a bit of extra Healing Power is nice, especially since most pure healer builds have Power on them.
+
+Mental Defense
+Cast Lesser Phantasmal Defender when successfully Blocking or Evading an attack.
+Lesser Phantasmal Defender: it’s exactly the same as Phantasmal Defender. 40s ICD.
+
+Free use of Phantasmal Defender. Much more useful in PvP as Taunts don’t work on bosses, though the extra Illusions are always appreciated. Still, there are better options out of the 3.
+
+Illusionary Inspiration
+PBAoE heal when summoning an Illusion.
+
+The heal is pretty small at 200 but at least this doesn’t have an ICD. Clones are generated pretty quickly so it’s not a bad source of healing. It’s just not enough to sustain a party by itself, especially since it happens naturally and not at burst. At least not at the cost of your damage rotation. It itself is fine, it’s the other healing Traits that need propping up.
+
+Blurred Inscriptions
+Signet actives are improved and grant 1s of Distortion to self.
+Ether: increased healing
+Domination: removes Boons.
+Illusions: summons Illusions.
+Inspiration: affects allies too.
+Midnight: removes Conditions.
+Humility: applies Vulnerability.
+
+Improves all Signets, but the only reason to ever take this is for its effect on Inspiration. Extending the duration of your subgroups Boons by 3s every 20s is useful, freeing up some Boon Duration stats for damage, etc. However as it stands, Mesmers don’t have a strong healer build so there’s no reason to ever take this traitline. If healing were better, it might be a viable option since healers require both healing + Boons otherwise they’re left in the dust like healer Scourge. Mesmers can provide Boons and do support levels of DPS, but having suboptimal healing isn’t the best and until healing is increased, support Mesmers will stay as support DPS.
+
+
+
+
 
 
 Chronomancer Combat
