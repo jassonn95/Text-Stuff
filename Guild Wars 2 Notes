@@ -4113,8 +4113,7 @@ Reflect projectiles & heal self.
 Weaker heal but has the added benefit of reflecting projectiles. It’s only 2s though so timing is key. It’s infinitely better than an Aegis though since it’s 2s rather than the next attack. Also has a pretty low CD of 12s. That said, since it only reflects for you, it’s best for PvP.
 
 Mantra of Recovery -> Power Return - Mantra
-Heal self & channel to prepare the Mantra. Completing preparation heals in PBAoE.
-Heal self, increased if <= 50%. 2 charges.
+Preparation: Heal self & channel to prepare the Mantra. Completing preparation heals Charges: Heal self, increased if <= 50%. 2 charges.
 
 Not really a support option as the PBAoE heal only happens on preparation completion (2.25s) and that can only happen once every 10s and requires you to potentially waste 2 healing charges. If both charges are used while below the threshold, it heals for just slightly less than Ether Feast which has no drawback (preparation). While it can potentially heal for a lot w/ the preparation + charges, it requires a lot of time that could be spent doing anything else. High risk heal for big heals, potentially useful in PvP if you’re able to get it off.
 
@@ -4123,6 +4122,120 @@ Passive: Heal self when summoning an Illusion (Clone or Phantasm).
 Active: Heal self & fully recharge all Phantasm skills.
 
 DPS option. The active heals for roughly the same as Ether Feast and is a big DPS increase if you use it after you summon all your Phantasms, giving you a choice between a heal or damage. Passive heal is pretty small but does help since it affects all Illusions, not just Phantasms. Not worth keeping it for the passive though since the damage is way more important than passive incremental healing, something a healer can take care of.
+
+Utilities
+Choose 3.
+
+Decoy - Clone
+Breaks stun. Gain Stealth & summon a Clone.
+
+Both Clone utilities are defensive. This one is more defensive as it grants 3s of Stealth but at the cost of 1 Clone, meaning less damage, CC or invulnerability.
+
+Mirror Images - Clone
+Breaks stun. Break enemy targeting & Summon 2 Clones.
+
+The other Clone utility. Not sure if the “break enemy targeting” really helps in PvE (doesn’t feel like it) but it’s pretty annoying in PvP, which could be useful against ranged enemies. Has 2 Clones so it’s more versatile than its counterpart.
+
+Feedback - Glamour
+Ground targeted Ethereal Combo field that reflects projectiles.
+
+Glamours are ground fields that are beneficial to allies or harmful to enemies. Very powerful projectile reflection skill as it covers an AoE and lasts for 6s. Obviously it’s not that useful when there’s no projectiles that need to be reflected.
+
+Null Field - Glamour
+Ground targeted Ethereal Combo field that pulses Boon removal for enemies & Condition cleansing for allies.
+
+Far more useful in PvP where Condition cleansing + Boon removal are needed a lot more than in PvE. Radius is pretty small though so the likelihood of getting max value of both effects is pretty low though, maybe in WvW where it’s zerg vs zerg.
+
+Portal Entre -> Portal Exeunt - Glamour
+Create a portal entrance beneath you.
+Create a portal exit beneath you, allowing 20 uses for anyone to go back and forth.
+
+Very useful skill out of combat that lets you skip jumping puzzles. Can also be used to cheese some fight mechanics / act as pseudo mobility but does require you to preposition both portals, requiring fight knowledge. The only issue w/ the skill is that to use it, you need to use the all purpose interaction button (F) which is used for pretty much everything. Meaning you can accidentally use it again if you’re trying to open a chest or an NPC, etc.
+
+Veil - Glamour
+Ground targeted line Light Combo field that grants Stealth.
+
+It can be useful for skipping mob packs or surprises in PvP but since it only lasts 2s its effectiveness is limited. Unlike other skills it doesn’t have a target limit, meaning any amount of allies can be stealthed. The Elite version provides longer duration Stealth at the limit of 10 allies, meaning this one is probably going to stay as is just so it’s different from the Elite version. Adding Boons or speed won’t be an option either as those are currently Traits. Possibly some form of healing?
+
+Arcane Thievery - Manipulation
+Send 3 Conditions on you to the target. Steal 3 Boons from the target to yourself. Hitting the target will Slow them and grant self Quickness. Unblockable.
+
+Manipulation skills are thematically about control, but are practically a bit of everything. This option is definitely a PvP option as again, having both Condition cleansing and Boon removal / stealing is only really effective in PvP. Otherwise half the power budget is wasted on something that’s needed / used (Boon stealing + Condition sending as Mesmers don’t have a way to apply Conditions to themselves like Necros). As a PvP skill it’s pretty powerful in 1v1 though, so less useful in WvW.
+
+Blink - Manipulation
+Breaks stun. Long range blink.
+
+Compared to Ele’s Lightning Flash, it’s longer range and breaks stun at the cost of the little damage Ele’s does. While it does make them unique from each other, I still prefer this to Ele’s version since the damage is inconsequential. If I’m trying to escape, I’m not going to aim it at an enemy for a bit of damage.
+
+Illusion of Life - Manipulation
+Ground targeted AoE that temporarily revives allies from Downed. If they kill an enemy in the next 15s, fully revive them.
+
+Powerful pseudo res skill, but only in PvP. If there was something to kill to get a Rally in PvE, then this skill wouldn’t be needed. In PvP other players may run away so this skill will help you / allies tag or even kill enemies for the Rally. For this to be useful in PvE, there’ll have to be another part of the skill that allows reviving without killing something. Possibly being healed to full HP or healed an amount equal to max HP.
+
+Mimic - Manipulation
+Next Utility used w/ have a 1s CD. Mimic’s CD is increased by the Mimicked skill’s CD.
+
+Very versatile skill as it’s effectively (almost) doubling the uses of another Utility. Double Blinks, double reflect barrier, double Phantasm skills, etc. It’s almost doubling because the skill itself has a 20s CD, on top of the CD of the Mimicked skill.
+
+Mantra of Concentration -> Power Break - Mantra
+Preparation: Completion for PBAoE 3 x Stability. Additional Stability & Aegis for self.
+Charges: Breaks stun on self & grants PBAoE 3 x Stability. 2 charges.
+
+Prefer Firebrand’s version where the powerful effect is on the final charge rather than the initial preparation channel. In their case, it (usually) provides a choice between keeping the charges recharging or having an immediate burst w/ the offset of a CD + channel. In Mesmer’s case, you generally don’t want to use both charges unless there’s downtime to prepare the Mantra again.
+
+CC defensive option. Charges are very powerful as it grants you a stun break as well as a decent amount of CC immunity for you and your allies. The preparation isn’t strong enough to warrant keeping this unprepared for but can be useful if there’s some downtime in PvP to recharge. There’s a 15s CD though so it’s not possible to have the preparation available on demand.
+
+Mantra of Distraction -> Power Lock - Mantra
+Preparation: Reduced Diversion’s CD by 15s.
+Charges: Daze target & nearby enemies. 2 charges.
+
+CC option. Diversion has a 38s CD so the preparation is a ~40% CD reduction. But like the above, it has a lengthy CD so using it fully and preparing it on CD isn’t really a viable option. 
+
+Mantra of Pain -> Power Spike - Mantra
+Preparation: PBAoE 8 x Might.
+Charges: Damage target & nearby enemies. 5 x Vulnerability for enemies who aren’t attacking. 2 charges.
+
+DPS option. The Might is effectively useless as there are many ways to gain might, even just through your own skills let alone support roles. It also doesn’t last very long. Basically you just want to use it when all your other damage multipliers are up without eating both charges. Vulnerability isn’t really an issue either so no real need to watch if the enemy is attacking or not, unfortunately limiting the skill expression. Probably for the best as it’s not clear sometimes when something is attacking or just part of the combat stance animation.
+
+Mantra of Resolve -> Power Cleanse - Mantra
+Preparation: 13 x Condition Cleanse for self. PBAoE 3 x Condition Cleanse.
+Charges: PBAoE 3 x Condition Cleanse. 2 charges.
+
+Condition cleanse option. Even though the 13 cleanses sound amazing, it’s very unlikely you’ll be affected by that many Conditions. At most you can clear the majority if not all Conditions on yourself by using both charges.
+
+Phantasmal Defender - Phantasm
+Summon a Phantasm that PBAoE Taunts. When the blocking is done, explode for damage that increases per attack blocked (up to 500% bonus from 10 hits).
+
+Defensive Phantasm. Not that useful in group content since bosses are immune to Taunts since it’s a Condition and there’s no threat table in GW2 like other MMOs. Useful in open world / PvP as the Taunt actually affects them (sans Stability). Also compared to the below, it has double the CD making it less attractive as a pure Phantasm skill.
+
+Phantasmal Disenchanter - Phantasm
+Summon a Phantasm that shoots ranged bouncing (can’t hit same target more than once) attacks that remove Boons from enemies. Deals 2.5x damage to enemies without Boons. Unblockable.
+
+Since enemy mobs generally don’t have Boons, it practically always deals the bonus damage. It has a much lower CD than the other Phantasm utility skill too so it’s good for both damage + Clone spawning. Not being able to hit the same target more than once makes it very consistent, so it feels less awful in single target situations vs 2 targets.
+
+Signet of Domination - Signet
+Passive: Gain Condition Damage.
+Active: Ranged stun on target.
+
+Condition DPS + CC option. Since stuns aren’t always needed, it’s not really an option for Power DPS to take as you’ll be stuck w/ a useless passive for the majority of the time. For Condition DPS, grants you a choice between keeping damage up or contributing to the CC. Same notes as every other Signet.
+
+Signet of Illusions - Signet
+Passive: Create a clone every 10s in combat.
+Active: Recharge all Shatter skill CDs.
+
+The passive isn’t all that useful since Clones are generated out of the wazoo through weapon skills and Phantasm skills. Active could be useful in PvP which requires damage, CC and invulnerability. Less useful in PvE compared to other skills where you can get full value of the whole skills power budget.
+
+Signet of Inspiration - Signet
+Passive: Grant Swiftness & a random Boon every 10s.
+Active: Extend the duration of all Boons on self by 3s.
+
+The passive is incredibly inconsistent as it chooses from every other Boon excluding Swiftness which is always granted. 3s of Aegis has a different value compared to 3s of Regen or 20s of a singular Might, for example. The active itself is pretty bad but can be improved by a Trait to include allies in the Boon duration extension. Still it requires a Trait that’s in the healing tree and there aren’t any real healing builds for Mesmer or its specs.
+
+Signet of Midnight - Signet
+Passive: Gain Expertise.
+Active: Breaks stun. PBAoE Blind & Stealth self.
+
+Condition DPS + defensive option. Like the other Condition option, it’s best to be used by Condition DPS only as half of the effect is worthless for Power DPS who can use another stun break skill to full effect. Active presents a choice between damage and defensive effects too. The stun break is sort of unsafe as you’re not immune to CC especially against CC Condition immune enemies like bosses or AoEs (Blind & Stealth respectively).
 
 
 Chronomancer Combat
