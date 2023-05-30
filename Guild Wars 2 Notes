@@ -4625,6 +4625,38 @@ PBAoE 8 x Might & Swiftness. Launch a moving Ethereal Combo field that damages &
 
 Used to give both Quickness & Alacrity by default. Chronomancer used to be absolutely required in raids and it was due to its ability to give both Quickness & Alacrity, rendering all other support classes (minus Druid, and only because they had a unique damage buff + Chrono can’t really grant Might) useless. After splitting the 2 by adding them to Traits in the same group of 3 + adding those Boons to other support classes, it’s now become less required and outright replaced (but that’s more of a numbers tweak thing). This skill does have a lot going on even as the base kit version though. 8 x Might that lasts a decent amount of time, CC, projectile blocking, okay damage and a Combo field. The moving and returning wave sort of fits thematically too, and is definitely unique. Since it does a whole bunch at the same time, there’s a choice to be made to hold for the CC or keep it up for its Boons (usually the latter).
 
+Wells
+
+Well of Eternity - Healing
+Heal self. Ground targeted Light Combo field that pulses Condition cleansing. At the end, explode for area healing.
+
+Another party heal option w/o having to deal w/ the janky Mantra. It overall heals you for quite a bit too and comes w/ Condition cleansing. The only issue is that the CD is high and it’s delayed (all of these Wells take 3s), which may cause some issues if you need burst healing.
+
+Well of Action - Utility
+Ground targeted Ethereal Combo field that pulses damage & Slow. At the end, explode for area 8 x Might, Fury & Superspeed.
+
+Support option. Does the least amount of damage out of the damaging ones, tied with Well of Senility. Previously gave Quickness but was reworked after the whole shifting of Quickness & Alacrity pass. The offensive Boons are nice and can be used to maintain some of the offensive Boons. Superspeed is also there.
+
+Well of Calamity - Utility
+Ground targeted Ethereal Combo field that pulses damage, Weakness & Cripple. At the end, explode for area damage.
+
+Offensive option as it does the most damage. Weakness & Cripple are okay but are mostly for PvP. The same notes about Wells & backloaded Chronomancer Wells apply.
+
+Well of Precognition - Utility
+Breaks stun & grants self Stability. Ground targeted Ethereal Combo field that pulses Aegis. At the end, explode for area Endurance.
+
+Defensive option. Most of the power is in the pulsing Aegis which can be used to mitigate 3 total attacks. The explosion is really lacklustre though, 30 Endurance. That’s not even enough for 1 dodge. Changing it to either be 50 Endurance or Protection would fit the defensive nature better, as the 30 Endurance is either wasted or not enough.
+
+Well of Senility - Utility
+Ground targeted Ethereal Combo field that pulses damage & Chill. At the end, explode for area Daze & 2 x Boon removal.
+
+CC & PvP option. Does the least amount of damage out of the damaging ones, tied with Well of Action. Previously gave Alacrity but was reworked after the whole shifting of Quickness & Alacrity pass. This does give it a lot more use in the PvP sense but it’s pretty much exclusively just CC in PvE.
+
+Gravity Well - Elite
+Ground targeted Dark Combo field that pulses damage & CC (Knockdown, Float, Pull). At the end, explode for area damage.
+
+Offensive & area CC Elite option. If you’re going DPS, it’s the only option of the 4 that’s offensive. If you’re going support, it’s an option for both CC & utility from the Well Traits. The CC is only slightly worse than the Signet and is a much lower CD too, making it almost strictly better than the Signet minus the delayed nature of it. For DPS, you have a choice between damage and CC. For support, there’s a choice between heals / Alacrity (via Traits) and CC.
+
 
 Mirage Combat
 
