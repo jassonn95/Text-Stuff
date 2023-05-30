@@ -4611,6 +4611,20 @@ Shatter all Clones and place down a Continuum Rift. When it expires, revert back
 
 The main schtick of Chronomancer. Place it down, use your big cooldowns, revert and then use them again. If you would die while it’s down, it reverts you back automatically which gives it a pseudo lifeline. Since it’s instant cast, you can use it at the end of a long animation. You’ll get the skills effects and it technically won’t be on cooldown when you revert since CDs don’t start until the entire animation is completed. This does work against you while in the Split though; you have to finish the animation otherwise it won’t be reset since you technically used it outside of the Split. It resets the CD of almost every skill + Trait, w/ the exception of Mimic for balance reasons I guess? Overall it’s a really cool skill that fits perfectly w/ the time theme. It creates a highlight moment of the 6s where you use as many big CDs as you can, then use them again once reset. There’s some counterplay in PvP by destroying the rift to force it to end early + you have to be careful in PvE to not accidentally leave it in fire or something where it would also end early.
 
+Shield
+Defensive off-hand weapon.
+
+Echo of Memory -> Deja Vu
+Block attacks for 1.5s. If fully channelled, summon a Phantasm that PBAoE damages & Slows enemies + Protection for allies. If an attack was blocked, Deja Vu is available to be used (by activating again) + the Phantasm is summoned immediately.
+Exactly the same as Echo of Memory, but without the ability to cast again.
+
+A defensive Phantasm skill. Does okay damage and the Phantasms + Protection are nice to have; Slow is less useful in PvE. Does make you want to get hit though for max value which is a bit annoying as some attacks can’t be Blocked (some ground AoEs can, some can’t, no discernible difference to tell). Skill design fits perfectly for a defensive time based skill. The only issue is that the defensive nature isn’t always needed in PvE since you’re not always taking damage, making it feel like a semi-wasted skill. Making Deja Vu always available at the end of the lengthy cast, at least in PvE, would make it a lot more consistent and less fight design dependent.
+
+Tides of Time
+PBAoE 8 x Might & Swiftness. Launch a moving Ethereal Combo field that damages & Stuns enemies + Blocks Missiles. Returns to you after a medium distance. Touching the wave reduces the CD by 10s.
+
+Used to give both Quickness & Alacrity by default. Chronomancer used to be absolutely required in raids and it was due to its ability to give both Quickness & Alacrity, rendering all other support classes (minus Druid, and only because they had a unique damage buff + Chrono can’t really grant Might) useless. After splitting the 2 by adding them to Traits in the same group of 3 + adding those Boons to other support classes, it’s now become less required and outright replaced (but that’s more of a numbers tweak thing). This skill does have a lot going on even as the base kit version though. 8 x Might that lasts a decent amount of time, CC, projectile blocking, okay damage and a Combo field. The moving and returning wave sort of fits thematically too, and is definitely unique. Since it does a whole bunch at the same time, there’s a choice to be made to hold for the CC or keep it up for its Boons (usually the latter).
+
 
 Mirage Combat
 
