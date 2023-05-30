@@ -4578,7 +4578,7 @@ Condition option, if using a Scepter obviously. The attack speed does NOT stack 
 
 Chronomancer Combat
 Gains a 5th Shatter, Continuum Split that reverts HP, endurance and skill cooldowns to what they were when you used it after X seconds, increasing per Clone Shattered.
-Other Shatters are also empowered.
+Other Shatters are also empowered, but always require at least 1 Clone.
 The source of all evil, party Quickness & Alacrity. But not at the same time anymore.
 Gains access to Shields, a defensive off-hand weapon.
 Gains access to Well skills, ground targeted pulsing AoEs.
@@ -4657,6 +4657,67 @@ Ground targeted Dark Combo field that pulses damage & CC (Knockdown, Float, Pull
 
 Offensive & area CC Elite option. If you’re going DPS, it’s the only option of the 4 that’s offensive. If you’re going support, it’s an option for both CC & utility from the Well Traits. The CC is only slightly worse than the Signet and is a much lower CD too, making it almost strictly better than the Signet minus the delayed nature of it. For DPS, you have a choice between damage and CC. For support, there’s a choice between heals / Alacrity (via Traits) and CC.
 
+Traits
+
+Time Splitter
+Gain access to Chronomancer Shatters & Wells.
+
+As always, including it because it’s the 1st Trait.
+
+Delayed Reactions
+Disabling an enemy Slows them. 3s ICD when using CC skills against Defiance Bars.
+
+Little bit of extra CC. Slow is the rarest of the Conditions so every bit counts for Slow related Traits. Still, it’s not enough to maintain a permanent Slow stack on any enemy; that’s just how rare it is. More useful in PvP.
+
+Time Catches Up
+Activating a Shatter grants Illusions Superspeed. +10% Shatter damage against movement-impaired enemies.
+
+Minor burst damage boost + makes it easier for your Shatters to go off when they’re zooming at your target. Most of the time in PvE it’s just the +10% damage on Shatters though as mobs don’t run away often and they’re probably going to have some sort of movement impairment Condition or CC on them.
+
+All’s Well That Ends Well
+Wells heal when they end.
+
+Healer option. Provides extra healing that may be missing from the other skills / Traits. This obviously requires you to take Wells so keep that in mind. Keep in mind that while Wells can be placed at range, they’re also pretty small in size and require the Wells ending so there may be issues where some heals may be missed.
+
+Flow of Time
+Gain Alacrity per Clone Shattered.
+
+Bit of extra Alacrity for just using your skills as part of your rotation. Note that you technically count as a “Clone” so you can use it without any to get a single stack. Provides extra Alacrity padding which never hurts.
+
+Danger Time
++15% Crit Chance against Slowed enemies for you and Illusions.
+
+As mentioned before, Slow is incredibly rare so chances that you get any value out of this is low. Besides, Power builds should already have 100% crit so this is even more useless as you can’t build around it due to how rare Slow is. It used to give Crit Damage as well but that was removed, getting rid of the only useful thing.
+
+Illusionary Reversion
+Shatter skills generate a Clone if you have 3.
+
+Extra Clone generation. Not particularly useful as Clones aren’t hard to come by and there usually aren’t enough things to spend them on. Still, it could be useful in PvP for the misdirection side of things + Clones die easier there.
+
+Improved Alacrity
+Alacrity applied to you increases recharge by 50% instead of 25% (-33% CD vs. -20%)but lasts -33% of the original duration. +10% Crit Damage w/ Alacrity.
+
+Utility option. Chronomancers generally get more Alacrity than others due to Flow of Time, so the reduced duration is made up. More skills = more damage or more utility, more everything. Note that it only affects you (and other Chronos w/ this Trait).
+
+Time Marches On
++25% Movement Speed. -25% movement-impairing Condition Duration.
+
+Extra mobility, handy but not too impactful just as a minor Trait should be.
+
+Stretched Time
+1st pulse of Wells applies Alacrity. Tides of Time also applies PBAoE Alacrity.
+
+Alacrity option. Obviously this requires the use of Wells and Shield. If used on cooldown, 2 basic Wells and Shield are needed to maintain full uptime. For support DPS, it would be Calamity & Action as they’re both offensive in nature. For healers it would be Eternity & Action as they’re both utility based in nature, though you may want to add another one if you don’t want to use your on demand burst heal on CD since it’s a little risky. Alacrity being provided on 1st pulse as opposed to the explosion makes it a lot more user friendly as you don’t need to time everything 3s ahead. It does however lock you into using Wells which aren’t always optimal.
+
+Seize the Moment
+PBAoE Quickness per Clone Shattered. Tides of Time also applies PBAoE Quickness.
+
+Quickness option. Unlike the Alacrity option, Shatters are always readily available so you’re not locked into using any specific Utility skills. Shield is still recommended to make the most out of the Trait and to minimise the amount of different gear you need which is annoying with how gear sets are a paid feature :). Compared to the Alacrity version, it’s a lot easier to build around since it’s not locked into certain skills
+
+Chronophantasma
+The 1st time a Phantasm would become a Clone, resummon as itself & attack again after being briefly Dazed.
+
+DPS option. Another Phantasm attack = more damage + utility, especially the more Phantasm skills you have. This coupled w/ resetting the CDs via both Continuum Shift + Signet of the Ether = huge amounts of Phantasm skills going off.
 
 Mirage Combat
 
