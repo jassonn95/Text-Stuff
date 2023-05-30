@@ -4727,6 +4727,26 @@ Gains access to main hand Axe, focusing on melee Condition damage & mobility.
 Gains access to Deception skills which focus on avoiding damage.
 Gains access to the Mirage traitline. This uses up 1 traitline and is unique from other Elite specialisations (they all use the 3rd tree slot).
 Mirage Abilities
+Axe
+Main hand only weapon that focuses on Condition damage & mobility.
+
+Lacerating Chop -> Ethereal Chop -> Mirror Strikes
+Frontal cleave, damage & Bleeding.
+Frontal cleave, same damage & Torment.
+PBAoE damage, Bleeding & Torment. Most damage & longest duration DoTs.
+
+The usual melee cleave w/ DoTs for a DoT weapon. 3rd hit is unique in that it’s a PBAoE but other than that it’s the most damage & the DoT lasts the longest.
+
+Lingering Thoughts
+Short forward dash that 4 x Combo Whirls. Deals PBAoE damage, Torment & Cripple. Leaves behind a mirage that summons a Clone if it expires while an enemy is near it. 2 charges.
+
+It’s basically PBAoE damage & DoTs that spawns a Clone if you’re melee and up in the bosses grill like everyone else in PvE. There’s a small dash that you can technically count as a gapcloser and the line about leaving a mirage behind for the Clone basically adds the case where if you do use it as a gapcloser, you won’t generate a Clone (so, in PvP). 2 charges means there’s a case to keeping 1 as a gap closer but since it’s short and you can potentially lose out on a Clone, just use it as damage. Only issue is that it always dashes, meaning you go through hitboxes. This is inconsistent w/ other dashes that always stop when hitting a target.
+
+Axes of Symmetry
+You & Axe Clones blink to a random location around the target to damage & Confuse. Breaks enemy targeting & Illusions focus the new target. Counts as a Combo Leap & has Evade iframes.
+
+The range on this is medium so it’s more usable than the above. Applies a bunch of Confusion so you’ll want to use this when it’s up + you have 3 Clones. You can also save it as an escape / gapcloser since it blinks and has Evasion iframes at the cost of damage. Target breaking is mostly for PvP as per usual. The only issue is that the location is random for where you end up, making it a little inconsistent. This plays into the misdirection theme and it’s not too annoying as the blink locations are pretty close to each other.
+
 
 Virtuoso Combat
 
