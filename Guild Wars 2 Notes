@@ -4961,6 +4961,67 @@ Targeted line AoE of piercing, unblockable Blades that damage every 0.5s for 5s.
 
 While it’s technically just AoE damage, it counts as 10 whole Blades for traits. It takes 5 seconds for the whole effect so some skill is needed to make sure you aim it properly but other than that it’s a regular AoE skill, except this time horizontal instead of falling from the sky. It feels a bit thin compared to Rain of Swords though, but that’s probably for the best w/ all the visual noise that’s currently in the game. Compared to the other 3 available Elites, it’s the most offensive one for both power (by default) and Condi (Blade Traits).
 
+Traits
+
+Psychic Blades
+Stock a Blade instead of summoning Clones; they last indefinitely until consumed by Bladesongs which replace Shatters and inherit their Traits. Stock a Blade every 10s out of combat.
+
+Not included in the description is access to Psionic skills. Additionally, Mirror Blade, Mind Stab and Phantasmal Berserker from Greatsword count as Blade skills. Feels like a major oversight to not include it honestly. It’s a cool and fitting synergy that sort of does lock you into using Greatsword (at least for power since it’s a power weapon), even if they’re pretty cool.
+
+Bladeturn Refrain
+Bladesongs grant Aegis.
+
+Defensive option. It can potentially block a lot of attacks if you use all 5 (including the 2 inherently defensive ones) but each requires a Blade to be used so it’s a little janky in those cases. Still it’s a defensive boost that could be useful in PvP, even if it will only eat a single auto attack. 
+
+Mental Focus
++10% Strike Damage against enemies within mid range.
+
+Power DPS option. Only requires you to be within mid range which you should be anyway for Boons and healing. Technically it’s a risk reward thing but  most fights need to accommodate melee builds anyway so there’s no real risk. So in the end it’s just a flat 10% damage boost 90% of the time (some leeway for mechanic downtime).
+
+Jagged Mind
+Blade attacks inflict Bleeding on crit. Heal for 3% of your Condition damage (as in damage from Conditions, not the stat).
+
+Condi DPS option. Blade skills synergise w/ Condi builds a lot more due to this Trait being optional and Condi focused. Encourages an almost hybrid build that focuses on crit chance more than usual. Provides sound pretty good sustain too.
+
+Deadly Blades
+Blades inflict Vulnerability on crit. After completing a Bladesong, +5% All Damage for 5s. Does not stack.
+
+The only other Blade trait, and it’s taken by default. The Blade interaction is handy but not all that important since Vulnerability isn’t rare in group scenarios. The main effect is the active damage boost after using a Bladesong, turning them into pseudo damage CDs. This changes how you play your rotation which is neat, making both the damaging Bladesongs attractive to their non-main builds since the damage increase is all damage.
+
+Duelist’s Reversal
+Blocking or Dodging an attack grants Quickness, Fury & Regen.
+
+Sort of defensive option, as it rewards doing something defensive rather than being defensive in nature. Note that it requires an attack to be Blocked / Dodged so you can’t just dodge randomly for the Boons. That itself makes it less valuable in PvE. Continues w/ the crit theme w/ the Fury and it seems like an okay PvP Trait as Boons aren’t dispensed through a support like it is in PvE. Accordingly, I don't see much use of this in PvE.
+
+Phantasmal Blades
+Phantasms that complete their attack launch a Phantasmal Blade at their target & grant you Fury. Phantasmal Blade: damage that counts as a Blade.
+
+Power DPS option. Phantasms doing an extra power attack is nice, especially since you’re probably going to be resetting their CDs w/ Signet of the Ether for even more damage & Fury. More Fury is nice but that’s mostly for solo or PvP since they’re usually covered by a support. Small interaction w/ the Deadly Blades Vulnerability portion which is okay. You can sort of control when to get these effects but since there are so many Phantasm skills, it sort of just happens naturally in your rotation.
+
+Sharpening Sorrow
+Gain Fury when activating Bladesong Sorrow. Fury increases Expertise.
+
+Condi DPS option. Mostly for the extra Expertise from Fury, lowering the amount you need from gear so you can put more into Condition Damage / Precision or whatever. Extra Fury is okay but again, covered by a support usually. It’s nice that it’s given via an active method rather than periodically in combat so you can sort of control when you get it, giving you a bit of agency.
+
+Quiet Intensity
+Fury grants an additional 15% Crit Chance (40% total). Gain Ferocity based on 10% Vitality.
+
+Extra Crit Chance means less spent on Precision in gear. Also requires Fury instead of just being a passive +15% so there’s some management required (from other players since there’s no Virtuoso support build). Also grants more Crit Damage based on HP which you don’t really build outside of PvP. Both builds benefit from the Ferocity since the Condi build relies on crits anyway to apply the Bleeding, so despite looking like a power Trait it’s actually a general DPS Trait.
+
+Psychic Riposte
+Blocking or Dodging an attack stocks 3 Blades and causes the next Bladesong to be Unblockable.
+
+Another sort of defensive option (rewards defensive actions). Also requires an attack to be Blocked / Dodged so value in PvE drops. Stocking 3 Blades is handy but Infinite Forge is a more consistent Blade generator. The Unblockable effect is also only useful in PvP which seals the deal of this being a PvP Trait.
+
+Infinite Forge
+Automatically stock a Blade every 3s in combat.
+
+Passive Blade generation option. In a consistent rotation there’s no need for more Blades since you have enough to cover 2 Bladesongs being used on-almost-CD. That makes this feel like it’s more of a PvP Trait where you want / need to use more Bladesongs consistently to survive and deal damage. It’s also not very interesting since it’s passive generation, but not everything has to be super innovative.
+
+Bloodsong
++25% Damage for the Bleeding you apply. Stock a Blade after every 5 stacks of Bleeding you have applied.
+
+All 3 options are Blade generators and this one is no different; the DPS option. Despite barely doing anything for power builds it’s the only offensive option, so it’s taken by default. So where does the Bleeding come from if you’re not taking the Condi option earlier? Sharper Images under the Dueling traitline provides Bleeding on Illusion crit and is a minor Trait so it’s always taken. Since Blades inherit Clone Traits, this works. So long as you’re generating Phantasms and launching Blades both through Bladesongs and Blade skills, you’ll be generating Blades. Even more in AoE situations. The extra Bleeding damage is nice but since you’re not building for it in power builds it doesn’t really do much more.
 
 Ranger
 Ranger Combat
