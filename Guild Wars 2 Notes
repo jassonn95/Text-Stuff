@@ -4870,7 +4870,13 @@ You use Sand Shards when Mirage Cloak ends. Sand Shards: PBAoE damage and Boon s
 Offensive PvP option as Boons aren’t that common on enemies in PvE. Doesn’t affect Clones in the case of Illusionary Ambush. It’s PBAoE so you’ll need to stick on top of enemies, but that’s pretty easy w/ all the gap closers available. Basically take it if you need the Boon strip, otherwise Infinite Horizon is where it’s at.
 
 Virtuoso Combat
-
+No longer summons Clones but creates a stocked Blade that stays above you to be consumed via Bladesongs which replace Shatters.
+“Clone” cap is increased from 3 to 5.
+Bladesongs generally do the same thing as their Shatter counterpart (damage, Confuse, CC & Distortion).
+Gains an additional “Shatter” that deals some PBAoE damage & Blocks attacks, an extra defensive CD.
+Gains access to main hand Dagger, focusing on fast ranged piercing attacks.
+Gains access to Psionic skills which focus on either generating stocked Blades or using Blades to attack (doesn’t consume stocked ones, but are classified as Blades for Trait purposes).
+Gains access to the Virtuoso traitline. This uses up 1 traitline and is unique from other Elite specialisations (they all use the 3rd tree slot).
 Virtuoso Abilities
 
 Ranger
