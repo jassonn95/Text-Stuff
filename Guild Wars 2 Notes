@@ -4929,6 +4929,38 @@ This replaces Illusionary Leap for Virtuoso as they don’t generate Clones. Ins
 
 The recast obviously sends you back to where you were rather than swapping places w/ your Clone which would’ve been melee range of the target.
 
+Psionic
+
+Twin Blade Restoration - Healing
+Heal self then throw 2 Blades at the enemy. If the 1st hits, remove a Condition. If the 2nd hits, gain Aegis & a random Boon (Regen, Swiftness or Vigor).
+
+It heals for an above average amount and does provide some utility via the Aegis & random Boon, unreliable as they are. The singular Condition cleanse is okay and the damage isn’t enough to write home about. The main advantage of this heal is that it counts as 2 Blades for Trait purposes, some of which Bleed or apply Vulnerability when critting. If you want more Blades and some utility, then this is an option. Otherwise if you want an offensive heal stick with Signet of the Ether.
+
+Blade Renewal - Utility
+Channel for 3s, gaining Distortion for the duration. Stock Blades progressively during the channel up to the max.
+
+Defensive option. 3s of immunity & prepares Blades for you for more damage or even more immunity, making it pretty versatile. It’s got a very big CD as you’d expect and generally dedicated immunity skills are only useful in PvP as you can either mitigate or be healed back up in PvE pretty easily. Still, it’s an option to cheese some mechanics if you really need the immunity.
+
+Rain of Swords - Utility
+Ground targeted AoE field (not combo) that pulses damage & 3 x Vulnerability. Each pulse counts as a Blade.
+
+None of the Blade traits have a CD, so fast multi hitting AoE attacks are very powerful for Virtuoso and this is no exception. It’s a basic AoE pulsing damage attack but its synergy w/ said Traits make it even stronger. And who doesn’t like shiny pinkish swords falling from the sky?
+
+Psychic Force - Utility
+Breaks stun. PBAoE damage & knockback + gain Fury & 8 x Might. Counts as a Blade.
+
+The other defensive option, this time for CC. The knockback makes it generally a safe stun break, the only exception being if the enemies either outnumber 5 or are CC immune themselves but that’s pretty rare. The Boons Might & Fury fit the offensive nature of the spec, especially focusing on critting. It only counts as a single Blade though so it’s going to proc less often than the multi hit attacks.
+
+Sword of Decimation - Utility
+Ground targeted AoE Blade that damages & Immobilizes. Double damage against hard CC’d or Downed enemies.
+
+Overall this does less damage than Rain of Swords, scales for less and only counts as a singular Blade. The upside is that it has some soft CC on it and is burst vs. periodic, making it better in PvP if the enemy is CC’d. Otherwise it’s worse off since they can just dodge all of the damage. The double damage portion is almost never procced in PvE except for the couple of seconds after a Defiance Bar is broken, so it’s outright worse than Rain of Swords in group content.
+
+Thousand Cuts - Elite
+Targeted line AoE of piercing, unblockable Blades that damage every 0.5s for 5s.
+
+While it’s technically just AoE damage, it counts as 10 whole Blades for traits. It takes 5 seconds for the whole effect so some skill is needed to make sure you aim it properly but other than that it’s a regular AoE skill, except this time horizontal instead of falling from the sky. It feels a bit thin compared to Rain of Swords though, but that’s probably for the best w/ all the visual noise that’s currently in the game. Compared to the other 3 available Elites, it’s the most offensive one for both power (by default) and Condi (Blade Traits).
+
 
 Ranger
 Ranger Combat
