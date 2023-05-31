@@ -4878,6 +4878,33 @@ Gains access to main hand Dagger, focusing on fast ranged piercing attacks.
 Gains access to Psionic skills which focus on either generating stocked Blades or using Blades to attack (doesn’t consume stocked ones, but are classified as Blades for Trait purposes).
 Gains access to the Virtuoso traitline. This uses up 1 traitline and is unique from other Elite specialisations (they all use the 3rd tree slot).
 Virtuoso Abilities
+Bladesongs
+
+Bladesong Harmony
+Fire all stocked Blades at the target, each dealing piercing damage.
+
+Unlike the Shatter counterpart, the damage scales linearly. Even though that generally didn’t matter since there’s nothing else to spend Clones on if you have a power build, it’s something to note. Basically it’s what you expect from the power damage Bladesong. Note that each Blade fires after another w/ a slight delay. Generally it doesn’t matter but it’s something to keep in mind, more for PvP.
+
+Bladesong Sorrow
+Fire all stocked Blades at the target, each dealing piercing damage & Confusion.
+
+Condi version of the above. Fires all Blades at the same time so you can dodge them all at once in PvP. While it doesn’t scale as well as Harmony for power, it does still scale so you can still use this, as long as you have 5 Blades by the next time Harmony is up.
+
+Bladesong Dissonance
+Combine all stocked Blades into 1 to damage & Daze the target. Daze increases per blade.
+
+CC option. Doesn’t require the previous Daze to fall off before applying the new ones since it’s just a singular application, making it a lot more streamlined and consistent. Other than that, it’s literally just a ranged version of the Shatter.
+
+Bladesong Distortion
+Consume all stocked Blades and gain Distortion for each one consumed.
+
+Essentially the same as the Shatter version, but w/ the added benefit of having a higher cap since you can have 5 Blades but only 3 Clones.
+
+Bladesong Requiem
+Consume all stocked Blades for PBAoE damage & Block. Increased duration per consumed Blade.
+
+The damage on this is pretty bad and you don’t have enough Blade generation to even consider this being a 3rd offensive option, especially since Harmony only has a 12s CD so it’s purely a defensive skill. Originally replaced Distortion back when they tried making base specs viable w/ more advantages & disadvantages. It’s almost the same as Distortion, but doesn’t make you immune to ticking damage or CC so plan ahead on which you need / can use.
+
 
 Ranger
 Ranger Combat
