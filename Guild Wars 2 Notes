@@ -4901,9 +4901,33 @@ Consume all stocked Blades and gain Distortion for each one consumed.
 Essentially the same as the Shatter version, but w/ the added benefit of having a higher cap since you can have 5 Blades but only 3 Clones.
 
 Bladesong Requiem
-Consume all stocked Blades for PBAoE damage & Block. Increased duration per consumed Blade.
+Consume all stocked Blades for PBAoE damage & Block. Increased PBAoE damage duration per consumed Blade.
 
-The damage on this is pretty bad and you don’t have enough Blade generation to even consider this being a 3rd offensive option, especially since Harmony only has a 12s CD so it’s purely a defensive skill. Originally replaced Distortion back when they tried making base specs viable w/ more advantages & disadvantages. It’s almost the same as Distortion, but doesn’t make you immune to ticking damage or CC so plan ahead on which you need / can use.
+The damage on this is pretty bad and you don’t have enough Blade generation to even consider this being a 3rd offensive option, especially since Harmony only has a 12s CD so it’s purely a defensive skill. Originally replaced Distortion back when they tried making base specs viable w/ more advantages & disadvantages. Since the only thing that scales w/ the number of Blades is the very weak PBAoE damage, there’s no real reason to have many Blades be consumed (you need at least 1 to use it).
+
+Dagger
+Long ranged main hand only weapon that focuses on fast attacks.
+
+Flying Cutter
+Ranged piercing attack that damages. If you hit a target 3 times, deal an additional flurry of damaging attacks (3x). Acts as a 20% Combo Projectile & a Blade.
+
+Usual ranged auto attack. It has a long range too which is pretty interesting considering it’s a Dagger; would’ve thought mid-high range would’ve been generous already. The Flurry attacks don’t pierce so they technically can be blocked (they fire from around the enemy inwards) but that’s generally not an issue in single target situations. 
+
+Bladecall
+Throw out 3 piercing projectiles that damage on the way out & in when they return. Stock a Blade if it hits at least 1 target. Acts as a 20% Combo Projectile & a Blade.
+
+Despite being 3 separate projectiles, you can’t be hit by more than 1 which makes it more consistent and less reliant on shotgunning. The range is also long and it takes roughly 3 seconds from activation to finish returning so there’s plenty of time to dodge it (relevant for PvP). Otherwise it’s the “Clone” generator skill that’s AoE damaging.
+
+Unstable Bladestorm
+Launch a slow piercing damaging projectile that also fires piercing Blades at enemies every 1.5s for a total of 4 times.
+
+On paper this sounds like it’s a very hitbox reliant skill as it’s both moving & fires out projectiles (plural). But the contact damage only happens once, so there’s no hitbox shenanigans. The range of the Blades that comes out is pretty high, so it consistently hits enemies + it pierces and you can only be hit by 1 Blade per pulse, so it’s actually really consistent. Overall it just needs you to fire it in the general direction of the enemy to get max value, which is a lot better than certain other hitbox reliant skills. It’s essentially just more damage that’s dealt in waves and can be easily dodged as the bulk of the burst damage (~3.5x a Blade’s damage) is from the contact.
+Small Sword Change
+
+Blade Leap -> Returning Edge
+This replaces Illusionary Leap for Virtuoso as they don’t generate Clones. Instead of creating a Clone that leaps at the enemy to damage & Cripple, it Leaps you instead. 
+
+The recast obviously sends you back to where you were rather than swapping places w/ your Clone which would’ve been melee range of the target.
 
 
 Ranger
