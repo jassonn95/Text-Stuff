@@ -4774,6 +4774,39 @@ Fire a projectile that damages, Torments, Confuses & Bleeds enemies. Grants PBAo
 
 Strictly better than the normal version. It does more damage, applies longer Torment & Confusion, has an additional Bleed and grants the coveted Alacrity. The only downside is that it loses out on Fury, which can be covered elsewhere. It also only hits allies once but does so in an AoE fashion (no bounces). This is the main reason why Alacrity Mesmer leans towards Mirage rather than Chronomancer. Sure, you’re locked to Staff but you get to apply Alacrity in an AoE around yourself instantly without taking up Utility skill slots and do decent DoT damage at the same time. Additionally it’s a unique playstyle of using your dodge as a resource rather than pressing a button on CD.
 
+Deception
+
+Crystal Oasis - Healing
+Create a mirage at the current location & heal over time + gain Vigor. When the mirage expires, spawn a Mirage Mirror. Touching a Mirage Mirror deals PBAoE damage & Weakness while granting you Mirage Cloak.
+
+Offensive option for Condi builds (since the good Ambush attacks are mostly Condi). There is a risk involved since it’s a HoT as opposed to being front loaded but you gain Vigor which is a DPS increase (more Ambush attacks) and gives you a Mirror at the end. The only issue with Mirage Mirrors is that they’re kind of hard to see when there’s so much visual noise, but that doesn’t really matter as long as you remember roughly where you used the skill. Defensively it’s back loaded since you have the HoT and then the free Mirage Cloak after 3s + picking the Mirror.
+
+Crystal Stands - Utility
+Ground targeted skill that sends projectiles to converge at the target location. Each projectile damages & applies Confusion before forming a Mirage Mirror in the centre.
+
+Offensive option. This one I probably lost track of the Mirror the most as it’s mid-long range. The projectiles come from a circle around the target and then slither in. Realistically though it’s just a multi hit damage & Confusion attack since they pass through enemies hit rather than being eaten up by random enemies. Mirror spawns fairly quickly as well.
+
+Illusionary Ambush - Utility
+Long range blink for you and your Illusions around the target and gain Mirage Cloak. Breaks enemy targeting and Illusions will change focus (except for Phantasms).
+
+Gap closer option. It is targeted so you can’t really use it as an escape. Fits the Deception theme really well as enemies initially can’t tell which one is the real you since it breaks their target. This is obviously more of a PvP skill as Clones don’t need to be by your target for their effects or Shatters. Phantasms not being affected by the focus change is most likely due to technical reasons; their attacks fire off pretty quickly anyway so there’s no time for them to change focus.
+
+Mirage Advance -> Mirage Retreat - Utility
+Mid-long range blink that PBAoE damages & Blinds at destination.
+Activate again to return to the starting location.
+
+Another gap closer option. While this one also requires a target, it’s also a bit more versatile since you can go back to where you were before. The damage on it isn’t great and if you’re playing Mirage you’re playing for Condi anyway. It’s shorter range and doesn’t have the Clone deception thing going on but the Blind + return makes it more versatile. Or you could take both and be super mobile.
+
+Sand through Glass - Utility
+Breaks stun and Evade backwards, leaving behind a Mirage Mirror.
+
+Defensive option. You have 0.5s of Evade so it’s a good stun break. It leaves the Mirror behind where you were though and you roll back a decent amount of distance so there’s a small gap between your Evade and picking up the Mirror. Otherwise it’s just what you expect from a Defensive Deception skill. Stun break + a Mirror / Mirage Cloak.
+
+Jaunt - Elite
+Low-mid range blink that acts as a Combo Leap. Removes 1 Condition & deals damage + applies Confusion in an AoE at the destination. 3 charges.
+
+Offensive Condi option for the Elite slot. Ground targeted; doesn’t require a target. While the range isn’t the best, it still counts as mobility so you have a choice between damage & mobility (and some Utility with the Condi cleanse I guess), even w/ 3 charges making it less risky. There are Rune sets that interact w/ when an Elite skill is used, so you can also time the uses for max procs (they usually have a CD). It’s also just really fun blinking everywhere and doing decent damage at the same time.
+
 
 Virtuoso Combat
 
