@@ -4779,9 +4779,9 @@ Deception
 Crystal Oasis - Healing
 Create a mirage at the current location & heal over time + gain Vigor. When the mirage expires, spawn a Mirage Mirror. Touching a Mirage Mirror deals PBAoE damage & Weakness while granting you Mirage Cloak.
 
-Offensive option for Condi builds (since the good Ambush attacks are mostly Condi). There is a risk involved since it’s a HoT as opposed to being front loaded but you gain Vigor which is a DPS increase (more Ambush attacks) and gives you a Mirror at the end. The only issue with Mirage Mirrors is that they’re kind of hard to see when there’s so much visual noise, but that doesn’t really matter as long as you remember roughly where you used the skill. Defensively it’s back loaded since you have the HoT and then the free Mirage Cloak after 3s + picking the Mirror.
+Offensive option for Condi builds (since the good Ambush attacks are mostly Condi). There is a risk involved since it’s a HoT as opposed to being front loaded but you gain Vigor which is a DPS increase (more Ambush attacks) and gives you a Mirage Mirror at the end. The only issue with Mirage Mirrors is that they’re kind of hard to see when there’s so much visual noise, but that doesn’t really matter as long as you remember roughly where you used the skill. Defensively it’s back loaded since you have the HoT and then the free Mirage Cloak after 3s + picking the Mirror.
 
-Crystal Stands - Utility
+Crystal Sands - Utility
 Ground targeted skill that sends projectiles to converge at the target location. Each projectile damages & applies Confusion before forming a Mirage Mirror in the centre.
 
 Offensive option. This one I probably lost track of the Mirror the most as it’s mid-long range. The projectiles come from a circle around the target and then slither in. Realistically though it’s just a multi hit damage & Confusion attack since they pass through enemies hit rather than being eaten up by random enemies. Mirror spawns fairly quickly as well.
@@ -4807,6 +4807,67 @@ Low-mid range blink that acts as a Combo Leap. Removes 1 Condition & deals damag
 
 Offensive Condi option for the Elite slot. Ground targeted; doesn’t require a target. While the range isn’t the best, it still counts as mobility so you have a choice between damage & mobility (and some Utility with the Condi cleanse I guess), even w/ 3 charges making it less risky. There are Rune sets that interact w/ when an Elite skill is used, so you can also time the uses for max procs (they usually have a CD). It’s also just really fun blinking everywhere and doing decent damage at the same time.
 
+Traits
+
+Mirage Cloak
+Gain Mirage Cloak instead of dodge rolling. Ambush skills are available after gaining Mirage Cloak for a limited time. Gain access to Deception skills.
+
+As always, including it because it’s the 1st trait.
+
+Self-Deception
+Create a Clone when using a Deception skill if you have any other Clones active.
+
+Clone generation option. Requires you taking Deception skills but you generally take Crystal Sands & Jaunt anyway due to their Condi damage. Take it if you need help w/ Clone generation. The conditional of having at least 1 but not 3 Clones to get value means you have an extra thing to keep an eye on before using the skills.
+
+Renewing Oasis
+Gain Regen when gaining Mirage Cloak. -20% Damaging Condition Duration on self while you have Regen (excluding Poison for some reason).
+
+Defensive option. Synergises w/ the Chaos tree as that has several Traits that grant bonus effects under Regen too. Overall it’s defensive but if you need Regen uptime then this is an option, at the cost of extra Clones (more damage / utility) or damage.
+
+Riddle of Sand
+Entering combat, the 1st Ambush attack that hits applies 2 Confusion stacks. Refreshes when using a Shatter.
+
+Offensive option. Makes Ambush attacks stronger for Condi builds, something that you’re constantly using. That’s pretty much it. It’s the default option if you don’t need the extra Clones or the Regen / defensive utility.
+
+Nomad’s Endurance
+Shatters give Vigor & Vigor grants Condition Damage.
+
+More Vigor for more dodging = more Mirage Cloaks = more Ambush skills. Grants even more Condi damage, reiterating the spec as the DoT spec.
+
+Desert Distortion
+Illusions Shattered by Distortion become Mirage Mirrors. Ambush skills also become available for a short time after granting self Distortion.
+
+Versatile option, offensive if you’re not using an Axe. If you use Distortion w/ 3 Clones up, you’ll get 3 Mirrors and a free Ambush attack too. That of course means you’re using Distortion which means 2 things: Clones being used on something other than damage and Distortion being on CD. With its large CD, there’s a huge risk in using this strictly for damage, meaning this is more of a “when you use Distortion, here’s some extra Mirrors” kind of situation. Still, if you’re not using an Axe and don’t need the Protection, it’s the only option.
+
+Mirage Mantle
+Gain Protection when Mirage Cloak ends.
+
+Defensive option. This is for solo / PvP since Protection is covered by support roles. Adds extra tankiness for when your iframes finish. Doesn’t help against Conditions but that’s the case w/ Mirage Cloak anyway.
+
+Mirrored Axes
+-20% Axe skill CDs. Axe skills spawn an additional Phantom Axe which damages & inflicts Torment. Seeking axes for Axe 2, 3 and Ambush. Spinning axes for Axe 1.3.
+
+Offensive option, if you’re using an Axe. CDR is nothing new but always appreciated. The extra axes are effectively just more damage & Torment, but done in a more tangible way w/ Axes spinning everywhere. Axes from skills 2, 3 & the Ambush skill have homing axes while the axe from the final auto attack chain is PBAoE, matching the melee nature of the chain.
+
+Speed of Sand
++66% Movement Speed while in Mirage Cloak.
+
+Super speed during Mirage Cloak makes it so you can reposition a lot easier. You can still enter Mirage Cloak while under the effects of Cripple & Chill, meaning you’re immune but hobbling away. This at least helps a little bit against that, otherwise who doesn’t like running really quickly, even for a short amount of time.
+
+Infinite Horizon
+When gaining Mirage Cloak, your Illusions also gain it.
+
+Offensive + utility option, spreading the main mechanic of the spec onto your Illusions. Forces your Clones to use Ambush skills like you, though sometimes at a reduced effect. Also breaks stun on them which is a pretty niche case but helpful. Doesn’t affect Phantasms but they don’t last long enough anyway to matter and they only use their one skill. 
+
+Elusive Mind
+Dodging removes 3 x Conditions.
+
+Defensive PvP option as Conditions aren’t that common in PvE. Also makes you lose out on Infinite Horizon, which increases the highlight of the spec to up to 4x the usual amount!
+
+Dune Cloak
+You use Sand Shards when Mirage Cloak ends. Sand Shards: PBAoE damage and Boon strip. Gain a copy of any removed Boon (w/ set durations).
+
+Offensive PvP option as Boons aren’t that common on enemies in PvE. Doesn’t affect Clones in the case of Illusionary Ambush. It’s PBAoE so you’ll need to stick on top of enemies, but that’s pretty easy w/ all the gap closers available. Basically take it if you need the Boon strip, otherwise Infinite Horizon is where it’s at.
 
 Virtuoso Combat
 
