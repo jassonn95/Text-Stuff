@@ -5281,6 +5281,34 @@ Channel for pulsing damage & Cripple in a ground targeted AoE.
 
 Big damaging skill. Requires a channel which is easy to mess up. Other than that, it’s big damage you use on CD. Cripple is also there but again not that useful in PvE.
 
+Shortbow
+Mid-long range Condition weapon. 2H.
+
+Crossfire
+Single target damage & Bleeding. Longer Bleeding when flanking from the side or behind. 20% Combo Projectile.
+
+It’s what you expect from a ranged Condition weapon. In group content you’re pretty much always flanking so you always get the longer duration Bleed (3s vs 2s). Not sure how properly implemented this is though as not many skills have a flanking bonus (that is to say, if it works great. But some enemies don’t even have a side / back you can hit, will you get the bonus then?) Again the only issue is it’s single target. Even just 1 more target would make it feel better.
+
+Poison Volley
+5 x piercing arrows that damage & apply Poison. Longer Poison when flanking from the side or behind.
+
+You can shotgun the same target for 5 x damage & Poison. This only becomes an issue if you’re at range, which you’re generally not as you’re clumped behind the boss for Boons & healing. Same notes about flanking apply.
+
+Quick Shot
+Evade backwards & fire a Combo Projectile that damages & grants self Swiftness.
+
+Since this is a Condi weapon and this has no Conditions on it, you generally only use it for the Evasion. It’s only 0.5s so it’s less reliable on higher ping but there’s some skill expression in it. Swiftness is nice and you can have 100% uptime w/ just this skill.
+
+Crippling Shot
+Single target Combo Projectile that damages & Cripples. When flanking from the side or behind, Immobilize. Pets next 3 attacks Bleed.
+
+Half CC, half Condition so you have a choice to make. It’s only soft CC though so in PvE you just use it on CD, which makes it a little less interesting but you get more damage ticks so all is right in the world. Same notes about flanking apply.
+
+Concussion Shot
+Single target damaging Combo Projectile that Dazes. Stun if hit from the side or behind.
+
+Dedicated CC button. No difference between Daze & Stun in PvE against Defiance Bars so there’s no need to flank. Same notes about flanking apply.
+
 
 Druid Combat
 
