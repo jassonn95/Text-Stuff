@@ -5030,11 +5030,197 @@ Ranger Combat
 Okay archetype, personally not a fan of pets but there’s some nature magic stuff going on. Honestly I only made one because of Druid back in the day, the other 2 specs don’t really interest me and are only used since you can’t really solo anything as a Druid.
 As mentioned, their central theme is Pets. There’s a whole bunch with their own skills and you can swap between 2 during combat (only 1 is out at a time). Pets of the same animal family share 3 skills and the 4th is always unique to that sort of pet (Black Bear vs. Brown Bear).
 Pets are the tankiest of the minions / pets in the game, but they still suffer from any issues that come with pet AI.
-Standard2 weapon skill bars, swapping in combat has a cooldown.
-Profession mechanic revolves around the pet w/ keybinds dedicated to choosing the target, commanding the pet to use its unique skill (the other 3 are automatic), calling pet back to your side and swapping pets. There’s also an option to change pet behaviour (defend or wait for commands only) and stowing / unleashing the pet.
+Standard 2 weapon skill bars, swapping in combat has a cooldown.
+Profession mechanic revolves around the pet w/ keybinds dedicated to choosing the target, commanding the pet to use its unique skill (the other 3 are automatic, 1 is an auto and 2 are longer CDs), calling pet back to your side and swapping pets. There’s also an option to change pet behaviour (defend or wait for commands only) and stowing / unleashing the pet.
 Pets are caught around the open world by interacting w/ the juvenile version of them which are passive.
 Medium HP and medium armour. Technically the tankiest of the medium armour classes due to the pet acting as a pseudo HP bar sometimes.
 Ranger Abilities
+Pet Skills
+There are too many Pet skills to include, so the title will have anything unique from their non-controlled skills (beyond damage) and then it will have the unique skills of each pet. There’s also underwater Pets but I’m not going to include them. Your Pets do not gain any of that stats you do from gear, so it’s more difficult (impossible) for them to reach Crit, Boon or Condition duration caps. Healers generally want CC as Pets, Power DPS wants Power Damage & CC focused Pets and Condi DPS wants Conditions & CC focused Pets.
+Bear - Self healing and becoming immune to damage
+
+Rending Maul - Arctodus
+Single target damage & 2 x Bleeding.
+
+Enfeebling Roar - Black Bear
+PBAoE damage & Weakness.
+
+Shake It Off - Brown Bear
+PBAoE 2 x Condition Cleanse.
+
+Poison Cloud - Murellow
+PBAoE Poison Combo field that pulses damage & Poison.
+
+Icy Roar - Polar Bear
+PBAoE damage & Chill.
+Bird - Vulnerability & PBAoE Swiftness
+
+Lacerating Slash - Eagle & Hawk
+Single target damage & 2 x Bleeding.
+
+
+
+Chilling Slash - Owl
+Single target damage & Chill.
+
+Blinding Slash - Raven & White Raven
+Single target damage & Blind.
+Bristleback - Ranged Turtle that Damages & Bleeds
+
+Spike Barrage
+Barrage of 10 x Damage.
+Canine - Crippling & Knockdown Gapclosers
+
+Chilling Howl - Alpine Wolf
+PBAoE damage & Chill.
+
+Regenerate - Fern Hound
+PBAoE healing & Regen.
+
+Howl of the Pack - Hyena
+Summon a Hyena to fight with you.
+
+Intimidating Howl - Krytan Drakehound
+PBAoE damage & Immobilize.
+
+Terrifying Howl - Wolf
+PBAoE damage & Fear.
+Devourer - Ranged Scorpion that Poisons, Knocks Back & Evades
+
+Poisonous Cloud - Carrion Devourer
+Ranged targeted Poison Combo field that pulses damage & Poison.
+
+Rending Barbs - Lashtail Devourer
+Single target ranged barrage of 6 x damage + 6 x Bleeding.
+
+Poison Barbs - Whiptail Devourer
+5 x fan of single target ranged damage & Poison. Each is a 20% Combo Projectile.
+Drake - Lizards that can heal self & deal PBAoE damage
+
+Frost Breath - Ice Drake
+Frontal cone of damage & Chill.
+
+Insect Swarm - Marsh Drake
+Frontal cone of damage & Poison.
+
+Sonic Shriek - Reef Rake
+Frontal cone of damage & Confusion.
+
+Lightning Breath - River Drake
+Fires bouncing projectiles that damage.
+
+Fire Breath - Salamander Drake
+Frontal cone of damage & Burning.
+Fanged Iboga - Plant Demorgon thing that’s ranged & applies Confusion & Torment
+
+Fang Grapple
+Long ranged pull that damages & Immobilizes.
+Feline - Damages & applies Vulnerability & Bleeding
+
+Savannah Strike - Cheetah
+Combo Leap Blink to target for PBAoE damage & Swiftness.
+
+Stalk - Jaguar
+Gain Stealth.
+
+Mighty Roar - Jungle Stalker
+PBAoE “extreme” (5) x Might.
+
+Rending Pounce - Lynx
+Combo Leap to target for single target damage & Bleeding.
+
+Blinding Roar - Sand Lion
+PBAoE damage & Blindness.
+
+Icy Pounce - Snow Leopard
+Combo Leap to target for single target damage & Chill.
+
+Furious Pounce - Tiger
+Short ranged pounce that damages & PBAoE Fury.
+
+Guardian’s Roar & Phase Pounce - White Tiger
+PBAoE Aegis.
+
+Including Phase Pounce since it’s a unique non-controlled skill for White Tiger. It’s a blink that does PBAoE damage & Bleeding.
+Jacaranda - Plant thing that applies Vulnerability & heals self
+
+Jacaranda’s Embrace
+Ranged projectile that pulses damage, 5 x Vulnerability & 5 x Immobilize on target.
+Moa - PBAoE heal & damage + Vulnerability
+
+Dazing Screech - Black Moa & Pink Moa
+Frontal cone of damage & Daze. Black Moa does 3 pulses whereas Pink Moa does only 1 instance but it lasts twice as long + does more damage.
+
+Protecting Screech - Blue Moa
+PBAoE Protection.
+
+Furious Screech - Red Moa
+PBAoE Fury.
+
+Icy Screech - White Moa
+PBAoE damage & Chill.
+Phoenix - Vulnerability & Knockback
+
+Gale Breath
+Frontal cone of pulsing damage.
+Porcine - Bleeding & Knockdown. Forages for a *Random* Weapon Skill that you need to pick up
+
+Bone Crack / Throw Rock / Skull Fear - Boar
+Melee damage & Stun.
+Ranged damage & Daze. 20% Combo Projectile.
+PBAoE Fear, a longer duration the closer they are.
+
+
+
+Healing Seed / Eat Egg / Drink - Pig
+Water Combo field that pulses healing, Regen & Condition cleanse.
+Heal.
+Invulnerability.
+
+Consume Plasma / Throw Feathers / Blinding Tuft - Siamoth
+Gain every Boon.
+PBAoE Blindness & Stealth self.
+PBAoE Blindness & Stealth self (exactly the same).
+
+Throw Gunk / Exploding Venom Sack / Throw Scale - Warthog
+Ground targeted Ethereal Combo field that pulses damage & random Conditions.
+Ground targeted Poison Combo field that pulses Poison.
+Single target ranged damage, Bleeding, Poison & Weakness. 20% Combo Projectile.
+Rock Gazelle - Vulnerability & Dazing Gapcloser
+
+Head Toss
+Single target heavy damage & Launch.
+Smokescale - Dinosaur that knocks down & Evades
+
+Smoke Cloud
+Smoke Combo field.
+Spider - Ranged. Immobilizes & Creates Poison Combo Fields
+
+Paralyzing Venom - Black Widow Spider & Jungle Spider
+Next attack Immobilizes.
+
+Weakening Venom - Cave Spider
+Next 2 attacks 3 x Vulnerability + Weakness.
+
+Deadly Venom - Forest Spider
+Next 3 attacks Poison.
+Turtle - Ranged. PBAoE Launch & Melee Bleeding
+
+Hunker Down
+PBAoE barrier that blocks projectiles & pulses Protection.
+Wallow - Bleeds & PBAoE Poison Combo Field
+
+Bloodthirsty Charge
+Charge that knocks back, damages & Bleeds.
+Wyvern - Cripples & Knocks Back
+
+Lightning Assault - Electric Wyvern
+Charge that damages & Launches then PBAoE Lightning Combo field.
+
+Consuming Flame - Fire Wyvern
+Evades for a frontal line of pulsing Burning. Fire Combo field for the final 3 Pulses (of 6).
+
+
 
 Druid Combat
 
