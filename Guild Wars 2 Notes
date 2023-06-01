@@ -5395,7 +5395,31 @@ Covers 16 out of the 25 Vulnerability stacks which is amazing, even if they only
 Call of the Wild
 PBAoE Fury, 6 x Might & Swiftness for allies & Daze + Weaken for enemies. Blasts combos.
 
-Big Boon buffs that can have 100% uptime w/ max Boon Duration + Alacrity. The range for the enemy effects is much lower so you’re put in more risk to get the CC off but again, you’re almost always in melee range. Also Blasts and as a support (Healer in the case of Druid), you’ll mostly be blasting either Fire fields for Might or Water fields for healing for more support. Not worth holding for Blasts though as 100% uptime on the Boons is more important. Might be worth holding for a bit for CC i you really need it but Boons are still important.
+Big Boon buffs that can have 100% uptime w/ max Boon Duration + Alacrity. The range for the enemy effects is much lower so you’re put in more risk to get the CC off but again, you’re almost always in melee range. Also Blasts and as a support (Healer in the case of Druid), you’ll mostly be blasting either Fire fields for Might or Water fields for healing for more support. Not worth holding for Blasts though as 100% uptime on the Boons is more important. Might be worth holding for a bit for CC if you really need it but Boons are still important.
+
+Healing
+Choose 1.
+
+“We Heal As One!” - Shout
+Heal self & Pet. Gain a copy (set duration) of each other’s Boons.
+
+Selfish burst healing option. Certain skills grant Boons to Pets only so you can use this to copy them to yourself (albeit at a set duration. How useful 2s of Protection is up to you). It’s the most basic so we’ll compare the others to this one.
+
+Water Spirit -> Aqua Surge - Spirit
+Summon a Water Spirit that pulses PBAoE Regen every 3s at the cost of 7.5% of its own HP.
+Water Spirit blinks to you to heal you & your Pet then PBAoE heal allies.
+
+Party healing option. It does actually create another pet you have to keep an eye on since it can die and go on CD. Other than that it’s just pulsing Regen which can be commanded for PBAoE healing. You can be hit by the PBAoE healing but even then it’s less overall compared to other heals, which makes sense since it heals allies.
+
+Troll Unguent - Survival
+8s HoT for self & Pet.
+
+HoT option. Heals for a lot more than the other options but since it’s a HoT it comes w/ its own risk of being bursted down before getting full effect. Because of this, it’s better in PvP where there’s more consistent damage going out most of the time. Doesn’t really do anything else so if you need a HoT, take this option.
+
+Healing Spring - Trap
+Heal self & Pet. Place a Trap that when triggered by an injured ally creates a Water Combo field that pulses Regen & 2 x Condition Cleanse.
+
+Condi Cleanse option. Uniquely triggers when a non-full-HP ally steps on it, maximising its Regen value. It’s a bit annoying as a Condition cleanse though as that doesn’t happen until the Trap is triggered and you need to be injured for it to trigger. That means if you’re only affected by non-damaging Conditions, it won’t cleanse. This is very rare though as almost all (if not all) Condition applying attacks damage in some kind of way. Can cleanse for a bunch of Conditions if everyone is in range. As such it has the highest CD of all the heals.
 
 
 Druid Combat
