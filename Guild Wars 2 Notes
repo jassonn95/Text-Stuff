@@ -5036,7 +5036,9 @@ Pets are caught around the open world by interacting w/ the juvenile version of 
 Medium HP and medium armour. Technically the tankiest of the medium armour classes due to the pet acting as a pseudo HP bar sometimes.
 Ranger Abilities
 Pet Skills
-There are too many Pet skills to include, so the title will have anything unique from their non-controlled skills (beyond damage) and then it will have the unique skills of each pet. There’s also underwater Pets but I’m not going to include them. Your Pets do not gain any of that stats you do from gear, so it’s more difficult (impossible) for them to reach Crit, Boon or Condition duration caps. Healers generally want CC as Pets, Power DPS wants Power Damage & CC focused Pets and Condi DPS wants Conditions & CC focused Pets.
+There are too many Pet skills to include, so the title will have anything unique from their non-controlled skills (beyond damage) and then it will have the unique skills of each pet. There’s also underwater Pets but I’m not going to include them. 
+
+Your Pets do not gain any of that stats you do from gear, so it’s more difficult (impossible) for them to reach Crit, Boon or Condition duration caps. Healers generally want CC as Pets, Power DPS wants Power Damage & CC focused Pets and Condi DPS wants Conditions & CC focused Pets.
 Bear - Self healing and becoming immune to damage
 
 Rending Maul - Arctodus
@@ -5220,6 +5222,36 @@ Charge that damages & Launches then PBAoE Lightning Combo field.
 Consuming Flame - Fire Wyvern
 Evades for a frontal line of pulsing Burning. Fire Combo field for the final 3 Pulses (of 6).
 
+Greatsword
+High damage & slow attacks w/ cleave. 2H.
+
+Slash -> Slice -> Enduring Swing
+Frontal cleave, damage.
+Frontal cleave, same damage.
+Frontal cleave, most damage & recovers 15 Endurance.
+
+Typical melee cleave. Would be nice if 2nd did more damage than 1st but less than 3rd. Endurance recovery makes this feel more like a PvP weapon since dodging is required more often in PvP. It’s extra active mitigation which is nice and involved but not needed in PvE.
+
+Maul
+Frontal cleave for damage & 5 x Vulnerability. Pet gains +50% Damage on next attack.
+
+Big damaging skill on a low CD even without the CD reset from Hilt Bash. Best used before a Pet’s damaging CD, but since it has 3 skills that it uses automatically it’s somewhat difficult to control. Much more reliable in Soulbeast where you merge w/ your Pet and gain their skills. If pets were better managed / auto attacks don’t consume the buff, it would be better. Or it could just be a flat damage increase rather than a % increase.
+
+Swoop
+Gap closer + Combo Leap for damage when in range. Evasion iframes while leaping.
+
+Gap closer w/ inbuilt iframes. It’s a little tricky to time though as there’s a starting animation and the iframe is only 0.5s but it’s an option for those w/ good ping. 
+
+Counterattack -> Counterattack Kick
+Block for 3s. If an attack is Blocked, able to Kick within 5s.
+Single target damage & Knockback. Evasion iframes.
+
+Since it requires being hit, it’s less of a reliable CC source in PvE and more of a PvP skill, especially w/ the iframes. Still, it’s an extra defensive skill that can provide some extra CC but probably not at the time you need it during Defiance Bar CC phases.
+
+Hilt Bash
+Single target damage & Daze. Stun instead of Daze if hit from behind. Refreshes Maul CD on any directional hit.
+
+CC that can also be used for DPS (by refreshing Maul’s CD). Maul only has a 4s CD though so you’re not missing out on too much if you hold this skill, only if you strictly save it for CC will you run into big DPS losses. The difference between Daze & Stun in PvE doesn’t matter since it deals the same CC damage against Defiance Bars; only matters in PvP.
 
 
 Druid Combat
