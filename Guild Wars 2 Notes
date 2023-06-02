@@ -5575,7 +5575,7 @@ Solo / PvP offensive option. Might granted only lasts 5s and only affects yourse
 Clarion Bond
 Use Lesser Call of the Wild when swapping pets. Lesser Call of the Wild: Boons last half as long and there’s no Daze compared to Call of the Wild. 15s ICD.
 
-Support option as it provides extra Boons, changing your swap pet button into a Boon button. Swap also doesn’t have a CD which is good in terms of versatility but annoying in terms of not being able to keep track of the 15s CD visually. It also provides enemy Weakness which isn’t that helpful in PvE and a Blast which can be useful and most likely will be a Water field from Druid (support Ranger).
+Support option as it provides extra Boons, changing your swap pet button into a Boon button. Annoying not being able to keep track of the 15s CD visually. It also provides enemy Weakness which isn’t that helpful in PvE and a Blast which can be useful and most likely will be a Water field from Druid (support Ranger).
 
 Alpha Focus
 Opening Strike now also Cripples.
@@ -5677,10 +5677,67 @@ Vicious Quarry
 Fury on you now grants 40% Crit Chance instead of 25% and also grants Ferocity. Gain Fury when hit below 75% HP. 2s ICD.
 
 Power DPS option. Less Precision needed on your gear = more Power / Ferocity for bigger damage. Less interesting compared to the Condi variant but more damage is more damage. Extra Fury from being hit rarely procs but is okay to have since it’s just extra compared to the other effects.
+Wilderness Survival - Defensive & Conditions
 
+Natural Vigor
+Recover Endurance 25% more quickly.
 
+More Endurance = more dodges = more active mitigation. Stacks w/ Vigor so you can get even more regen. Defensive Traits are usually not that useful in PvE though.
 
+Child of Earth
+Use Lesser Muddy Terrain when using a healing skill. Lesser Muddy Terrain: almost the same as Muddy Terrain but the Immobilize lasts 1s instead of 3s. 20s ICD.
 
+On demand soft CC. Since it’s on the healing skill, you’re less obligated to use it on CD. That said, it's a soft CC so it’s mostly a PvP Trait.
+
+Oakheart Salve
+Gain Regen when inflicted by Bleeding, Poison or Burning. 10s ICD. Having Regen grants -5% Strike Damage received.
+
+Little bit of extra tankiness. It’s only 5% and it only affects Strike Damage. Good uptime in group content, but generally not that useful, especially compared to the below. 
+
+Taste for Danger
+Gain Vitality. You & your Pet gain Expertise based on 7% Vitality.
+
+Offensive option. Makes you slightly healthier as well which is nice. DoTs last longer = less gear stats being spent on Expertise = more DoT damage.
+
+Companion’s Defense
+You & your Pet gain Protection when dodging in combat.
+
+Some extra tankiness, rewarded for using your dodge (doesn’t actually have to dodge anything). Makes the active mitigation ability feel better and builds upon the dodge theme of the minor Traits.
+
+Ambidexterity
+Gain Condition Damage. Doubled while wielding a Torch or Dagger. -20% Torch & Dagger skill CDs.
+
+Offensive option, if using Torch or Dagger. Synergises pretty well w/ Condition Soulbeast as they gain access to main hand Dagger. Also lets you use those skills more often = more player agency = more DoTs = more damage.
+
+Refined Toxins
+While above 75% HP, your attacks apply Poison. While your pet is above 75% HP, their attacks apply Poison. Both have a 5s ICD each.
+
+Another offensive option, if not using Torch or Dagger. It’s more generalist at the cost of strength w/ the 5s ICD. Basically the leftover offensive option.
+
+Shared Anguish
+After swapping pets in combat, you & your Pet gain Stability.
+
+Defensive option. Requires swapping pets so you can control when you get the Stability. Since it’s the only defensive option against CC, take it if you need it.
+
+Rugged Growth
+Having Protection heals you periodically. Pet periodically heals when it has Protection.
+
+Extra sustain that builds upon the existing minor Traits + synergises w/ Protection from other sources. Not that useful in group content and like other defensive trees, it’s more effective in PvP.
+
+Emphatic Bond
+Using a Pet skill removes 2 x Conditions from you & your Pet. 20s ICD.
+
+Condition Cleanse option. Take it if you need to cleanse Conditions. It’s also when you use your Pet Skill, which sometimes you want to use on CD (DPS ones) or you want to save (CC ones) so that adds a decision for you to make.
+
+Wilderness Knowledge
+Survival skills grant Fury & remove 2 x Conditions.
+
+Another Condition Cleanse option. Survival skills are generally defensive so when you want to use them, you probably want the Condition Cleanse at the same time so it feels better to use than Emphatic Bond. Only downside is that it doesn’t affect your pet + requires you to use Survival skills. Fury is also nice but reiterates that this tree is the PvP tree since the Fury is selfish and doesn’t affect others.
+
+Poison Master
+Using a Pet skill in combat causes your Pet’s next attack to inflict 2 Poison stacks. +25% Poison damage for your Poisons.
+
+Offensive option. Activated after you use your Pet skill so you can also control when you use it. Unlike the Condition Cleanse though, extra Bleeding (hence damage) is always welcome so you’re less inclined to hold it. Extra Poison damage is also nice and Ranger has a decent range of them.
 
 
 Druid Combat
