@@ -3759,7 +3759,7 @@ Demonic Lore
 DPS option. Extra damage is nice but a little boring. Burning is essentially just more damage but implemented in a more unique way. 
 
 Feed from Corruption
-Whenever you remove or Corrupt a Boon, gain it (set duration & stacks).
+Whenever you remove or Corrupt a Boon, gain it (has its own base duration & stacks).
 
 PvP option. Not only does it require Boon Corruption, its benefit is that it grants Boons which is much more valuable in PvP where you're without dedicated supports. Fits the theme for Scourge + Punishment skills though, while also affecting some base skills.
 
@@ -4866,7 +4866,7 @@ Dodging removes 3 x Conditions.
 Defensive PvP option as Conditions aren’t that common in PvE. Also makes you lose out on Infinite Horizon, which increases the highlight of the spec to up to 4x the usual amount!
 
 Dune Cloak
-You use Sand Shards when Mirage Cloak ends. Sand Shards: PBAoE damage and Boon strip. Gain a copy of any removed Boon (w/ set durations).
+You use Sand Shards when Mirage Cloak ends. Sand Shards: PBAoE damage and Boon strip. Gain a copy of any removed Boon (w/ its own base duration).
 
 Offensive PvP option as Boons aren’t that common on enemies in PvE. Doesn’t affect Clones in the case of Illusionary Ambush. It’s PBAoE so you’ll need to stick on top of enemies, but that’s pretty easy w/ all the gap closers available. Basically take it if you need the Boon strip, otherwise Infinite Horizon is where it’s at.
 
@@ -5402,7 +5402,7 @@ Healing
 Choose 1.
 
 “We Heal As One!” - Command
-Heal self & Pet. Gain a copy (set duration) of each other’s Boons.
+Heal self & Pet. Gain a copy (its own base duration) of each other’s Boons.
 
 Selfish burst healing option. Certain skills grant Boons to Pets only so you can use this to copy them to yourself (albeit at a set duration. How useful 2s of Protection is up to you). It’s the most basic so we’ll compare the others to this one. Note that Commands are just Shouts that also interact w/ the Pet.
 
@@ -5738,6 +5738,75 @@ Poison Master
 Using a Pet skill in combat causes your Pet’s next attack to inflict 2 Poison stacks. +25% Poison damage for your Poisons.
 
 Offensive option. Activated after you use your Pet skill so you can also control when you use it. Unlike the Condition Cleanse though, extra Bleeding (hence damage) is always welcome so you’re less inclined to hold it. Extra Poison damage is also nice and Ranger has a decent range of them.
+Nature Magic - Support
+
+Rejuvenation
+Gain Regen when struck while below 50% HP. 10s ICD.
+
+Extra healing. Doesn’t really interact w/ anything else in this tree though and only affects yourself. While it’s handy, it’s just that. Self-healing.
+
+Bountiful Hunter
++1% Strike Damage per Boon on you. Same for your Pet w/ their Boons.
+
+Offensive option, though if you’re going down the support tree looking for damage Boons you’ll be sorely disappointed w/ the other options. It itself is a pretty boring but effective Trait, but it’s in the support tree which is whack w/ the opportunity cost.
+
+Instinctive Reaction
+Gain Quickness when struck while below 50% HP. 20s ICD. You & your Pet gain Healing Power based on 7% Power.
+
+Healing option due to the 2nd portion. It’s just extra stat through a stat ratio. Extra Quickness while you’re low can act as a way to pump out healing before you’re downed but not really useful in group content since you should have Quickness anyway.
+
+Allies’ Aid
+Use “Search and Rescue!” (trait version) when you begin reviving an ally (reviving is melee range). The difference is that your Pet doesn’t blink to a nearby downed ally and then pull them to you.
+
+Revive option. Take it if you expect a bunch of people being Downed, otherwise you’re better taking the healing option to prevent people from being Downed in the first place (or the damage option for some reason).
+
+Fortifying Bond
+When you gain a Boon, your Pet gains a copy of it w/ its own duration.
+
+Buffs your Pet so it feels less bad when they don’t get any of the groups Boons (since those have a 5 target limit i.e. your party). Sort of synergises w/ Rejuvenation.
+
+Evasive Purity
+Dodging removes a damaging & non-damaging Condition from you. 10s ICD.
+
+Condition Cleanse option. Again it’s a PvP option as self Condition cleanses aren’t that helpful in PvE. Activated on dodging which you generally want since you’re trying to dodge damage (or fat fingered).
+
+Spirited Arrival
+Grants PBAoE Vigor & Fury when swapping pets in combat.
+
+Extra Boons just for swapping Pets. There’s a 20s CD for swapping between Pets so make sure both your Pets achieve similar goals w/ their skills, otherwise you’ll be stuck w/ the Pet without CC when you need CC for example. Otherwise, extra Boon coverage.
+
+Windborne Notes
+Warhorn skills grant PBAoE regen around their target. Heal when you gain Regen.
+
+Extra healing for using Warhorn skills. They have pretty length CDs though and the Regen only lasts 6s so it’s pretty lacklustre compared to other options out of the 3 and compared to other healing options. That said, if you need healing then you need healing.
+
+Lingering Magic
+You & your Pet gain Concentration.
+
+Extra Boon Duration for you & your Pet’s Boon applications. Kind of synergises w/ the other minor Traits. Otherwise it’s just more Concentration which means less spent on gear = more healing power or power to heal or damage more.
+
+Nature’s Vengeance
+Boons from Spirits last 50% longer. Spirits lose 33% less HP per tick. Spirit activated skills have a 50% larger radius & apply Alacrity.
+
+The Trait that makes Ranger support work, as supports need either Quickness or Alacrity. However, since this is a base Ranger Trait, that means there’s no room for Quickness in any other tree. That includes new specs, new weapon skills, etc. It will have to be added to 1 of the 2 remaining Traits for balance purposes, lest they repeat the Chronomancer issue that plagued the game for years. This also means that Ranger support is locked to healing due to the other Traits in this tree.
+
+The Boon application itself is pretty boring though, as it encourages you to use the Spirit skills on CD. Sure there’s a choice between saving the active or applying the Alacrity but considering that most of the actives are just Conditions that don’t really matter in PvE, it’s just button pressing on CD in the end.
+
+Protective Ward
+When taking damage, PBAoE Weakness & gain Protection. 15s ICD.
+
+Defensive option. Not a viable option for the Quickness option as it requires you getting hit. Its effect is okay in a PvP scenario as they both help you survive. Not that interesting but not every Trait needs to be and it fits the defensive nature fine.
+
+Invigorating Bond
+Pet skills PBAoE heal. 20s ICD.
+
+Only viable option for the Quickness variant as discussed above. Unfortunately you can only have 2 Pets per combat, meaning there will only be 2 Pet skills used in quick succession. Meaning each Quickness application will have to be ridiculously long to be able to maintain 100% Quickness. Could be better if there were more Pet skills or if it also included the Pet’s automatic skills at a lower CD.
+
+The Trait itself is just extra healing on demand. Note that it uses the Pet’s Healing Power which is by default 0, so it won’t scale even if you’re building Healing Power.
+
+
+
+
 
 
 Druid Combat
