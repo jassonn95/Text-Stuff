@@ -5610,12 +5610,77 @@ Against bosses, this is a straight up +15% Strike Damage boost as they’re alwa
 Remorseless
 Regain Opening Strike whenever you gain Fury. Opening Strikes deal +25% Damage.
 
-Currently the only way to regain Opening Strike, which makes it and the whole tree less attractive for longer fights (which almost all boss fights are). There’s no ICD for regaining Opening Strike and no conditional on who gives you the Fury to proc so there are some cases where you get a bunch of them at the same time, which don’t stack.
+Currently the only way to regain Opening Strike, which makes it and the whole tree less attractive for longer fights (which almost all boss fights are). There’s no ICD for regaining Opening Strike and no conditional on who gives you the Fury to proc so there are some cases where you get a bunch of them at the same time, which don’t stack so you’ll be wasting a bunch. Would be more interesting if all 3 of these regained Opening Strike in some way to make it more involved in PvE; like CC vs. Fury / Crit vs. Long Range.
 
 Lead the Wind
 -20% Longbow + Harpoon Gun skill CDs. Those skills now also pierce and grant Swiftness + Quickness when attacking beyond long range. 15s ICD.
 
 Piercing is nice and you get to use the skills more often, but it’s very specific since it only affects those weapons. Technically the “hitting beyond long range” part is for any weapon but only those 2 have that sort of range, plus Traps but that’s also very specific. It’s nice to have but compared to the other 2 options it’s pretty lacklustre. Boons granted don’t last very long either.
+Skirmishing - Mobility & Weapon Swapping
+
+Tail Wind
+Gain Swiftness when swapping weapons in combat. 9s ICD (10s CD for swapping weapons).
+
+Little bit of extra mobility and makes weapon swapping (the main mechanic of the tree) better. Generally not that useful in group content though.
+
+Sharpened Edges
+You & your Pet have a 33% chance on Crits to Bleed.
+
+Extra damage in the form of a DoT. A bit annoying that it’s RNG on top of RNG but at least most builds build around 100% Crit so it’s technically just 1 layer of RNG, in PvE anyway.
+
+Primal Reflexes
+Gain Vigor when successfully Evading an attack. 8s ICD.
+
+Dodging option. Successfully dodging grants you a Boon that allows you to dodge even more. Boon lasts 8s as well so technically you could have 100% uptime of faster dodge regen. Not that useful in PvE though, definitely more of a PvP option.
+
+Trapper’s Expertise
++60% base Duration of Boons & Conditions from your Traps. -20% Trap CDs and the offensive ones apply Cripple.
+
+More CDs = more buttons to press. Only 1 is useful for power builds though, maybe 2 if you take the CC one. In that case, the extra Chill doesn’t matter and the Bleeding is worthless for power builds. Decent damage alternative to the Bleeding one that gains more value the more Traps you take, but they’re pretty different in effectiveness for certain builds so value is limited in that front.
+
+Furious Grip
+Gain Fury when swapping weapons in combat. 9s ICD.
+
+More Crits after swapping weapons. Only lasts 5s so you’ll have to get Fury from somewhere else. Like a support, which puts this Trait out of its job.
+
+Spotter
+Grant PBAoE Fury every 10s in combat.
+
+Extra Fury. It only lasts 3s, up to a max of 6s if you’re building support. It’s pretty similar to Clarion Bond in that they’re both supportive in mostly DPS trees. This tree does more damage via critting whereas Marksmanship has some extra damage via CC, just choose the one that suits better w/ your build (supports build more CC).
+
+Strider’s Defense
+Gain Quickness when successfully Evading an attack. 5s ICD. -20% Sword skill CDs.
+
+More Boons from dodging. Also lets you use Sword skills more often which revolve around dodging so it synergises with itself. Like the other dodge Trait, it’s not that useful in PvE and definitely more of a PvP option.
+
+Hidden Barbs
++33% Bleeding damage for Bleeding you apply.
+
+Offensive option, but not that great for Power builds. Still, not much of a choice out of these 3. Also doesn’t do it in a very interesting way but it's more damage.
+
+Hunter’s Tactics
++15% Damage & +10% Crit Chance when flanking from the side or behind.
+
+Since everyone is always stacked behind the boss, it’s a bunch of free damage and Crit Chance. Positionals are sort of boring though as you don’t really control where the side or behind is but does give you something to keep an eye on and adjust accordingly.
+
+Quick Draw
+After swapping weapons in combat, the next Ranger weapon skill will have -66% CD. 9s ICD.
+
+Versatile option. Active CDR is more interesting than the usual -20%. You can sort of track it w/ the 10s weapon swap CD but for Druid, entering Celestial Avatar counts as weapon swapping which may cause some issues in tracking it. It’s a good effect that could use some UI support.
+
+Light on your Feet
++10% Damage & Condition Duration after dodging or using Quick Shot (short bow). -20% Short Bow skill CDs. They also pierce & their flanking conditionals are improved (longer duration Conditions or no longer requiring flanking).
+
+Condition DPS option, but requires a Short Bow. Adds a choice between dodging & keeping up your damage buff which adds some risk vs. reward. Also makes the ranged attacks feel less crappy against multiple enemies. Overall improves the skills too w/ lower CD and applying more Conditions / no longer requiring flanking (that’s for Concussion Shot only).
+
+Vicious Quarry
+Fury on you now grants 40% Crit Chance instead of 25% and also grants Ferocity. Gain Fury when hit below 75% HP. 2s ICD.
+
+Power DPS option. Less Precision needed on your gear = more Power / Ferocity for bigger damage. Less interesting compared to the Condi variant but more damage is more damage. Extra Fury from being hit rarely procs but is okay to have since it’s just extra compared to the other effects.
+
+
+
+
 
 
 Druid Combat
