@@ -4257,6 +4257,7 @@ Active: Polymorph the target. CC immune targets take huge Defiance Bar Damage.
 CC option. The passive isn’t that useful since a stun is still a stun, no matter how reduced it is. The active lasts for 6s so it will do a 6s stuns worth of Defiance damage to bosses during CC phases. Otherwise the polymorph is incredibly annoying in PvP since it replaces your weapon skills w/ bird (or fish for underwater) skills and disables your utility skills. As you can see there’s no DPS option for base Mesmer, leaving the Elite specs to cover that hole.
 
 Traits
+Non-coloured Traits are auto picked if the tree is chosen. Coloured Traits are a choice of 1. Can only pick 3 trees.
 Domination - Interruption & Vulnerability
 
 Illusion of Vulnerability
@@ -5550,6 +5551,71 @@ Entangle - Survival
 PBAoE Unblockable pulsing damage, Bleeding & Immobilize. Enemies can break free to end the pulsing effects early.
 
 The only offensive Elite, and it’s mostly Condi damage. Take it if you’re DPS, excluding the Elite spec options. Enemies breaking free only really applies to PvP unless there’s a bunch of AoE damage going out. Overall these Elite choices are pretty bad for Power Rangers.
+
+Traits
+Non-coloured Traits are auto picked if the tree is chosen. Coloured Traits are a choice of 1. Can only pick 3 trees.
+Marksmanship - Burst & Long Range Damage
+
+Opening Strike
+You & your Pet gain Opening Strike which deals 5 x Vulnerability on the 1st hit in combat.
+
+Main mechanic of this traitline. It makes your 1st strike widdle the enemy down before they reach you, in this case by applying Vulnerability = more damage. Initial Vulnerability is always nice for group content as less ramping up = more damage.
+
+Stoneform
+Use Lesser Signet of Stone when using an Elite skill. Lesser Signet of Stone: Same as Signet of Stone but 5s duration instead of 6s.
+
+Defensive option. You can control when it applies but compared to what it was before (automatic when below 50% HP), it’s a lot more annoying since you don’t exactly want to hold your Elite for this. Definitely more of a PvP change where you’re not using skills on CD for damage. 
+
+Hunter’s Gaze
+Gain Might when hitting an enemy below HP thresholds. 1s ICD:
+<25%: 3 x Might | <50%: 2 x Might | <75%: 1 x Might
+
+Solo / PvP offensive option. Might granted only lasts 5s and only affects yourself so it’s not that great. Could use another execute effect so it’s more useful in group content as the Might is generally wasted in PvE and the other 2 options are defensive & supportive. Possibly extra bit of damage?
+
+Clarion Bond
+Use Lesser Call of the Wild when swapping pets. Lesser Call of the Wild: Boons last half as long and there’s no Daze compared to Call of the Wild. 15s ICD.
+
+Support option as it provides extra Boons, changing your swap pet button into a Boon button. Swap also doesn’t have a CD which is good in terms of versatility but annoying in terms of not being able to keep track of the 15s CD visually. It also provides enemy Weakness which isn’t that helpful in PvE and a Blast which can be useful and most likely will be a Water field from Druid (support Ranger).
+
+Alpha Focus
+Opening Strike now also Cripples.
+
+Enemies engaged from range will take longer to get to you, giving you more time to kill them. Not useful in group content.
+
+Brutish Seals
+Signet actives grant PBAoE Fury & 3 x Might.
+
+Support option if you’re taking Signets. All of the Signets are pretty selfish though so the hybrid nature (selfish + support) makes it less attractive compared to full selfish / full supportive (Spirits). Also requires you using the Signets on CD for max value which isn’t always what you want, especially w/ the longer CD ones.
+
+Farsighted
++5% Strike Damage for Ranger Weapon skills. Doubled against enemies farther at long range.
+
+Damage option. Note that it only applies to weapon skills, not Utility skills or Pet skills. Even more damage when at long range, which goes against the usual strategy of stacking on the boss's butt for Boons & healing. More of a PvP option in terms of maximising value by picking enemies off.
+
+Moment of Clarity
+You & your Pet gain +50% Damage on next attack when you interrupt an enemy. 3s ICD when using CC skills against Defiance Bars. Dazes & Stuns you apply last 50% longer.
+
+Burst damage option. It’s a bit finicky as it requires you to interrupt an attack, meaning it does nothing if you just CC them. It also requires you to time your highest damaging attacks to be after this effect for max value. Additionally, multi hit attacks only have their 1st hit enhanced so it’s not even good for the rapid fire attacks. Overall its inconsistency in terms of getting it and applying it make it a pretty unreliable option, especially compared to the mostly consistent Farsighted.
+
+Precise Strike
+Opening Strike always crits.
+
+Extra burst damage. Currently (down the tree) there is no way to regain Opening Strike other than exiting combat which makes it feel like it’s only useful in PvP or solo open world stuff where you can disengage. 
+
+Predator’s Onslaught
++15% Strike Damage for you & your Pet against Disabled, Defiant or Movement-Impaired enemies.
+
+Against bosses, this is a straight up +15% Strike Damage boost as they’re always Defiant (have a Defiance Bar). That makes this the go to option for PvE. Also some CC synergy for PvP + lesser mobs, including the Cripple from Opening Strike.
+
+Remorseless
+Regain Opening Strike whenever you gain Fury. Opening Strikes deal +25% Damage.
+
+Currently the only way to regain Opening Strike, which makes it and the whole tree less attractive for longer fights (which almost all boss fights are). There’s no ICD for regaining Opening Strike and no conditional on who gives you the Fury to proc so there are some cases where you get a bunch of them at the same time, which don’t stack.
+
+Lead the Wind
+-20% Longbow + Harpoon Gun skill CDs. Those skills now also pierce and grant Swiftness + Quickness when attacking beyond long range. 15s ICD.
+
+Piercing is nice and you get to use the skills more often, but it’s very specific since it only affects those weapons. Technically the “hitting beyond long range” part is for any weapon but only those 2 have that sort of range, plus Traps but that’s also very specific. It’s nice to have but compared to the other 2 options it’s pretty lacklustre. Boons granted don’t last very long either.
 
 
 Druid Combat
