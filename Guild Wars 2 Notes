@@ -5400,10 +5400,10 @@ Big Boon buffs that can have 100% uptime w/ max Boon Duration + Alacrity. The ra
 Healing
 Choose 1.
 
-“We Heal As One!” - Shout
+“We Heal As One!” - Command
 Heal self & Pet. Gain a copy (set duration) of each other’s Boons.
 
-Selfish burst healing option. Certain skills grant Boons to Pets only so you can use this to copy them to yourself (albeit at a set duration. How useful 2s of Protection is up to you). It’s the most basic so we’ll compare the others to this one.
+Selfish burst healing option. Certain skills grant Boons to Pets only so you can use this to copy them to yourself (albeit at a set duration. How useful 2s of Protection is up to you). It’s the most basic so we’ll compare the others to this one. Note that Commands are just Shouts that also interact w/ the Pet.
 
 Water Spirit -> Aqua Surge - Spirit
 Summon a Water Spirit that pulses PBAoE Regen every 3s at the cost of 7.5% of its own HP.
@@ -5420,6 +5420,117 @@ Healing Spring - Trap
 Heal self & Pet. Place a Trap that when triggered by an injured ally creates a Water Combo field that pulses Regen & 2 x Condition Cleanse.
 
 Condi Cleanse option. Uniquely triggers when a non-full-HP ally steps on it, maximising its Regen value. It’s a bit annoying as a Condition cleanse though as that doesn’t happen until the Trap is triggered and you need to be injured for it to trigger. That means if you’re only affected by non-damaging Conditions, it won’t cleanse. This is very rare though as almost all (if not all) Condition applying attacks damage in some kind of way. Can cleanse for a bunch of Conditions if everyone is in range. As such it has the highest CD of all the heals.
+
+Utility
+Choose 3.
+
+“Guard!” - Command
+Order Pet to redirect 33% of the damage from allies to itself. Gain Might whenever damage is redirected.
+
+Defensive option. It effectively turns your Pet into even more of an HP bar. Note that it requires people to be within range of the Pet to gain the Guard effect, and the range is mid ranged so you might run into issues if your pet is melee and you’re 2 screens away on a Longbow or if your pet is ranged and you’re in melee range. Extra Might is nice but since it only lasts for 5s, it’s only really useful when outnumbered, when multiple allies are being hit or if multihit attacks are going out (since it’s whenever the damage is redirected, irrespective of how big the damage is). If it was more consistent it would feel even better to use.
+
+“Protect Me!” - Command
+Gain Protection & Barrier. PBAoE stun break.
+
+CC Defensive option. Party stun breaks are always appreciated since it means most of the time your party doesn’t have to waste a skill on a stun break. They don’t get any other defensive stats like you do though so timing is key. For you it’s pretty good defensively, unless you’re getting chain CC’d and you use it too early. The defensive effects means you can tough it out and then use it after the CC and still survive. Strangely does nothing w/ the actual Pet itself though, making it feel like just a Shout.
+
+“Search and Rescue!” - Command
+Pet blinks to a downed ally within range of you, teleports both of them to your side & then begins Reviving them. PBAoE Regen.
+
+Support option. If you need a mid ranged revive that also pulls them to safety, this is an option. The pull is very handy and makes it stand out from other revive Utility skills that simply just revive from range. It can be a bit finicky though as it requires a valid path for the teleports to go off so that’s something to keep in mind. Not really an issue in instanced content though.
+
+“Sic ‘Em!” Command
+Commands Pet to target your target, Revealing them & granting +40% Damage & Movement Speed for the Pet.
+
+Offensive option. Use it during burst phases. Reveal is just for PvP so not something to keep in mind. Note for Soulbeasts: you gain the damage buff but it’s reduced to 25% for balance purposes.
+
+Signet of Renewal - Signet
+Passive: Periodic healing for self & Pet.
+Active: Breaks stun. Grant Resistance & Resolution to Pet. Pulls 13 Conditions from nearby allies (around Pet) to itself.
+
+Defensive Condition option. Breaks you out of stuns but doesn’t do much else to protect you from additional CC. It turns your Pet even more into a secondary HP bar, but I feel kind of bad seeing the Pet w/ every Condition known to man on it. Take it if you need party Condition cleansing, which makes it more of a PvP option. Won’t work if your Pet is defeated of course.
+
+Signet of Stone - Signet
+Passive: Gain Toughness for you & Pet.
+Active: Immune to damage for 6s. Still vulnerable to Conditions & CC.
+
+Defensive option. It would make more sense if this had the stun break but obviously for PvP balance it can’t have a stun break and immunity on it. You can still be hard & soft CC’d though so something to keep in mind of.
+
+Signet of the Hunt - Signet
+Passive: +25% Movement Speed for you & Pet.
+Active: 10 x Unblockable attacks + Superspeed for you & Pet.
+
+Mobility option. Unblockable is worthless in PvE so this is effectively just extra mobility. In PvP it would be good against classes that utilise Block as mitigation.
+
+Signet of the Wild - Signet
+Passive: Gain Ferocity for you & Pet.
+Active: PBAoE pulsing damage & Immobilize.
+
+Offensive option. Damage isn’t worth ever using it, so it’s just Immobilize which isn’t that useful in PvE. Meaning you only use it for the passive in PvE which is boring. At least in PvP you have a choice between damage & some soft CC.
+
+Frost Spirit -> Cold Snap - Spirit
+Summon a Frost Spirit that pulses PBAoE Might every 3s at the cost of 7.5% of its own HP.
+Frost Spirit blinks to you to PBAoE Chill & pulse shorter Chill.
+
+Might option. Take it if you need help building Might (which you usually do). Active Chill can be useful if you have a Reaper for their Traits but other than that it’s not all that useful, only for the blink to make sure the Spirit is in range to apply the Boons. Same notes about Spirits being a stationary Pet apply.
+
+Stone Spirit -> Quicksand - Spirit
+Summon a Stone Spirit that pulses PBAoE Protection every 3s at the cost of 7.5% of its own HP.
+Stone Spirit blinks to you to PBAoE Immobilize & pulse Cripple.
+
+Protection option. Take it if you need help building Protection (which you will). Active Immobilize is more useful than the Chill but not on bosses as they’re immune. Again, most value from the active is from the blink. Same notes about Spirits being a stationary Pet apply.
+
+Storm Spirit -> Call Lightning - Spirit
+Summon a Storm Spirit that pulses PBAoE Fury every 3s at the cost of 7.5% of its own HP.
+Storm Spirit blinks to you to PBAoE damage & Daze.
+
+Fury + CC option. Take it if you need the CC as Fury is provided via Traits and other skills (at least for the common Druid build). Its active is a lot more useful w/ the CC and actually does decent damage too so you could use it as a DPS button. Same notes about Spirits being a stationary Pet apply.
+
+Sun Spirit -> Solar Flare - Spirit
+Summon a Sun Spirit that pulses PBAoE Vigor every 3s at the cost of 7.5% of its own HP.
+Sun Spirit blinks to you to PBAoE Burn & Blind.
+
+Vigor option. Some classes like having Vigor due to either dealing more damage w/ it or they get more dodges which is part of their specs mechanic. That said, it's pretty niche. Its active does decent Burning damage so it could be an option if you’re going a Condi build w/ some support flavour. Same notes about Spirits being a stationary Pet apply.
+
+Lightning Reflexes - Survival
+Break stun + remove Immobilize and Evade backwards, dealing PBAoE damage & gaining Vigor.
+
+Good stun break as it protects you after using it from further attacks + CC. Also can be used as an Evade for iframes though it does roll you back quite far, something to keep in mind for PvE. Damage is negligible, more for PvP chip damage and the Vigor is mostly for PvP as well for more dodging; active mitigation.
+
+Muddy Terrain - Survival
+Ground targeted AoE that Immobilizes then pulses Cripple & Slow.
+
+Bunch of soft CC, definitely a PvP skill. Immobilize only occurs on the first hit so you gotta make sure you land it. Cripple & Slow are very annoying to deal w/ so it’s still a strong zoning tool even if you miss the Immobilize.
+
+Quickening Zephyr - Survival
+Break stun & grant self & Pet Quickness + Superspeed.
+
+Offensive stun break. Doesn’t protect you from further CC but does make it harder for enemies to run away from you. If you need the ability to chase down enemies then this is an option. Not that useful in PvE though as Quickness is covered by supports and Superspeed isn’t needed generally, meaning you’re using a skill slot for a 35s CD stun break.
+
+Sharpening Stone - Survival
+Next 10 attacks Bleed.
+
+It Bleeds, take it if you’re building Condi. Multi hit attacks consume a stack each hit so you can apply a bunch of stacks pretty quickly w/ some skills. Survival in general doesn’t really have a common mechanic as much as it has a common theme which is pretty unique in the skill groupings; something to pad the word count.
+
+Flame Trap - Trap
+Places a Trap that triggers for an Unblockable Fire Combo field that pulses damage & Burning.
+
+Fire Condi option. Fire fields are useful but Rangers don’t really have any Traits that interact w/ Burning, especially when compared to Poison (the other Condi option). Take it if you need more Condi damage but it’s much lower in the priority list.
+
+Frost Trap - Trap
+Places a Trap that triggers for an Unblockable Ice Combo field that pulses damage & Chill.
+
+Power DPS option. It does decent damage and is 1 of 2 Power specific damaging skills available, so it’s taken by default. Chill & Ice field may be handy for other classes but not so much for Ranger. Unblockable is not that useful either usually.
+
+Spike Trap - Trap
+Places a Trap that triggers for Unblockable damage, Bleeding & Launch.
+
+CC option; it’s an Unblockable Launch. The CD is huge in PvE for some reason (45s vs 20s) so there are better CC options, which leaves this to never be used since the Unblockable part is irrelevant and the Bleeding isn’t strong enough to warrant that CD.
+
+Viper’s Nest - Trap
+Places a Trap that triggers for an Unblockable Poison Combo field that pulses damage & Poison.
+
+Poison Condi option. Unlike the Fire option, Ranger actually has Traits that interact w/ Poison. Take it if you need extra Condi damage though it’s not really high up in the priority list due to not providing that much Poison; seems like the power budget is in the Unblockable portion & the Poison field.
 
 
 Druid Combat
