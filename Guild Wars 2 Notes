@@ -6053,7 +6053,7 @@ Standard 2 weapon skill bars, swapping in combat has a cooldown.
 Profession mechanic is Stealing skills from enemies for use.
 Unique combat in that their weapon skills don’t have CDs, but use up a resource called Initiative which regenerates through combat + certain skills & Traits.
 That does mean you end up spamming the same skill  though. Whether or not that’s more interesting than pressing a bunch of other buttons is up to each person.
-Additionally, the 3rd weapon skill (for Dual Wielding weapons) depends on what your main and off hand weapons are (no effect on 2H obviously).
+Additionally, the 3rd weapon skill (for Dual Wielding weapons) depends on what your main and off hand weapons are (no effect on 2H obviously). There are skills for no off-hand but won’t be including them as they’re strictly worse.
 Stealth attacks also upgrade the 1st weapon skill if used when affected by Stealth.
 Lowest HP and medium armour due to Stealth and Blinks / Evades. Relying on Evasion on higher ping sucked though, even if it sounds fine in theory.
 Thief Abilities
@@ -6099,6 +6099,38 @@ Infiltrator’s Arrow
 Ground targeted AoE that blinks you to the target area + AoE Blinds.
 
 The only reason why anyone even uses this weapon: a bunch of Blinks. Only useful when mounts aren’t available and you don’t expect to be fighting anytime soon since it costs 6 whole Initiative. Overall this weapon needs something since right now it’s relegated to being 2 Blinks before having to recharge Initiative.
+
+Sword
+Short ranged & versatile (offensive, defensive, mobility). Main hand only.
+
+Slice -> Slash -> Crippling Strike
+Frontal cleave, damage.
+Frontal cleave, same damage.
+Frontal cleave, most damage, Cripples & Weakens.
+
+The usual melee combo. Only complaint is the 2nd hit not doing more than the 1st, though I’m only now realising this is more common than I thought. 3rd hits effects make it feel like this is a PvP weapon, which is only reinforced by skills below.
+
+Tactical Strike - Stealth Attack
+Single target damage, Blind & 10 x Vulnerability. Daze instead of Blind if hit from behind.
+
+Blind / Daze makes this even more of a PvP weapon. Damage is actually weaker than the 3rd hit so you need to make sure you don’t mess up the combo (not sure if it breaks it or not, probably does).
+
+Infiltrator’s Strike -> Infiltrator’s Return
+Blink to target for AoE damage & Immobilize. Grant self Swiftness. Can reactivate for:
+Return to original position & cure 1 Condition.
+
+Blink, Swiftness and return Blink + Condition Cleanse? PvP. Note that you can’t use it to Blink again while the return is up and that’s 15 whole seconds.
+
+Flanking Strike -> Larcenous Strike - Dual Wield w/ Off-Hand Dagger
+Evade & cleave for damage. Unblockable.
+Single target & steal 2 Boons. Bonus damage if no Boons. Unblockable.
+
+Does decent damage but the main features are the Evade & Boon steal. That again reiterates the role of a PvP weapon, especially w/ the Unblockable clause.
+
+Pistol Whip - Dual Wield w/ Off-hand Pistol
+Single target damage & Stun. Evade and then channel a cleave.
+
+More useful in PvE than the other option as CC & damage are always welcome. It does consign you to either keeping this on the 2nd bar solely for CC or being forced to use this channelled skill as your Initiative spender, where most of its power budget is in the CC and the Evade + the damage is on a channel which can be interrupted by movement, very annoying.
 
 
 Daredevil Combat
