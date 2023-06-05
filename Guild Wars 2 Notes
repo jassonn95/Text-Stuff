@@ -5867,12 +5867,44 @@ Offensive option. You have some effect without an Axe so it’s not a total loss
 
 Druid Combat
 Gains access to a 5th Profession Mechanic: Celestial Avatar. This in turn grants access to 5 supportive “weapon” skills and also swaps the effects of any Glyphs you have.
-Entering Celestial Avatar requires Astral Force which is gained via healing or damaging. The amount healed or damaged is irrelevant; it fills the bar X% per tick of healing or damage dealt.
+Entering Celestial Avatar requires 100% Astral Force which is gained via healing or damaging. The amount healed or damaged is irrelevant; it fills the bar 1.5% per tick of healing or 0.75% per damage tick dealt. No ICD for ticks, so AoEs are great for building resources. For damage ticks, Condition + Pet damage do not generate anything. Healing full HP allies also does nothing.
+Celestial Avatar drains Astral Force for up to 15 total seconds. You can leave early but you lose 50% of the remaining Astral Force. You also cannot gain Astral Force in Celestial Avatar. Being downed resets Astral Force to 0.
 Formerly reduced the Pet attributes by 20% as a tradeoff. This lasted for 3 years during the “make base professions viable” phase before being removed. Druids inherently deal less damage anyway since their traitline is support focused.
+Last we heard, there were plans to make Druid a viable DPS. No news since as of early June.
 Gains access to Staff for 2H support.
 Gains access to Glyphs which normally have detrimental effects but are turned into supportive effects while in Celestial Avatar.
 Gains access to the Druid traitline. This uses up 1 traitline and is unique from other Elite specialisations (they all use the 3rd tree slot).
 Druid Abilities
+Celestial Avatar
+
+Celestial Avatar -> Release Celestial Avatar
+Enter Celestial Avatar when at full Astral Force to replace current weapon skills w/ supportive ones which will be listed below. Additionally, any Glyphs equipped will swap to their supportive effects. Entering Celestial Avatar counts as weapon swapping for related Traits or Runes / Sigils. Constantly drain Astral Force, leaving Celestial Avatar at 0. You can manually leave early but lose 50% of the remaining Astral Force. See above for more details, no point in repeating everything.
+
+Cosmic Ray
+Ground targeted AoE healing.
+
+The spammable skill. It’s just AoE healing. Area is pretty small though, which is why the group hugging the back of the boss is what everyone does.
+
+Seed of Life
+Ground targeted Light Combo field that heals + Condition Cleanses allies & Blinds enemies after a delay. Instant cast so can be cast during channels.
+
+Heal + cleanse. The Light Combo lasts for a fraction of a second so it’s very unreliable. Blind isn’t that helpful in PvE. It’s instant cast so it can be used during channelled skills, like skill 4 & 5.
+
+Lunar Impact
+Ground targeted AoE healing & Daze that Blasts combos.
+
+Burst healing & CC, so there’s a choice on which one you need more of, though technically you can use 2 in the max timeframe. Also blasts Combos but none of the Combo Fields in Celestial Avatar last long enough or are able to be used w/ this skill (due to being a channel).
+
+Rejuvenating Tides
+Channelled PBAoE Water Combo field that pulses healing. You can move during the channel.
+
+Pulsing healing. There’s a Water Combo field but you can’t do anything w/ it as you’re channelling the whole time. The only thing you can do is move + use Seed of Life if you need to.
+
+Natural Convergence
+Gain 2 x Stability. Channelled PBAoE that pulses damage, Cripple & Slow. Final tick does the most damage & Immobilizes. You cannot move during the channel.
+
+CC option as the damage is pretty low, even if you were building for damage. This is even more restrictive as you can’t move at all unless you want to break the channel. This takes some getting used to as the previous channel skill you can move. There’s some protection against CC to help you get the channel off, but the CC from this skill isn’t useful in PvE at all so there’s little use for it, especially w/ the risk of not being able to move for its effects.
+
 
 Soulbeast Combat
 
