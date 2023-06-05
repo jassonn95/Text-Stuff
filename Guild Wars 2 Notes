@@ -5933,6 +5933,44 @@ Ground targeted rectangular Water Combo field that destroys projectiles to heal 
 
 Powerful anti-projectile skill as it not only removes the projectiles but turns them into healing for allies. Can be comboed w/ Ancestral Grace for a Water Blast for even more healing. There’s also a Regen but that requires allies to touch the wall which is a bit risky w/ the whole blocking projectiles thing. Choice between saving it for anti-projectile or using it to combo for healing. Projectile blocking isn’t a very common requirement though so there’s less of a risk in using it for combo healing.
 
+Glyphs
+
+Glyphs of Rejuvenation - Healing
+Heal self & Pet. PBAoE heal allies for less.
+PBAoE heal allies. Heal self & Pet for less.
+
+Pretty standard heal as there’s no other effect. Sacrifices some self healing to gain the PBAoE heal effect when compared to “We Heal As One!”. The reverse fits the general theme of becoming more supportive in Celestial Avatar. Overall it’s the burst party healing option, but loses out to the Spirit heal since it’s both a party healing option and counts as a Pet = more chances to get Astral Force.
+
+Glyph of Alignment - Utility
+PBAoE damage, 3 x Bleeding, Immobilize & Weakness for enemies.
+PBAoE healing & 3 x Condition Cleanse for allies.
+
+Condition option. The Conditions inflicted are pretty annoying in PvP so there’s an option for that mode, but the Bleeding isn’t really worth it compared to the base Ranger utilities. The reverse is good healing + Condition Cleansing which could be useful but Celestial Avatar already has a lot of that so it’s mostly redundant.
+
+Glyphs of Equality - Utility
+Breaks stun. PBAoE damage & Daze for enemies.
+PBAoE stun break, Stability & 2 x Condition Cleanse for allies.
+
+CC option. Pretty good as a stun break since enemies near you will be Dazed and hence unable to CC you again. The reverse is an even more defensive version w/ the Stability & Condition cleanses.
+
+Glyph of Unity - Utility
+PBAoE tether to enemies. Damage enemies every time you take damage w/ 0.25s ICD per target and a max tether range.
+PBAoE tether to allies. Heal allies every time you are healed w/ 0.25s ICD per target and a max tether range.
+
+Really cool mechanic of sharing damage & HP, even if it’s technically not sharing the damage / healing received but proccing a static damage & healing amount. Damage version isn’t that helpful in PvE as it requires you to take damage. Healing version could see more use but most of the healing in healer builds are already AoE so this just becomes a niche healing CD in Celestial Avatar, which already has AoE heals.
+
+Glyph of the Tides - Utility
+PBAoE damage & Knock Back for enemies.
+PBAoE damage & Pull for enemies.
+
+Another CC option. Weaker than Equality in terms of Defiance Bar damage. Utility of knocking back / pulling in isn’t useful in boss fights since they’re immune to it, leaving this for only Solo use or PvP. Fights in Solo are usually just AoE-ing down enemies in a couple of seconds so the knock back isn’t that useful. The Pull generally isn’t needed as enemies run towards you already + you need to be in Celestial Avatar which is almost exclusively healing. Probably better in PvP, but the range is short.
+
+Glyph of the Stars - Elite
+Ground targeted Water Combo field that pulses healing, 2 x Condition Cleanse & Stability.
+Ground targeted AoE (not field) that prevents HP drain to Downed allies. Pulses healing, revive, Stability, Regen & Vigor.
+
+Purely support oriented Elite. Standard version has 2 x Condition cleansing & a Water Combo field whereas the Celestial Avatar version has higher healing, revive, Downed HP drain removal, Regen & Vigor. Flexibility between Condition Cleansing while in normal form and emergency healing + reviving in Celestial Avatar makes it versatile. Used to be channelled, so the removal of that makes it even more versatile as you can now do other things like healing or reviving manually while the effects pulse. Compared to Spirit of Nature it has a much lower CD but at the cost of not fully reviving by itself. Lower CD + more versatility makes it easier to use than something that only passively heals or revives + cleanses.
+
 
 Soulbeast Combat
 
