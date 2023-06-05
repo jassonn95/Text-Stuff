@@ -6064,6 +6064,43 @@ In PvP, each class has its own unique stolen skill.
 NPC skills range from damaging to receiving Boons to CC, etc.
 Raids have their unique skills.
 Strikes (effectively replaced Raids, think FFXIV Trials) also have their own skills.
+
+Stealth Attacks & Dual Wield Attacks will be added in their respective weapon sections.
+Short Bow
+Mid-high range 2H that focuses on Conditions.
+
+Trick Shot
+Targeted ranged 20% Combo Projectile that damages & Bleeds Poisoned enemies, bouncing up to 3 times.
+
+The usual ranged auto attack. Requires target to be Poisoned to have any damaging Conditions though which makes it a bit weaker in Solo play when it’s already outclassed by other weapons in general. Some synergy w/ Choking Gas but it already feels bad being one of the only skills that requires something extra for its full effect. Bouncing is nice though. If they want to keep the synergy, make it Bleed by default and either double the stacks or increase the duration if the target is Poisoned.
+
+Surprise Shot - Stealth Attack
+Combo Projectile that damages, 3 x Bleeds & Immobilizes.
+
+Stealth version that guarantees not only Bleeding but 3 stacks as well as Immobilize. As expected it’s a straight up upgrade from the base version.
+
+Cluster Bomb -> Detonate Cluster
+Ground targeted Blast AoE that damages & Bleeds. Can be activated midair for:
+4 Smaller explosions that individually do less damage but can hit the same target for more damage & 4 x the Bleeding.
+
+Interesting design as you have a choice between a Blast finisher or possibly more damage. The reason why it’s possibly more damage is because it’s hit box reliant. The projectile travels in an arc and the spread of the smaller bombs is lower if exploded from a lower height. Meaning you either need a big hitbox to guarantee all hits to hit the target or to be at range and detonate it at the end of the arc. Anything hitbox size reliant is dumb and this is no exception. Use it if you need Bleeding but it seems to be generally weaker than the Poison skill and a lot more annoying to maximise DPS.
+
+Disabling Shot
+Evade backwards from targeted enemy and damage & Cripple via a Combo Projectile.
+
+Defensive skill as you get 0.5s of Evasion iframes, even at range. Obviously that comes at a damage cost as not only are you using time for the animation, you’re using up Initiative on it. Use it if you need to dodge something and you’re out of dodges. Cripple is irrelevant in PvE.
+
+Choking Gas
+Ground targeted Poison Combo field that pulses damage & Poison. Unblockable and Dazes on initial  impact.
+
+Generally seems a lot better than Cluster Bomb since it doesn’t have the dumb hitbox shenanigans and Thief has Poison related Traits to synergise with. It does cost 4 Initiative while the other costs 3 so maybe there’s some mathematical reason to use the other one, but from a quick glance this seems strictly better.
+
+Infiltrator’s Arrow
+Ground targeted AoE that blinks you to the target area + AoE Blinds.
+
+The only reason why anyone even uses this weapon: a bunch of Blinks. Only useful when mounts aren’t available and you don’t expect to be fighting anytime soon since it costs 6 whole Initiative. Overall this weapon needs something since right now it’s relegated to being 2 Blinks before having to recharge Initiative.
+
+
 Daredevil Combat
 
 Daredevil Abilities
