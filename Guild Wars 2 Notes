@@ -5905,6 +5905,34 @@ Gain 2 x Stability. Channelled PBAoE that pulses damage, Cripple & Slow. Final t
 
 CC option as the damage is pretty low, even if you were building for damage. This is even more restrictive as you can’t move at all unless you want to break the channel. This takes some getting used to as the previous channel skill you can move. There’s some protection against CC to help you get the channel off, but the CC from this skill isn’t useful in PvE at all so there’s little use for it, especially w/ the risk of not being able to move for its effects.
 
+Staff
+Support, AoE & control. 2H.
+
+Solar Beam
+Channelled ranged beam that can target enemies or allies. Damages enemies & heals allies struck by the beam in 3 pulses.
+
+Cool mechanic that it can target enemies or allies, though the targeting for allies is pretty janky (clicking on party frames or trying to click on them manually). Damages enemies or heals allies fits the supportive nature. Also does it in 3 pulses which helps build Astral Force quickly. The fact that it damages enemies the beam passes through makes it feel better in multitarget situations too, though the cap is only 3.
+
+Astral Wisp
+Attach a Wisp to the target (enemy or ally). Target pulses PBAoE damage & healing.
+
+Also cool that it can target allies (recent-ish changes from end of 2022. Technology from Specter spec). Previously circled as a projectile to damage & heal those hit but was changed to pulsing AoE which is much more consistent and less reliant on a tiny hitbox floating around. AoE pulses = a bunch of Astral Force.
+
+Ancestral Grace
+Ground targeted slow Blink that Blasts are the destination for AoE healing & grants your Pet Protection. -5s CD if it heals an ally.
+
+Gap closer, burst healing & a Blast all in one. Protection for the Pet is somewhat irrelevant. Gap closers aren’t always needed so it’s usually just burst healing but there’s sometimes a choice to be made between the 2. Since it’s a Combo Burst, it can combo w/ Water fields (see skill 5) for even more healing.
+
+Vine Surge
+Targeted frontal AoE that damages & Immobilizes enemies. Allies hit are cleansed of Chilled, Crippled & Immobilized.
+
+Damage is negligible, especially w/ healer builds so this is exclusively for the CC + cleanse. Note that you the caster technically do not get hit by the vines so you don’t get the cleanse, which makes it somewhat annoying to use. Don’t really see a reason why it shouldn’t in PvE.
+
+Sublime Conversion
+Ground targeted rectangular Water Combo field that destroys projectiles to heal allies near it. Grants Regen to allies that pass through the field.
+
+Powerful anti-projectile skill as it not only removes the projectiles but turns them into healing for allies. Can be comboed w/ Ancestral Grace for a Water Blast for even more healing. There’s also a Regen but that requires allies to touch the wall which is a bit risky w/ the whole blocking projectiles thing. Choice between saving it for anti-projectile or using it to combo for healing. Projectile blocking isn’t a very common requirement though so there’s less of a risk in using it for combo healing.
+
 
 Soulbeast Combat
 
