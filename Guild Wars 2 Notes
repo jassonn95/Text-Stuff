@@ -5971,6 +5971,67 @@ Ground targeted AoE (not field) that prevents HP drain to Downed allies. Pulses 
 
 Purely support oriented Elite. Standard version has 2 x Condition cleansing & a Water Combo field whereas the Celestial Avatar version has higher healing, revive, Downed HP drain removal, Regen & Vigor. Flexibility between Condition Cleansing while in normal form and emergency healing + reviving in Celestial Avatar makes it versatile. Used to be channelled, so the removal of that makes it even more versatile as you can now do other things like healing or reviving manually while the effects pulse. Compared to Spirit of Nature it has a much lower CD but at the cost of not fully reviving by itself. Lower CD + more versatility makes it easier to use than something that only passively heals or revives + cleanses.
 
+Traits
+
+Celestial Being
+Gain 1.5% Astral Force per heal application and 0.75% Astral Force per damage application. Become a Celestial Avatar once you gain enough (100%) Astral Force. Gain access to Glyphs.
+
+As always, including it because it’s the 1st Trait.
+
+Druidic Clarity
+Becoming a Celestial Avatar PBAoE 3 x Condition Cleanses.
+
+Condition Cleanse option. Take it if you really need Condition Cleanses, which makes it lean towards PvP as there’s plenty of cleansing in Celestial Avatar already for PvE purposes. Otherwise, you only get its effects when entering Celestial Avatar which you mostly use for the healing / Condition cleanse so it’s not out of the way in terms of skill usage / “rotation”.
+
+Cultivated Synergy
+Using your Healing skill additionally PBAoE heals around you & your Pet.
+
+Healing option. Extra healing on top of your healing, so functionally it doesn’t change anything. Note that it doesn’t work w/ Aqua Surge, only works on the initial summoning of Water Spirit which makes it a lot worse in a build that uses it. Should be changed to include Aqua Surge as it has a 20s CD anyway. Not sure if you can double up healing by being on top of your Pet, no reason not to as the healing isn’t incredibly powerful.
+
+Primal Echoes
+-20% Staff skill CDs. PBAoE Daze enemies when swapping to Staff in combat. 8s ICD.
+
+Versatile option. More Staff skills = more support = more buttons to press = more agency, etc. Note that Celestial Avatar counts as a Staff for the Dazing part so you technically don’t need to use a Staff to get some effect out of this Trait. Extra Dazing for extra CC which means your party requires less CC skills = they can take more damage skills. The 8s ICD does mean you sort of have to watch when you enter Celestial Avatar so you don’t waste the Daze before something important, but at the same time it’s only a 1s Daze and if that’s make or break then you should just take an extra CC skill.
+
+Live Vicariously
+Actively Healing an ally heals yourself for this Trait’s amount. 1s ICD.
+
+Does NOT include passive healing from sources like Regen so you’ll have to be actively pressing buttons to get effects out of this. Not really sure why not in PvE as there’s a 1s ICD anyway and it’s not like the extra healing would be too strong. Definitely set that way because of PvP and there might not be the technology to separate them too much functionally. That aside, it’s just extra healing; fine for a minor Trait.
+
+Celestial Shadow
+Grant PBAoE Superspeed & Stealth when leaving Celestial Avatar.
+
+Party mobility option. While the Superspeed is handy, the Stealth was mostly annoying as it interrupts your auto-attack chain so if you’re not paying attention to a) your character turning invis in the sea of visual effects or b) a small icon appearing in the buff bar at the bottom of your screen or c) not constantly spamming the auto attack button, then you’ll be standing there doing nothing for 3s. Definitely more powerful in PvP, even if it’s just for leaving Celestial Avatar which comes with its own drawbacks (losing Astral Force, losing access to support skills, etc).
+
+Verdant Etching
+Glyphs grant PBAoE Protection.
+
+Previously reduced their CDs and casted Lesser Seed of Life for a bit of healing, Blindness & Cleansing. Protection uptime is somewhat difficult to maintain so every bit counts. Every damage mitigated is HP that you don’t have to heal, which means you can spend more time DPSing, even if it’s tickle damage.
+
+Natural Stride
+-33% Duration of Immobilize, Cripple & Chilled on yourself. +33% Movement Speed when not affected by these Conditions.
+
+Selfish mobility option. Better in PvP than compared to WvW (zergs) as you’re less likely to be grouped w/ all 5 players for max Superspeed & Stealth value. Has better uptime since the other requires leaving Celestial Avatar whereas this almost always has some sort of benefit, even if they’re just passives.
+
+Natural Mender
++20% Healing to Others. Gain 5 (%?) Astral Force every 3s not in Celestial Avatar.
+
+Further solidifies this spec as the support spec. Tooltip is a bit unclear as to what “5” is and there’s no way to tell if 100 is the max or not. Either way it’s just extra Astral Force generation which is fine for a minor Trait, I just wish it was clearer than “5 energy”.
+
+Grace of the Land
+Celestial Avatar skills grant Might to allies within them.
+
+Used to be incredibly problematic since they gave a unique damage buff rather than Might, and that lasted for 2 whole years. An okay source of Might, used to give 3 stacks instead of 1. Now it’s just supplementary to other Might sources (Frost Spirit, both versions of Call of the Wild). Definitely a shell of its former self, but it’s the only offensive support option which is what Druid is and excels at so it’s an easy choice.
+
+Lingering Light
++20% Healing to Others while in Celestial Avatar. +10% Healing to Others for 10s after leaving Celestial Avatar.
+
+Healing option. Game isn’t really built around heavy healing checks like other MMOs though so you don’t really get as much use out of this, whereas this would be a dedicated CD out of 30 buttons in those MMOs. If you really need the healing, take it.
+
+Ancient Seeds
+Hitting a hard CC’d or Defiant enemy summons roots that damage, Bleeds & Immobilizes them. 10s ICD.
+
+The only purely offensive option. Has a 10s ICD for any procs so it’s pretty bad in AoE situations. None of the other Traits in this tree are DPS oriented so you’ll be stuck w/ a mostly healer oriented build w/ a single DPS Trait at the end, which isn’t that strong at all compared to other builds due to multipliers in their trees, etc. For this to be good, it has to be incredibly powerful (which would run into issues of healers just taking it anyway) or the previous Trait options need a DPS option so Druids can build DPS, or at least support DPS.
 
 Soulbeast Combat
 
