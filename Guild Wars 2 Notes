@@ -5865,9 +5865,13 @@ You & your Pet gain Ferocity, doubled while wielding an Axe. -20% Axe skill CDs.
 
 Offensive option. You have some effect without an Axe so it’s not a total loss, but it’s encouraged since 2 of the 3 effects revolve around an Axe. It’s just more damage, nothing too interesting but everyone likes damage.
 
-
 Druid Combat
-
+Gains access to a 5th Profession Mechanic: Celestial Avatar. This in turn grants access to 5 supportive “weapon” skills and also swaps the effects of any Glyphs you have.
+Entering Celestial Avatar requires Astral Force which is gained via healing or damaging. The amount healed or damaged is irrelevant; it fills the bar X% per tick of healing or damage dealt.
+Formerly reduced the Pet attributes by 20% as a tradeoff. This lasted for 3 years during the “make base professions viable” phase before being removed. Druids inherently deal less damage anyway since their traitline is support focused.
+Gains access to Staff for 2H support.
+Gains access to Glyphs which normally have detrimental effects but are turned into supportive effects while in Celestial Avatar.
+Gains access to the Druid traitline. This uses up 1 traitline and is unique from other Elite specialisations (they all use the 3rd tree slot).
 Druid Abilities
 
 Soulbeast Combat
