@@ -5803,10 +5803,67 @@ Pet skills PBAoE heal. 20s ICD.
 Only viable option for the Quickness variant as discussed above. Unfortunately you can only have 2 Pets per combat, meaning there will only be 2 Pet skills used in quick succession. Meaning each Quickness application will have to be ridiculously long to be able to maintain 100% Quickness. Could be better if there were more Pet skills or if it also included the Pet’s automatic skills at a lower CD.
 
 The Trait itself is just extra healing on demand. Note that it uses the Pet’s Healing Power which is by default 0, so it won’t scale even if you’re building Healing Power.
+Beastmastery - Pets
 
+Pack Alpha
+Pets gain Power, Condition Damage, Precision, Toughness & Vitality. -20% Pet skills CD.
 
+(Almost) all stats up for Pets. Extra Pet skills to use. Pretty basic Trait which is fine since it’s a minor Trait. Stats themselves are for tankiness + basic damage (not Crit Damage or Condition Duration). Extra Pet skills = more player agency (sort of, it affects the auto used skills too) = more damage / utility.
 
+Go for the Eyes
+Using a Pet skill also PBAoE Blinds. 12s ICD.
 
+The PvP option as Blind is useless in PvE. You can control when this happens so there’s some agency (only affects the controlled Pet skill, not the auto-use ones).
+
+Potent Ally
+You & your Pet grant each other Might when critting. 1s ICD.
+
+Offensive Boon option. Not useful in group content as supports should be granting Might to you already, making this one redundant. More useful for Solo / PvP if you don’t need the Blind. Requires critting to have any effect, which is fine for your Pet as you should always be critting (Power builds) but your Pet isn’t guaranteed to have 100% Crit. Could normalise it by making it grant Might on hit, doubled on crits so it’s not reliant on crits. Adjust ICD if needed.
+
+Resounding Timbre
+Commands grant PBAoE Regen & Swiftness. -20% Command skill CDs.
+
+Utility option. Lower CDs = more uses = you know the drill. Actually an offensive option if you’re taking “Sic ‘Em!” since it’s a unique damage buff vs. Potent Ally. Extra Boon utility is nice but not really relevant. 
+
+Loud Whistle
+While >= 90% HP, Pets deal +10% Strike Damage. -20% Pet Swap CD.
+
+More damage while at high HP, which you should be in PvE w/ healers + less sources of incoming damage. Swapping pets has a 20s CD for some reason, lower CD is always nice. Maybe worried about being able to swap pets out for tanking? Aggro is a bit janky and unreliable though.
+
+Wilting Strike
+Using a Pet skill also inflicts Weakness on enemies hit.
+
+The PvP option as Weakness isn’t useful in PvE. Same notes about choosing when to activate this via controlled Pet skill apply.
+
+Two-Handed Training
+-20% Greatsword & Spear skill CDs. +10% Greatsword & Spear skill damage. Gain Fury when you Disable an enemy.
+
+Offensive option if using Greatsword, w/ more damage & lower CDs. More damage + more skill uses = :). Without Greatsword, it’s just Fury on Disable which isn’t useful in PvE because of supports.
+
+Natural Healing
+Pet recovers HP every 3s.
+
+Pet sustain option. If not using Greatsword it’s the only option in PvE. Higher Pet HP = less chance of them dying = more reliable DPS. It’s also effectively just a HoT, nothing that actively involves you.
+
+Pet’s Prowess
++30% Pet Movement Speed. Pets gain Ferocity.
+
+More move speed = more uptime = more damage. More Ferocity is just more damage as well. It’s just stats up for the Pet.
+
+Beastly Warden
+Using a Pet skill also PBAoE Taunts. 20s ICD.
+
+The PvP option again as Taunt isn’t useful in PvE. Same notes about choosing when to activate this via controlled Pet skill apply.
+
+Zephyr’s Speed
+Cast Lesser Quickening Zephyr when swapping Pets. Lesser Quickening Zephyr: Quickness & Superspeed last half as long as Quickening Zephyr. Does NOT break stun. 15s ICD.
+
+Unlike the normal Quickening Zephyr, this version is only the Quickness & Superspeed. And it only lasts 3s. Technically it’s a damage boost but 3s every 15s (and that’s assuming you swap pets on CD) isn’t really worth it. Especially in group content where Quickness is covered. Might be an option in PvP though since there aren’t really any support roles and Superspeed is more valuable there.
+
+Honed Axes
+You & your Pet gain Ferocity, doubled while wielding an Axe. -20% Axe skill CDs.
+
+Offensive option. You have some effect without an Axe so it’s not a total loss, but it’s encouraged since 2 of the 3 effects revolve around an Axe. It’s just more damage, nothing too interesting but everyone likes damage.
 
 
 Druid Combat
