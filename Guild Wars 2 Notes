@@ -6285,6 +6285,30 @@ Creates a Dark Combo field that blocks projectiles & prevents enemies from enter
 
 Zoning option. Protects against ranged and prevents melee from entering (unless CC immune). Another projectile protection skill, but it’s a higher CD + requires preparation so it’s not as good as Smoke Screen due to the power budget being in preventing enemies from entering as well. Makes it stronger in PvP.
 
+Assassin’s Signet - Signet
+Passive: Gain Power.
+Active: Gain 3 x the Power for 5s.
+
+Offensive option. Really neat design for a Signet as you basically want to use it during burst phases as an offensive CD, while leaving it alone during downtime. How often you use it will depend on how often burst phases are and how often your damage spikes (if it’s just once every now and then, then it’s much stronger vs. constant high damage attacks).
+
+Infiltrator’s Signet - Signet
+Passive: Regenerate 1 Initiative every 10s.
+Active: Break stun & Blink to target.
+
+Stun break, though its passive is kind of weird. If there’s no target it will just be a stun break, in which case you’re better off choosing another stun break. With a target it will be very good for chasing enemies down, making it a decent PvP pick. The passive just doesn’t really fit w/ the active and seems like it was just added on quickly. It’s also very weak as most skills cost 3+ Initiative. If its passive was the Movement Speed one then it would fit better, though having different effects isn’t unheard of and does make it more versatile. If only the passive was actually useful.
+
+Signet of Agility - Signet
+Passive: Gain Precision.
+Active: PBAoE 100 Endurance & 3 x Condition Cleanse.
+
+For Power DPS, you keep this off cooldown and it’s just a stat boost. You’re then given an option to keep your damage up or use it to cleanse Conditions in an area around you + fully recharge Endurance for most allies (Daredevil have 150 max) which means more dodges = more mitigation. It’s the only party Condition Cleanse skill that Thief has so it’s definitely an option if needed, but support Thief without Specter is kind of crappy anyway (plus they have their own cleanse).
+
+Signet of Shadows - Signet
+Passive: +25% Movement Speed.
+Active: Ranged targeted AoE Blindness, Weakness & 10 x Vulnerability.
+
+Mobility / debuff option. Movement speed is not needed in PvE due to Swiftness. Conditions are largely PvP oriented as Blindness & Weakness don’t do much in PvE and Vulnerability is already very common. Strong ranged Condition option in PvP.
+
 
 Daredevil Combat
 
