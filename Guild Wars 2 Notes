@@ -6416,7 +6416,7 @@ Power DPS option. Stealth Attacks Reveal you as you’re breaking out of Stealth
 Exposed Weakness
 +2% Strike Damage per unique Condition on the target (max 24%).
 
-Bunch of extra Power damage without doing much on your end. Synergises w/ the Poison & Weakness from this tree, as well as the Conditions from every other tree and class. Very unlikely you’ll consistently get the full 24% but it’s still a free damage increase in group content.
+Bunch of extra Power damage without doing much on your end. Synergises w/ the Poison & Weakness from this tree, as well as the Conditions from every other tree and class. Very unlikely you’ll consistently get the full 24% but it’s still a free damage increase in group content. Also note that unlike other damage increase stats, this is multiplicative rather than additive, making it much stronger.
 
 Potent Poison
 +33% Poison Damage & Poison Duration. Other Deadly Arts Traits that apply Poison apply an additional stack.
@@ -6432,6 +6432,67 @@ Executioner
 +20% Strike Damage to enemies below 50% HP.
 
 Power DPS option. Extra damage when executing enemies, that’s all it is.
+Critical Strikes - Critical Hits
+
+Keen Observer
++15% Crit Chance while >= 75% HP.
+
+Extra Crit Chance while at higher HP, which is almost always the case in group content w/ healers. Basically means less Precision is needed so you can build more Power / Ferocity for DPS.
+
+Assassin’s Fury
+Gain 3 x Might when gaining Fury. 2s ICD.
+
+Not that useful in PvE as expected since Might is covered by supports. Could be useful in PvP as Twin Fangs’ conditionals are pretty hard to achieve in PvP and you don’t get that many Boons there.
+
+Signets of Power
+Signet actives grant 2 Initiative.
+
+Resource option. Not only does it require using Signets, it also requires you to choose this Trait and it barely gives you any Initiative anyway so it’s very niche. Still if you can survive long enough w/ a bunch of Signets to make use of the Initiative in PvP, it might be an option.
+
+Twin Fangs
++7% crit damage (not the stat) while >= 90% HP. +7% Crit Chance while flanking from behind or the side.
+
+Easy DPS choice for PvE as you have a healer for the HP conditional (though it should be 75% to match Keen Observer) and it’s much easier to flank a target that’s not constantly trying to dodge and move around like in PvP. When the conditionals are met, it’s just more and stronger crits. Note that it doesn’t increase the Crit Damage stat, but the damage you deal via crits (i.e. multiplicative not additive). That makes it incredibly more powerful than what’s listed.
+
+Unrelenting Strikes
+PBAoE Fury when critting an enemy. 8s ICD.
+
+More crits from Critting. 50% uptime without any Boon Duration so it’s purely supplementary. There was talk about making Deadeye a viable support DPS spec and it’s a Power spec so this tree could be an option in the future (Specter is Condi based so this tree isn’t worth it for their support builds).
+
+Sundering Shade
+Stealth Attacks inflict 5 x Vulnerability & grant Fury. 1s ICD.
+
+More PvP oriented as the effects are usually already present in PvE. Additionally, Stealth attacks aren’t that common in most PvE builds vs. PvP builds.
+
+Practiced Tolerance
+Gain Ferocity based on 10% Precision.
+
+More crit damage the more crit chance stat you have. Take it if you need damage, simple.
+
+Deadly Aim
+Pistol & Harpoon Gun skills pierce but deal -5% Damage.
+
+Not only do you miss out on the extra damage from the other options, but you actively lose damage for choosing it. Piercing (or at least a bounce or 2) should be base kit anyway so this Trait just feels awful even without the damage down. Don’t think there’s a single Trait in the game that reduces damage other than this one.
+
+Ferocious Strikes
++10% crit damage (not the stat) against enemies that are >= 50% HP.
+
+More damage at the beginning half of fights. Also increases crit damage rather than the Crit Damage stat, which makes it even more powerful than it lets on (multiplicative). Interesting that it only affects enemies above the HP threshold while the other effects are while you’re healthy or the enemy is lower HP. Lets you bring enemies to that low HP threshold quicker / phase quicker.
+
+No Quarter
+Critting under Fury grants 2s of Fury, 2s ICD. Fury grants Ferocity.
+
+DPS option. While the Fury being granted isn’t that useful in group content, the extra Ferocity (i.e. crit damage) is. Take it if you purely want damage.
+
+Hidden Killer
+Guaranteed crits while Stealthed. Lingers for 2s after being Revealed.
+
+PvP option. PvE builds already revolve around having 100% crit so you’ll rarely get any use out of this Trait unless you’re low HP (for Keen Observer), not flanking (for Twin Fangs) and without Fury, which all are entirely possible for PvP.
+
+Invigorating Precision
+Crits heal for 4% of the damage, increased to 10% while under Fury.
+
+Sustain option. Not that good in PvP as it requires you to crit, which is pretty rare compared to PvE. Also requires you to have Fury which isn’t always the case with Boon removal, steal & Corruption. You do miss out on the extra Ferocity from No Quarter but if you need the sustain it’s an option, even w/ a healer.
 
 
 Daredevil Combat
