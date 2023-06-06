@@ -6369,6 +6369,70 @@ Channelled Evasion that Combo Whirls + reflects projectiles & throws out project
 
 Defensive option. While it does damage & Bleed, it also reflects projectiles, Evades & Cripples. This combined w/ the fact that it’s channelled (meaning you aren’t doing anything else like DPSing) makes it a poor DPS choice and strictly for PvP defensiveness. 
 
+Trait
+Non-coloured Traits are auto picked if the tree is chosen. Coloured Traits are a choice of 1. Can only pick 3 trees.
+Deadly Arts - Poison, Damage & Stealing
+
+Serpent’s Touch
+Stealing inflicts 2 x Poison. While Downed, attacks apply Poison.
+
+A little bit of extra Poison when Stealing, which you should be doing on cooldown anyway. The Downed effect is (hopefully) not relevant most of the time.
+
+Dagger Training
+Gain Power, double while wielding a Dagger.
+
+Power DPS option. Strictly a stats up, even if you’re not using Dagger. There’s really nothing else to say, take it if you’re power DPS.
+
+Mug
+Deal damage & heal when Stealing. Cannot crit.
+
+Trading option. Since it damages (can’t crit) and heals, it’s a lot better in PvP since you have less Power, Precision & Ferocity in PvP (hence a Trait that only increases Power is less effective).
+
+Deadly Ambition
+Gain Condition Damage. Apply Poison when hitting an enemy w/ a Dual Wield attack.
+
+Condition DPS option. A lot more interesting than its Power counterpart as it makes you want to use the Dual Wield attack as the Initiative spender more.
+
+Lotus Poison
+Weaken targets when you Poison them. 10s ICD per target.
+
+Little bit of extra Weakness, 40% uptime. Exposed Weakness (minor Trait below) makes it useful for DPS and there’s also a couple of other Traits from other classes that also improve their DPS. By itself not too helpful though as Weakness is weak in PvE, which is fine for a minor Trait that also interacts w/ a later minor Trait in the same tree (meaning you’ll always have the other effect).
+
+Even the Odds
+5 x Vulnerability when Stealing. 5 x Might when Stealth Attacking.
+
+Solo / PvP option as the effects granted are redundant in group content. Stealing has a 25s CD and Stealth attacks aren’t very common in combat, so its effectiveness is limited even in those types of content.
+
+Panic Strike
+Immobilizing enemies Poisons them. Hitting an enemy below 50% HP Immobilizes them (20s ICD).
+
+Condition DPS option. Makes Devourer Venom & Thousand Needles decent Condi skills as they apply a bunch of Immobilize or already have Conditions on it. Otherwise it also occasionally procs against low HP targets.
+
+Revealed Training
+Gain Power, 50% more while Revealed.
+
+Power DPS option. Stealth Attacks Reveal you as you’re breaking out of Stealth, so it makes your Stealth Attacks hit harder. This obviously requires Stealth in your build to make full use of so you’re a little locked in terms of Utilities & playstyle (have to remember to activate your Stealth Attack as it’s not automatic). Otherwise it’s also a general Power increase.
+
+Exposed Weakness
++2% Strike Damage per unique Condition on the target (max 24%).
+
+Bunch of extra Power damage without doing much on your end. Synergises w/ the Poison & Weakness from this tree, as well as the Conditions from every other tree and class. Very unlikely you’ll consistently get the full 24% but it’s still a free damage increase in group content.
+
+Potent Poison
++33% Poison Damage & Poison Duration. Other Deadly Arts Traits that apply Poison apply an additional stack.
+
+Condition DPS option. Simple damage & duration increase for Poison, making Poison much more valuable on Thief. Also adds an extra stack of Poison for Serpent’s Touch, Deadly Ambition & Panic Strike for more Condi DPS.
+
+Improvisation
+Stolen Skills have 2 charges. Randomly recharge an equipped Utility skill when Stealing (15s ICD).
+
+Versatile option. 2 charges on Stolen skills is good, more use out of the skills which are consistent in PvP & group PvE content. Less useful in open world PvE as there’s a bunch of random skills. The recharge being random is very annoying, especially if it chooses a skill that’s not even recharging (there’s no protection against that). Needs protection against the above case or at least some way to control it, like the highest CD or something. Decrease the recharge if needed to account for consistency.
+
+Executioner
++20% Strike Damage to enemies below 50% HP.
+
+Power DPS option. Extra damage when executing enemies, that’s all it is.
+
 
 Daredevil Combat
 
