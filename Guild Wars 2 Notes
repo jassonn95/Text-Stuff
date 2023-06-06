@@ -6211,6 +6211,30 @@ Place a Smoke Combo field beneath that pulses Blindness. Fire a Combo Projectile
 
 Blindness & Stealth (via Smoke Combos) are more of a PvP thing, though there’s some use w/ skipping mobs in dungeons. That said, not useful in the main instanced content and it’s very expensive at 6 Initiative cost.
 
+Healing
+Choose 1.
+
+Hide in Shadows - Deception
+Stealth & remove Burning, Poison, Bleeding & Confusion. Gain Regen & heal self.
+
+Strong heal, but there is a 1s cast time which is something to be aware of. Removes the Conditions before the healing so the Poison won’t reduce the healing. Stealth can be used defensively or offensively (via Stealth Attacks), which gives you an option between using it as part of your DPS rotation or keeping it as a heal / escape. Regen is also there but it’s just a delayed heal, no interactions w/ Thief Traits. Only issue is the cast time so watch out.
+
+Signet of Malice - Signet
+Passive: Heal whenever you attack.
+Active: Heal self.
+
+Passive healing option. Somewhat similar to Ele’s Signet of Restoration, but w/ the exception that it works when applying Conditions & attacks that are AoE will proc multiple times. As such, the active is the weakest of all the heals; a tradeoff for constant sustain. Take it if you need constant healing and can go without the Condition cleanses.
+
+Withdraw - Trick
+Remove Chilled, Cripple, Immobilize & Torment. Evade backwards & heal self.
+
+Another defensive option as it cleanses mobility related Conditions + Evades backwards. Since you have iframes, the heal is consequently weaker. Purely defensive vs. Hide in Shadows.
+
+Skelk Venom - Venom
+Heal self. Grant PBAoE 5 x Venom buff that heals each attack.
+
+Party healing option as all of the Thief’s Venoms are applied to allies nearby. Potentially heals the Thief the most but comes with the caveat of requiring 5 hits and doesn’t come with any other utility (Stealth, Condition Cleanses, iframes). If pure healing is needed for you and your group then this is the option to take.
+
 
 Daredevil Combat
 
