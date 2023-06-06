@@ -6271,7 +6271,7 @@ Prepare Thousand Needles -> Thousand Needles - Preparation
 Place a controlled Trap beneath you.
 Unblockable damage & Immobilize. Pulses damage + Poison, Bleeding then Cripple.
 
-Soft CC option. Sometimes Immobilize is stronger than Disables as you can’t stun break out of it. That’s the only reason I can think of for choosing this option as it’s less damage, higher CD and each Condition only pulses once which isn’t strong enough to be a Condition DPS option. Same notes about Preparations apply.
+Condition DPS option. Sometimes Immobilize is stronger than Disables as you can’t stun break out of it (for PvP). Otherwise it pulses a bunch of Poison & Bleeding, mathematically better than other options even w/ the cast time and 3s ICD between preparation and detonation. Same notes about Preparations apply.
 
 Prepare Shadow Portal - Shadow Portal - Preparation
 Place a controlled Trap beneath you.
@@ -6308,6 +6308,28 @@ Passive: +25% Movement Speed.
 Active: Ranged targeted AoE Blindness, Weakness & 10 x Vulnerability.
 
 Mobility / debuff option. Movement speed is not needed in PvE due to Swiftness. Conditions are largely PvP oriented as Blindness & Weakness don’t do much in PvE and Vulnerability is already very common. Strong ranged Condition option in PvP.
+
+Caltrops - Trick
+PBAoE area that pulses Bleeding & Cripple. Unblockable.
+
+Tricks are more thematic than mechanically related.
+
+Zoning option. Damage is lower than some other Condition options due to power budget being placed into the Cripple & Unblockable aspects, making it stronger in PvP.
+
+Haste - Trick
+Breaks stun. Grant self Quickness, Fury & Swiftness.
+
+Pretty weak stun break as it offers no protection after using it. In exchange it gains offensive Boons which could be useful in Solo / PvP but since they’re always covered by support, it’s simply an inferior option in group content.
+
+Roll for Initiative - Trick
+Breaks stun. Evade backwards, cleanse Crippled, Chilled & Immobilize + gain 6 Initiative.
+
+A much better stun break as you get Evasion iframes + Mobility Condition cleanses. Also grants 6 Initiative which is pretty big so it can be used defensively or offensively to gain enough Initiative to finish off enemies, even w/ the annoying rollback (especially for melee).
+
+Scorpion Wire - Trick
+Long ranged single target Combo Projectile that damages & Pulls. 2 charges.
+
+Useful if you need a Pull as it’s the only option for Thief. Other than that there is a better CC option (the only other Utility option is Pitfall). Damage is negligible and being a Combo Projectile is definitely not worth taking a skill over another.
 
 
 Daredevil Combat
