@@ -6259,6 +6259,32 @@ PBAoE Smoke Combo field that blocks missiles & pulses Blind for enemies.
 
 Useful if you require projectile defence, otherwise you don’t take it in PvE like other similar skills. Blindness is also not that useful. Smoke Field can be used to Blast Stealth but again, only useful for skipping trash mobs and they’re only in specific content.
 
+Prepare Pitfall -> Pitfall - Preparation
+Place a controlled (only triggers when you reactivate) Trap beneath you.
+Unblockable AoE damage, 2 x Vulnerability & knock down. Pulses damage.
+
+Preparations are pretty similar to Traps, except instead of requiring an enemy (or ally) to step into it, you manually detonate it again. CD starts from when you place the trap. Makes it unique and more versatile vs. Traps and can be annoying manually detonating it all the time.
+
+Hard CC option, and it’s 1 of only 2 non-Elite CC options Thief has. Take it if you need AoE CC. Damage isn’t enough to warrant this as a DPS skill.
+
+Prepare Thousand Needles -> Thousand Needles - Preparation
+Place a controlled Trap beneath you.
+Unblockable damage & Immobilize. Pulses damage + Poison, Bleeding then Cripple.
+
+Soft CC option. Sometimes Immobilize is stronger than Disables as you can’t stun break out of it. That’s the only reason I can think of for choosing this option as it’s less damage, higher CD and each Condition only pulses once which isn’t strong enough to be a Condition DPS option. Same notes about Preparations apply.
+
+Prepare Shadow Portal - Shadow Portal - Preparation
+Place a controlled Trap beneath you.
+Breaks stun. Creates a 1 way portal from where you currently are to the initial location. Allies who take the portal are Stealthed & enemies near the exit are Weakened.
+
+Party mobility option. Unlike Mesmer’s portal, it can only be taken by 5 total people so its uses are quite literally limited. Also requires you to place it where you want to eventually go later and portals are pretty annoying to use since it uses the all purpose interact (F) key, which can cause issues if there’s something else interactable on top of the entrance. Notes about Preparations don’t really apply as you’re using it for your allies rather than against enemies.
+
+Prepare Seal Area - Seal Area - Preparation
+Place a controlled Trap beneath you.
+Creates a Dark Combo field that blocks projectiles & prevents enemies from entering or leaving.
+
+Zoning option. Protects against ranged and prevents melee from entering (unless CC immune). Another projectile protection skill, but it’s a higher CD + requires preparation so it’s not as good as Smoke Screen due to the power budget being in preventing enemies from entering as well. Makes it stronger in PvP.
+
 
 Daredevil Combat
 
