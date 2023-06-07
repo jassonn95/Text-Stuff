@@ -6554,6 +6554,67 @@ Rending Shade
 Steal 2 Boons from enemies hit by your Stealth Attacks. Hitting an enemy without a Boon causes AoE Fear around the target.
 
 PvP option as it’s both Boon stealing & Fear, both of which aren’t useful in PvE. Synergises w/ Stealth via the Stealth Attacks, that’s pretty much it.
+Acrobatics - Dodging & Mobility
+
+Expeditious Dodger
+Gain Swiftness when Dodging.
+
+Unless it’s PvP or you’re in the very niche role of kiting something, this tree is pretty useless in PvE since you’re better off killing the enemies than trying to out live them w/ Dodges, so it’ll be a quick skim for this tree. More mobility when Dodging (no successful Evasion needed) which isn’t useful in PvE since Swiftness is very common.
+
+Instant Reflexes
+Gain 2s of Evasion after using an Elite skill. 30s ICD.
+
+On demand dodges. Base Elites have long-ish (at least 1s) cast times so it’s a little janky for those ones. Spec Elites only have a 0.5s cast time so they’re a lot more safe, though not as useful in 1v1 situations as they’re either CC or Stealth which sort of renders the Evasion useless.
+
+Vigorous Recovery
+Gain Vigor when using a Healing skill.
+
+Extra dodges for after using your Healing skill, which you usually use when you’re taking damage / under fire so it works well w/ itself, if a bit boring. Obviously no effect in PvE most of the time.
+
+Pain Response
+Gain Regen & remove all damaging Conditions when struck below 75% HP. 16s ICD.
+
+Automatic anti-Condition defensive Trait. Not much to say as you don’t have to do anything for it. Obviously requires you to get hit so it’s a little risky but that’s not too hard when Solo. PvP has a 60s CD so good luck with that.
+
+Feline Grace
+Gain Vigor upon successfully Evading an attack.
+
+Pretty nice Trait as it rewards you for dodging something rather than pressing it randomly. Again, not that useful in PvE though.
+
+Guarded Initiation
+Remove a Condition (Vulnerability, Weakness, Slow or Confusion) when hitting an enemy while >= 75% HP.
+
+A more active Condition Cleansing option, except it only affects the above 4 Conditions which don’t really have any relation to each other, apart from being Conditions. Confusion is covered by Pain Response so the other 3 are just leftovers not covered by the other Traits in this tree. HP requirement is only relevant in PvP, but so is the entire tree.
+
+Swindler’s Equilibrium
+Gain Power, doubled when wielding a Sword or Spear. Successfully Evading an attack w/ a Sword or Spear wielded recharges 50% of Steal’s max CD, 10s ICD.
+
+Offensive option. Don’t need to Evade w/ Sword skills, only have it actively equipped when dodging will be enough. More Steals = more Blinks (and possibly other effects from Traits) and more stolen Skills which is Thief's thing, even if I find it personally lacklustre compared to something like Necro’s Shroud.
+
+Hard to Catch
+Gain 8 Endurance when Blinking.
+
+8 whole Endurance. From a limited conditional of Blinks. Not sure why you would ever take this Trait w/ that value. On paper it’s decent though, giving more Endurance = dodges through active mobility which fits the theme, just needs to be more impactful.
+
+Endless Stamina
+Vigor is 50% more effective on you. Gain Concentration.
+
+More dodges! Concentration is just there for longer lasting Vigor you grant yourself, as there’s no other source of party Boons in this tree to warrant this being called a support Trait.
+
+Assassin’s Reward
+Heal each point of Initiative spent.
+
+Sustain option. Doesn’t really fit the Dodging theme though but whatever. Take it if you need sustain, which is more prevalent in PvP. It’s solo healing so no party utility.
+
+Upper Hand
+Gain 1 Initiative & Regen when successfully Evading an attack. 2s ICD.
+
+Resource option at the cost of less sustain which is also in a less reliable form (a HoT and a Boon). 2s ICD is just there so you don’t get super rewarded for dodging a bunch of attacks at the same time which is fair. Just wish it was better than 1 Initiative and a weak Regen which is susceptible to being removed or worse in PvP.
+
+Don’t Stop
+While under Swiftness, movement-impairing Conditions have -80% Duration when applied to you. Gaining Swiftness removes 1 of those Conditions.
+
+Mobility option. Makes you extremely mobile if you have a constant source of Swiftness. This is the case in PvE but rarely you’ll need the cleansing, and in PvP you’ll need it more but there’ll be far fewer sources of Swiftness.
 
 
 
