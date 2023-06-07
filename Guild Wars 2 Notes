@@ -6371,7 +6371,7 @@ Defensive option. While it does damage & Bleed, it also reflects projectiles, Ev
 
 Trait
 Non-coloured Traits are auto picked if the tree is chosen. Coloured Traits are a choice of 1. Can only pick 3 trees.
-Deadly Arts - Poison, Damage & Stealing
+Deadly Arts - Poison & Damage
 
 Serpent’s Touch
 Stealing inflicts 2 x Poison. While Downed, attacks apply Poison.
@@ -6615,10 +6615,67 @@ Don’t Stop
 While under Swiftness, movement-impairing Conditions have -80% Duration when applied to you. Gaining Swiftness removes 1 of those Conditions.
 
 Mobility option. Makes you extremely mobile if you have a constant source of Swiftness. This is the case in PvE but rarely you’ll need the cleansing, and in PvP you’ll need it more but there’ll be far fewer sources of Swiftness.
+Trickery - Stealing
 
+Kleptomaniac
+Stealing grants 2 Initiative.
 
+Extra resource for Stealing (which you do on CD). More resources for more of your most damaging weapon skills = more damage = more dopamine activated.
 
+Uncatchable
+Leave Lesser Caltrops behind when dodging. Lesser Caltrops: same effect as Caltrops but less Bleeding, Cripple, number of targets affected, duration, is blockable and isn’t a Trick for Trait purposes.
 
+Technically an offensive zoning tool but every aspect of it is nerfed from the normal version making it feel awful to use. Only reason I can think of it being nerfed that much is due to Daredevil having 3 dodges making it too strong, in which case an ICD or a 2 zone cap would’ve been better or than super nerfing it. Still, it’s the only selfish DPS option and is decent for Condition builds.
+
+Burst of Agility
+Use Lesser Haste when flanking an enemy from the back or side. Lesser Haste: same as Haste but w/ a 60s CD instead of 24s.
+
+Effectively just Quickness, Fury & Swiftness on a 60s CD which is useless in PvE. Can’t even make use of the stun break as it requires you actually hitting something.
+
+Thrill of the Crime
+Stealing grants PBAoE Fury, 5 x Might & Swiftness.
+
+Support option. Combined w/ the Steal CDR, Alacrity & some Boon Duration you’ll be able to provide 100% uptime of the above Boons, which you get from something you use on CD anyway.
+
+Preparedness
++3 Max Initiative. Gain Expertise.
+
+More Initiative which allows for more burst in the opening and other burst phases. Expertise for Condi builds as they get less from the burst (still get more skills but they take time for the full effect).
+
+Bountiful Theft
+Stealing grants PBAoE Vigor. Also “steals” 3 Boons from target and grants a copy of those in a PBAoE too.
+
+More support. Also doesn’t actually steal Boons, rather removes 3 Boons and grants a copy w/ fixed duration & stacks around you so it’s not as strong as you think it is. Probably to normalise its effects in PvP for 25 x Might vs. 1 stack.
+
+Trickster
+Tricks remove 2 Conditions.
+
+Condition Cleanse but requires taking Tricks. They’re mostly defensive in nature anyway so it works (i.e. you’ll most likely want the cleansing when using these skills anyway, vs. something offensive where you’d possibly waste 1 of the effects.
+
+Pressure Striking
+Interrupting enemies applies 2 x Torment. 3s ICD when using CC skills against Defiance Bars.
+
+PvP option as interrupt procs don’t happen that often in PvE, especially w/ the 3s ICD. 
+
+Lead Attacks
++1% All Damage per Initiative spent in combat, max 15%. -15% Steal CD.
+
+Bunch of extra damage for using your damaging skills, naturally increasing your DPS. Stacks are only given at the end of the skill though so something to keep in mind. Also no point in using the weaker skills to build up stacks as you’re using up resources to build up the stacks in the first place which would’ve just been better spent on the damaging skill. More Steals = more Stolen skills & other Steal effects.
+
+Quick Pockets
+Gain 3 Initiative when swapping weapons in combat. 8s ICD.
+
+Resource option, take it if you need more Initiative. It’s not a whole lot though and there is an ICD (which is lower than the swap CD so not sure why it’s even there, Thief doesn't have a swap CD reducer off the top of my head).
+
+Sleight of Hand
+Stealing Dazes the target. -20% Steal CD.
+
+Bit of CC but the main effect is the big CD reduction on Steal for even more Boon support. Unfortunately they don’t really provide enough Boons at the moment to compete w/ other support builds (cough Firebrand).
+
+Deadly Ambush
+Stealing applies 3 x Bleeding. +25% Bleeding damage.
+
+DPS option. Specifically for Condition. Amount given through the limited Steal is pretty low so that effect is supplementary rather than the main source of Bleeding. Most of its benefit is from the +25% Bleeding damage which can help if you’re going down this tree (which you will for Condition builds as its 1 of only 2 that affects their DPS).
 
 
 Daredevil Combat
