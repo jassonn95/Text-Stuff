@@ -6493,6 +6493,71 @@ Invigorating Precision
 Crits heal for 4% of the damage, increased to 10% while under Fury.
 
 Sustain option. Not that good in PvP as it requires you to crit, which is pretty rare compared to PvE. Also requires you to have Fury which isn’t always the case with Boon removal, steal & Corruption. You do miss out on the extra Ferocity from No Quarter but if you need the sustain it’s an option, even w/ a healer.
+Shadow Arts - Stealth & Survivability
+
+Merciful Ambush
+Heal when entering or exiting Stealth, including Stealth granted to allies. Stealth yourself & your target when reviving an ally. 10s ICD.
+
+Adds a bit of sustain to Stealth, playing into the Thief theme. But since Stealth is pretty rare and also has the forced Revealed debuff when exiting it, it’s too limited to be used as a main source of healing. Also combined w/ the usual res Trait, thought it doesn’t really do much beyond 2s of Stealth (which heals for a small amount).
+
+Shielding Restoration
+PBAoE Barrier when using a Healing skill. 10s ICD.
+
+Sustain option. Lowest CD is Signet of Malice w/ 12s but it’s not a support healing skill. The only support heals are Skelk Venom and later Well of Gloom for Spectre and both of these are 20s or more. Could be useful if you need extra sustain via damage mitigation but doesn’t actually build well w/ actual support builds.
+
+Shadow’s Embrace
+Remove a damaging Condition when you enter or exit Stealth, including Stealth granted to allies.
+
+Condition Cleanse option, take it if you need cleansing from damaging Conditions. However since it’s a single Condition, a damaging Condition & you’re pseudo locked behind Revealed, it’s a pretty poor cleansing option compared to other classes.
+
+Hidden Thief
+Stealing Blinds. Stealth Attacks Weaken, 2s ICD.
+
+Debuff option (which makes it a PvP option). Don’t think many Sneak Attacks last 2s so not sure what the ICD is for, but I guess it’s to future proof so that an enemy can only be Weakened once per Stealth Attack. Again, Blind + Weakness aren’t useful in PvE so it’s a PvP option.
+
+Meld with Shadows
+Gain Superspeed when entering or exiting Stealth.
+
+This does NOT include the Stealth given to allies, so it’s only you. Would’ve been nice to have some extra utility for support builds & could’ve just restricted it to PvE only since it would be pretty strong in PvP, but the technology doesn’t exist I suppose.
+
+Shadow Savior
+Completing a Thief Blink heals you. Nearby allies are healed for double.
+
+Little bit of extra healing, but requires you taking weapons w/ Blink skills and Utilities w/ Blinks, somewhat locking you into those. The healing isn’t that much though so it can be used as supplementary healing vs. a main source so you’ll feel less bad about not taking as many Blink skills as you can. Gives you a choice between mobility or healing, or in the best cases you get both (more prevalent in PvP).
+
+Leeching Venoms
+Venom skills lifesteal. Gain 3 x Spider Venom (Poisons) when entering or exiting Stealth.
+
+Damage & sustain option, but requires you taking Venom skills. Neither scale very well though and Venoms are inherently better for Condition builds, where this Trait has no interaction w/ other than the 3 stacks you get from entering & exiting Stealth. Could be a lot better if allies also gained the stacks (maybe 1) from your Stealth so it has more party synergy since this is the support-y tree. Otherwise it’s just more trading tools (damage & healing) from Stealth which is more for PvP. Regular Venom use is on CD (except for the CC one) so often the heal is wasted. At least when you’re purposefully Stealthing for the heal from Merciful Ambush you’d be able to make use of the lifesteal healing.
+
+Cloaked in Shadow
+Gaining Stealth PBAoE Blinds. Blinding enemies lifesteals from them.
+
+PvP oriented trading tool. Blind isn’t useful in PvE as per usual so you’re less likely to use skills that do, hence less likely to proc the lifesteal. It also only affects you so it can’t even be used as a party utility Trait. Good for trading in PvP though.
+
+Shadow Siphoning
+Stealth Attacks life steal. 1s ICD.
+
+Synergy w/ the Stealth since it’s the Stealth tree. Only affects you but that’s fine since it’s a minor Trait. If it affected allies then it’d just be a baby version of Leeching Venoms.
+
+Cover of Shadow
+Gain Protection when entering or exiting Stealth, including Stealth granted to allies.
+
+Extra defensiveness to synergise w/ the other party Stealth Traits. Only lasts 2s (4s from both entering & exiting) and there’s the Revealed issue too so it can be a bit finicky to apply lots of compared to other support specs.
+
+Shadow’s Rejuvenation
+Gain 2 Initiative entering Stealth. Gain 1 Initiative exiting Stealth.
+
+Resource option. Obviously only affects yourself as it would either be busted w/ full Thief parties or useless when there aren’t any other Thieves. Fits the Stealth theme. Take it if you need extra resources, not much else to say. Being frontloaded doesn’t really help much as you’ll want to use the Stealth Attack first, which doesn’t cost any Initiative. Using anything else breaks you out of Stealth for no extra benefit (sans Traits taken in here).
+
+Rending Shade
+Steal 2 Boons from enemies hit by your Stealth Attacks. Hitting an enemy without a Boon causes AoE Fear around the target.
+
+PvP option as it’s both Boon stealing & Fear, both of which aren’t useful in PvE. Synergises w/ Stealth via the Stealth Attacks, that’s pretty much it.
+
+
+
+
 
 
 Daredevil Combat
