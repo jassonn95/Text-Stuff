@@ -6879,8 +6879,42 @@ Support option. Plays into the Blinking theme again which is always fun, jumping
 
 Revenant
 Revenant Combat
-
+Magic warrior aesthetic, except it’s by channelling the power of certain characters that I don’t have any real attachment to since they’re from the 1st game (I’m guessing).
+The specs are just more of the same in that regard, a bunch of characters I don’t care too much about.
+Standard 2 weapon skill bars, swapping in combat has a cooldown.
+Has Energy costs to skills and a CD, which makes it much more annoying to manage compared to 1 or the other.
+Mostly melee, the ranged option absolutely sucks (Hammer) both aesthetically and functionally.
+Profession mechanic is swapping between 2 of said channels, resetting Energy to 50 (out of 100) and swapping out their Utilities, which are set per Legend channelled.
+Specs gain additional buttons for their profession mechanics.
+Medium HP and highest armour, making them pretty tanky. Their healing sucks though as you technically have access to 2 heals, making it pretty easy to run into a situation where you’re stuck w/ a single subpar heal because you just swapped Legends as part of your damage (resetting Energy).
 Revenant Abilities
+Assassin Stance
+
+Enchanted Daggers - Healing
+Small self heal & gain 6 daggers. Each hit deals extra damage and heals you, 0.5s ICD.
+
+Overall this Legend is very offensive oriented w/ the damage & mobility, so the heal is the same. It trades healing for damage, which sometimes can cost you being Downed. ICD should just be removed in PvE where it doesn’t matter if you deal burst damage or not.
+
+Phase Traversal - Utility
+Blink to target to damage & gain Quickness. Next 2 attacks are Unblockable.
+
+Offensive Blink. Quickness & Unblockable aren’t that useful in PvE though so this often goes unused in favour of other Blinks.
+
+Riposting Shadows
+Breaks stun. Evade backwards, remove movement-impairing Conditions & gain Fury.
+
+Defensive Evade. Pretty useful as a stun break as it comes w/ the 0.75s of iframes. Somewhat annoying though as it has a hefty 30 Energy cost. Might just be because I don’t play this class often but it’s not something I’ve ever gotten used to.
+
+Impossible Odds -> Relinquish Power
+-6 Energy Upkeep (base is 5). +50% Movement Speed and each attack deals an extra strike, 0.25s ICD. Reactivate to end effect.
+
+Damage stance. Overall lowers your Energy upkeep to -1, meaning you slowly drain Energy while dealing extra damage per hit. 0.25s ICD makes sense so it’s not completely busted on super quick attacks which is pretty niche. Gives you a choice between damage (keeping this on) or safety (keeping it off, generating more than 50 Energy for the other utilities and weapon skills). Actually it might be alright if either weapon skills OR utility skills cost Energy + CDs, not both.
+
+Jade Winds
+Delayed PBAoE damage, 6 x Vulnerability & Stun.
+
+Pretty strong AoE stun. The issue is that it costs 50 whole Energy so you’ll never see this used in PvE, especially compared to CC from one of the Staff skills (which scales w/ enemy hitbox >_>). Also has a channel of 1s so it’s just incredibly frustrating to get working.
+
 
 Herald Combat
 
