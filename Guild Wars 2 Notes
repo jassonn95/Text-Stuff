@@ -6744,6 +6744,44 @@ Delayed PBAoE that damages, Stuns & Blasts combos. Grant yourself & your tethere
 
 Decent damage, CC, Stability & Blast. While there’s no Conditions associated w/ this skill it has good base damage and scaling so it might still be worth using on CD. You may need to hold it for CC though and it does have a 16s CD so there’s some risk involved in using it solely for damage; decision to be made. Note that it does have a 3s delay before exploding, something to keep in mind especially w/ CC phases.
 
+Scepter
+Main-hand only ranged damage & support.
+
+Shadow Bolt -> Double Bolt -> Triple Bolt
+Single target ranged damage & Torment for enemies, or Barrier for allies.
+2 x single target ranged damage & Torment for enemies, or 2 x Barrier for allies. Values are the same except damage is slightly higher.
+3 x single target ranged damage & Torment for enemies, or 3 x Barrier for allies. Damage is higher & Torment lasts longer but Barrier is the same per hit.
+
+Typical ranged Condition & support skill. Same annoyances about being single target + having to click on allies apply. Damage ramps up fine, would’ve been fine if it was literally the same but double and triple too (which is the case for the Barrier anyway). Offering only Barrier for the ally seems kind of mediocre though, possibly a heal or a Regen would’ve been nice.
+
+Shadow Squall - Stealth Attack
+Enemies: 8 x single target ranged damage & 8 x Poison.
+Allies: 8 x single target ranged healing & 8 x Regen.
+
+Very rarely will you gain Stealth as the Condition / support builds use Venoms & Wells, none of which give Stealth. However if you do get Stealth, you get a bunch of Poison or a bunch of healing & Regen. Changing it to Poison isn’t too bad as Thieves have Poison Traits. Note that the Regen stacks in duration so it’s not a bunch of burst healing outside of the pure healing. Same grievances about single target & clicking on allies apply.
+
+Shadow Sap
+Enemies: Single target ranged damage & Weakness. Grant PBAoE 5 x Might.
+Allies: Barrier & Protection.
+
+Support ish option for Initiative spending. Specters have 3 less Initiative compared to other Thieves (discussed in a Trait later) so you’re less inclined to be using it on suboptimal skills. Enemy option only provides Might (tooltip says self granted only but it gives in a PBAoE) since the Weakness is useless in PvE and for Condi builds in general. Ally option is also single target so unless the “tank” is taking major damage / messing up a lot, it’s not that helpful (Spectre is the only support that’s single target oriented, meaning you’re meant to be able to survive without Specters as raids have existed for years before them).
+
+Twilight Combo - Dual Attack w/ Off-hand Dagger
+Enemies: 2 x single target projectiles. Damage + Chill & Poison then damage + 3 x Torment.
+Allies: 2 x single target projectiles. Barrier + Swiftness then Healing.
+
+Damaging option. Does more Condition damage than the others as it’s just the 2 projectiles (no multi part skill or channels). Also grants more Barrier & healing than the others due to the same reasoning. Only issue is that it’s single target + ally targeting is annoying, again. Oh and that it’s literally just 2 projectiles, not interesting.
+
+Measured Shot -> Endless Night - Dual Attack w/ Off-hand Pistol
+Enemies: Blink away from target & shoot for damage & Immobilize. Pierces.
+Allies: Blink to the target & shoot for healing. Pierces.
+
+Enemies: Channelled beam that damages, Slows & Torments. Pierces.
+Allies: Single target channelled beam that grants Barrier, Regen & Quickness.
+
+Mobility option. While the secondary skill is pretty strong, it requires you to go through the 1st skill which wastes time & moves you, requires a channel so you’re unable to do other things, and both of the skills cost Initiative which you barely have any of anyway. Seems like a lot of the power budget is in the Blinks which could be handy if you have Blink related Traits like the healing one, but it’s very costly and often not that needed compared to just choosing the highest DPS option (Twilight Combo). There’s an argument in also paying attention to the regular off-hand weapon skills, but w/ very little Initiative & being balanced around using Shroud skills, it’s not important.
+
+
 Revenant
 Revenant Combat
 
