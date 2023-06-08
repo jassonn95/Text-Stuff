@@ -6885,9 +6885,19 @@ Standard 2 weapon skill bars, swapping in combat has a cooldown.
 Has Energy costs to skills and a CD, which makes it much more annoying to manage compared to 1 or the other.
 Mostly melee, the ranged option absolutely sucks (Hammer) both aesthetically and functionally.
 Profession mechanic is swapping between 2 of said channels, resetting Energy to 50 (out of 100) and swapping out their Utilities, which are set per Legend channelled.
-Specs gain additional buttons for their profession mechanics.
+There’s an additional profession mechanic which changes w/ Elite specs (or lack of).
 Medium HP and highest armour, making them pretty tanky. Their healing sucks though as you technically have access to 2 heals, making it pretty easy to run into a situation where you’re stuck w/ a single subpar heal because you just swapped Legends as part of your damage (resetting Energy).
 Revenant Abilities
+Legend Channelling
+The first Profession Mechanic is swapping between your 2 equipped Legends, gaining access to the other one’s skills and resetting your Energy to 50. The second for base Revenant is:
+
+Ancient Echo
+Gain 25 Energy & an effect based on the current Legend:
+Assassin: 2 x Unblockable | Centaur: Regen | Dwarf: 3s of 50% damage reduction |
+Demon: Resistance
+
+Never actually get to see this as no one uses base Revenant. Also this was added in 2019, long after I played Revenant (as other specs). Helps w/ Energy issues, but none of the other specs get an Energy equivalent (in fact they cost Energy).
+
 Assassin Stance
 
 Enchanted Daggers - Healing
