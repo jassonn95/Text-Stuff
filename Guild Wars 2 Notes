@@ -6942,6 +6942,33 @@ Destroy the Tablet, knocking down enemies + healing & cleansing a Condition from
 
 Strongest heal and CC combined, giving you a choice between the 2. Also has a Condition cleanse added onto it but not mentioned in the flavour text which is always weird, seems like it’s added on later as an afterthought. Pretty strong CC w/o a major downside outside of Energy Cost, as you can just reform the Tablet at no cost. Blast being where you are is a bit weird but makes sense for ease of use.
 
+Demon Stance
+
+Empowering Misery - Healing
+Heal self, increased per Condition on you.
+
+Condition spec, both offensively and defensively. As such, the heal is based around how many Conditions you have. It’s actually a decent amount of burst healing, especially compared to the previous 2 so it feels a lot safer to use.
+
+Pain Absorption - Utility
+Breaks stun. PBAoE Resistance. Absorb 1 Condition from nearby allies, gaining Resolution + additional 1s per Condition transferred.
+
+Defensive option. Eats up the Conditions from your allies, synergising w/ the heal. Additionally the Boons granted lessen the effect of the Conditions on you. That said it doesn’t really do much against actual CC, the cost of the party utility.
+
+Banish Enchantment - Utility
+Targeted AoE 3 x damage, Chill & 3 x Boon Removal. Unblockable.
+
+PvP option as the damage is pretty low + non-Condition and the Chill, Boon Removal & Unblockable aspects are wasted in PvE. Reasonable cost and it’s AoE though, making it better than certain other skills.
+
+Call to Anguish - Utility
+Ground targeted Combo Leap that deals AoE damage & Chill while Pulling enemies to the centre of the landing zone.
+
+Mobility + CC option. Sacrifices damage (no damaging Conditions) in favour of a Leap, some CC or both if you’re timing it well, so a choice is presented in terms of Energy management.
+
+Embrace the Darkness -> Resist the Darkness - Elite
+-6 Energy Upkeep. Become a Dark Combo field that pulses damage & Torment. Using a skill that costs Energy will empower the next pulse to inflict 2 x Torment. Reactivate it to end the skill.
+
+The main spender for Condition builds. It’s not just pulsing damage though, as it requires some interaction to get max value (weaving skills to get the double stack of Torment). Does require you to space out skills by 1s though, wouldn’t have killed to let this effect stack in PvE or reduce the ICD to 0.25s like the Power version.
+
 
 Herald Combat
 
