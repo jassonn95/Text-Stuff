@@ -6707,6 +6707,42 @@ Weapon is Scepter for ranged Conditions & support.
 Utility skills are Wells but w/ a Thief twist. You blink to the target location before dropping a Well, interacting w/ Blink Traits and the general mobility of Thieves.
 Traits are based around Conditions, support & Shadow Shroud.
 Specter Abilities
+Shadow Shroud
+
+Siphon
+Replaces Steal. If used on an enemy, gain 25 Shadow Force + Slow & 5 x Vulnerability the enemy. If used on an ally, grant them Barrier, have half the usual CD and if you’re in Shadow Shroud tether to that ally for Shadow Shroud skills.
+
+Enter / Exit Shadow Shroud
+Enter Shroud to gain access to new weapon skills while draining Shadow Force. Additionally grants Barrier to your tethered ally. Also receive -33% damage. If no previously tethered ally, randomly choose one within range.
+Exit Shroud, breaking the tether.
+
+
+
+
+Haunt Shot
+Ranged targeted AoE that damages & Torments. Gain Might per enemy hit. Heal & grant Might to your tethered ally per enemy hit.
+
+Basic ranged auto that fits the Condition & support theme of the spec. Note that the Might is only to 1 ally, making it very mediocre support wise. In fact the only support that this spec grants is Alacrity (via a Trait) and Barrier, which barely makes it better than support Scourge which is dead in the water. If the Might was party wide it might be better, can keep the healing & Barrier to the tethered ally only. Since it’s targeted you won’t really get to control how many enemies are hit, that will be based on hitbox and enemy AI shenanigans.
+
+Grasping Shadows
+Ranged targeted AoE that damages, Cripples & 2 x Torments. Cleanse Conditions based on the number of enemies hit. Cleanse Conditions & heal your tethered ally based on the number of enemies hit. Blasts Combos.
+
+The usual Ranged AoE skill. There’s no real risk in using it on CD for damage as the CD is 3s, so even if you time it incorrectly while needing the Cleanse, it won’t be long until it’s back up again. Same note about being targeted AoEs apply.
+
+Dawn’s Response
+Ground targeted Combo Leap that damages & Fears. Grant Barrier to yourself & your tethered ally based on the number of enemies hit. Heal tethered ally based on the number of enemies hit.
+
+Since this has 0 Condition damage attached to it, the base damage is pretty low while locking you in an animation and you’re more likely to be building Condition, support or hybrid, there’s no reason to use this skill on CD for damage as it loses out on DPS to the others + you’ll be wasting the Barrier. There’s a 1s Fear attached to it which could be useful in CC break phases but note that it needs to tick to have any effect, meaning if you have a bunch of Fear in your party, your extra 1s won’t help if it lasts longer than how long the phase lasts for, either due to timing out or being broken immediately by real CC. So you’re best off saving it for mobility (short range) or the Barrier. Since it’s ground targeted you have more control over how many enemies are hit, but it’s pretty short range so keep that in mind.
+
+Eternal Night
+Frontal cleave that damages, Chills, Weakens & 4 x Poisons. Heal yourself & tethered ally based on the number of enemies hit.
+
+Bunch of damage (high base damage, good scaling and Poisons a lot) so you’ll want to use it on CD. There is a heal attached to it but if burst healing is needed, it’s going to be needed for AoE most of the time so you’ll have other tools for that. It is melee though so something to keep in mind with (as is the next skill).
+
+Mind Shock
+Delayed PBAoE that damages, Stuns & Blasts combos. Grant yourself & your tethered ally 3 x Stability, w/ bonus duration based on the number of enemies hit. Heal your tethered ally based on the number of enemies hit.
+
+Decent damage, CC, Stability & Blast. While there’s no Conditions associated w/ this skill it has good base damage and scaling so it might still be worth using on CD. You may need to hold it for CC though and it does have a 16s CD so there’s some risk involved in using it solely for damage; decision to be made. Note that it does have a 3s delay before exploding, something to keep in mind especially w/ CC phases.
 
 Revenant
 Revenant Combat
