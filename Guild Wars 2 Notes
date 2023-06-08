@@ -6781,6 +6781,38 @@ Allies: Single target channelled beam that grants Barrier, Regen & Quickness.
 
 Mobility option. While the secondary skill is pretty strong, it requires you to go through the 1st skill which wastes time & moves you, requires a channel so you’re unable to do other things, and both of the skills cost Initiative which you barely have any of anyway. Seems like a lot of the power budget is in the Blinks which could be handy if you have Blink related Traits like the healing one, but it’s very costly and often not that needed compared to just choosing the highest DPS option (Twilight Combo). There’s an argument in also paying attention to the regular off-hand weapon skills, but w/ very little Initiative & being balanced around using Shroud skills, it’s not important.
 
+Wells
+
+Well of Gloom - Healing
+Blink to target location to heal self & drop a Dark Combo field that pulses healing & Cripple.
+
+Does good healing compared to the others, only losing out to Skelk Venom. Also provides some party healing, also losing out to the Venom. What this does have is a lower CD, a Blink, being a Well & a Dark Combo field. There are interactions for all of those, so if you need any of them for whatever build you have then it beats out on the Venom which only provides healing which is rarely an issue. Stealth & Evades aren’t usually needed in PvE group content.
+
+Well of Bounty - Utility
+Blink to target location to drop a Dark Combo field that pulses Boons in the following order: Stability, 8 x Might, Fury, Vigor & Resistance.
+
+Support option. Used to behave in a similar way to Sorrow where it provides Boons that are missing. Previous order was this: Regen (can’t grant easily to a party), Protection (same), Resistance (same, and rare), Swiftness, Vigor, Quickness (same), Alacrity, Fury, 1 x Might (!), Resolution (same), Stability (same, and rare), Aegis (same, and rare), Might again. If the list wasn’t so long and if Thief wasn’t bad at providing more Boons, it wouldn’t have been a bad idea. Also the final Might is a very lacklustre “reward” and providing Quickness & Alacrity via a generic, low opportunity cost skill is a bad idea (recall Chronomancer horror days).This current iteration makes it far less reliant on other classes and is much more consistent. Small choice between constant Boon uptime or saving it for the Stability.
+
+Well of Tears - Utility
+Blink to target location to drop a Dark Combo field that pulses damage. Unblockable
+
+Power damage option. Mediocre base damage but the scaling is decent. Only issue is that You’d have to build Power on a Condition based spec, making it feel (and probably be) inefficient. Same notes about Blinks & Wells apply.
+
+Well of Silence - Utility
+Blink to target location to drop a Dark Combo field that pulses Condition Cleansing. Gain Shadow Force per Condition removed. 1st pulse also Dazes.
+
+Cleansing + CC option. While the Daze only affects the 1st pulse, it lasts for 2s so it’s actually pretty strong against CC bars. That said, if you really need CC just take the CC Venom, that completely eats up CC bars. Same notes about Blinks & Wells apply.
+
+Well of Sorrow - Utility
+Blink to target location to drop a Dark Combo field that pulses damage & Conditions. Conditions applied will depend on whether or not they already have it in the following order: Poison, 2 x Bleeding, 2 x Torment. If all are present, apply Torment.
+
+Condition damage option. This isn’t as bad as it’s only checking for 3 Conditions, and they effectively do the same thing (damage). If Bounty only checked for offensive Boons, it’d work better but be way more unbalanced (being able to provide all offensive Boons = Chronomancer of old). Only bad thing is that the final Torment where all Conditions are present is weaker than the Torment that’s applied when there’s no Torment, it just feels sort of bad but is probably numerically sound.
+
+Shadowfall - Elite
+Blink to target location to drop a Dark Combo field that pulses damage & Pull, increasing in Pull strength per pulse.
+
+AoE CC option. Compared to the Venom, it’s a lot clearer on how it’s being applied vs. the 5 enhanced attacks which could go anywhere. It is strictly for multi target though, w/ some synergy w/ Well + Blink traits but they’re more like bonuses w/ the 75s CD.
+
 
 Revenant
 Revenant Combat
