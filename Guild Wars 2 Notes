@@ -6702,7 +6702,7 @@ Specter Combat
 Pretty cool aesthetic w/ the Shadow magic.
 Not super keen on the single target aspect of the skills, especially on allies where you’re forced to click on them if they’re not in your party, and if they are you have small, barely customizable party frames to click on.
 Swaps Steal for Siphon which can be used on enemies or allies. This removes Stolen skills in exchange for Slow, 5 x Vulnerability & 25 Shadow Force (new resource) when used on enemies and Barrier & reduced recharge if used on allies + tethers if you’re in Shadow Shroud.
-Gains Shadow Shroud, using Shadow Force to gain access to new weapon skills which are Condition based and support your tethered ally.
+Gains Shadow Shroud, using Shadow Force to gain access to new weapon skills which are Condition based and support your tethered ally. Additionally acts like Necro’s Shroud, replacing your HP w/ Shadow Force.
 Weapon is Scepter for ranged Conditions & support.
 Utility skills are Wells but w/ a Thief twist. You blink to the target location before dropping a Well, interacting w/ Blink Traits and the general mobility of Thieves.
 Traits are based around Conditions, support & Shadow Shroud.
@@ -6713,7 +6713,7 @@ Siphon
 Replaces Steal. If used on an enemy, gain 25 Shadow Force + Slow & 5 x Vulnerability the enemy. If used on an ally, grant them Barrier, have half the usual CD and if you’re in Shadow Shroud tether to that ally for Shadow Shroud skills.
 
 Enter / Exit Shadow Shroud
-Enter Shroud to gain access to new weapon skills while draining Shadow Force. Additionally grants Barrier to your tethered ally. Also receive -33% damage. If no previously tethered ally, randomly choose one within range.
+Enter Shroud to gain access to new weapon skills while draining Shadow Force. Additionally grants Barrier to your tethered ally. Also receive -33% damage while replacing your HP bar w/ Shadow Force. If no previously tethered ally, randomly choose one within range.
 Exit Shroud, breaking the tether.
 
 
@@ -6813,6 +6813,69 @@ Blink to target location to drop a Dark Combo field that pulses damage & Pull, i
 
 AoE CC option. Compared to the Venom, it’s a lot clearer on how it’s being applied vs. the 5 enhanced attacks which could go anywhere. It is strictly for multi target though, w/ some synergy w/ Well + Blink traits but they’re more like bonuses w/ the 75s CD.
 
+Traits
+
+Specter
+Steal is replaced w/ Siphon and Initiative is decreased by 3. Gain Shadow Force through spending Initiative & Siphoning. Gain access to Shadow Shroud, Scepter & Wells.
+
+As always, including it because it’s the 1st Trait.
+
+Second Opinion
+Gain Healing Power, doubled when wielding a Scepter. Gain Healing Power based on 7% Condition Damage.
+
+Pure healing option. All 3 choices are related to sustain / survivability which is interesting in that it’s different to most other trees. If there were no offensive interactions w/ any of them, then it would force you to be building hybrid or effectively waste a Trait. Fortunately the Barrier granted to allies gives them Torment on next hit, making the Barrier option the offensive one.
+
+Take this option if you need more healing, gained via the usual stat increases (weapon conditional & stat conversion).
+
+Shallow Grave
+If your tethered ally takes a lethal blow, consume your Shroud to prevent their death & heal them. If you would take a lethal blow, enter Shroud if above 20%.
+
+Single target death immunity option. This is much more useful in PvP as you’re unlikely to be needing immunities while in grouped content (where you’ll be taking group damage or messing up). This comes at a DPS cost too as it’s consuming your Shadow Force to heal or to take the lethal damage you would’ve taken.
+
+Consume Shadows
+Gain Consume Shadows stacks every second in Shroud, capped at 5. Exiting Shroud consumes all remaining Shadow Force & PBAoE heals based on the number of stacks gained. Allies at full HP gain Barrier instead.
+
+Healing + Barrier option. Stacks just means you need to be in Shroud for 5s, preventing you from constantly entering & exiting Shroud for optimal healing. Exact healing ratio is 10% of Shadow Force consumed per stack. Main reason it’s the offensive option though is due to the Barrier applying Rot Wallow Venom.
+
+Dark Sentry
+Apply Rot Wallow Venom to allies (not including you) you grant Barrier to, 1s ICD. +20% Healing to Others. Rot Wallow Venom inflicts Torment on next hit.
+
+Hybrid minor Trait so it works for both DPS & support builds (and hybrid). Extra Healing to Others means bigger Barriers on them, which works w/ the Barriers you’re granting for the Venom. Only issue is the 1s ICD, which only makes you space out your Barrier skills by a second which is a bit annoying w/ only counting in your head to keep track. The Torment only lasts a second and if the damage is an issue in PvP, lower the duration.
+
+Larcenous Torment
++10% Torment damage. Gain 0.5% Shadow Force when Tormenting enemies outside of Shroud.
+
+DPS option. All these options have something to do w/ Shadow Force generation, each playing into their respective methods of dealing damage, supporting, etc. This just makes Torment more powerful in both damage & resource generation = more Shroud = more damage.
+
+Amplified Siphoning
+Gain an additional 10% Shadow Force (35% total) when hitting an enemy w/ Siphon. Double the Barrier granted by Siphon.
+
+Siphon / Steal option. If you use it on an enemy, you get more Shroud time for more damage + single target sustain. If you use it on an ally, you get more single target sustain + a lower CD, which can interact w/ the Steal Traits (e.g. more Boons for allies). It’s more versatile but does require you targeting an ally which just highlights how annoying targeting is in the game.
+
+Traversing Dusk
+PBAoE healing when Blinking. Gain Shadow Force per ally (5% + 1% per ally) in that radius. Wells grant Alacrity on their first pulse.
+
+Support option. Makes Blinks / Wells a lot better w/ the healing, resource gain and Alacrity. Makes the whole spec viable as a support as it gives Alacrity. Obviously comes at the cost of Torment damage though and requires you using Wells, which you can take 3 without impacting too much of your build (healing + Boon + Condition) but does lock you into those. Which isn’t too bad, a bunch of Blinks and AoEs, even if they’re lost in the sea of circles this game has.
+
+Panaku’s Ambition
+Gain Barrier when using a Stealth Attack. Granting allies Stealth also grants them Barrier.
+
+Not that great of a Trait as you rarely gain or grant Stealth. That said, the Barrier given from the ally Stealth is pretty big so it’s decent if you’re purposefully building Stealth (i.e. PvP). Not that great in PvE though as it requires sacrificing damage or Boon uptime and messes up auto attacks pretty easily which is annoying.
+
+Strength of Shadows
+Gain Expertise based on 13% Vitality. -2% Strike Damage received per Condition the enemy has on them. Rot Wallow Venom’s Torment lasts 1s longer (total 3s).
+
+Offensive option as it increases DoT durations in general via Expertise (which means more gear stats being spent on something else) and increasing Rot Wallow Venom’s base duration by 50%. Also makes you tankier but that’s generally not an issue in PvE. Pretty good for trading in PvP though if you can Condition bomb someone.
+
+Hungering Darkness
+Every second In Shroud, transfer a Condition from your tethered ally to yourself & cleanse a Condition from yourself. Each Condition removed this way heals you & grants your tethered ally Barrier.
+
+Condition Cleanse option. It only affects 2 people and only does 1 Condition a second, so it’s not that great at cleansing Conditions in PvE where it usually affects multiple people. Much better in PvP where you can act as a pocket support.
+
+Shadestep
+Siphon grants you Barrier when targeting enemies + partially revives allies when targeting them. Blinking breaks your Barrier & grants it to allies, proportional to the number of allies affected.
+
+Support option. Plays into the Blinking theme again which is always fun, jumping around the area. Proportional line probably means it gets weaker the more allies there are for balance purposes. Not really useful in generating large amounts of Barrier in 1 go since it only lasts for 5s, so the one you have on yourself will need to be shared within that time and you can’t build on top of the one you already granted. Barriers could work better like in other games where they last for longer; keep it low in PvP.
 
 Revenant
 Revenant Combat
