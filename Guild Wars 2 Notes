@@ -6915,6 +6915,33 @@ Delayed PBAoE damage, 6 x Vulnerability & Stun.
 
 Pretty strong AoE stun. The issue is that it costs 50 whole Energy so you’ll never see this used in PvE, especially compared to CC from one of the Staff skills (which scales w/ enemy hitbox >_>). Also has a channel of 1s so it’s just incredibly frustrating to get working.
 
+Centaur Stance
+
+Project Tranquility -> Ventari’s Will - Healing
+Create a Tablet at present location that pulses healing every 3s & interacts w/ the other Utility skills. Empower the next non-healing Centaur skill (also granted when first entering Centaur stance). Reactivate it while summoned to move it to the ground targeted location.
+
+Healing / support stance, so all of the abilities are based around that. This skill itself isn’t that powerful as it’s the basis of the other 4 abilities; the pulsing healing is both weak and takes a while.
+
+Protective Solace -> Diminish Solace - Utility
+-6 Energy Upkeep. Create a Light Combo field around the Tablet that blocks enemy projectiles. If Empowered, grant Protection. Reactivate it to end the barrier and put it on a 5s CD.
+
+Not that useful in PvE as projectile blocking isn’t always needed and the Protection is only from the initial activation, so it can’t be used for pulsing Protection. Good to have but mostly ignored; Light Combo field is definitely not worth using this skill for.
+
+Natural Harmony - Utility
+Delayed burst healing around the Tablet. If Empowered, healing is increased by 25% and also recovers 15 Endurance.
+
+The real healing skill, sort of. The heal is pretty weak as it’s reduced due to the 2 healing skills Revenant’s have, it being a party heal and the fact that 2 of the other skills also have healing components, which isn’t great in PvE due to want of burst healing vs. sustained healing most of the time. Also grants Endurance if Empowered which can be handy in PvP, not so much in PvE.
+
+Purifying Essence - Utility
+AoE 3 x Condition Cleanse around the Tablet & heal per Condition removed. If Empowered, remove an additional Condition.
+
+Condition Cleanse. Heal for almost the same as the above if 3 Conditions are removed, to give you an idea of how weak that heal is. Use it if you need to Cleanse, not much else to say.
+
+Energy Expulsion - Elite
+Destroy the Tablet, knocking down enemies + healing & cleansing a Condition from allies. If Empowered, knock down lasts an additional second (now 4s). Also Blasts at YOUR location.
+
+Strongest heal and CC combined, giving you a choice between the 2. Also has a Condition cleanse added onto it but not mentioned in the flavour text which is always weird, seems like it’s added on later as an afterthought. Pretty strong CC w/o a major downside outside of Energy Cost, as you can just reform the Tablet at no cost. Blast being where you are is a bit weird but makes sense for ease of use.
+
 
 Herald Combat
 
