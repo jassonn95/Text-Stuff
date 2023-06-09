@@ -7452,6 +7452,7 @@ Dragon skills being 2 button presses introduces an extra chance of messing up, e
 Gains access to Shield which focuses on survivability, so it’s rarely used in PvE.
 Gameplay for DPS is fine okay. You basically just use the damaging Consume skills on CD and continue w/ your DPS rotation, similar to base Revenant.
 Gameplay for support sucks since Quickness is granted when using Consume skills, which means you’re always using the skills on CD. It also continues pulsing their Boons for a couple of seconds, meaning there’s less of an opportunity cost in doing so.
+Legend is a Dragon that’s directly tied into the story (which is about killing Dragons) so I at least know about this character compared to the other 4 which are from previous games or books. Makes it a bit more personalised, especially since Legend skills sometimes uses their voice acting.
 Gains access to the Herald traitline. This uses up 1 traitline and is unique from other Elite specialisations (they all use the 3rd tree slot).
 Herald Abilities
 Facet of Nature
@@ -7485,6 +7486,38 @@ PBAoE +20% Boon Duration from any source. Can bypass the regular 100% cap.
 Consume to increase the duration of all Boons on nearby allies by 2s.
 
 Fits the general support theme of Dragon stance. Pretty strong that it can bypass the 100% Boon Duration cap, but that’s mostly due to the fact that it’s not always up to warrant such restrictions (since you want to use the Consume for the Quickness from Traits, which is what the support build should be doing). Passive & active are in their correct spots obviously, can’t really make a passive pulse of +2s on all Boons be balanced.
+
+Dragon Stance
+
+Facet of Light -> Infuse Light - Healing
+PBAoE 4s Regen every 3s.
+Consume for a small heal & to convert all incoming damage into healing.
+
+It’s a very all or nothing sort of heal, as it requires decent timing to get any effect. Obviously that’s made easier w/ fight knowledge, not always the case when you’re playing casually on a class you don’t play often. There’s also not really a choice in the heal, as you choose Legends for their entire package, not just choosing a single heal like other classes. Potentially powerful, sometimes whiffs very hard which is good, rewards good plays.
+
+Facet of Darkness -> Gaze of Darkness - Utility
+PBAoE 3s Fury every 3s.
+Consume to break stun & PBAoE Blind, Reveal & 10 x Vulnerability.
+
+It’s a really good skill as you primarily want it to stay as a Facet for the permanent 25% (or 50% w/ the Trait) crit chance buff. You then want to use it when you’re CC’d to escape further damage, which would lead to being downed = less DPS (so overall it’s kind of a DPS skill). That said, it’s pretty weak against CC immune enemies as the Blind doesn’t do anything to protect you from further CC, so you get thrown around. A lot. Which feels awful.
+
+Facet of Elements -> Elemental Blast - Utility
+PBAoE 3s Swiftness every 3s.
+Consume for a ground targeted AoE that pulses damage & Conditions (Weakness -> Chill -> 3 x Burning).
+
+You’re happy to use this on CD as Swiftness is not very important to maintain and it deals decent damage. Damaging effects are back loaded in that it pulses and only the Burning does damage, so you still need to watch out where you place it unless you want enemies walking out. Otherwise, it’s an AoE damage skill, nothing crazy.
+
+Facet of Strength -> Burst of Strength - Utility
+PBAoE 12s 1 x Might every 3s.
+Consume for 2 x frontal cleave that damages & grants a +15% damage buff to self if it hits.
+
+Totally fine w/ using this on CD as it’s a single stack of Might. Plus compared to the active 15% damage boost for 10s, it’s a no brainer. The only thing you have to watch out for is the 1s cast time, meaning it can be interrupted, go on CD and not give the damage boost. Very annoying and especially apparent in later zones where every mob and their mother has a CC skill for no reason. Being thrown around without your consent is not cool. Otherwise, use it at the beginning of your burst window for obvious damage reasons.
+
+Facet of Chaos -> Chaotic Release - Elite
+PBAoE 3s Protection every 3s.
+Consume for a slightly delayed frontal cone of damage, Launch & Superspeed.
+
+Permanent uptime for Protection is very valuable, except it comes w/ a hefty 4 Energy Upkeep, impacting your ability to do anything Energy related. The active does good damage & CCs, so you’re presented a choice between damage or CC. This would be more impactful if Staff and its mega CC didn’t exist. So for DPS, use it on CD. For support, also use it on CD for Quickness via a Trait; kind of boring in the end.
 
 
 Renegade Combat
