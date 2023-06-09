@@ -7312,6 +7312,75 @@ Invigorating Dismissal
 Grant 4 Endurance when cleansing a Condition from an ally.
 
 Dodge (hence cleansing) option. More Dodges = more healing & possibly cleansing, synergising w/ the earlier Traits. 4 endurance is pretty abysmal to look at though, even if it is balanced (you need 50 to dodge). Might be better if it was frontloaded so it’s less strong in a full group and a bit better when alone, PvP balance aside.
+Invocation - Legend Swapping & Fury
+
+Invoker’s Rage
+Gain Fury when swapping Legends in combat. 10s ICD.
+
+Fits perfectly into the theme of swapping Legends & Fury. It’s active / involved but is also something you’re already doing, nothing else to say.
+
+Cleansing Channel
+Swapping Legends removes 1 Condition.
+
+Cleansing option. It’s active / involved but it also only removes 1 whole Condition. Might be a balance thing but comparing it to the others, it feels very lacklustre. Take it if you need Condition Cleansing at the cost of the other choices.
+
+Rising Tide
++10% Strike Damage while above 75% HP.
+
+DPS option. You’ll almost always be above the threshold in PvE so it’s just a straight up damage boost. Bit less reliable in PvP but you’ll want the other Traits there anyway.
+
+Glaring Resolve
+Gain Stability & heal yourself when breaking stuns.
+
+Defensive / stun break option. Makes the crappy stun breaks without protection against CC a lot better, at the cost of damage of course. Another PvP option as you’re more likely to get use out of the heal + Stability there than you are in PvE, especially since you’ll be missing out on the damage in a mode where the best defence is killing everything.
+
+Ferocious Aggression
++10% All Damage dealt while under Fury.
+
+Damage boost for having Fury, which is what Fury does anyway so it works. If crit heals existed, then this should also increase healing done to match. Affects all damage so it’s less crappy for Condition builds.
+
+Spirit Boon
+PBAoE Boons when swapping Legends in combat. 
+Assassin: 2 x Might | Demon: Resistance | Dwarf: Stability | Centaur: Regen| Dragon: Protection | Renegade: Resolution | Alliance: Vigor
+
+Support Boon option. Most of these Boons (everything except Might & Regen) are somewhat uncommon, so it’s nice to have a little bit of padding. It’s the default option simply because the other 2 are pretty redundant in group content. Gained via swapping Legends which fits the theme and it’s something you’re already doing.
+
+Rapid Flow
+Heal self & gain Swiftness when using a skill w/ an Energy cost. 5s ICD.
+
+Sustain & mobility option. Not that useful due to healing & Swiftness not being super important in PvE. Defensive option for PvP / solo play. Practically get 100% uptime by simply using your skills. 
+
+Incensed Response
+Gain 5 x Might when granting self Fury in combat.
+
+Self Boon option. Not that useful in PvE due to supports. Offensive option for PvP / solo play. No ICD so you can quickly grant yourself max Might (i.e. the pulsing Fury from Dragon stance).
+
+Contained Temper
+Gain Fury when CCing an enemy. 1s ICD.
+
+Fury granted is actually decently long compared to the ICD (8s vs 1s) so it’s not a bad Trait. That said it’s pretty useless in PvE due to Boons being provided by support. Pretty good in PvP though, unless you’re up against Necro, Mesmer, Thief, etc.
+
+Song of the Mists
+Swapping a Legend in combat uses a skill based on the Legend.
+Assassin: PBAoE damage & 8 x Vulnerability. Gain Quickness based on # of enemies hit.
+Dwarf: PBAoE damage & Weakness. Gain Barrier based on # of enemies hit.
+Demon: PBAoE damage, Slow & 2 x Torment.
+Centaur: PBAoE healing.
+Dragon: PBAoE damage, 2 x Burning & Chill.
+Renegade: PBAoE damage, 2 x Bleeding. Gain Kalla’s Fervor (damage buff) stacks based on # of enemies hit.
+Alliance: PBAoE damage. Gain Endurance based on # of enemies hit.
+
+Versatile option. The effects from each Legend match their Legend. However compared to the double crit from Fury Trait, it falls very far behind in damage. The utility granted from the effects can be useful in PvP though (Quickness not being freely given, Weakness + Barrier, Slow, healing, Chill, Endurance, etc). Requires a bit of timing & in PvP you’re less inclined to swap on CD (since you want time to use the utility skills rather than pumping and dumping just the DPS ones), it works out fine.
+
+Charged Mists
+Swapping Legends in combat while at or below 10 Energy grants an extra 25 (total 75).
+
+Resource option. Most of the skills & rotations are focused around 50 Energy, so the extra Energy isn’t all that needed. Plus there’s cooldowns in addition to the Energy cost, so even w/ the extra Energy you won’t be able to use it on the damaging skills. More useful in PvP though as more Energy = easier access to the PvP oriented utility skills.
+
+Roiling Mists
++25% Crit Chance while under Fury (total 50%).
+
+Huge increase in damage since you require far less Precision for the crit chance, allowing you to build more Power for damage or Ferocity for crit damage (or whatever else you want). Pretty basic though as it’s a passive effect on a Boon which are mostly passive buffs (given to you by a support).
 
 
 
