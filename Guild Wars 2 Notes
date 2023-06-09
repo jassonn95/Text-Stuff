@@ -7127,6 +7127,70 @@ Delayed frontal AoE damage, 4 x Torment & Pull.
 
 It’s a bunch of damage & Torment. There’s a Pull but if you need CC, just swap to Staff and use that CC skill since it blows up CC bars. Obviously that comes w/ its own opportunity cost as you’re stuck in Staff for a while, but does let you freely use this skill as a damaging Condition skill. Pull is pretty handy for non-boss situations though as it Pulls enemies into the firing line of the Mace & Axe skills + frontal charges, etc.
 
+Traits
+Non-coloured Traits are auto picked if the tree is chosen. Coloured Traits are a choice of 1. Can only pick 3 trees.
+Corruption - Condition Damage & Resistance
+
+Invoking Torment
+Use Invoke Torment when switching Legends. Invoke Torment: PBAoE damage & Torment.
+
+Extra damage & Torment for when you switch Legends, which should be on CD for DPS purposes (resets Energy to 50). Gameplay loop is to use Energy, swap, repeat. Energy use is either through big chunks via skills, or drained via the upkeep skill.
+
+Acolyte of Torment
++10% Torment damage.
+
+Offensive option. Take it if you want to deal more Torment damage, nothing else to say as it’s very simple.
+
+Demonic Defiance
+Gain Resistance when using a Demon skill. 5s ICD.
+
+Defensive option. Note that Resistance only stops the effects of non-damaging Conditions, so soft CC and the like.
+
+Replenishing Despair
+While using an upkeep skill, gain 1 Energy Upkeep but apply Torment to yourself every second.
+
+Resource option. Really interesting design as it provides a clear upside and downside, but the downside also interacts w/ the Demon Heal & Permeating Pestilence for the Condition transfer to enemies. Risk vs. reward.
+
+Seething Malice
+Gain Condition Damage.
+
+Another boring yet effective Condition DPS increase.
+
+Abyssal Chill
+When Chilling an enemy, apply Torment on them.
+
+Could be more useful in PvP where you want the Chill as well as the Torment, vs. PvE where you’re just using the Chill for Torment. Otherwise it’s just trying to be a DPS Trait while being held down by the non-DPS nature of Chill.
+
+Demonic Resistance
+-20% Strike Damage when affected by Resistance.
+
+Defensive option, take it if you need to be tankier. Resistance is somewhat uncommon compared to other Boons though so its effectiveness is limited. Also becomes less reliable in PvP where your Boons get destroyed pretty easily depending on the matchup.
+
+Pact of Pain
++15% Condition Duration you apply. +10% Condition Duration on Conditions received.
+
+Risk vs. reward DPS option (less gear stats spent on Condition Duration, more spent on Condition Damage). Conditions aren’t that common in PvE so the risk isn’t actually that bad, plus if there are Conditions being applied it’s usually in an AoE so cleanses would be brought, removing the risk again. Cool design that fits w/ the theme of risk reward that the Corruption tree is going for.
+
+Yearning Empowerment
++10% Damaging Condition Duration you apply.
+
+Similar to the Condition Damage, a boring yet effective Condition DPS increase (less Condition Duration needed, the more Condition Damage can be taken). 
+
+Diabolic Inferno
+Invoke Torment also applies Poison & Burning.
+
+Offensive option. I like that all 3 choices affect Invoke Torment as it makes the choice a lot clearer for what you need; not all choices need to be like this as that does make it a little boring. Offensive option as it’s literally just more damaging Conditions.
+
+Fiendish Tenacity
+Invoke Torment grants Resistance, 5s ICD. Resistance heals you every second.
+
+Defensive option. Can potentially get 100% uptime on Resistance if you have Alacrity + are building Boon Duration, but that falls into some weird hybrid build of support + Condition DPS + tank that might not really fare well since you’re spending your gear stats on a bit of everything. Still, it does help pad your Resistance uptime to help w/ sustain and potentially be tankier if you take the other Resistance Trait.
+
+Permeating Pestilence
+Invoke Torment transfers 3 x Conditions from you to enemies. 10s ICD, ignores Blind & is Unblockable.
+
+Cleansing option. Has some synergy w/ the self-inflicting Torment Trait but there’s still risk involved as that is applied every second and this has a 10s ICD. Since it deals w/ Condition Cleansing + transferring, it makes it a more PvP oriented Trait, especially w/ the Blind ignore & Unblockable parts.
+
 
 Herald Combat
 
