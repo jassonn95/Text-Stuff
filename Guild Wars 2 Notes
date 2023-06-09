@@ -7251,6 +7251,67 @@ Steadfast Rejuvenation
 Heal every second per point of Energy Upkeep currently in use.
 
 Sustain option. Doesn’t really fit w/ the Resolution or Strike Damage reduction theme the tree has going on but does synergise well since the longer you’re alive the more you get out of the heal (since it’s proccing more). Does make you choose between damage (using skills that cost Energy) or healing (leaving the Energy to maximise upkeep time), giving you a choice.
+Salvation - Healing & Support
+
+Healer’s Gift
+In combat, the end of your dodge PBAoE heals.
+
+Little bit of extra healing after a dodge, which may be needed if others didn’t dodge whatever it is you’re dodging. The heal is pretty small but it’s a minor Trait so that’s fine. Used to drop an orb which was incredibly hard to see.
+
+Invoking Harmony
++20% Healing to Others for a duration after swapping Legends.
+
+Healing option. More healing after swapping Legends is nice, especially since you’re doing it on cooldown for the Energy anyway.
+
+Blinding Truths
+PBAoE Blind when using a Healing skill. 3s ICD.
+
+PvP option, Blind is useless in PvE. Pretty useful in PvP though. 3s ICD due to the skills w/ an activation + deactivation, normalising their effects so you’re not bound to using those skills for max value.
+
+Eluding Nullification
+In combat, the end of your dodge PBAoE 1 x Condition Cleanses.
+
+Cleansing option. Take it if you need Cleansing, if not then healing is the default option. It is linked to your dodges though and you can only get 2 out in a short amount of time so it’s not that great against large bursts of Conditions vs. other skills, making it less great in PvE (but still decent in PvP).
+
+Life Attunement
+Gain Healing Power. Gain Concentration based on 7% Healing Power.
+
+More healing & Boon Duration via stats, nothing else to say.
+
+Words of Censure
+Blinding, Immobilizing or CCing enemies PBAoE heals. 0.25s ICD.
+
+Formerly dropped orbs instead of PBAoE heals, so that’s already an improvement. ICD is a bit weird in that AoE attacks can proc multiple times, but there’s an ICD after that. So it only accounts for single target rapid attacks, not AoE vs. single target cases. Take it if you need extra healing.
+
+Resilient Spirit
+In combat, gain Barrier per Boon you have (max 5) every 3s.
+
+Tankiness option. The effect is capped at 5 Boons which is pretty easy to get in group content. Since it’s just pulsing Barrier depending on your Boons, it’s not completely interactive but not just passive either (since you need to maintain the Boons). However, since it only grants you the Barrier, there’s no real need for it in PvE unless you’re doing a specific tanking role, in which case you’re usually far away from the others. If you need solo survivability like in PvP or solo roles, then it could be a good option. Otherwise, there are more party oriented options.
+
+Fortified Blessing
+Grant Protection when cleansing a Condition from an ally. 0.25s ICD.
+
+Extra Protection from Cleansing. Obviously has no effect if there’s nothing to Cleanse though. Not sure why there’s an ICD considering it’s only 2s of Protection. If it’s a PvP issue then keep the ICD there (would say reduce the duration but it’s already at 1s).
+
+Serene Rejuvenation
++20% Healing to Others. Centaur skills apply Boons: Protective Solace (dome): Swiftness | Natural Harmony (heal): Vigor | Purifying Essence (cleanse): Regen | Energy Expulsion (knock back): Resistance.
+
+More healing to others = less healing skills to be used = more time damaging or buffing. Also improves Centaur skills (which you should be using as a healer anyway). The Boons given don’t entirely match their effects (e.g. the heal doesn’t grant Regen) and they don’t last that long anyway, so it’s more of a supplementary Boon rather than a main source, play around it sort of effect.
+
+Generous Abundance
+PBAoE heal when using a Legend skill (Utility). Heal around the Tablet when using a Centaur skill (excluding moving the Tablet skill + Dragon activation skills).
+
+Healing option. Makes Centaur skills even better at healing (and the others too, but it feels like they’re added just so you’re not terribly punished for continually swapping Legends which is what you’re otherwise encouraged to do). Take it if you’re healing, which you probably are if you’re in this tree (sans PvP but I don’t care about that).
+
+Unyielding Devotion
+-15% Strike Damage received for 2s after healing. Lasts for 5s if healing an ally.
+
+Tankiness option. Take it if you need to be tankier, which again usually only applies to PvP or solo roles. Works w/ any form of healing, from the skills to the heals from previous Traits.
+
+Invigorating Dismissal
+Grant 4 Endurance when cleansing a Condition from an ally.
+
+Dodge (hence cleansing) option. More Dodges = more healing & possibly cleansing, synergising w/ the earlier Traits. 4 endurance is pretty abysmal to look at though, even if it is balanced (you need 50 to dodge). Might be better if it was frontloaded so it’s less strong in a full group and a bit better when alone, PvP balance aside.
 
 
 
