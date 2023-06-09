@@ -7381,10 +7381,67 @@ Roiling Mists
 +25% Crit Chance while under Fury (total 50%).
 
 Huge increase in damage since you require far less Precision for the crit chance, allowing you to build more Power for damage or Ferocity for crit damage (or whatever else you want). Pretty basic though as it’s a passive effect on a Boon which are mostly passive buffs (given to you by a support).
+Devastation - Strike Damage & Lifesteal
 
+Expose Defenses
+First attack in combat applies 5 x Vulnerability. Reset when using an Elite skill.
 
+Bit of extra burst Vulnerability to get the ball rolling. Doesn’t last very long & Elites have a decent CD most of the time, so it’s not really meant to be a permanent debuff, which is fine for a minor Trait. Can min max w/ the activate-deactivate Elites though for a bit of skill expression, since each part counts as using an Elite skill.
 
+Aggressive Agility
+Movement skills remove Immobilize.
 
+Movement skills = gap closers. Normally you’re locked from using them while Immobilized (rooted), this allows you to use them & cleanse the Immobilize. Super mobility, great for PvP, less so for PvE.
+
+Unsuspecting Strikes
++20% Strike Damage to enemies above 80% HP.
+
+Damage option. Take it if you want to deal more damage at the beginning of fights. In PvP the HP range seems to hover below this threshold, making it only really useful when initially poking someone vs. in PvE where it’s the first 20% of a fight.
+
+Battle Scarred
+Lifesteal on 5 attacks after using your Healing skill via “Battle Scars” effect.
+
+Sustain option. Scales pretty poorly w/ stats so you’re mostly stuck w/ the base damage & healing for the 5 attacks. Default option if you’re not up against a lot of Immobilize in PvP (which is probably not the case but I don’t PvP).
+
+Destructive Impulses
++5% All Damage dealt. Another +2.5% if wielding an off-hand weapon.
+
+More damage for simply existing. Full effect if not using Hammer, Staff, Shortbow or Greatsword, and even in those cases you have the majority of the effect anyway. Boring but it’s a damage increase so not really complaining here.
+
+Assassin’s Presence
+PBAoE Fury every 10s in combat.
+
+Exactly the same as the Ranger version. Previously gave Ferocity instead, changed to stop bringing classes just for their unique buffs. Homogenisation was the result and it’s a good thing those Traits are gone, but it’s literally the same thing as the Ranger one. Could’ve at least had the Ferocity increase for the Revenant while under Fury or something to keep a bit of that flavour (and range can have a bit of Precision instead).
+
+Notoriety
+Might grants more Power but less Condition Damage (instead of 30 each, it’s 40/20). Gain 2 x Might when using a Legend skill in combat.
+
+Offensive option for power builds, which is fair since this is the power tree. Take it if you want damage and you’re going a power build. Its main effect is passive though so not very interesting. A bit of might for using any “utility” skills which can be useful when ramping up at the beginning of the fight but not that useful in the long run since supports provide the Might.
+
+Thrill of Combat
+Gain Battle Scars every second in combat.
+
+Sustain option. It’s through lifesteal though, meaning the healing is wasted when you’re attacking at full HP. Would be a lot better if there was some way to overheal into a Barrier or something, possibly even through this Trait (not much of an issue in Battle Scarred since you’re using your healing skill = you’re low, less likely to waste the healing).
+
+Targeted Destruction
++0.5% Strike Damage per Vulnerability stack the target has (max 12.5%).
+
+In group content, this is a free +12.5% Strike Damage increase on top of the normal Vulnerability effects. Just more damage multipliers for strike damage, fitting this tree’s main focus. 
+
+Brutality
+Gain Quickness when swapping weapons in combat (9s ICD). While under Quickness, your attacks remove Stability (1s ICD).
+
+PvP option, as it provides Quickness (covered in PvE) and it rips off Stability without wasting your precious CC skills (only relevant in PvP). If you’re up against a lot of Stability then this would be a good option.
+
+Swift Termination
++20% Strike Damage to enemies below 50% HP.
+
+Execute damage. A bit more useful in PvP compared to the above 80% one since there’s a bigger range. Take it if you want more damage. Like the above 80% Trait, it’s more damage but implemented in a somewhat boring way. But it’s damage so who cares?
+
+Dance of Death
+Each stack of Vulnerability applied grants a stack of Battle Scars. Double healing from Battle Scars while under 50% HP.
+
+Sustain option. While this tree only has 1 way of applying 5 x Vulnerability, there are plenty of weapon and Legend skills that also apply Vulnerability. Huge source of Battle Scars, especially compared to Thrill of Combat which pales in comparison and could really use that overhealing effect mentioned there. Sacrifices execute damage & “CC” by extension of Stability removal for sustain. Better in PvP since it’s all lifesteal; it’s the game mode where you constantly want to be damaging & healing simultaneously.
 
 
 Herald Combat
