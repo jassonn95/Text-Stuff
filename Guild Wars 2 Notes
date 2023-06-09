@@ -6840,7 +6840,7 @@ Healing + Barrier option. Stacks just means you need to be in Shroud for 5s, pre
 Dark Sentry
 Apply Rot Wallow Venom to allies (not including you) you grant Barrier to, 1s ICD. +20% Healing to Others. Rot Wallow Venom inflicts Torment on next hit.
 
-Hybrid minor Trait so it works for both DPS & support builds (and hybrid). Extra Healing to Others means bigger Barriers on them, which works w/ the Barriers you’re granting for the Venom. Only issue is the 1s ICD, which only makes you space out your Barrier skills by a second which is a bit annoying w/ only counting in your head to keep track. The Torment only lasts a second and if the damage is an issue in PvP, lower the duration.
+Hybrid minor Trait so it works for both DPS & support builds (and hybrid). Extra Healing to Others means bigger Barriers on them, which works w/ the Barriers you’re granting for the Venom. Only issue is the 1s ICD, which only makes you space out your Barrier skills by a second which is a bit annoying w/ only counting in your head to keep track. The Venom does stack on itself though, saving from more weaving. The Torment only lasts a second and if the damage is an issue in PvP, lower the duration.
 
 Larcenous Torment
 +10% Torment damage. Gain 0.5% Shadow Force when Tormenting enemies outside of Shroud.
@@ -7063,6 +7063,36 @@ Surge of the Mists
 Frontal charge that damages & Knocks Back per hit. Evade during the charge.
 
 The sole reason to take Staff, as the CC is huge if you get all hits off. Yes, it is hitbox reliant. Yes, you can charge off of arenas. Would be a lot better if the effects were normalised so you don’t get a mega CC just from 1 skill, though it would require rebalancing the whole thing as it’s quite literally the only reason to take this weapon (apart from super niche healing builds w/ its dumb orbs).
+
+Sword
+Short ranged & versatile (offensive, defensive, mobility). Main hand & off-hand.
+
+Preparation Thrust -> Brutal Blade -> Rift Slash
+Frontal cleave, damage & Vulnerability.
+Frontal cleave, more damage & 2 x Vulnerability.
+Frontal cleave, most damage & creates an additional explosion per target hit.
+
+Typical melee DPS cleave. Explosions technically make it so the highest single target DPS is having 3 enemies squished together being cleaved since there’s a small explosion radius, but the damage isn’t that high compared to the autos so it’s not that big of a deal.
+
+Chilling Isolation
+PBAoE damage & Chill + Combo Whirl. Second hit deals damage, more if it only hits 1 enemy.
+
+Essentially just a damaging skill; Chill and Combo Whirls aren’t that useful in PvE. Damage varies from decent AoE or huge amounts of single target depending on how many you hit. Only time that it’s annoying is if there’s 2 targets that completely flatline the 2nd portion of the damage. Would feel better if it could scale down linearly rather than a drop off from 1 to 2. Other than that, it’s damage so use on CD.
+
+Unrelenting Assault
+Blink to target & attack nearby enemies, gaining Might per enemy hit. Evade during the entire time.
+
+Power budget is split between damage, self Might, Blink & Evade. As such, it’s pretty weak in terms of damage and more often than not you won’t need the Might, Blink or Evade in PvE. There are some decent plays you can make w/ the Evade to dodge mechanics sometimes but you need to keep in mind the cast time + ping.
+
+Shackling Wave
+Long frontal cleave that damages multiple times & 8 x Vulnerability. Also Immobilizes, increased duration per enemy hit.
+
+AoE damage w/ some soft CC & Vulnerability. The Conditions aren’t needed in PvE, so it’s strictly just for the damage, and since it out damages the auto attack, use it on CD.
+
+Deathstrike
+Blink to target enemy, gain Fury and damage them. Deal a 2nd more powerful attack if the 1st hits.
+
+Gap closer & damage. Cooldown is pretty long and the damage is pretty high, so there’s a cost in saving it as a gap closer when you generally don’t need them in PvE. The range is mid-ranged as well so you’re better off just using it on CD as damage, making 3 of the 4 skills use on CD damage skills.
 
 
 Herald Combat
