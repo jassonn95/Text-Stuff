@@ -7445,7 +7445,7 @@ Each stack of Vulnerability applied grants a stack of Battle Scars. Double heali
 Sustain option. While this tree only has 1 way of applying 5 x Vulnerability, there are plenty of weapon and Legend skills that also apply Vulnerability. Huge source of Battle Scars, especially compared to Thrill of Combat which pales in comparison and could really use that overhealing effect mentioned there. Sacrifices execute damage & “CC” by extension of Stability removal for sustain. Better in PvP since it’s all lifesteal; it’s the game mode where you constantly want to be damaging & healing simultaneously.
 
 Herald Combat
-Trades Ancient Echo (on demand Energy & utility) for Facet of Nature for pulsing support effects depending on the current Legend. This does make Energy management a bit more annoying.
+Trades Ancient Echo (on demand Energy & utility) for Facet of Nature for pulsing support effects depending on the current Legend for -2 Energy Upkeep. This does make Energy management much more annoying.
 Gains access to the Dragon Legend skills, which focuses on either providing Boons to allies.
 Dragon Legend skills are unique in that they’re all Energy Upkeep skills, except deactivating (Consume) them has an additional effect.
 Dragon skills being 2 button presses introduces an extra chance of messing up, especially on higher ping. Often found myself missing a Consume for whatever reason.
@@ -7454,6 +7454,38 @@ Gameplay for DPS is fine okay. You basically just use the damaging Consume skill
 Gameplay for support sucks since Quickness is granted when using Consume skills, which means you’re always using the skills on CD. It also continues pulsing their Boons for a couple of seconds, meaning there’s less of an opportunity cost in doing so.
 Gains access to the Herald traitline. This uses up 1 traitline and is unique from other Elite specialisations (they all use the 3rd tree slot).
 Herald Abilities
+Facet of Nature
+
+Assassin
+PBAoE lifesteal w/ a 0.5s ICD. 
+Consume for PBAoE damage & 2 x Boon removal, both of which are Unblockable.
+
+Lifesteal & damage fits the Assassin’s theme, like the Devastation tree. Boon Removal sort of fits, even if it’s just on the 1 Assassin skill. MAYBE the 1 Trait but that’s Stability only. Makes sense for it to be the active rather than the passive, due to obvious balancing issues & Boon Removal being a more of an on-demand thing rather than a weak pulse (at least in PvP, not that useful in PvE).
+
+Centaur
+PBAoE healing every 3s. 
+Consume for PBAoE 2 x Condition Cleanse, healing per Condition cleansed.
+
+Healing & Cleansing for the Healing & Cleansing Legend. Healing being the passive fits; you don’t always want healing or Cleansing,  but you want healing more often.
+
+Demon
+PBAoE Condition transfer from allies to self. 
+Consume for PBAoE Condition transfer from self to enemies. Gain 5 x Might per Condition transferred.
+
+Matches the mechanics & theme of the Demon tree + skills w/ the Condition transfers. Makes sense that the transfer to enemies is on the active since that’s the order of how you want it (take ally Conditions -> push them to enemies).
+
+Dwarf
+PBAoE -10% Damage taken. 
+Consume for PBAoE 2 x Stability.
+
+Tankiness & Stability, both of which the Dwarf tree & skills have so it fits. Stability is much more important as an on demand thing, so it makes sense it’s the Consume effect and not the other way around.
+
+Dragon
+PBAoE +20% Boon Duration from any source. Can bypass the regular 100% cap.
+Consume to increase the duration of all Boons on nearby allies by 2s.
+
+Fits the general support theme of Dragon stance. Pretty strong that it can bypass the 100% Boon Duration cap, but that’s mostly due to the fact that it’s not always up to warrant such restrictions (since you want to use the Consume for the Quickness from Traits, which is what the support build should be doing). Passive & active are in their correct spots obviously, can’t really make a passive pulse of +2s on all Boons be balanced.
+
 
 Renegade Combat
 
