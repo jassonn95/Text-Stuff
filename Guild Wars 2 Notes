@@ -6705,6 +6705,7 @@ Swaps Steal for Siphon which can be used on enemies or allies. This removes Stol
 Gains Shadow Shroud, using Shadow Force to gain access to new weapon skills which are Condition based and support your tethered ally. Additionally acts like Necro’s Shroud, replacing your HP w/ Shadow Force.
 Weapon is Scepter for ranged Conditions & support.
 Utility skills are Wells but w/ a Thief twist. You blink to the target location before dropping a Well, interacting w/ Blink Traits and the general mobility of Thieves.
+Gains access to the Specter traitline. This uses up 1 traitline and is unique from other Elite specialisations (they all use the 3rd tree slot).
 Traits are based around Conditions, support & Shadow Shroud.
 Specter Abilities
 Shadow Shroud
@@ -7443,9 +7444,15 @@ Each stack of Vulnerability applied grants a stack of Battle Scars. Double heali
 
 Sustain option. While this tree only has 1 way of applying 5 x Vulnerability, there are plenty of weapon and Legend skills that also apply Vulnerability. Huge source of Battle Scars, especially compared to Thrill of Combat which pales in comparison and could really use that overhealing effect mentioned there. Sacrifices execute damage & “CC” by extension of Stability removal for sustain. Better in PvP since it’s all lifesteal; it’s the game mode where you constantly want to be damaging & healing simultaneously.
 
-
 Herald Combat
-
+Trades Ancient Echo (on demand Energy & utility) for Facet of Nature for pulsing support effects depending on the current Legend. This does make Energy management a bit more annoying.
+Gains access to the Dragon Legend skills, which focuses on either providing Boons to allies.
+Dragon Legend skills are unique in that they’re all Energy Upkeep skills, except deactivating (Consume) them has an additional effect.
+Dragon skills being 2 button presses introduces an extra chance of messing up, especially on higher ping. Often found myself missing a Consume for whatever reason.
+Gains access to Shield which focuses on survivability, so it’s rarely used in PvE.
+Gameplay for DPS is fine okay. You basically just use the damaging Consume skills on CD and continue w/ your DPS rotation, similar to base Revenant.
+Gameplay for support sucks since Quickness is granted when using Consume skills, which means you’re always using the skills on CD. It also continues pulsing their Boons for a couple of seconds, meaning there’s less of an opportunity cost in doing so.
+Gains access to the Herald traitline. This uses up 1 traitline and is unique from other Elite specialisations (they all use the 3rd tree slot).
 Herald Abilities
 
 Renegade Combat
