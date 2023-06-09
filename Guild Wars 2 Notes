@@ -7190,6 +7190,71 @@ Permeating Pestilence
 Invoke Torment transfers 3 x Conditions from you to enemies. 10s ICD, ignores Blind & is Unblockable.
 
 Cleansing option. Has some synergy w/ the self-inflicting Torment Trait but there’s still risk involved as that is applied every second and this has a 10s ICD. Since it deals w/ Condition Cleansing + transferring, it makes it a more PvP oriented Trait, especially w/ the Blind ignore & Unblockable parts.
+Retribution - Tankiness & Resolution
+
+Enduring Recovery
++25% Endurance recovery.
+
+More Endurance = more dodging = more active mitigation, much more involved than a flat damage reduction, allowing for more skill expression.
+
+Planar Protection
+Cast Dome of the Mists when using a Healing skill. Dome of the Mists: Dark Combo field that blocks projectiles & Weakens enemies. 20s ICD.
+
+On demand projectile blocking. It’s linked to the heal skill which is generally fine as most of the time, if you need healing you probably want the projectile blocking. May require you to preemptively use it to block, wasting the heal though depending on which one you have (or if you have the Centaur one, it will proc when you move the Tablet), so there’s a decision to be made there.
+
+Close Quarters
+-10% Strike Damage received from enemies beyond low-mid range.
+
+Tanky option, except it only works on ranged enemies. Good for PvP but less so in PvE where most enemies are melee or you want to be in melee so this Trait would have no effect in those situations.
+
+Spiritual Resolution
+Gain Resolution when using an Elite skill. 10s ICD.
+
+Resolution uptime option. Protects against damaging Conditions but also has synergies w/ other Traits further down, including extra tankiness + damage. ICD is there because some Elite skills have activate + deactivate components, both of which count as “using” an Elite skill. So there’s some interesting min max opportunities there (i.e. keep the skill active for 10s then reactivate / deactivate).
+
+Unwavering Avoidance
+Gain Vigor when successfully Evading an attack.
+
+Rewards Vigor for more dodging after successfully Evading an attack. Note that it’s from Evades, so it can be procced off of weapon skill Evades (Sword) for a bit more flexibility. 
+
+Eye for an Eye
+Gain Protection when CC’d, 35s ICD. Gain 5 x Might when breaking out of a stun.
+
+Tankiness option. Automatically activates so its effect is accordingly weaker than something active. Protection will help against strike damage but not so much against Conditions. Extra bit of Might is fine but it only works when breaking out of a stun, not letting it expire. All of these effects are useful in PvP rather than PvE (hardly get CC’d, less likely to be using stun breaks, Boons are already applied via supports).
+
+Resolute Evasion
+Gain Resolution after dodging.
+
+Dodging option. Doesn’t require an attack to be dodged so you can just use it twice in a row for an extra 4s of Resolution, which is definitely not the way to go as you just wasted 2 dodges for pretty much nothing. If you really need Resolution, there are better options. Design wise it’s fine though, as dodging (active mitigation) resulting in a defensive buff makes sense.
+
+Dwarven Battle Training
++10% Strike Damage against Weakened enemies. Disabling enemies Weakens them.
+
+Damage option. Weakness as the debuff makes sense as it sometimes reduces the damage dealt by the enemy, fitting w/ the tankiness theme. Proccing Weakness is pretty rare though as CC skills are somewhat uncommon understandably and doesn’t even work against bosses since they’re CC immune most of the time. Still, it’s the only offensive option here.
+
+Determined Resolution
+-10% Strike Damage received when affected by Resolution.
+
+Extra tankiness for having Resolution. Makes Resolution reduce both Condition Damage & Strike damage, sort of mixing up the identity of the tree though. This made a bit more sense before Retribution (thorns) was turned into Resolution.
+
+Vicious Reprisal
+While affected by Resolution, +10% All Damage dealt & gain Might when hitting enemies (1s ICD). +50% Resolution Duration on self.
+
+Damage option. Improves Resolution again to increase your damage (and give yourself Might but not that useful in PvE, ICD to normalise the attacks). Also makes Resolution last longer on you, making it less annoying to maintain on yourself. Makes you overall tankier and stronger, though not in a really exciting way.
+
+Versed in Stone
+Rite of the Great Dwarf additionally reduces Condition Damage. When hit below 50% HP, cast Rite of the Great Dwarf (45s ICD). Gain Power based on 13% Toughness.
+
+Tankiness option. Automatically casts it when you’re in danger which is fine as an emergency effect. Makes you want to use Dwarf stance to maximise the value you get out of this Trait (by giving you access to the improved active version). Also makes you stronger passively through the stat conversion, which Toughness makes you stronger against Strike Damage (fits the theme).
+
+Steadfast Rejuvenation
+Heal every second per point of Energy Upkeep currently in use.
+
+Sustain option. Doesn’t really fit w/ the Resolution or Strike Damage reduction theme the tree has going on but does synergise well since the longer you’re alive the more you get out of the heal (since it’s proccing more). Does make you choose between damage (using skills that cost Energy) or healing (leaving the Energy to maximise upkeep time), giving you a choice.
+
+
+
+
 
 
 Herald Combat
