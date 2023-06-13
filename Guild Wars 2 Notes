@@ -7532,6 +7532,69 @@ Channel to block attacks & regen HP. Moving will cancel the channel.
 
 Purely used for your own survival, making it only really useful in PvP or solo roles. It’s very annoying since any sort of movement will cancel it, which happens quite often if you’re not used to using it since the majority of the combat doesn’t have this sort of movement cancelling properties. If it was made so you can still move but very slowly, it would feel a lot better than cancelling it 24/7. Other than that, it’s just blocking and some healing, nothing out of the ordinary for a Shield skill.
 
+Traits
+
+Crystal Harbinger
+Gain access to Dragon Stance & swap Ancient Echo for Facet of Nature.
+
+As always, including it because it’s the 1st Trait.
+
+Elder’s Respite
+Regen heals for 20% more (including ones you grant to allies). Gain Regen when hit below 50% HP; 10s ICD.
+
+Healing option. The only Regen Revenants grant comes from the pulsing Dragon heal skill, so its effectiveness is actually quite limited. Still, it is the only healing option out of the 3 so if you’re playing healer / need healing then it’s the only choice. Effect itself is just more passive healing, both in the increase and the fact that it comes from a passive pulsing aura + automatically activating when hit so it’s kind of boring. 
+
+Core Value
+Improve the effects of True Nature.
+Assassin: remove an additional Boon | Centaur: remove an additional Condition | Demon: transfer an additional Condition from self to enemies | Dwarf: grant an additional stack of Stability | Dragon: increases duration of Boons on allies by an additional second.
+
+Utility option. Makes True Nature slightly better, so if your build revolves around the effects of the skill then it’s an option. In PvE, the most useful and easily felt effect is the Dragon Boon duration increase, since it not only allows you to build less Boon Duration (and hence more damage), it even increases the duration of Boons that were applied by other people, which is invaluable. The other effects are handy but require you to time it or be in that stance, the Dragon one you just use on CD once the Boons have been applied in the opener. Doesn’t fundamentally change anything about the skills you’re already using, so it’s kind of boring but in the end may result in more damage for support builds which is always nice.
+
+Rising Momentum
++5% Movement Speed per point of Energy Upkeep currently in use.
+
+If you don’t need the healing or the utility, then this is the only option left (i.e. pure DPS builds). Somewhat handy as the vast majority of Revenant skills are melee, so melee uptime is technically a DPS increase in some cases. Note that this uniquely stacks w/ other movement speed increases so it’s not just overwritten by Swiftness (it’s technically “overwritten” by Superspeed, but only because there’s a cap on speed and Superspeed automatically reaches it). Pretty fun to move around quickly, especially when taken w/ Impossible Odds since that also increases your movement speed and activates this Trait, so you’re zooming. But it does feel somewhat bad to not have a dedicated DPS Trait like other classes.
+
+Draconic Fortitude
++10% Max HP.
+
+It’s extra HP, that’s it. Really solidifies the spec as being tankier w/ its crystal shield theme. Useful and somewhat helpful for staying alive which is generally required to deal damage / heal, even if it’s done so in a boring way.
+
+Shared Empowerment
+Granting a Boon to allies (including yourself) also grants PBAoE Might. 1s ICD.
+
+Extra Might generation, w/ an ICD so it presumably doesn’t work on itself or be too powerful when activating the Dragon stances 1 by 1. ICD could be a bit lower though, at least in PvE; no reason why you can’t just have a bunch of Might slightly quicker. Not that useful when in group content as a non-support though, but there’s not really much choice in this group of Traits.
+
+Shining Aspects
+Using a Consume skill heals you.
+
+Since it only heals you, it’s purely for PvP / solo roles. As such, not that useful in PvE unless you’re doing a specific solo kiting role where you’re too separated from everyone else to make use of the party utility Trait.
+
+Hardening Persistence
+-1.5% Strike Damage taken per Energy Upkeep currently in use. Shield skills cleanse a Condition.
+
+Another solo Trait, this time for tankiness rather than sustain. Could be useful if you need the DR, but since most Upkeep skills will only grant you 9% DR w/ 6 Energy Upkeep, it’s not really impressive. Shield skills also cleanse a single Condition, which requires you using a Shield but that’s generally fine since if you’re using a Shield, it will be for defensive purposes. The block also pulses so it’s actually 4 x Cleanses which isn’t bad, but only really useful in PvP.
+
+Reinforced Potency
+Gain Concentration. +1.5% Strike Damage per Boon on you.
+
+Support DPS Trait as it grants you the 2 things you want; Boon Duration (which in turn means more damage since less gear stat spent on Boon Duration) & damage. It does so in a pretty passive way though so somewhat boring but that’s fine for a minor Trait.
+
+Elevated Compassion
+Heal allies (NOT including yourself) whenever you grant them Boons. 3s ICD per target.
+
+Healing option. Can only really see this being useful in PvP where Quickness is less required due to the susceptibility of Boons and the lower uptime to make use of the haste. Healing is pretty easy to come by in PvE through other Traits / skills (everyone has their own healing skill) so it makes this a lot less valuable, especially w/ a 3s ICD.
+
+Draconic Echo
+Facet passives (Dragon Utility skills) retain for 6s after using their Consume skills. Consume skills grant PBAoE Quickness.
+
+The only reason why support Herald works. Adds a lengthy 6s window after you use a Consume skill where you’re still pulsing the Boons & grants Quickness. Previously only had the 6s retain, which is supportive but nowhere near enough to keep up w/ certain other supports (cough Chronomancer). That said, it does encourage a very boring playstyle for support Herald w/ just spamming all the Dragon skills for the Quickness without a second thought of their normal effects. Yes there’s a bit of risk in using your heal / stun break / CC skill for the Quickness and not have them for their respective uses, but all that is generally mitigated in group content via other players, meaning you’re just pressing 6 buttons twice (since you want the True Nature Dragon effect) and then swapping to the other Legend, making the Dragon Legend rotation really boring. Quickness was quite literally tacked on out of necessity, really feeling like it should be either basekit or something more akin to Bloodlust / Heroism from WoW.
+
+Forceful Persistence
++15% Strike Damage w/ an active Energy Upkeep skill. +5% Strike Damage per Dragon Energy Upkeel skill.
+
+Selfish DPS option; more damage for having an Energy Upkeep skill on. This is normally the case for Assassin stance as that one is extra damage. A little bit more complicated for Dragon stance as 2 of the skills you want to use immediately for their effects. Somewhat changes your rotation to have some of the Upkeep skills up, use your weapon skills and then Consume them for their active damage which is nice for a Trait to change how you play, makes it feel more impactful. Haven’t tried them w/ the other Legends but the only one that would really fit would be Dwarf; Demon is Condition Damage based so unaffected by the Strike Damage boost and Centaur is healing so also obviously not affected.
+
 
 Renegade
 
