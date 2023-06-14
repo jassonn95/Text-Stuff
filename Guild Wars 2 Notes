@@ -7616,7 +7616,7 @@ Overall, much better than the previous spec even though I don’t really remembe
 Warrior
 Warrior 
 The usual heavy armour man-at-arms class. Pretty cool but since there’s no magic and they’re just generic weapon using armour guys, I wasn't too keen on the class in general.
-Class revolves around building Adrenaline through hitting in combat and then spending it for weapon specific Burst skills based on the main-hand, which fits the weapon theme.
+Class revolves around building Adrenaline through hitting in combat and then spending it for weapon specific Burst skills based on the main-hand, which fits the weapon theme. It consumes all Adrenaline; the more consumed the more damage (3 tiers).
 That said, there are no support based main-hand weapons, so they’re all damage (power / Condition) or CC based. No magic or support makes me even less likely to enjoy the class.
 Currently, all support builds are support DPS (no healing) and they’re all possible because of a singular Trait which upgrades their Banners (essentially large AoEs pulsing Boons) to include Quickness.
 That is being changed to be spec specific, as its current iteration will prevent any specs from having Alacrity since you’ll be able to have both, as mentioned in the Ranger sections above (who are also getting this change).
@@ -7638,7 +7638,14 @@ Signets: they’re signets. I don’t think these should be integral for any bui
 Stance: they’re just personal buffs, none of them warrant being taken in group content.
 In conclusion, support Warrior is very lacking and since they have 0 forms of magic, I wasn’t interested in any way. Quickness being on Banners is pretty limiting, and thankfully they’re being moved off of them to allow more build variations. That said, just get rid of Quickness & Alacrity at this point and make them baseline or on a specific CD or something, they’re causing so many balancing issues in their current form.
 Berserker
-
+Berserker’s aesthetic is, well, a Berserker. It’s pretty much the same as Warrior aesthetically but w/ more reckless abandon.
+Rather than consuming all Adrenaline for a singular Burst attack, Berserkers enter Berserk mode and gain access to Primal Burst skills which can be used multiple times in a short period of time since they cost less and don’t eat up all Adrenaline. This adds a more concentrated window of power which feels pretty good.
+Each Primal Burst skill improves upon their Burst counterparts: Greatsword does more power damage, Longbow leaves a Fire Combo field, etc.
+Gains access to Torch, giving it a better off-hand Condition Weapon (Sword kind of sucked in terms of Condition damage). Makes sense in terms of builds but it looks kind of goofy for this crazy Berserker coming at you w/ a Torch.
+Gains access to Rage skills, which all revolve around Adrenaline & Berserk mode. It’s nice since they become a part of your rotation rather than just dumping them for AoE damage or a personal damage boost (which you use during your burst phases).
+Traits revolve around Berserker mode, Rage skills & damage (Power or Condition).
+When I played, it was when Warriors still had their unique stat buff Banners and the best build for that was Condition support-ish Berserker (basically the same as Condition DPS Berserker but taking 2 Banners). Gameplay was fine while ignoring the Banners, it was mostly just getting into Berserk and applying as much Burning + Bleeding as possible. Longbow + Sword skills felt a little slow though (this was when I didn’t care as much about not having Quickness) so it felt a little bad to the combat I’m used to now. Overall it was just fine, nothing I super enjoyed compared to other classes or even other specs.
+Haven’t played Warrior much since but there have been changes to allow a Power Berserker build which uses a Greatsword which is great. The only issue I can see is the sheer amount of animation cancels involved w/ the Greatsword Primal Burst skill via weapon stowing (Z) or weapon swapping. Those sorts of features are fine for fighting games or something that’s used in short trades / limited fashion, it just gets annoying and bothersome in something extended as a full on DPS rotation. Other than that the build just seems to be more of the same as Warrior mechanically & aesthetically, so not that interested aesthetically. Though it is better than base Warrior since Berserker mode feels more powerful than spending Adrenaline when it’s capped like you do on Warrior.
 Spellbreaker
 
 Bladesworn
