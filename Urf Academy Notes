@@ -54,3 +54,33 @@ Satisfaction: goal is fun?
 
 Good goals create gameplay & are clear & intuitive, while bad goals create undesirable behaviour.
 Frameworks: is the complexity of this design worth the depth? Is the increase in fun for one type of player worth the reduction in fun for another type of player?
+Meaningful Decisions & Opposition
+Five Whys: discovering the root cause of a problem is important to ensure that the actual problem is being treated, not the symptoms of a problem. 
+Start with a first order problem and seek to incrementally discover the root cause.
+Use the answer of each “why?” question as an input to the next question.
+Fail Faster: choose an idea, begin to iterate & fail faster. No perfect starting idea; any idea is better than nothing. Failure is part of the lesson and to take setbacks in stride.
+Balanced: you can’t tell who’s winning until the very end.
+Playtest > Analyse (Five Whys) > Iteration.
+
+Flow: being in the zone, fully immersed in the experience.
+Start of a section (core game loop) begins in the lower part of the flowband to prevent players from being overwhelmed by difficulty.
+Increase difficulty until the section's climax (boss fight) after which the player is allowed to relax & enjoy the new skills they learned. Downtime is important to prevent player exhaustion.
+Climaxes provide moments of tension & triumph throughout the experience.
+As the player starts to get bored in this downswing of difficulty, the process will typically start afresh with a new challenge before they become bored again (player’s skill is constantly improving).
+Ebbs & flows in intensity are pivotal to prevent the player from becoming bored or exhausted.
+
+Boredom: skill exceeds difficulty for too long, too much downtime or repetition of content without meaningful difference between the experiences.
+Anxiety: difficulty exceeds skill for too long, too much complexity, no downtime, time pressure, too many choices + natural exhaustion (burnout, especially if constantly on anxiety border for too long).
+Well designed game will ensure that either the player’s opposition improves when the player improves (PvP) or the game's inherent difficulty increases in tandem with the player’s increase in mastery (PvE).
+
+Oscillating within the flow band allows players to become re-engaged or relaxed, vs. linear increase which could result in anxiety or boredom. Important for maintaining engagement.
+Low gameplay depth & low variance between playthroughs also results in boredom.
+
+Core game loop: complete level, complete level, complete level, defeat boss. Allows you to deliberately space out & structure subgoals & goals, difficulty & pacing choices (contributing to flow). Loop can be examined on a moment to moment, game to game, session to session or month to month basis.
+Core game loop to build positive expectations: defeating a boss = receiving a reward, high satisfaction. Randomly finding an epic level loot by walking past it is anticlimactic.
+Audit game difficulty, pacing choices, whether subgoals and goals are spaced correctly, whether time to accomplish each (sub)goal is appropriate, whether each (sub)goal is delivering on a satisfying player experience.
+Having a consistent structure that repeats (w/ different content), players can have better expectations for what the game experience is going to deliver, which can aid a player’s feeling of improvement & satisfaction (i.e. expecting a boss at the end of an act, clear moments of completion & success but not if there is no boss / if the boss is very easy).
+Anticipation of a positive experience can allow the designer to deliver the ultimate “high moment”.
+They should be delivered decisively so there is no confusion from the player about what happened.
+I.e. defeating the boss, the player must be sure if they’re actually defeated via level up or gear drop + audio & visual cues (barring phases, story, etc).
+A well designed core game loop ultimately comes down to the audience the game experience is trying to serve (see module 1).
