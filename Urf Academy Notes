@@ -103,3 +103,22 @@ Think about motivations of the characters & the overall narrative. If it’s a P
 
 Restrictions breed creativity. 
 If you want to get your brain to get to new places (creativity), start from somewhere you’ve never started before. New vantage point = forcing to think in different ways, creating new problems to solve = new ideas & new solutions; restrictions not an obstacle but a tool.
+Interaction
+Gameplay between players, rules & each other.
+Tools that designers use to create meaningful decisions (depth) & rich gameplay.
+Deep gameplay sustains player interest over long time periods & allows players to gain mastery.
+Players > rules, designers > mechanics. Things that the player can and cannot do (weapon’s mechanics, boss’ abilities).
+
+Mechanics are the rules that allow players to take (not not take) actions / make decisions.
+Different rulesets = different results. Bad ones are where you’re eliminated before doing anything (objective completed by others or you get knocked out).
+Mechanics to keep an eye on: “solved” decision trees = repetitive gameplay. Time between turns being very high. Non-PvP for some players. Clear who was going to win only halfway through the game (low comeback chances).
+
+Depth: decisions resulting in meaningfully different outcomes. If choices are strictly superior to others, there is no depth = deterministic outcomes in gameplay. 
+Depth can be expanded upon via different weapons, different skills, different enemies, etc.
+Complexity =/= depth. Complexity = amount of info a player needs to know; rules to be processed. E.g. UI influences complexity. Cluttered / unintuitive = more data to be processed / memorised = more complex.
+Breadth: number of decisions a player can make at a given time. Too many = analysis paralysis. 2-5 is generally a good amount.
+Elegance: depth:complexity ratio. High depth + low complexity = more elegance. Hide complexity until it is immediately relevant (designing so you only need to know a smaller subset of info to start the game). Best gameplay while still learnable.
+
+Depth not always needed, e.g. in “submission” / “sensation” types of fun, less needed than “challenge” type.
+
+
