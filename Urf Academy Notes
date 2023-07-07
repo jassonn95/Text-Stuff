@@ -84,3 +84,22 @@ Anticipation of a positive experience can allow the designer to deliver the ulti
 They should be delivered decisively so there is no confusion from the player about what happened.
 I.e. defeating the boss, the player must be sure if they’re actually defeated via level up or gear drop + audio & visual cues (barring phases, story, etc).
 A well designed core game loop ultimately comes down to the audience the game experience is trying to serve (see module 1).
+Rules, Thematics & Complexity
+Thematic: unifying idea that is present throughout a game’s mechanics, narrative, audio + visual effects + general aesthetic. Consistency = resonance & immersion. E.g. high fantasy, futuristic, etc.
+Resonance: matching & consistent thematic.
+Dissonance: non-matching thematic, e.g. happy (not creepy / distorted) music in horror games.
+Complexity: amount of info a player needs to know before making a decision. Complexity =/= difficulty. It’s a cost as it influences how accessible a game is, the amount of time it takes before players start to have fun + time for players to meaningfully understand gameplay implications.
+Reduce complexity by taking advantage of known behaviour of a common object or idea (piggybacking), e.g. fire spreads. Can expand on that thematic without large increase in complexity.
+Narrative: ties gameplay & theme together. Explains motivation for characters in game or for overall setting. Two experiences can share narrative, but chosen thematic alters the feeling of the experience & tone (Finding Nemo vs. Taken).
+
+Human brains come pre-loaded w/ pre-existing emotional responses that you can build upon as a designer (fear vs. zombies, etc).
+Keep in mind of resonance vs. dissonance when building upon existing things (dragon > fire breath. Can throw a rock but it’s not as resonant + kind of lame).
+
+Piggybacking: choosing a theme can explain otherwise nonsensical behaviour. 
+E.g. base design of a thing that can shoot lasers. “Library” theme won’t be able to replace the laser with anything. “Dragons” can easily replace it with a fireball. 
+E.g. Tower defence game. Why can’t the units move over when needed? Theme of “plants” in PvZ explains it; since they’re rooted.
+
+Think about motivations of the characters & the overall narrative. If it’s a PvP game, choose something where it makes sense you’re fighting, otherwise it’s weird if it’s 2 villages of pacifists trying to kill each other for example (Cats vs. Dogs makes more sense).
+
+Restrictions breed creativity. 
+If you want to get your brain to get to new places (creativity), start from somewhere you’ve never started before. New vantage point = forcing to think in different ways, creating new problems to solve = new ideas & new solutions; restrictions not an obstacle but a tool.
